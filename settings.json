@@ -1,0 +1,7 @@
+{
+    "theme": "dark",
+    "env": {
+      "ANTHROPIC_BASE_URL": "http://10.0.3.248:3000/api",
+      "ANTHROPIC_AUTH_TOKEN": "cr_fc128b53ea588e39e7d48b7f875f86974a6f9d36b71de07f82598271b53707a7"
+    }
+  }

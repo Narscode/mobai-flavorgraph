@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generation_time": "2026-06-24T12:40:08.919166",
-    "total_posts_filtered": 99,
-    "total_comments_filtered": 141
+    "generation_time": "2026-06-24T12:42:04.653920",
+    "total_posts_filtered": 119,
+    "total_comments_filtered": 158
   },
   "matched_posts": [
     {
@@ -51,8 +51,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -130,9 +130,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
+          "即饮",
           "饮品",
-          "即饮"
+          "饮料"
         ],
         "flavor": [
           "椰子"
@@ -162,8 +162,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [],
         "sensory": [
@@ -217,12 +217,12 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
-          "生椰",
-          "茉莉"
+          "茉莉",
+          "生椰"
         ],
         "sensory": [
           "涩"
@@ -249,8 +249,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -276,8 +276,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "饮品",
+          "饮料",
           "瓶装"
         ],
         "flavor": [],
@@ -330,12 +330,12 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
-          "奶茶",
-          "菊花"
+          "菊花",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -360,8 +360,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -390,8 +390,8 @@
           "饮料"
         ],
         "flavor": [
-          "奶茶",
-          "茉莉"
+          "茉莉",
+          "奶茶"
         ],
         "sensory": [
           "涩"
@@ -444,8 +444,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -471,8 +471,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -579,8 +579,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
           "饮品",
+          "蛋白",
           "乳清蛋白"
         ],
         "flavor": [],
@@ -766,9 +766,9 @@
       },
       "matched_keywords": {
         "product": [
+          "即饮",
           "蛋白",
-          "乳清蛋白",
-          "即饮"
+          "乳清蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -794,9 +794,9 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
+          "即饮",
           "饮品",
-          "即饮"
+          "蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -824,8 +824,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
           "饮料",
+          "蛋白",
           "乳清蛋白"
         ],
         "flavor": [
@@ -884,8 +884,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "药",
-          "奇怪"
+          "奇怪",
+          "药"
         ]
       }
     },
@@ -989,9 +989,9 @@
       },
       "matched_keywords": {
         "product": [
+          "胶原蛋白",
           "蛋白",
-          "乳清蛋白",
-          "胶原蛋白"
+          "乳清蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -1019,8 +1019,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "饮料"
+          "饮料",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -1046,9 +1046,9 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
           "饮品",
-          "瓶装"
+          "瓶装",
+          "蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -1105,9 +1105,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "茉莉",
           "芒果",
-          "茉莉"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1133,8 +1133,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1211,13 +1211,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
-          "芒果茉莉",
+          "茉莉",
           "芒果",
-          "茉莉"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1243,8 +1243,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1272,9 +1272,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "茉莉",
           "芒果",
-          "茉莉"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1302,9 +1302,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "茉莉",
           "芒果",
-          "茉莉"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1361,9 +1361,9 @@
           "饮品"
         ],
         "flavor": [
+          "茉莉",
           "奶茶",
-          "芒果",
-          "茉莉"
+          "芒果"
         ],
         "sensory": []
       }
@@ -1388,13 +1388,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
-          "芒果茉莉",
+          "茉莉",
           "芒果",
-          "茉莉"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1535,9 +1535,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "茉莉",
           "芒果",
-          "茉莉"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1565,10 +1565,10 @@
           "饮品"
         ],
         "flavor": [
+          "茉莉",
           "椰乳",
-          "奶茶",
           "芒果",
-          "茉莉"
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1623,9 +1623,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "茉莉",
           "芒果",
-          "茉莉"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1651,8 +1651,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1678,8 +1678,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰",
-          "奶茶"
+          "奶茶",
+          "生椰"
         ],
         "sensory": []
       }
@@ -1731,9 +1731,9 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰",
+          "生椰奶茶",
           "奶茶",
-          "生椰奶茶"
+          "生椰"
         ],
         "sensory": []
       }
@@ -1761,11 +1761,11 @@
           "饮品"
         ],
         "flavor": [
+          "椰乳",
           "芒果",
-          "茉莉",
           "生椰",
-          "奶茶",
-          "椰乳"
+          "茉莉",
+          "奶茶"
         ],
         "sensory": [
           "苦"
@@ -1793,9 +1793,9 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰",
+          "生椰奶茶",
           "奶茶",
-          "生椰奶茶"
+          "生椰"
         ],
         "sensory": []
       }
@@ -1821,10 +1821,10 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰",
+          "茉莉",
           "奶茶",
           "椰乳",
-          "茉莉"
+          "生椰"
         ],
         "sensory": []
       }
@@ -1852,8 +1852,8 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
-          "奶茶"
+          "奶茶",
+          "生椰"
         ],
         "sensory": []
       }
@@ -1906,19 +1906,19 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
-          "生椰奶茶",
-          "茉莉",
           "生椰",
+          "茉莉",
           "椰子",
-          "奶茶"
+          "奶茶",
+          "生椰奶茶"
         ],
         "sensory": [
-          "药",
-          "苦"
+          "苦",
+          "药"
         ]
       }
     },
@@ -1945,8 +1945,8 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
-          "奶茶"
+          "奶茶",
+          "生椰"
         ],
         "sensory": []
       }
@@ -1998,9 +1998,9 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰",
+          "茉莉",
           "奶茶",
-          "茉莉"
+          "生椰"
         ],
         "sensory": []
       }
@@ -2082,8 +2082,8 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
-          "奶茶"
+          "奶茶",
+          "生椰"
         ],
         "sensory": []
       }
@@ -2111,8 +2111,8 @@
           "饮料"
         ],
         "flavor": [
-          "生椰",
-          "奶茶"
+          "奶茶",
+          "生椰"
         ],
         "sensory": []
       }
@@ -2140,8 +2140,8 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
-          "奶茶"
+          "奶茶",
+          "生椰"
         ],
         "sensory": []
       }
@@ -2169,8 +2169,8 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
-          "茉莉"
+          "茉莉",
+          "生椰"
         ],
         "sensory": []
       }
@@ -2198,10 +2198,10 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
           "奶茶",
+          "椰子",
           "椰乳",
-          "椰子"
+          "生椰"
         ],
         "sensory": [
           "苦"
@@ -2231,9 +2231,9 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
+          "茉莉",
           "奶茶",
-          "茉莉"
+          "生椰"
         ],
         "sensory": []
       }
@@ -2340,8 +2340,8 @@
         ],
         "flavor": [
           "桂花",
-          "奶茶",
-          "椰子"
+          "椰子",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2475,8 +2475,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
           "桂花",
@@ -2672,8 +2672,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "桂花",
-          "茉莉"
+          "茉莉",
+          "桂花"
         ],
         "sensory": []
       }
@@ -2755,8 +2755,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
           "桂花"
@@ -2784,8 +2784,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "饮品"
+          "饮品",
+          "饮料"
         ],
         "flavor": [
           "桂花",
@@ -2795,6 +2795,593 @@
           "苦",
           "涩",
           "苦涩"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69772bed000000001a01e13b",
+      "title": "喜茶苦巧的维也纳云顶就给三朵吗？",
+      "desc": "喜茶苦巧能想出这个搭配也真是神人来着\n一开始以为这个维也纳云顶就是起个装饰作用，没想到混着液体一起喝这么顺滑，完全没有粉感\n整杯用的都是高浓度的可可粉，可可粉很浓郁，就是纯粹的苦味（我超爱）\n这杯还可以选不含茶，可可味会更浓郁，巧克力脑袋必冲！\n#奶茶推荐[话题]# #好喝的饮品[话题]# #喜茶[话题]# #喜茶苦巧[话题]# #苦巧咸酪碎银子[话题]# #宝藏饮品店分享[话题]# #巧克力控[话题]#",
+      "nickname": "sui穗",
+      "note_url": "https://www.xiaohongshu.com/explore/69772bed000000001a01e13b?xsec_token=ABBtbVUCfORc96eYTXZh40TlbfVVY3LbMULsSMUgeAJ6A=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "3237",
+      "collected_count": "401",
+      "comment_count": "73",
+      "share_count": "548",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": [
+          "苦",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6873d5420000000023006d88",
+      "title": "人类史上最难喝的果茶。。。",
+      "desc": "rt，但也不是说人类史上最难喝吧，至少是我目前喝过最难喝的。。。服了啊。柚子粒苦的要亖，甚至里面还有柚子里面的白膜。苦上加苦啊！！！！\n#难喝[话题]# #一点点[话题]# #葡萄柚绿[话题]# #一喝一个不吱声[话题]#",
+      "nickname": "神本无相直到我撒了一泡",
+      "note_url": "https://www.xiaohongshu.com/explore/6873d5420000000023006d88?xsec_token=AB0ZoSiCrOcHyQmkt96jROyRaQ9tnC3z-KkWWjfpiADlA=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2481",
+      "collected_count": "353",
+      "comment_count": "4234",
+      "share_count": "1441",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "686f5642000000002400ebcf",
+      "title": "巨清爽！喝完感觉自己是一个巨大的柚子脑袋",
+      "desc": "喜欢抹茶和柚子元素真的可以冲[喝奶茶R][喝奶茶R]\n可以先喝口抹茶奶盖 再搅拌后喝 搅拌以后就是我们最常吃的抹茶柚子口味奶油蛋糕或者冰淇淋的味道！！\n喝完整个口腔和脑袋都是这种清爽的味道[色色R][色色R][色色R]\n但是柚子会微微有点苦 接受不了柚子苦味的宝宝就算啦\n我点的3分糖 完全可以接受\n但是我觉得5分糖风味应该会更足\n可以考虑喝喝五分糖~\n#适合夏天的饮料[话题]# #好喝到爆炸[话题]# #解腻饮品[话题]#\n#古茗新品[话题]# #古茗[话题]# #奶茶[话题]# #抹茶柚子冰[话题]# #奶茶测评[话题]#",
+      "nickname": "yer_（美食耶）",
+      "note_url": "https://www.xiaohongshu.com/explore/686f5642000000002400ebcf?xsec_token=ABYxVmG5NEj5YDtnCXrWfgP7DbUO8htFDysqViQnIHQLw=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1321",
+      "collected_count": "200",
+      "comment_count": "36",
+      "share_count": "165",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品",
+          "饮料"
+        ],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": [
+          "苦",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68bea478000000001d00c048",
+      "title": "为啥蜜雪冰城柠檬水发苦",
+      "desc": "为什么最近买的蜜雪冰城柠檬水味道都发苦呢，第一次喝到发苦的时候我还以为是概率问题，后来又喝到了第二杯第三杯…#果茶爱好者[话题]# #柠檬水[话题]#",
+      "nickname": "安知淘气三千问",
+      "note_url": "https://www.xiaohongshu.com/explore/68bea478000000001d00c048?xsec_token=ABSQZg_sCSxo0-BTmAJDWKQCB57xsp81HwFTfhsfsms5I=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1290",
+      "collected_count": "190",
+      "comment_count": "742",
+      "share_count": "4",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "665a77c2000000000c018f16",
+      "title": "奶奶的！感觉像在生喝液体巧克力！！",
+      "desc": "逛盒马发现了这个可酷优巧克力牛奶！\n没想到这款的巧克力味这么香浓！暴击其他款的巧克力牛奶！！！\n真的好喝到我直跺脚！赶紧搬一箱回家慢慢喝！\n-\n打开盖子就是浓浓的巧克力香，太上头了😫！！\n入口jujuju顺滑，一咕溜就滑进去了~\n好像液体生巧～微微带点苦味完全不会齁甜！\n特别清爽的巧克力香，一口入魂！\n回味是浓郁的可可焦糖香和牛乳的奶香味🤤\n毕竟快90%都是部分脱脂生牛乳，真的很浓醇💆\n-\n配件表就三样，嘎嘎干净！\n一点添加剂那些都没有放！脂肪含量还很低！\n因为大部分原料都已经脱脂或者低脂的了！\n百毫升热量跟一杯某幸🍊c美式差不多的！\n低脂低卡又好喝～减脂期的uu也可以放心囤！\n包装还是复古的玻璃瓶！吼吼看！！咱就是一口气狂炫三瓶🤤\n-\n#巧克力奶[话题]# #巧克力控[话题]# #cocio巧克力奶[话题]# #可酷优巧克力牛奶[话题]# #饮料日常[话题]# #牛奶[话题]#",
+      "nickname": "饼饼就爱吃",
+      "note_url": "https://www.xiaohongshu.com/explore/665a77c2000000000c018f16?xsec_token=ABnqIGd_AqNk_714c201WTP0YdYhC0izt9hzG9aBzSTaA=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1058",
+      "collected_count": "401",
+      "comment_count": "30",
+      "share_count": "46",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a2673e900000000170288a6",
+      "title": "究竟是谁研究的这个呀！！",
+      "desc": "测完KuBTI人格是天撑座，狠狠被戳中😭\n表面看起来淡定从容，遇事习惯自己硬扛\n加班内耗、职场委屈都往肚子里咽，主打一个哑巴吃苦[失望R]\n终于懂为什么优酸乳会出苦瓜女士联名款[暗中观察R]\n入口先是一缕淡淡的清苦，然后是酸酸甜甜的回甘[害羞R]\n加上冰块更好喝的，清清爽爽的，超适合夏天来上一杯[派对R]\n就像我们这群硬撑型打工人，熬过苦涩，总会尝到甜头！\n工位随手囤几盒，压力大的时候来一口～\n把藏在心里的情绪苦，慢慢喝成松弛的甜~\n当代年轻人的情绪解药，真的被拿捏了!![赞R]\n💡KuBTI测试:\n🔍活力伊利 小🍊，就能测出你的专属人格啦～\n#饮品[话题]##好喝的饮品[话题]##优酸乳苦瓜女士联名[话题]# #打工人续命水[话题]# #工位饮品[话题]# #当代年轻人精神状态[话题]##宝宝心里苦来口优酸乳[话题]##优酸乳KuBTI测试[话题]#",
+      "nickname": "芋头觅食记",
+      "note_url": "https://www.xiaohongshu.com/explore/6a2673e900000000170288a6?xsec_token=ABXKVZlnCmVUZB00DyjtbKVJsCd5Ggy_x47jNpNMDKchk=&xsec_source=pc_search",
+      "ip_location": "福建",
+      "liked_count": "1028",
+      "collected_count": "141",
+      "comment_count": "17",
+      "share_count": "9",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "药",
+          "涩",
+          "苦涩"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "698e8429000000001a02b755",
+      "title": "虞书欣同款苦尽甘来",
+      "desc": "前一秒在拍照后一秒喝完了，真的好好喝嘿嘿\n\t\n用吸管喝是有一点点甜，上面的咖啡粉是苦的直饮的话配上柑橘片的一点点酸和下面咖啡的一点点甜非常好。好喝又好看\n\t\n二编：今天又点了热的，也很好喝！\n\t\n#虞书欣[话题]# #虞书欣同款[话题]# #可以放心冲[话题]#",
+      "nickname": "知昼zzimo",
+      "note_url": "https://www.xiaohongshu.com/explore/698e8429000000001a02b755?xsec_token=ABZXb2ym7130PtGpP9B98JZFDvO99jx_w9Qn0T9yI6FO8=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1008",
+      "collected_count": "38",
+      "comment_count": "178",
+      "share_count": "59",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "690871d8000000000700b33e",
+      "title": "浓抹就是喜茶的统治区👌一口沦陷……",
+      "desc": "抹茶佬真的拒绝不了喜茶的浓抹🍵现在竟然出了瓶装的，随时随地都能来一瓶！\n贵州抹茶+绿妍茶底，双重茶香叠加在一起，口感更醇厚，微微的苦味里夹杂着茉莉花的清香，每喝一口都要感叹一下真的吼吼饮！！！加的牧场鲜牛乳，自然奶香一点都不会觉得甜腻！关键一瓶的热量比半个牛油果还少，身材管理期   减脂期也能放心炫！\n·\n#喜茶[话题]# #喜茶茉莉浓抹[话题]##喜茶瓶装[话题]##抹茶[话题]# #一起嚯奶茶[话题]# #吃了甜食会开心[话题]#",
+      "nickname": "礼拜六",
+      "note_url": "https://www.xiaohongshu.com/explore/690871d8000000000700b33e?xsec_token=ABbaryeJwFL_fa4raMAqHTnULqnhHCK_9GiOmXyimmNdA=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "754",
+      "collected_count": "133",
+      "comment_count": "60",
+      "share_count": "128",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "瓶装"
+        ],
+        "flavor": [
+          "茉莉",
+          "奶茶"
+        ],
+        "sensory": [
+          "苦",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a229b110000000021017a32",
+      "title": "优酸乳，你就是这么出新品的吗。。。",
+      "desc": "我的天，优酸乳新品真是越来越“猎奇”了…..\n这次居然和苦瓜女士联名！出个苦瓜柠檬味优酸乳！\n听名字本来以为是黑暗料理…\n尝了一口🤣没想到居然这么好喝！！！\n.\n苦瓜的清新再加上柠檬的酸甜～口感层次很丰富！\n入口真的特别清爽！喝到嘴里甚至还有一丝回甘！\n非常适合吃烧烤火锅的时候来一瓶…🤤解馋又解腻！\n.\n尤其是现在天热！加点冰块喝着更是一绝！\n一口下去冰冰凉凉的，又清火又解暑！\n感觉身体里仿佛装了个降温空调一样～\n🫶🏻简直就是大夏天必备的善良液体！\n.\n重点来了！\n直接来『活力伊利』小🍊序，测测你的KuBTI\n相比MBTI的委婉推测，KuBTI直接贴脸开大！\n测KuBTI之前：我以为我是水瓶座…\n测KuBTI之后：原来我是睡贫座…（🤣白天睡瘾很大，晚上网瘾可观，主打一个“能熬”）\n.\n而且现在购买联名款产品，还送联名款周边；\n买3提：赠「拒绝施压」冰凉垫x1\n买2提：赠「苦撑」气囊手机支架x1\n买1提：赠「苦中作乐」贴纸x1\n😍😍姐妹们赶紧去囤！！！\n#优酸乳[话题]# #优酸乳联名[话题]# #优酸乳苦瓜柠檬味[话题]# #优酸乳苦瓜女士联名[话题]# #苦瓜女士[话题]# #饮料分享[话题]# #夏季饮料推荐[话题]#",
+      "nickname": "姚星星",
+      "note_url": "https://www.xiaohongshu.com/explore/6a229b110000000021017a32?xsec_token=ABYdqid4MnzM_UmUA6Oz0l9-yfNCDLQFH1LYcd-FEjmTI=&xsec_source=pc_search",
+      "ip_location": "湖南",
+      "liked_count": "751",
+      "collected_count": "100",
+      "comment_count": "13",
+      "share_count": "12",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a1942f30000000007026f39",
+      "title": "geelato你终于来苏州了。。。",
+      "desc": "霸王茶姬竟然还上新geelato了‼️\n之前一直看着上海的新品geelato爆火\n苏州观前街店29号开始也有了！\n终于不用羡慕别的城市了✨\n-\n这么炎热的天气，最适合来一个geelato解暑了！\n都是看得到的真茶真奶当日现做\n优质原料吃着一点都不腻，我一口气能吃两杯[自拍R][自拍R]\n私藏四款本命产品，闭眼冲不踩雷\n🍵一抹山月\n千目抹茶+优质牛乳\n微微的抹茶苦味，一点也不涩口\n吃完嘴巴里还有一点抹茶的回甘\n🌟两种大米\n五常大米+泰国香米实打实用料\n能嚼到大米的颗粒，软糯奶香治愈感拉满\n🥭云顶·芒芒\n大米geelato搭配芒果冰沙加椰乳再加蜜瓜乌龙茶底\n冰沙绵密冰爽，一口糯一口清润，夏天直接续命\n🌟云顶·一抹山月\n咸香的海苔碎搭上抹茶geelato\n抹茶控真的是越喝越爱\n茶姬到底是怎么想出这么好喝的搭配的！\n-\n📅5.29上新福利直接拿捏\n✔️连续三天geelato买一送一\n✔️加5元解锁小料无限续，自由DIY超快乐\n✔️每日前100名到店购买geelato还有礼包\n观前街新店氛围感拉满\n逛老街顺路打卡，喝茶吃甜品一站式搞定☑️\n📍苏州姑苏区观前街太监弄8号\n#霸王茶姬江苏[话题]# #霸王茶姬geelato[话题]# #霸王茶姬geelato新店开业[话题]# #茶拉朵[话题]# #gelato[话题]##苏州探店[话题]# #苏州新晋甜品[话题]# #观前街美食[话题]#",
+      "nickname": "炸毛弟弟",
+      "note_url": "https://www.xiaohongshu.com/explore/6a1942f30000000007026f39?xsec_token=ABlpUl_SR59aMEUgZ4oa3Mq6ALcb38n8Ay2eSY3sxC4tQ=&xsec_source=pc_search",
+      "ip_location": "江苏",
+      "liked_count": "748",
+      "collected_count": "405",
+      "comment_count": "33",
+      "share_count": "200",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰乳",
+          "芒果"
+        ],
+        "sensory": [
+          "苦",
+          "涩",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a1cd96e000000000702f350",
+      "title": "全冰黑巧美式 意式深烘金烘测评",
+      "desc": "没错，3种浓缩都试一下。\n\t\n全冰黑巧美式·全冰去水·不另加糖·意式·去椰浆——接近纯黑巧味道，微酸，苦还行。喜欢苦巧喜欢清爽一点的美式，这种✓\n\t\n全冰黑巧美式·全冰去水·不另加糖·深烘·椰浆减半——刚喝完上一杯，这一杯有椰浆，喝着就明显有椰子味，不另加糖不会很甜，椰浆减半椰子味不会完全掩盖巧克力，较清爽吧。\n\t\n全冰黑巧美式·全冰去水·不另加糖·金烘·椰浆正常——椰浆有点抢味道，倒是不太甜，但有点跑题了。\n\t\n总结，如果可以喝美式喜欢苦一点点，去椰浆✓\n如果怕太苦，觉得椰浆还行，那减半也不错。\n\t\n#全冰黑巧[话题]# #瑞幸新品测评[话题]# #全冰黑巧美式[话题]# #夏日提神计划[话题]# #今天喝什么[话题]# #全冰去水[话题]#",
+      "nickname": "今天今天还是今天",
+      "note_url": "https://www.xiaohongshu.com/explore/6a1cd96e000000000702f350?xsec_token=ABNJ7ODJorlnW41NCTCUYHMuVbq9464oi53rN7P2UGwcQ=&xsec_source=pc_search",
+      "ip_location": "辽宁",
+      "liked_count": "694",
+      "collected_count": "249",
+      "comment_count": "109",
+      "share_count": "263",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰子"
+        ],
+        "sensory": [
+          "苦",
+          "掩盖"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "671895bc000000001402d35f",
+      "title": "你们的柠檬茶怎么切？",
+      "desc": "为什么你做的柠檬茶苦涩？原来是柠檬没切对\n一定会有人问广东香水柠檬这么多切法，哪种是正确的?🍋\n因为茶底不同，每个人想表达的东西不同，力量不同，捶打习惯不同，用的棒子不同，加不加捶。\n💛柠檬使用前冰水泡一下可以释放香味去苦涩\n💚切柠檬前用刀、刮一下柠檬皮，激发香味\n💙最好现切现用，存放时间一长，香气容易挥发，容易捶打出苦涩\n[向右R]0.2薄切更适合清香型茶底和与其它水果复配，但如果应用的是厚皮果非常容易苦涩，酸味挥发比较足，皮香气差一些\n[向右R]1厘米厚切香气散发更加充足，酸质较底，相对不容易出苦味，比较适合品质好一些的茶做搭配，更提茶香\n[向右R]角切比较极致，比较适合对产品口味有极致追求的研发人员，皮香最足，果肉纤维也最大粒，但柠檬克重差别比较大，每一杯都需要上称调整，在出品的时候锤击力度不同对每杯产品的影响很大，比较容易出现两杯饮品口感有明显偏差\n[红色心形R]掌握了这个广东香水柠檬的切法，你的柠檬茶一定会变得更加好喝！不信？那就快来试试吧❗️\n#柠檬切法 #411柠茶泉湖公园店 #西普陀寺 #泉湖公园",
+      "nickname": "411柠茶（泉湖公园店）",
+      "note_url": "https://www.xiaohongshu.com/explore/671895bc000000001402d35f?xsec_token=ABBFsCt2rBP12vfaBB6PmGr4HhvC5NiRzIGrvvkqXqEDs=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "588",
+      "collected_count": "381",
+      "comment_count": "1",
+      "share_count": "99",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "涩",
+          "去苦",
+          "苦涩",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6858ccaa000000000b01def2",
+      "title": "福州东街口仙品🫧夏日漂亮小甜水～🍹",
+      "desc": "山缓缓的本质是水果店吧🥹🥹🥹\n8刷之后，替你们总结的点单攻略：\n\t\n入座就有的餐前水果（近期是芒果🥭和荔枝）、老白茶\n\t\n饮品🍹\n✔️苦瓜气泡水：新鲜的苦瓜，口感清新，苦味纯粹\n✔️芭乐气泡水：粉粉嫩嫩的，好好看！清清爽爽好喝\n✔️胡萝卜百香果汁：口味甘甜，清爽解腻，酸甜口\n✔️油柑果山茶：茉莉茶底加油柑，微涩，三秒回甘\n\t\n主食🍚\n✔️芽菜牛肉饭：不夸张炫了2碗！！新鲜的牛肉和脆爽的芽菜！！现点现焖制的很香，每一口都是料~~\n\t\n小吃🧈\n✔️麦青红豆糕：糯叽叽，红豆味香，外鲜里嫩！！\n✔️黑米糍粑：搭配了红糖，趁热吃会拉丝，糯糯的\n……\n\t\n牛肉的品质也都很不错！！每次来都要猛猛炫……\n推荐：花桂牛肉&9秒牛肉…鲜嫩入味，不蘸酱都好吃\n还有各种菌菇🍄山野菜🥬！！和野果酸汤锅底很搭…\n\t\n朋友小聚、约会、一家人吃饭都合适！还会再来~\n\t\n#福州美食[话题]#   #福州探店[话题]#   #福州火锅[话题]#   #山缓缓火锅[话题]#   #山缓缓新品[话题]#   #福州吃喝玩乐[话题]#   #福州攻略[话题]#   #福州旅游[话题]#  #夏日消暑风味集[话题]#   #走街串巷找美食[话题]#",
+      "nickname": "君君",
+      "note_url": "https://www.xiaohongshu.com/explore/6858ccaa000000000b01def2?xsec_token=ABOhV5WQIlrpXp7XbczUXt8_NwoLbcyY_QrdI_VUIUB-U=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "565",
+      "collected_count": "199",
+      "comment_count": "14",
+      "share_count": "84",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "茉莉",
+          "芒果"
+        ],
+        "sensory": [
+          "苦",
+          "涩",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "671b44c40000000026034b71",
+      "title": "山姆新品有谁买了嘛！！！！😭😭😭",
+      "desc": "惊呆了… 山姆居然上了它！！\n江中食疗下火堂苦瓜饮 ！\n放心喝，我的苦日子算是到头了！\n三大0️⃣添加健康好喝的饮品被我发现了！！\n·\n谁懂这一瓶的含金量啊！！\n为了好喝，江中食疗下了比苦瓜还苦的功夫！添加了浓缩苹果汁、鲜白茅根和桑叶搭配益生菌发酵的苦瓜  口感层好丰富！入口是清甜的，略带着一丝苦味 ！\n细品之后 又由涩变甜 回味无穷！！\n特别是加了冰的口感 ！感觉比碳酸饮料都好喝！\n真的很适合吃火锅烤肉炸鸡的时候喝！ 清爽解腻\n碳水的罪恶感都没有了哈哈哈 ！\n·\n跟朋友哐哐哐的狂搬好几箱！\n健身 下午茶都可以喝 补充满满维C\n也是辛辣食物的饭搭子！✌️\n这不得赶紧囤上 … 随时随地可以炫！\n·\n#山姆[话题]# #山姆新品[话题]# #下火堂[话题]# #饮品[话题]# #饮品推荐[话题]#\n#下火堂苦瓜饮[话题]##江中食疗下火堂苦瓜饮[话题]#\n#苦瓜饮[话题]# #下火饮料推荐[话题]# #山姆会员店[话题]#",
+      "nickname": "花仔🥕",
+      "note_url": "https://www.xiaohongshu.com/explore/671b44c40000000026034b71?xsec_token=ABY4Et-sGXqpvC25wbR6pr8UbERMoDe-uU04znjr7zxQs=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "350",
+      "collected_count": "109",
+      "comment_count": "55",
+      "share_count": "308",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品",
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "涩",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "67384411000000003c019228",
+      "title": "咖啡太酸或太苦怎么办？",
+      "desc": "👀 第一步：观察你的浓缩宝贝 👀\n首先，端起那杯浓缩，像侦探一样仔细观察。如果它酸得让你皱眉，苦得让你咧嘴，别急，咱们有的是办法！\n👀 第二步：水粉比大调整 👀\n酸度过高？试试多萃点！比如18克粉，正常萃取1:2的水粉比，现在咱们加到1:2.2，酸度瞬间温柔许多！\n苦味太重？那就少萃点！同样18克粉，萃取到32克浓缩，苦味减淡，甜味悄悄露头！\n👀 第三步：研磨度微调，口感升级 👀\n酸度+水感？研磨度调细1-2格，让咖啡粉更紧密，味道更均衡！\n又浓又苦？研磨度调粗1-2格，苦味拜拜，浓度也刚刚好！\n👀 第四步：流速与时间，黄金比例 👀\n萃取时间控制在22-30秒，流速要稳，别忽快忽慢。就像跳舞一样，要有节奏嘛！\n👀 第五步：品鉴时刻，享受成果 👀\n最后，端起那杯精心调整的浓缩，深吸一口气，感受那丝绸般滑顺的油脂，酸、甜、苦平衡得刚刚好！是不是感觉自己已经是个咖啡大师了？\n😉 小贴士 😉\n初次使用浓缩咖啡机？多煮几杯，让机器醒醒神！\n每周冲洗冲煮套件，保持水流畅通无阻！\n#咖啡生活小乐趣[话题]##咖啡培训[话题]##咖啡教学[话题]##咖啡萃取[话题]##咖啡[话题]##咖啡自制[话题]##拿铁[话题]##美式[话题]##冰美式[话题]##caratbean培训[话题]##caratbean[话题]#",
+      "nickname": "CARATBEAN咖啡",
+      "note_url": "https://www.xiaohongshu.com/explore/67384411000000003c019228?xsec_token=ABtkMseZ1h5xislXiISaW3opumlVKM608vCuPdCZTdoF4=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "267",
+      "collected_count": "235",
+      "comment_count": "11",
+      "share_count": "58",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "690d8337000000000301b40a",
+      "title": "盒马NFC果汁太赞！闭眼入不踩雷",
+      "desc": "家附近盒马给娃挑的果汁，果然没让人失望！口味丰富还个个能打，这次选的三个款都戳中喜好，配料表干干净净无多余添加，给娃喝超安心，颜值也高到忍不住分享～\n血橙味必须夸！精选意大利西西里岛血橙原料，盒马独家限定款，带一丢丢自然苦味超特别，花青素含量直接top1，日常喝健康又解渴。红毛丹味甜丝丝的，口感清爽颜值还在线，1L装才9.9，性价比真的绝了！芭乐味是常年畅销款，清甜不腻的口感，我家娃每次都吨吨喝不够～\n盒马出品的品质从来不让人担心，不管是娃日常喝还是全家分享都合适，喝完立马回购！\n#好喝的果汁[话题]##NFC鲜榨果汁[话题]##盒马[话题]##红毛丹果汁[话题]##盒马饮料[话题]# #NFC果汁[话题]# #盒马测评[话题]# #饮品推荐[话题]# #饮料安利[话题]#",
+      "nickname": "清华妈妈育儿记",
+      "note_url": "https://www.xiaohongshu.com/explore/690d8337000000000301b40a?xsec_token=ABKC2PgRTf781ir_uFElPkJWSlVv4h9NLQW3lwE0q7f_E=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "251",
+      "collected_count": "207",
+      "comment_count": "43",
+      "share_count": "1",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品",
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "66b6201c00000000250302d9",
+      "title": "好喝到终身难忘的饮料",
+      "desc": "#健身[话题]# #自律[话题]# #花小龙[话题]# #饮料[话题]#",
+      "nickname": "自律小龙",
+      "note_url": "https://www.xiaohongshu.com/explore/66b6201c00000000250302d9?xsec_token=ABmwaqXQqFsK9WQTmpcGli1YD4o_wex5Xm9kku1tJi8yo=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "245",
+      "collected_count": "44",
+      "comment_count": "6",
+      "share_count": "3",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6874ddba0000000022031a16",
+      "title": "🔥求苹果脑袋去喝‼️维他🆕白月光苹果绿茶🍎",
+      "desc": "作为一个超爱苹果味🍎的人，每次看到苹果味的饮品都走不动道！最近发现便利店也有这款维他苹果绿茶了！谁懂，港版苹果绿一直是我的白月光🍵，真的好开心！！迫不及待想把这份快乐分享给所有苹果脑袋，而且还研究出了超好喝的隐藏喝法，一定要试试‼️\n\t\n🏷维他苹果茶\n茉莉绿茶+真苹果汁\n✅热量参考：≈仅25kcal/100g\n👉盒装62.5kcal/瓶装125kcal\n✔我真的已经不是第一次夸它好喝了！！！开盖就能闻到那种带点清新的苹果香，不是浓缩汁的甜腻味。喝下去先是苹果的清爽，带点刚咬开苹果时的微微酸，然后绿茶的回甘慢慢冒出来，像吃苹果时顺便嚼了片茶叶。喝完嘴里一直有股淡淡的苹果香，连打嗝都是清爽的！！！⚡️夏天冰过之后喝，就跟在树荫下啃了个脆苹果一样舒服，特别解腻！\n\t\n🏷️苹果茶美式（万物皆可美式）\n维他苹果茶200ml+适量冰块+1份shot\n✔喝的时候能尝到苹果的酸甜和咖啡的苦味混在一起，苹果的清爽把咖啡的厚重感冲淡了，喝起来不会太涩。冰块化一点之后，口感更柔和，能喝到苹果茶里的茉莉回甘，还有点甜味是苹果自带的，很自然。\n\t\n#维他苹果绿茶[话题]# #苹果绿茶[话题]# #苹果茉莉绿[话题]# #饮品推荐[话题]# #适合夏天的饮料[话题]# #轻负担饮品[话题]# #苹果茉莉[话题]# #苹果绿茶[话题]# #夏天喝什么[话题]##适合夏天的饮料[话题]# #100天运动打卡挑战[话题]#",
+      "nickname": "林一子同學",
+      "note_url": "https://www.xiaohongshu.com/explore/6874ddba0000000022031a16?xsec_token=ABcoEULSF_TuLA2Ikr_uxzn8g3Zv_eVHuDZyyMoo7ckwE=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "246",
+      "collected_count": "57",
+      "comment_count": "25",
+      "share_count": "55",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品",
+          "饮料",
+          "瓶装"
+        ],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": [
+          "苦",
+          "涩",
+          "苦味"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "66b3c670000000001e01df95",
+      "title": "乌龙茶",
+      "desc": "都是几乎不甜的版本喔🧡 #乌龙茶[话题]#  #喝饮料[话题]#  #茶饮[话题]#",
+      "nickname": "社恐吃货小夏",
+      "note_url": "https://www.xiaohongshu.com/explore/66b3c670000000001e01df95?xsec_token=ABhD-NYsrFHWP2dFvR7P97kZsOWioci9I-ZX2ay7yjpGg=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "201",
+      "collected_count": "58",
+      "comment_count": "6",
+      "share_count": "3",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6715d795000000001b03c87c",
+      "title": "🇲🇾为什么很多人泡手冲都是苦的？分享贴",
+      "desc": "我相信很多人刚开始接触手冲咖啡，都会有很多疑问❓为什么怎么泡都是苦味一个？原来是要根据不同的豆子，来决定整个泡法的过程。\n\t\n谢谢 Cecilliaaa为我们分享\n#手冲咖啡[话题]# #手冲咖啡日常[话题]# #咖啡[话题]# #马来西亚[话题]# #麻坡[话题]# #精品咖啡[话题]# #我的咖啡日记[话题]#",
+      "nickname": "ZUZU CHANG",
+      "note_url": "https://www.xiaohongshu.com/explore/6715d795000000001b03c87c?xsec_token=ABIhAZJ6dS2B98QrIDc7h_2Ubbm8l-gJFpW9K5yvcGVwQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "193",
+      "collected_count": "56",
+      "comment_count": "6",
+      "share_count": "30",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "苦味"
         ]
       }
     }
@@ -3223,8 +3810,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "桂花",
-          "茉莉"
+          "茉莉",
+          "桂花"
         ],
         "sensory": []
       }
@@ -3576,8 +4163,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "饮料"
+          "饮料",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -4208,8 +4795,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -4384,8 +4971,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -4410,8 +4997,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -4638,8 +5225,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -4689,8 +5276,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "茉莉"
+          "茉莉",
+          "芒果"
         ],
         "sensory": []
       }
@@ -6119,8 +6706,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "桂花",
-          "茉莉"
+          "茉莉",
+          "桂花"
         ],
         "sensory": []
       }
@@ -6349,6 +6936,433 @@
         "sensory": [
           "塑料"
         ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69799be0000000000f028fc3",
+      "note_id": "69772bed000000001a01e13b",
+      "content": "想知道不另外加糖会不会苦不好喝 如果是淡淡的甜我就点不另外加糖了 但是大家的口味好像都不太一样 有说很苦的也有说不另外加糖都很甜的 有点懵懵的[哭惹R]",
+      "nickname": "小羊",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "喜茶苦巧的维也纳云顶就给三朵吗？",
+      "parent_post_desc": "喜茶苦巧能想出这个搭配也真是神人来着\n一开始以为这个维也纳云顶就是起个装饰作用，没想到混着液体一起喝这么顺滑，完全没有粉感\n整杯用的都是高浓度的可可粉，可可粉很浓郁，就是纯粹的苦味（我超爱）\n这杯还可以选不含茶，可可味会更浓郁，巧克力脑袋必冲！\n#奶茶推荐[话题]# #好喝的饮品[话题]# #喜茶[话题]# #喜茶苦巧[话题]# #苦巧咸酪碎银子[话题]# #宝藏饮品店分享[话题]# #巧克力控[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69797526000000000f02b957",
+      "note_id": "69772bed000000001a01e13b",
+      "content": "想问喝过的苦巧那两款推荐哪款呀",
+      "nickname": "白思朝",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "3",
+      "parent_post_title": "喜茶苦巧的维也纳云顶就给三朵吗？",
+      "parent_post_desc": "喜茶苦巧能想出这个搭配也真是神人来着\n一开始以为这个维也纳云顶就是起个装饰作用，没想到混着液体一起喝这么顺滑，完全没有粉感\n整杯用的都是高浓度的可可粉，可可粉很浓郁，就是纯粹的苦味（我超爱）\n这杯还可以选不含茶，可可味会更浓郁，巧克力脑袋必冲！\n#奶茶推荐[话题]# #好喝的饮品[话题]# #喜茶[话题]# #喜茶苦巧[话题]# #苦巧咸酪碎银子[话题]# #宝藏饮品店分享[话题]# #巧克力控[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6875ddd50000000001020fba",
+      "note_id": "6873d5420000000023006d88",
+      "content": "我和你拼了 我不加糖都觉得甜哪，柚子粒的微微微苦完全是清爽感的关键啊啊啊啊啊",
+      "nickname": "葡萄柚绿狂热粉丝",
+      "ip_location": null,
+      "like_count": "4152",
+      "sub_comment_count": "40",
+      "parent_post_title": "人类史上最难喝的果茶。。。",
+      "parent_post_desc": "rt，但也不是说人类史上最难喝吧，至少是我目前喝过最难喝的。。。服了啊。柚子粒苦的要亖，甚至里面还有柚子里面的白膜。苦上加苦啊！！！！\n#难喝[话题]# #一点点[话题]# #葡萄柚绿[话题]# #一喝一个不吱声[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68778734000000000602eddb",
+      "note_id": "6873d5420000000023006d88",
+      "content": "没喝过葡萄柚绿 想问一下喜欢苹果茉莉绿的会喜欢葡萄柚绿吗[黄金薯R][黄金薯R]",
+      "nickname": "懒羊羊大王",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "13",
+      "parent_post_title": "人类史上最难喝的果茶。。。",
+      "parent_post_desc": "rt，但也不是说人类史上最难喝吧，至少是我目前喝过最难喝的。。。服了啊。柚子粒苦的要亖，甚至里面还有柚子里面的白膜。苦上加苦啊！！！！\n#难喝[话题]# #一点点[话题]# #葡萄柚绿[话题]# #一喝一个不吱声[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6892de4f000000002b015a5f",
+      "note_id": "686f5642000000002400ebcf",
+      "content": "巨难喝，柚子的苦涩味",
+      "nickname": "挪亚家NORYA家具罗浮宫店",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "巨清爽！喝完感觉自己是一个巨大的柚子脑袋",
+      "parent_post_desc": "喜欢抹茶和柚子元素真的可以冲[喝奶茶R][喝奶茶R]\n可以先喝口抹茶奶盖 再搅拌后喝 搅拌以后就是我们最常吃的抹茶柚子口味奶油蛋糕或者冰淇淋的味道！！\n喝完整个口腔和脑袋都是这种清爽的味道[色色R][色色R][色色R]\n但是柚子会微微有点苦 接受不了柚子苦味的宝宝就算啦\n我点的3分糖 完全可以接受\n但是我觉得5分糖风味应该会更足\n可以考虑喝喝五分糖~\n#适合夏天的饮料[话题]# #好喝到爆炸[话题]# #解腻饮品[话题]#\n#古茗新品[话题]# #古茗[话题]# #奶茶[话题]# #抹茶柚子冰[话题]# #奶茶测评[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "涩",
+          "苦涩"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6875f3d90000000001021eac",
+      "note_id": "686f5642000000002400ebcf",
+      "content": "刚一杯喝完 茉莉版 七分甜 我觉得好喝",
+      "nickname": "柠檬奶绿",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "巨清爽！喝完感觉自己是一个巨大的柚子脑袋",
+      "parent_post_desc": "喜欢抹茶和柚子元素真的可以冲[喝奶茶R][喝奶茶R]\n可以先喝口抹茶奶盖 再搅拌后喝 搅拌以后就是我们最常吃的抹茶柚子口味奶油蛋糕或者冰淇淋的味道！！\n喝完整个口腔和脑袋都是这种清爽的味道[色色R][色色R][色色R]\n但是柚子会微微有点苦 接受不了柚子苦味的宝宝就算啦\n我点的3分糖 完全可以接受\n但是我觉得5分糖风味应该会更足\n可以考虑喝喝五分糖~\n#适合夏天的饮料[话题]# #好喝到爆炸[话题]# #解腻饮品[话题]#\n#古茗新品[话题]# #古茗[话题]# #奶茶[话题]# #抹茶柚子冰[话题]# #奶茶测评[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68c56e620000000030018f8c",
+      "note_id": "68bea478000000001d00c048",
+      "content": "家人们 我刚刚又点了一杯，味道已经回来了，它不苦了[萌萌哒R]，看来我们这里的安岳柠檬已经到位了[哇R]，就是柠檬片少了看起来是真稀缺啊，以前是4片左右，今天买的2片",
+      "nickname": "安知淘气三千问",
+      "ip_location": null,
+      "like_count": "61",
+      "sub_comment_count": "14",
+      "parent_post_title": "为啥蜜雪冰城柠檬水发苦",
+      "parent_post_desc": "为什么最近买的蜜雪冰城柠檬水味道都发苦呢，第一次喝到发苦的时候我还以为是概率问题，后来又喝到了第二杯第三杯…#果茶爱好者[话题]# #柠檬水[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68c1b00300000000020169c6",
+      "note_id": "68bea478000000001d00c048",
+      "content": "我在蜜雪上班 因为总部供应不上了只能进口 而且柠檬巨小一个 以往切15个差不多就一桶了 进口的最起码要切25个才一桶 没有什么汁水 锤的不到位就没什么味道 太到位了就会发苦很难喝  左边是国内的 右边是进口的",
+      "nickname": "雪地小猫",
+      "ip_location": null,
+      "like_count": "1661",
+      "sub_comment_count": "90",
+      "parent_post_title": "为啥蜜雪冰城柠檬水发苦",
+      "parent_post_desc": "为什么最近买的蜜雪冰城柠檬水味道都发苦呢，第一次喝到发苦的时候我还以为是概率问题，后来又喝到了第二杯第三杯…#果茶爱好者[话题]# #柠檬水[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68c373ae000000003001c8f0",
+      "note_id": "68bea478000000001d00c048",
+      "content": "我就说无糖的柃檬水咋变苦了，还以为我变得跟以前比不能喝了，没想到柠檬换了",
+      "nickname": "晓楚线上眼镜批发",
+      "ip_location": null,
+      "like_count": "27",
+      "sub_comment_count": "13",
+      "parent_post_title": "为啥蜜雪冰城柠檬水发苦",
+      "parent_post_desc": "为什么最近买的蜜雪冰城柠檬水味道都发苦呢，第一次喝到发苦的时候我还以为是概率问题，后来又喝到了第二杯第三杯…#果茶爱好者[话题]# #柠檬水[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68c395090000000030026336",
+      "note_id": "68bea478000000001d00c048",
+      "content": "所以！也就是说因为换了柠檬所以我喝柠檬红这些一切有柠檬的饮品七分糖都不甜的原因？[扶墙R]我以前都喝7分糖觉得很合适了五分喝到后面有点淡，最近这两三个月七分糖感觉特别淡",
+      "nickname": "momo",
+      "ip_location": null,
+      "like_count": "9",
+      "sub_comment_count": "6",
+      "parent_post_title": "为啥蜜雪冰城柠檬水发苦",
+      "parent_post_desc": "为什么最近买的蜜雪冰城柠檬水味道都发苦呢，第一次喝到发苦的时候我还以为是概率问题，后来又喝到了第二杯第三杯…#果茶爱好者[话题]# #柠檬水[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68c3bbbd0000000030023027",
+      "note_id": "68bea478000000001d00c048",
+      "content": "啥时候咱柠檬能上啊[哭惹R]柠檬水脑袋没招了，苦的不中了",
+      "nickname": "Miimu",
+      "ip_location": null,
+      "like_count": "9",
+      "sub_comment_count": "3",
+      "parent_post_title": "为啥蜜雪冰城柠檬水发苦",
+      "parent_post_desc": "为什么最近买的蜜雪冰城柠檬水味道都发苦呢，第一次喝到发苦的时候我还以为是概率问题，后来又喝到了第二杯第三杯…#果茶爱好者[话题]# #柠檬水[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a27f85e000000002900d0f0",
+      "note_id": "6a2673e900000000170288a6",
+      "content": "居然是苦瓜的[惊恐R]",
+      "nickname": "我爱吃京酱肉丝",
+      "ip_location": "湖南",
+      "like_count": "3",
+      "sub_comment_count": "1",
+      "parent_post_title": "究竟是谁研究的这个呀！！",
+      "parent_post_desc": "测完KuBTI人格是天撑座，狠狠被戳中😭\n表面看起来淡定从容，遇事习惯自己硬扛\n加班内耗、职场委屈都往肚子里咽，主打一个哑巴吃苦[失望R]\n终于懂为什么优酸乳会出苦瓜女士联名款[暗中观察R]\n入口先是一缕淡淡的清苦，然后是酸酸甜甜的回甘[害羞R]\n加上冰块更好喝的，清清爽爽的，超适合夏天来上一杯[派对R]\n就像我们这群硬撑型打工人，熬过苦涩，总会尝到甜头！\n工位随手囤几盒，压力大的时候来一口～\n把藏在心里的情绪苦，慢慢喝成松弛的甜~\n当代年轻人的情绪解药，真的被拿捏了!![赞R]\n💡KuBTI测试:\n🔍活力伊利 小🍊，就能测出你的专属人格啦～\n#饮品[话题]##好喝的饮品[话题]##优酸乳苦瓜女士联名[话题]# #打工人续命水[话题]# #工位饮品[话题]# #当代年轻人精神状态[话题]##宝宝心里苦来口优酸乳[话题]##优酸乳KuBTI测试[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a28f896000000002803efc9",
+      "note_id": "6a2673e900000000170288a6",
+      "content": "苦瓜！！！好的，我要去试一下[赞R]",
+      "nickname": "九芊芊",
+      "ip_location": "广东",
+      "like_count": "3",
+      "sub_comment_count": "1",
+      "parent_post_title": "究竟是谁研究的这个呀！！",
+      "parent_post_desc": "测完KuBTI人格是天撑座，狠狠被戳中😭\n表面看起来淡定从容，遇事习惯自己硬扛\n加班内耗、职场委屈都往肚子里咽，主打一个哑巴吃苦[失望R]\n终于懂为什么优酸乳会出苦瓜女士联名款[暗中观察R]\n入口先是一缕淡淡的清苦，然后是酸酸甜甜的回甘[害羞R]\n加上冰块更好喝的，清清爽爽的，超适合夏天来上一杯[派对R]\n就像我们这群硬撑型打工人，熬过苦涩，总会尝到甜头！\n工位随手囤几盒，压力大的时候来一口～\n把藏在心里的情绪苦，慢慢喝成松弛的甜~\n当代年轻人的情绪解药，真的被拿捏了!![赞R]\n💡KuBTI测试:\n🔍活力伊利 小🍊，就能测出你的专属人格啦～\n#饮品[话题]##好喝的饮品[话题]##优酸乳苦瓜女士联名[话题]# #打工人续命水[话题]# #工位饮品[话题]# #当代年轻人精神状态[话题]##宝宝心里苦来口优酸乳[话题]##优酸乳KuBTI测试[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a2daf5c000000002901377e",
+      "note_id": "6a2673e900000000170288a6",
+      "content": "居然有苦瓜口味！马上就被吸引了，好想试试[色色R]",
+      "nickname": "Flora在新西兰",
+      "ip_location": "新西兰",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "究竟是谁研究的这个呀！！",
+      "parent_post_desc": "测完KuBTI人格是天撑座，狠狠被戳中😭\n表面看起来淡定从容，遇事习惯自己硬扛\n加班内耗、职场委屈都往肚子里咽，主打一个哑巴吃苦[失望R]\n终于懂为什么优酸乳会出苦瓜女士联名款[暗中观察R]\n入口先是一缕淡淡的清苦，然后是酸酸甜甜的回甘[害羞R]\n加上冰块更好喝的，清清爽爽的，超适合夏天来上一杯[派对R]\n就像我们这群硬撑型打工人，熬过苦涩，总会尝到甜头！\n工位随手囤几盒，压力大的时候来一口～\n把藏在心里的情绪苦，慢慢喝成松弛的甜~\n当代年轻人的情绪解药，真的被拿捏了!![赞R]\n💡KuBTI测试:\n🔍活力伊利 小🍊，就能测出你的专属人格啦～\n#饮品[话题]##好喝的饮品[话题]##优酸乳苦瓜女士联名[话题]# #打工人续命水[话题]# #工位饮品[话题]# #当代年轻人精神状态[话题]##宝宝心里苦来口优酸乳[话题]##优酸乳KuBTI测试[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "698edda200000000060326eb",
+      "note_id": "698e8429000000001a02b755",
+      "content": "这个奶味重吗[捂脸R]（有一点纯牛奶味就接受不了[喝奶茶R]）",
+      "nickname": "小兔子想骑大摩托.",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "2",
+      "parent_post_title": "虞书欣同款苦尽甘来",
+      "parent_post_desc": "前一秒在拍照后一秒喝完了，真的好好喝嘿嘿\n\t\n用吸管喝是有一点点甜，上面的咖啡粉是苦的直饮的话配上柑橘片的一点点酸和下面咖啡的一点点甜非常好。好喝又好看\n\t\n二编：今天又点了热的，也很好喝！\n\t\n#虞书欣[话题]# #虞书欣同款[话题]# #可以放心冲[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "685936ce000000000f03d2c1",
+      "note_id": "6858ccaa000000000b01def2",
+      "content": "苦瓜气泡水势比要试试了",
+      "nickname": "Alice Zheng",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "福州东街口仙品🫧夏日漂亮小甜水～🍹",
+      "parent_post_desc": "山缓缓的本质是水果店吧🥹🥹🥹\n8刷之后，替你们总结的点单攻略：\n\t\n入座就有的餐前水果（近期是芒果🥭和荔枝）、老白茶\n\t\n饮品🍹\n✔️苦瓜气泡水：新鲜的苦瓜，口感清新，苦味纯粹\n✔️芭乐气泡水：粉粉嫩嫩的，好好看！清清爽爽好喝\n✔️胡萝卜百香果汁：口味甘甜，清爽解腻，酸甜口\n✔️油柑果山茶：茉莉茶底加油柑，微涩，三秒回甘\n\t\n主食🍚\n✔️芽菜牛肉饭：不夸张炫了2碗！！新鲜的牛肉和脆爽的芽菜！！现点现焖制的很香，每一口都是料~~\n\t\n小吃🧈\n✔️麦青红豆糕：糯叽叽，红豆味香，外鲜里嫩！！\n✔️黑米糍粑：搭配了红糖，趁热吃会拉丝，糯糯的\n……\n\t\n牛肉的品质也都很不错！！每次来都要猛猛炫……\n推荐：花桂牛肉&9秒牛肉…鲜嫩入味，不蘸酱都好吃\n还有各种菌菇🍄山野菜🥬！！和野果酸汤锅底很搭…\n\t\n朋友小聚、约会、一家人吃饭都合适！还会再来~\n\t\n#福州美食[话题]#   #福州探店[话题]#   #福州火锅[话题]#   #山缓缓火锅[话题]#   #山缓缓新品[话题]#   #福州吃喝玩乐[话题]#   #福州攻略[话题]#   #福州旅游[话题]#  #夏日消暑风味集[话题]#   #走街串巷找美食[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68592b9a000000000c015124",
+      "note_id": "6858ccaa000000000b01def2",
+      "content": "饮品颜值好高啊！！！",
+      "nickname": "Lunanana",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "福州东街口仙品🫧夏日漂亮小甜水～🍹",
+      "parent_post_desc": "山缓缓的本质是水果店吧🥹🥹🥹\n8刷之后，替你们总结的点单攻略：\n\t\n入座就有的餐前水果（近期是芒果🥭和荔枝）、老白茶\n\t\n饮品🍹\n✔️苦瓜气泡水：新鲜的苦瓜，口感清新，苦味纯粹\n✔️芭乐气泡水：粉粉嫩嫩的，好好看！清清爽爽好喝\n✔️胡萝卜百香果汁：口味甘甜，清爽解腻，酸甜口\n✔️油柑果山茶：茉莉茶底加油柑，微涩，三秒回甘\n\t\n主食🍚\n✔️芽菜牛肉饭：不夸张炫了2碗！！新鲜的牛肉和脆爽的芽菜！！现点现焖制的很香，每一口都是料~~\n\t\n小吃🧈\n✔️麦青红豆糕：糯叽叽，红豆味香，外鲜里嫩！！\n✔️黑米糍粑：搭配了红糖，趁热吃会拉丝，糯糯的\n……\n\t\n牛肉的品质也都很不错！！每次来都要猛猛炫……\n推荐：花桂牛肉&9秒牛肉…鲜嫩入味，不蘸酱都好吃\n还有各种菌菇🍄山野菜🥬！！和野果酸汤锅底很搭…\n\t\n朋友小聚、约会、一家人吃饭都合适！还会再来~\n\t\n#福州美食[话题]#   #福州探店[话题]#   #福州火锅[话题]#   #山缓缓火锅[话题]#   #山缓缓新品[话题]#   #福州吃喝玩乐[话题]#   #福州攻略[话题]#   #福州旅游[话题]#  #夏日消暑风味集[话题]#   #走街串巷找美食[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
       }
     }
   ]

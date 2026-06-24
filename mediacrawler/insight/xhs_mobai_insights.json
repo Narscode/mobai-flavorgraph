@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generation_time": "2026-06-24T13:13:03.900985",
-    "total_posts_filtered": 256,
-    "total_comments_filtered": 269
+    "generation_time": "2026-06-24T13:15:27.959509",
+    "total_posts_filtered": 275,
+    "total_comments_filtered": 283
   },
   "matched_posts": [
     {
@@ -51,8 +51,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -131,8 +131,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "椰子"
@@ -162,8 +162,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": [
@@ -217,8 +217,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "生椰",
@@ -249,8 +249,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -276,9 +276,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "瓶装",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -330,8 +330,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶",
@@ -360,8 +360,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -444,8 +444,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -471,8 +471,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -579,9 +579,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "乳清蛋白",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -767,8 +767,8 @@
       "matched_keywords": {
         "product": [
           "乳清蛋白",
-          "即饮",
-          "蛋白"
+          "蛋白",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -1046,9 +1046,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "瓶装",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -1105,9 +1105,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1211,13 +1211,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1272,9 +1272,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1302,9 +1302,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1332,8 +1332,8 @@
           "饮品"
         ],
         "flavor": [
-          "芒果",
-          "奶茶"
+          "奶茶",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1361,8 +1361,8 @@
           "饮品"
         ],
         "flavor": [
-          "芒果",
           "奶茶",
+          "芒果",
           "茉莉"
         ],
         "sensory": []
@@ -1388,13 +1388,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1446,8 +1446,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "奶茶"
+          "奶茶",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1478,9 +1478,9 @@
           "茉莉"
         ],
         "sensory": [
+          "涩",
           "苦",
-          "苦涩",
-          "涩"
+          "苦涩"
         ]
       }
     },
@@ -1535,9 +1535,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1565,9 +1565,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果",
           "奶茶",
           "椰乳",
+          "芒果",
           "茉莉"
         ],
         "sensory": []
@@ -1594,8 +1594,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "奶茶"
+          "奶茶",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1623,9 +1623,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1731,8 +1731,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰奶茶",
           "奶茶",
+          "生椰奶茶",
           "生椰"
         ],
         "sensory": []
@@ -1761,11 +1761,11 @@
           "饮品"
         ],
         "flavor": [
-          "奶茶",
-          "芒果",
-          "椰乳",
           "茉莉",
-          "生椰"
+          "芒果",
+          "生椰",
+          "奶茶",
+          "椰乳"
         ],
         "sensory": [
           "苦"
@@ -1793,8 +1793,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰奶茶",
           "奶茶",
+          "生椰奶茶",
           "生椰"
         ],
         "sensory": []
@@ -1822,8 +1822,8 @@
         "product": [],
         "flavor": [
           "奶茶",
-          "生椰",
           "椰乳",
+          "生椰",
           "茉莉"
         ],
         "sensory": []
@@ -1906,15 +1906,15 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
-          "奶茶",
           "茉莉",
+          "椰子",
           "生椰",
-          "生椰奶茶",
-          "椰子"
+          "奶茶",
+          "生椰奶茶"
         ],
         "sensory": [
           "药",
@@ -2199,9 +2199,9 @@
         ],
         "flavor": [
           "奶茶",
-          "椰子",
+          "椰乳",
           "生椰",
-          "椰乳"
+          "椰子"
         ],
         "sensory": [
           "苦"
@@ -2339,9 +2339,9 @@
           "饮品"
         ],
         "flavor": [
-          "椰子",
           "奶茶",
-          "桂花"
+          "桂花",
+          "椰子"
         ],
         "sensory": []
       }
@@ -2475,8 +2475,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶",
@@ -2755,8 +2755,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "桂花"
@@ -2784,17 +2784,17 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶",
           "桂花"
         ],
         "sensory": [
+          "涩",
           "苦",
-          "苦涩",
-          "涩"
+          "苦涩"
         ]
       }
     },
@@ -2824,8 +2824,8 @@
           "奶茶"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -2875,15 +2875,15 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -2937,8 +2937,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -2966,10 +2966,10 @@
         ],
         "flavor": [],
         "sensory": [
+          "涩",
           "药",
           "苦",
-          "苦涩",
-          "涩"
+          "苦涩"
         ]
       }
     },
@@ -3026,8 +3026,8 @@
           "茉莉"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3084,9 +3084,9 @@
           "椰乳"
         ],
         "sensory": [
-          "苦味",
+          "涩",
           "苦",
-          "涩"
+          "苦味"
         ]
       }
     },
@@ -3114,8 +3114,8 @@
           "椰子"
         ],
         "sensory": [
-          "苦",
-          "掩盖"
+          "掩盖",
+          "苦"
         ]
       }
     },
@@ -3143,11 +3143,11 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦",
           "去苦",
           "涩",
-          "苦涩"
+          "苦涩",
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3178,9 +3178,9 @@
           "茉莉"
         ],
         "sensory": [
-          "苦味",
+          "涩",
           "苦",
-          "涩"
+          "苦味"
         ]
       }
     },
@@ -3204,14 +3204,14 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
+          "涩",
           "苦",
-          "涩"
+          "苦味"
         ]
       }
     },
@@ -3237,8 +3237,8 @@
         "product": [],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3262,13 +3262,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3318,17 +3318,17 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "瓶装",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "茉莉"
         ],
         "sensory": [
-          "苦味",
+          "涩",
           "苦",
-          "涩"
+          "苦味"
         ]
       }
     },
@@ -3380,8 +3380,8 @@
         "product": [],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3405,8 +3405,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3432,8 +3432,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3485,8 +3485,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3512,8 +3512,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3591,8 +3591,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3618,8 +3618,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "生椰",
@@ -3650,9 +3650,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "瓶装",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3678,8 +3678,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3731,8 +3731,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶",
@@ -3761,8 +3761,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3788,8 +3788,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -3952,8 +3952,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -4007,8 +4007,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "瓶装",
+          "饮品",
           "即饮"
         ],
         "flavor": [
@@ -4038,13 +4038,13 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "奶茶",
-          "金银花",
-          "枸杞"
+          "枸杞",
+          "金银花"
         ],
         "sensory": [
           "药"
@@ -4071,8 +4071,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4098,8 +4098,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "金银花",
@@ -4128,8 +4128,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4183,8 +4183,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4210,8 +4210,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "茉莉"
@@ -4265,8 +4265,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "椰子",
@@ -4297,8 +4297,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4324,8 +4324,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "茉莉"
@@ -4357,10 +4357,10 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦",
+          "涩",
           "苦涩",
-          "涩"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -4384,8 +4384,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4439,8 +4439,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": [
@@ -4468,8 +4468,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4495,8 +4495,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4522,8 +4522,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4577,17 +4577,17 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
-          "芒果",
           "奶茶",
+          "芒果",
           "茉莉"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -4638,13 +4638,13 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
-          "花草茶",
           "枸杞",
-          "茉莉"
+          "茉莉",
+          "花草茶"
         ],
         "sensory": []
       }
@@ -4669,8 +4669,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4696,13 +4696,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
-          "草本",
           "凉茶",
           "金银花",
+          "草本",
           "茉莉"
         ],
         "sensory": []
@@ -4757,8 +4757,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4784,8 +4784,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "椰子",
@@ -4817,9 +4817,9 @@
           "饮料"
         ],
         "flavor": [
-          "椰子",
           "金银花",
           "椰乳",
+          "椰子",
           "茉莉"
         ],
         "sensory": []
@@ -4872,13 +4872,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
-          "草本",
-          "金银花",
           "枸杞",
+          "金银花",
+          "草本",
           "罗汉果"
         ],
         "sensory": [
@@ -4906,10 +4906,10 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "能量饮料",
           "蛋白",
-          "饮料"
+          "饮料",
+          "饮品",
+          "能量饮料"
         ],
         "flavor": [
           "人参"
@@ -4937,9 +4937,9 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
+          "RTD",
           "瓶装",
-          "RTD"
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -4965,8 +4965,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -4992,8 +4992,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "茉莉"
@@ -5048,8 +5048,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5075,8 +5075,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -5128,8 +5128,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "草本"
@@ -5159,8 +5159,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": [
@@ -5189,8 +5189,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "生椰"
@@ -5219,8 +5219,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "奶茶"
@@ -5251,8 +5251,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5279,8 +5279,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5306,8 +5306,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "茉莉"
@@ -5335,8 +5335,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5362,8 +5362,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -5392,8 +5392,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "枸杞"
@@ -5421,8 +5421,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5500,8 +5500,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5527,8 +5527,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": [
@@ -5557,8 +5557,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "凉茶"
@@ -5612,8 +5612,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -5639,8 +5639,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5667,8 +5667,8 @@
       "matched_keywords": {
         "product": [
           "瓶装",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "草本"
@@ -5698,8 +5698,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -5725,8 +5725,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -5778,16 +5778,16 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
         ],
         "sensory": [
+          "涩",
           "苦",
-          "苦涩",
-          "涩"
+          "苦涩"
         ]
       }
     },
@@ -5811,9 +5811,9 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
           "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -5846,8 +5846,8 @@
           "茉莉"
         ],
         "sensory": [
-          "苦",
-          "涩"
+          "涩",
+          "苦"
         ]
       }
     },
@@ -5871,8 +5871,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -5925,8 +5925,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [
           "罗汉果"
@@ -5956,15 +5956,15 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "蛋白",
+          "饮品",
           "饮料",
           "即饮",
           "胶原蛋白"
         ],
         "flavor": [
-          "草本",
           "菊花",
+          "草本",
           "罗汉果"
         ],
         "sensory": []
@@ -6017,8 +6017,8 @@
       "matched_keywords": {
         "product": [
           "瓶装",
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -6044,8 +6044,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -6071,8 +6071,8 @@
       },
       "matched_keywords": {
         "product": [
-          "即饮",
-          "饮料"
+          "饮料",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -6098,8 +6098,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -6151,9 +6151,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "乳清蛋白",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -6260,8 +6260,8 @@
       "matched_keywords": {
         "product": [
           "乳清蛋白",
-          "即饮",
-          "蛋白"
+          "蛋白",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -6509,9 +6509,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "蛋白",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -6652,9 +6652,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "瓶装",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -6708,10 +6708,10 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料",
+          "Protein",
           "蛋白",
-          "Protein"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -6791,9 +6791,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -6874,9 +6874,9 @@
       "matched_keywords": {
         "product": [
           "饮品",
+          "饮料",
           "即饮",
-          "蛋白",
-          "饮料"
+          "蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -6904,9 +6904,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -7232,13 +7232,525 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "乳清蛋白",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
         ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69fe820900000000350387ae",
+      "title": "香港711依旧权威",
+      "desc": "上架了on的蛋白饮，以前都是喝的蛋白粉，第一次见他们的蛋白饮料#on蛋白粉[话题]# #香港711[话题]# #on蛋白粉双巧[话题]# #香港便利店[话题]##健身饮料[话题]#",
+      "nickname": "红薯菠萝",
+      "note_url": "https://www.xiaohongshu.com/explore/69fe820900000000350387ae?xsec_token=ABfLD6Mmll8zY2uDlMulY3baXEGSPRZ2QCxBMtAWI5onk=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "234",
+      "collected_count": "17",
+      "comment_count": "96",
+      "share_count": "213",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6936768b000000001e00bb65",
+      "title": "自媒体人熬夜写稿保命水！垮脸回弹实录😎",
+      "desc": "今天跟自媒体老友约了个饭\n很开心取了不少经，当然也很开心被夸夸了💕\n\t\n老友说自从做了博主熬夜剪片她都快垮成人精了🫣\n看到我的状态一直问我是不是不熬夜的？一点都不憔悴\n\t\n讲真，自媒体人哪有不熬夜的？🙂‍↔️\n只不过很早之前我就知道\n经常熬夜不采取措施将会一发不可收拾🤯\n\t\n我的熬夜回春水✨【兰艾施余甘子胶原蛋白三肽饮】\n这款蛋白饮真心颠覆我对胶原产品的认知！\n✔️每瓶含15000mg分子量极小的胶原蛋白三肽\n✔️专利双营技术加持，吸收率up！\n✔️IRB双盲实测+SGS检测真实放心\n\t\n👉亲测：灌完一盒，脸居然自己“支棱”起来了！\n真心希望每个自媒体博主都能喝到它！🤩\n#女性成长[话题]# #胶原蛋白[话题]# #胶原蛋白三肽[话题]# #兰艾施NHBFL[话题]# #余甘子胶原蛋白三肽饮品[话题]# #肌肤发光的秘密[话题]# #内服好物[话题]# #保持好气色[话题]# #内外调养好气色[话题]# #养出好气色[话题]#",
+      "nickname": "米特菲巴",
+      "note_url": "https://www.xiaohongshu.com/explore/6936768b000000001e00bb65?xsec_token=ABSLkIYi82H_pDdhePN-7YiPWUbJpQNgacsYs68UFTzsE=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "226",
+      "collected_count": "192",
+      "comment_count": "37",
+      "share_count": "8",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "胶原蛋白",
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a3a2c220000000008033b44",
+      "title": "独居日常｜没人疼就去健身吧 练完浑身疼～",
+      "desc": "#独居[话题]# #vlog[话题]# #健身[话题]# #日常[话题]# #好好生活[话题]##品酷蛋白饮[话题]# #品酷[话题]# #品酷鲜萃蛋白[话题]# #腹肌[话题]# #薄肌男孩[话题]#",
+      "nickname": "周尤",
+      "note_url": "https://www.xiaohongshu.com/explore/6a3a2c220000000008033b44?xsec_token=ABfePCwwqSImqfl2mEEtBnsE0-815na4IQ29mnx7vUTGA=&xsec_source=pc_search",
+      "ip_location": "湖南",
+      "liked_count": "218",
+      "collected_count": "19",
+      "comment_count": "4",
+      "share_count": "11",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "699ec177000000001a02d63b",
+      "title": "闺蜜以为我只是喝果汁…却不曾想...",
+      "desc": "救命！终于搞懂超模们为啥常年身材保持老好了🤯\n根本不是靠饿到头晕眼花，而是每天必喝的果蔬蛋白饮\n悄悄提代代，给身体加点儿燃料！\n\t\n扒了好久明星也在喝的同款，终于在李若彤这里被我挖到宝了！\n就是这款汤臣倍健仙女紫紫条！有它在手，过年大吃大喝真没在怕hhh！！\n在家随手就能做的超模同款果蔬奶昔饮，好喝又方便~\n\t\n懒人版做法直接抄：低糖低卡果蔬榨汁+仙女紫紫条，搅拌均匀就能喝！\n不用复杂步骤，不用额外备料，1 分钟搞定，口感顺滑像奶昔，幸福感拉满～\n\t\n重点夸夸这个紫紫条，成分真的太懂蓬蓬女孩的需求了💥\n\t\n✅500 亿后生元灭活菌B207含量夯爆了！99.99% 直达肠道，线粒体小马达⚡收到📶，这速度跑起来！\n\t\n✅7S 代代蛋白，0 胆固醇的优质蛋白，浓度是普通款的 2.7 倍⚡️护💪🏻～\n\t\n✅三重燃动膳食纤维太会了！嘴馋犯饿时候来一条，馋嘴星人暂时掉线了~\n\t\n大家也可以试试仙女紫紫条+果蔬汁这个邪修组合\n离悄悄变美又前进啦哈哈哈～✨\n\t\n#汤臣倍健蛋白粉[话题]##汤臣倍健仙女紫紫条[话题]##汤臣倍健slimify纤燃能蛋白粉[话题]##汤臣倍健[话题]##超模塑腰秘籍[话题]##果蔬蛋白饮[话题]##好物分享[话题]##低卡饮品[话题]##内服[话题]##内服推荐[话题]##好物推荐[话题]#",
+      "nickname": "奶思兔咪柚🐰",
+      "note_url": "https://www.xiaohongshu.com/explore/699ec177000000001a02d63b?xsec_token=ABXmYuAVQ20LXJcuA5hjaff7_Qcy-lQQ_0TUzi-wGHSQc=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "214",
+      "collected_count": "122",
+      "comment_count": "14",
+      "share_count": "9",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69fae5d40000000037036955",
+      "title": "以为蛋白饮都一样？原来工艺差这么多",
+      "desc": "做了很多功课后才发现，减脂期选蛋白饮，工艺比含量更关键——市面上不少瓶装蛋白饮，本质都是「粉兑水」！\n\t\n先给大家拆解行业普遍工艺：\n大部分品牌先把牛奶制成蛋白粉，再兑水冲调、灭菌灌装。经过高温干燥与二次处理，乳蛋白易变性、营养流失多，通常还需要防腐剂、香精来调整口感，喝起来总有明显工业粉味，减脂期喝着也不安心…\n\t\n而这款品酷鲜萃蛋白Mini，是真正用生牛乳直接做成液体蛋白，从源头锁住新鲜，专为科学减脂、控体朋友看过来👇\n\t\n🔬 核心差异：从牧场到成品，全程液态鲜萃\n1️⃣ 100%生牛乳起步，新鲜直达\n原料用限定专属牧场直采生鲜牛乳，非复原乳、非奶粉冲调，从源头保持原生鲜活状态。\n2️⃣ 50℃- 72℃低温物理膜分离液态蛋白浓缩技术\n直接从鲜奶中浓缩乳蛋白，全程不高温、不干燥、不变粉，最大程度保留蛋白活性与氨基酸完整度。\n3️⃣ 无菌冷灌装，配方更干净\n低温无菌锁鲜，真正做到配料极简，零乳糖，搭配真实果酱，清爽不齁甜，无工业粉感。\n4️⃣ 严格品控，吸收更高效\n每批次经过规范检测，蛋白含量真实，易被身体吸收利用，减脂期补充更安心。\n\t\n💡 为什么科学减脂党更适合品酷鲜萃蛋白Mini？\n做功课时才真正弄懂：\n\t\n✅ 高蛋白更抗饿：每瓶18g优质蛋白，饱腹感强，稳稳守住热量缺口，减少暴食冲动。\n✅ 轻卡低脂无负担：低脂低卡低碳水，严格控卡、碳循环、减脂期都能放心喝。\n✅ 0乳糖0蔗糖更友好：不添多余糖分，去乳糖配方，乳糖不耐、肠胃敏感也无压力。\n✅ 吸收更清爽：鲜萃蛋白活性高，不黏腻不胀肚，运动后喝不拖减脂后腿。\n✅ 便携不麻烦：开瓶即饮，不用冲粉洗杯，减脂党随时随地都能干净补蛋白。\n\t\n科学减脂的核心：吃得干净、补得精准、无多余负担。\n这款全程液态鲜萃的蛋白饮，把减脂期需要的“高蛋白、低负担、好吸收、口感佳”全部拉满，训练后、早餐、加餐都适配，减脂不掉肌肉、不委屈味蕾。\n\t\n#蛋白饮测评[话题]# #鲜萃蛋白[话题]# #控卡饮品[话题]# #成分党好物[话题]# #品酷蛋白饮[话题]##品酷[话题]##品酷鲜萃蛋白Mini[话题]#",
+      "nickname": "晚小婉",
+      "note_url": "https://www.xiaohongshu.com/explore/69fae5d40000000037036955?xsec_token=ABXdpaIMA5Rgequoh0xkZkLBcdk8p5CqlL3pPzNKDazTA=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "211",
+      "collected_count": "101",
+      "comment_count": "20",
+      "share_count": "3",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "瓶装",
+          "饮品",
+          "即饮",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69c492050000000023014837",
+      "title": "🇦🇺172/92💦分享一个我常年喝的“掉称水”～",
+      "desc": "不管什么时期补充蛋白质都是很重要的，它能最大限度维持我们的基础代谢水平，所以当我们吃不够每公斤*1.5g蛋白质时，用蛋白粉来快速补充也是一个可选项[两颗心R]\n\t\n#vlog[话题]# #减肥[话题]# #小基数减肥[话题]##液断[话题]# #自律[话题]# #快乐减脂水[话题]# #掉秤不掉营养[话题]# #减肥打卡[话题]##低卡饮料[话题]# #减肥食谱分享[话题]#",
+      "nickname": "阿蔓_",
+      "note_url": "https://www.xiaohongshu.com/explore/69c492050000000023014837?xsec_token=ABgSNRrbi_RGNken6PVsGIy1XBMVnWF1S5uY-lIWCZw80=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "210",
+      "collected_count": "52",
+      "comment_count": "2",
+      "share_count": "5",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "693a95d0000000001e027440",
+      "title": "甲流肆虐，这份礼物让爸妈底气十足！",
+      "desc": "加上最近甲流真的超凶！传播快、中招难受，好多年轻人都扛不住，更别说咱爸妈了💦\n再不把免疫力武装起来，真放心不下……\n网上翻了一圈，速速给爸妈安排了汤臣倍健金装蛋白粉，健康保卫战正式打响💪\n\t\n✅含有免疫球蛋白和18种氨基酸\n搭配小蓝帽认证，好营养强免疫，\n专业增强免疫力，把防御塔直接焊在身上！\n✅83%高蛋白含量\n一勺下去，满满都是真材实料的蛋白质，营养不兑水，补得够实在！\n✅蛋白质真消化率>94%\n喝进去等于补进去\n身体秒认领，不浪费每一分营养🆙\n✅15s速溶不结块\n溶解速度堪比黑科技\n轻松get一杯丝滑蛋白饮，爸妈冲泡、饮用不费劲~\n✅专利高盖+易撕拉膜\n锁鲜防潮设计真的爱了，高密封性，即使在南方也不怕粉结块了~\n\t\n现在甲流这么嚣张，营养防御必须走在前面！\n赶紧给爸妈把营养补上，增强免疫力，不让甲流有可乘之机！\n#汤臣倍健金装蛋白粉[话题]# #蛋白粉[话题]# #汤臣倍健[话题]# #流感[话题]# #甲流[话题]# #长辈送礼[话题]#  #流感怎么防[话题]# #如何提高免疫力[话题]# #增强免疫力[话题]# #汤臣倍健蛋白粉[话题]#",
+      "nickname": "是天天呀💖",
+      "note_url": "https://www.xiaohongshu.com/explore/693a95d0000000001e027440?xsec_token=ABOoBwYOiz9YEMXPUOtFLRwerrBH-sLJGM4gPQD_DoiMs=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "207",
+      "collected_count": "137",
+      "comment_count": "2",
+      "share_count": "10",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a3092a600000000110067e7",
+      "title": "全家都在喝的OSHICAR分离乳清蛋白粉",
+      "desc": "带娃忙到孩子上学后，我大多时间坐着休息，平日里出门走几步就容易浑身发软没力气。找了很久温和的蛋白补给，终于挖到这款OSHICAR分离乳清蛋白粉，一家人都在日常喝，用来补足饮食里缺的蛋白质刚刚好。\n它采用无乳糖、无蔗糖、无大豆蛋白配方，我本身肠胃偏弱，每天一袋喝着挺舒服，不会觉得胀气，长期喝也能温和呵护肠胃。蛋白质补足之后，整个人精气神看着都清爽了不少。\n配料干净，没有多余添加剂，含有88%高纯度蛋白，还包含18种人体必需氨基酸。平时家常菜很难吃够足量蛋白，用它刚好填补营养缺口，营养搭配很全面。\n分离乳清的质地相对更好吸收，温水一冲就能溶解开，淡淡的天然奶香，没有难闻的腥味。早上空腹、饭后或是出门散步回来冲一杯，简单省事。\n不靠它快速改善身体，只是踏踏实实补上日常缺失的蛋白。坚持喝一段时间，明显感觉体力稳定了不少，老人、家里年轻人都能喝，是适合全家的日常营养小帮手。\n#蛋白粉[话题]# #蛋白补充新方式[话题]# #平衡营养更好状态上场[话题]#\n#营养全面守护[话题]# #健康活力每一天[话题]# #全家营养首选[话题]#\n#OSHICAR分离乳清蛋白粉[话题]# #oshicar分离乳清蛋白粉[话题]# #oshicar[话题]# #OSHICAR蛋白粉[话题]#",
+      "nickname": "64年的 贝拉",
+      "note_url": "https://www.xiaohongshu.com/explore/6a3092a600000000110067e7?xsec_token=AByyrpKXTyyotr6ttyihWaURUaD2XdsPlucQCuo5T_eK0=&xsec_source=pc_search",
+      "ip_location": "江苏",
+      "liked_count": "199",
+      "collected_count": "28",
+      "comment_count": "55",
+      "share_count": "",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "乳清蛋白",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6886e0ff000000002400a245",
+      "title": "💥运动营养宝藏：圣元老君堂液体蛋白✨",
+      "desc": "[种草R]下班后一直坚持每天跑步，也结识了好多跑友，坐在街心公园长椅上休息时，有跑友问我，每天跑步，你累不累？\n[种草R]\n她说她跑一天休一天，感觉体力跟不上，我从随身带的包里给她拿了一瓶，液体蛋白特殊膳食，告诉她这个就是支撑我每天跑下去的法宝。\n[种草R]\n两周后的一天，跑步又遇见了她，面色红润，老远就给我打招呼，说自从安利了这款，液体蛋白特殊膳食，感觉像充足了电，每天跑甩下水下好多人在身后，很骄傲的表情里带着一份可爱[飞吻R]\n[种草R]\n这款液体蛋白特殊膳食，锻炼的人可以喝，体弱多病的老人也可以喝，性价比很高，周末回家，不知道给父母买啥的，就安利这一款吧\n[种草R]\n这款圣元老君堂，液体蛋白特殊膳食的外包装也惊艳到了我，除了旅游，跑步补充营养，还是在外拍照的好道具，看照片上的我喝的多开心呀[[大笑R]\n[种草R]\n浓缩牛奶蛋白+原生乳钙，0蔗糖无负担🥛\n15g蛋白质补给，红枣味超适口🍒\n运动党/营养补充刚需速锁，补蛋白选它准没错‼️\n#圣元老君堂蛋白饮[话题]# #圣元老君堂[话题]##圣元老君堂液体蛋白[话题]##蛋白饮[话题]##蛋白质[话题]##蛋白质补充[话题]##中老年健康[话题]##父母健康[话题]##圣元老君堂蛋白饮[话题]#",
+      "nickname": "氛围组大队长",
+      "note_url": "https://www.xiaohongshu.com/explore/6886e0ff000000002400a245?xsec_token=AB-Y-Q5bOXE5Uc-_GyEAvZW7KiuGC044JAFMGZCaDzr7U=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "190",
+      "collected_count": "31",
+      "comment_count": "96",
+      "share_count": "3",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69548fcc000000001f00c1cf",
+      "title": "我悟了！产后补胶原蛋白真的不是智商税",
+      "desc": "自从生娃之后，几乎花光了我所有的精力，带娃、工作、家务，就是整个生活，对自己的关心少之又少，没有时间去护肤保养，时间久了一脸“妈味”，看起来苍老好几岁……\n前试过不少大牌精华，效果有限，花的钱都浪费了，现在转喝内服胶原蛋白肽了，问喝过胶原蛋白肽的朋友，都劝我别选液体的胶原蛋白肽，大多都加调味剂、赤藓糖醇、增稠剂的，喝多了可能有副作用，我就提前避雷了\n想一步到位就选了成分稳定的Zammex水解胶原蛋白肽，成分是纯牛胶原，额外复配了多种氨基酸，胶原做成了好吸收的水解小分子肽！\n我就每天早起空腹一勺，晚上睡前再来一勺就可以补足20000mg牛胶原蛋白，同时补充的Ⅰ型和Ⅲ型胶原蛋白，不仅可以增加皮肤弹性还可以给皮肤做支撑，让皮肤饱满不松垮，还有一点让我很放心的是，它0脂0糖0添加，我们当妈的最怕产后身材走样，这个完全没负担，长期吃也不用担心发胖，成分干净，就是纯粹的胶原蛋白，没有乱七八糟的添加剂\n每天2勺喝了大概喝了1个月，感觉熬夜垮掉的面中支棱起来，毛孔都跟着嘶溜收紧，素颜摸起来滑得像抛过光！！法令纹、泪沟像被无形手往上提拉，轮廓看着都被拽紧了！每天打卡上钟精气神都足足的，同事还问我是不是做保养了，咋每天都红光满面气色这么好~\n我喝着是真心不错，还打算等着回购一些呢~看还有鱼胶原的也来一桶试试 #Zammex水解海洋胶原蛋白肽[话题]#，最后真心想说，选内服不一定要贵，但一定要合适！高含量+好吸收+成分干净，这几点对我来说最重要\n#宝妈[话题]##补胶原[话题]##抗衰老[话题]##Zammex[话题]##Zammex水解胶原蛋白肽[话题]##法令纹[话题]##Zammex水解海洋胶原蛋白肽[话题]##女性健康[话题]##女性保养[话题]##内服[话题]#",
+      "nickname": "肉肉果冻煊（家有小月龄）",
+      "note_url": "https://www.xiaohongshu.com/explore/69548fcc000000001f00c1cf?xsec_token=ABJwuzM5lfzxHUoSatDywfH-Tc7HT-pQ7LjQz6PY3s9Xw=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "180",
+      "collected_count": "33",
+      "comment_count": "8",
+      "share_count": "7",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "胶原蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69b0e2cb000000000b036cd9",
+      "title": "蛋白奶昔",
+      "desc": "#营养代餐[话题]# #陈畅bil[话题]#",
+      "nickname": "陈畅bil",
+      "note_url": "https://www.xiaohongshu.com/explore/69b0e2cb000000000b036cd9?xsec_token=ABVIh_3YFZkzLcQ4no6mW6GW3d6gL2a4Y3jdMzayR2aKA=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "178",
+      "collected_count": "30",
+      "comment_count": "10",
+      "share_count": "13",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6938e43e000000001d039a42",
+      "title": "30+内服抗衰新思路!胶原蛋白肽真的好顶!",
+      "desc": "30岁之后明显感觉皮肤在悄悄下坡\n尤其是加班熬夜，皮肤不仅暗沉松弛，细纹频出\n那个脸真的是不忍直视...\n这两年试过不少K老护肤品\n感觉没啥太大用处，光靠护肤品的修修补补，真的追不上胶原蛋白流失的速度，治标不治本!\n\t\n幸亏朋友推~荐水颜诗悦胶原蛋白饮\n不得不说，坚持了一段时间，效果真的让人惊喜!\n毕竟入口的东西，在成分和原料这块我仔细做过功课\n而且从成分到口感体验，真的很在线\n里面足足添加6000mg鱼胶原蛋白肽\n小分子肽吸收率嘎嘎高，喝多少补多少\n再加上烟酰胺成分加持\n兜住疲态和熟龄肌的各种小情绪不在话下\n\t\n入口是清甜的荔枝味儿\n就想喝小果汁一样很好坚持\n喝空2盒之后感觉皮肤真的有在慢慢变好\n脸颊更加饱满，下颚线更显紧致，透着那种通透的光泽感!\n素颜都敢自信出门!\n\t\n内服胶原的含金量不用我多说\n现在才体会真正会保养的人，都在走“内外兼修”的路子!\n\t\n#内调[话题]# #胶原蛋白肽[话题]# #内调外养[话题]##SKNPOP水颜诗悦胶原蛋白饮[话题]#  #胶原蛋白哪个牌子好[话题]# #胶原蛋白肽推荐[话题]# #喝出好状态[话题]#",
+      "nickname": "情感小可乐",
+      "note_url": "https://www.xiaohongshu.com/explore/6938e43e000000001d039a42?xsec_token=ABVZM_k9zHtsrs3noaSEDubts7TD9Z5NiXytHAPs8wSB8=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "175",
+      "collected_count": "111",
+      "comment_count": "12",
+      "share_count": "5",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "胶原蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69d343a9000000001f004d15",
+      "title": "熬夜党狂喜！素颜也能被夸皮肤好，全靠它✨",
+      "desc": "最近追剧+赶工，天天熬到两三点，脸又黄又垮，化妆都遮不住疲惫感😭\n姐妹给我塞了一盒胶原饮，小小一支放包里，出门带着超方便～\n开盖是菠萝+猕猴桃+柠檬的酸甜，像喝果味饮料，一点腥味都没有，不知不觉就坚持下来了🍍🥝🍋\n100ml足足16000mg鱼胶原蛋白三肽，小分子好吸收，还加了专利牡丹肽、白番茄、太空菌，再配上烟酰胺、vc、口服玻尿酸和虾青素，一边补一边锁，提亮抗氧一步到位💪\n喝了大半个月，照镜子惊了！熬夜暗沉褪了不少，皮肤变得水嫩透亮，现在出门经常被夸“你素颜好绝”🌟\n别问，问就是熬夜党的自救神器，姐妹们闭眼冲！\n\t\n#养出素颜好气色[话题]# #拥有好气色[话题]# #抗氧化提亮[话题]# #内调外用好气色[话题]# #胶原蛋白[话题]# #好物[话题]# #喝出好状态[话题]# #胶原三肽[话题]#",
+      "nickname": "🍋柠檬很甜",
+      "note_url": "https://www.xiaohongshu.com/explore/69d343a9000000001f004d15?xsec_token=ABbidH1k7jGi19ydP_KrbvwgT-IutVO2e5uhYEbLwmmSw=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "200",
+      "collected_count": "116",
+      "comment_count": "14",
+      "share_count": "4",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮料",
+          "胶原蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69ec691f000000003502edd0",
+      "title": "游完泳摄入20g蛋白质",
+      "desc": "网上刷到好多次这个高蛋白拿铁了\n喝起来甜滋滋的\n不知道甜味哪来的\n今天的互联网我依旧不在意任何人",
+      "nickname": "不爱上班",
+      "note_url": "https://www.xiaohongshu.com/explore/69ec691f000000003502edd0?xsec_token=AB8eq8CvUbwKitPCxTUO-Vpn3gCcM2cTQrbnr2epSQYEI=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "169",
+      "collected_count": "7",
+      "comment_count": "21",
+      "share_count": "6",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "682c4211000000002202dc32",
+      "title": "618又囤了好几盒！果然美女都是养出来的😍",
+      "desc": "自从过了25\n整个状态都大不如前🥹\n稍微一熬夜脸上就写满了憔悴\n嘴角的小括号越来越深 仿佛一夜\n老了好几岁😭😭\n用过不少贵价护肤品 都收效甚微\n做了好多功课才知道 结合内服才能事半功倍！！\n.\n我锁定的宝藏是\n五个女博士胶原蛋白肽\n北大五个女博士的研发实力和专业度根本没话说\n成分配方都经得起比较👍\n每瓶有8000mg胶原蛋白肽+100mg弹性蛋白肽\n用的还都是分子量<1000道尔顿的小分子低聚肽\n吸收效率超级牛 双肽的搭配效果是1+1>2的\n加上自研的“胶原护盾”技术\n添加专利原料CollaShieldPro®减少胶原流失\n（发明专利号:ZL 2022 1 0608037.7）\n补得多漏的少，胶原自然能满满当当\n里面还添加了三重玻尿酸成分\n100mg透明质酸钠+500mg壳寡糖+100mgEGCG\n开源节流 填补熟龄肌的玻尿酸缺口\n一瓶搞定两种需求，状态想不好都难\n·\n喝起来是酸酸甜甜的枇杷果汁味儿！\n没有腥味和怪味，很好入口！\n出门在外 带上一瓶放在包里 很方便\n还是0脂肪 0激素 0防腐剂的\n减脂期也能放心喝😎\n坚持喝了两个月，真有胶原满满的感觉\n素颜出门都没在怕的！小脸气色好好\n安利给熟龄女性、特别是常加班熬夜👭🏻\n内调➕外养\n气色由内而外的越来越好！！\n.\n#内调[话题]# #内服好物[话题]# #五个女博士[话题]# #胶原蛋白肽[话题]# #内服保养[话题]# #内调外养[话题]# #五个女博士胶原蛋白肽[话题]#  #内调好气色[话题]# #内服推荐[话题]# #胶原蛋白肽饮[话题]#",
+      "nickname": "小熊🐻",
+      "note_url": "https://www.xiaohongshu.com/explore/682c4211000000002202dc32?xsec_token=ABzqz3prRo7O4yQcMdKkH4GnHXUa2ZqNjgZX8QmLv7zoc=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "157",
+      "collected_count": "105",
+      "comment_count": "17",
+      "share_count": "28",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "胶原蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69d726d4000000001a02049f",
+      "title": "35岁，脸蛋才是女生最好的风水",
+      "desc": "过了三十五岁渐渐明白，\n真正的风水，不在外求，而在自己脸上。\n\t\n每天清晨，从包里摸出那支实验室胶原蛋白三肽，成了我的“刷新仪式”。\n清甜果蔬味滑过喉咙，小分子直抵肌底——像给身体按下一个温柔的刷新键，内在与外在，同步重启。\n除了一贯的抗氧化防护，我开始认真对待胶原蛋白这件事。\n不是盲目跟风，而是懂得：好气色，从来不是粉底给的，而是由内透出来的光。\n小小一支，塞进口袋就能出门。\n通勤路上、加班间隙，\n随时为自己补充一份“能量底妆”。\n\t\n所谓保养，不过是把对外的精致，\n分一点给内在的自己。\n当脸蛋透出自然的光泽，\n你会发现，运气真的会变好。\n#女性成长[话题]# #保持年轻的秘密[话题]# #女生保养日常[话题]# #她的实验室[话题]# #胶原蛋白肽[话题]# #护肤分享[话题]# #养出素颜好气色[话题]#",
+      "nickname": "是个郑方行呀",
+      "note_url": "https://www.xiaohongshu.com/explore/69d726d4000000001a02049f?xsec_token=ABYxF2KTrpclw2WHtKx_C83C4HQ_Y46v-kfQy915BJt94=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "184",
+      "collected_count": "75",
+      "comment_count": "30",
+      "share_count": "2",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "胶原蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69e0534f0000000022001f3e",
+      "title": "精致姐妹闭眼入的好喝胶原蛋白饮🧃",
+      "desc": "最近被这款口感惊艳的蛋白饮被狠狠拿捏了！\n鱼胶原三肽，小分子好吸收搭配专利牡丹肽、白番茄粉和太空菌，还有烟酰胺、Vc、玻尿酸和虾青素，🍅番茄口味酸酸甜甜，挺好喝。\n每天一支，轻松变美～出门带着也方便\n坚持喝皮肤又嫩又亮，素颜都有光泽感！\n精致女孩闭眼冲😎#胶原蛋白肽[话题]# #喝出来的美丽健康[话题]# #喝出好状态[话题]# #喝出好肤色[话题]##保持好气色[话题]# #越喝越漂亮[话题]#",
+      "nickname": "博哥在这里",
+      "note_url": "https://www.xiaohongshu.com/explore/69e0534f0000000022001f3e?xsec_token=ABqOJqNVLwQbtsXdQSLAusXBPjx3MvybCFAodwxxOt7pQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "149",
+      "collected_count": "104",
+      "comment_count": "10",
+      "share_count": "3",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "胶原蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a2bd9830000000006037621",
+      "title": "又喝到了免费蛋白饮料",
+      "desc": "被pua到给个蛋白饮料都觉得赚到了 这里不能弄个gymlib一样的东西吗[失望R]",
+      "nickname": "Ryokan",
+      "note_url": "https://www.xiaohongshu.com/explore/6a2bd9830000000006037621?xsec_token=ABBQfiiqCxmcKS-JvazZ6MOfVd-e2Kr7nL9yjTRIOkinI=&xsec_source=pc_search",
+      "ip_location": "澳大利亚",
+      "liked_count": "154",
+      "collected_count": "5",
+      "comment_count": "4",
+      "share_count": "4",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a17fecc0000000035030384",
+      "title": "25岁后别硬撑！这瓶胶原我没白喝💯",
+      "desc": "25岁后真的不敢放肆熬夜了\n脸一垮瞬间老五岁😐\n而且脸又油又糙 底妆两小时就浮粉\n试过各种贵妇面霜 最后还是被内调圈了粉\n开始喝Lumi小红管了！\n\t\n喝了快一个月 真心话：这才叫有效k初老\n每瓶6000mg小分子鱼胶原➕100mg弹性蛋白肽\n足量双肽搭配，就是让脸自己支棱起来 不用靠护肤品硬撑👍\n最惊喜的是脸变紧致了 下颌线都清晰了一些\n熬夜后第二天起床 脸上不会暗沉浮肿 反而透着自然光泽\n\t\n而且Lumi做胶原真的做了快20年了\n胶原圈老玩家级别的\n用料一直很舍得下本 喝起来心里贼踏实～\n小小一支 随手放包里\n空腹喝吸收很快 口感像果汁一样好喝\n0蔗糖0脂肪 控糖党喝起来毫无负担✨\n\t\n想养出好气色的姐妹信我！\nLumi小红管是真的值得试一试～\n内调真比涂什么都管用💪\n\t\n#Lumi胶原蛋白肽[话题]# #Lumi[话题]# #Lumi双肽小红管[话题]##垮脸急救[话题]# #内调养肤[话题]##内服好物[话题]##保持好气色[话题]##女生保养日常[话题]##喝出好状态[话题]##胶原蛋白[话题]#",
+      "nickname": "快醒醒醒醒🥕",
+      "note_url": "https://www.xiaohongshu.com/explore/6a17fecc0000000035030384?xsec_token=AB5mK8Gl4EMJnLu1K2uYDVUAu2CjsqbL007lxbc6y4nfo=&xsec_source=pc_search",
+      "ip_location": "上海",
+      "liked_count": "159",
+      "collected_count": "134",
+      "comment_count": "17",
+      "share_count": "7",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "胶原蛋白"
+        ],
+        "flavor": [],
         "sensory": []
       }
     }
@@ -10916,9 +11428,9 @@
         "product": [],
         "flavor": [],
         "sensory": [
+          "涩",
           "苦",
-          "苦涩",
-          "涩"
+          "苦涩"
         ]
       }
     },
@@ -11720,8 +12232,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "椰子",
-          "椰汁"
+          "椰汁",
+          "椰子"
         ],
         "sensory": []
       }
@@ -14002,6 +14514,356 @@
       "matched_keywords": {
         "product": [
           "protein"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "688b03ab000000002b00ae9a",
+      "note_id": "6886dfdd000000001c0354bc",
+      "content": "优质蛋白特别重要！好分享[抱拳R][红色心形R]",
+      "nickname": "什么时候开始都不晚",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "2",
+      "parent_post_title": "50'+姐姐｜我的摄影好搭档",
+      "parent_post_desc": "姐妹们  退休不是躺平\n是我摄影人生的高光时刻！\n天天扛着“长枪短炮”在外采风，\n作品能被你们喜欢  真的超开心！\n\t\n好多姐妹私信问我：\n姐姐，你这体能也太绝了吧？\n爬山涉水 拍照一整天都不累？\n怎么保养的呀？\n\t\n说实话\n人到中老年 拼的不是财富\n是身体无恙 精力充沛！\n想跟我一样活力满满\n扛着相机走天下？\n我的秘诀就三点：\n\t\n1⃣ 牛奶🥛、鸡蛋🥚、牛肉🥩、豆制品、鱼虾🐟...\n高蛋白食物天天见！它们是肌肉的“砖瓦”\n没它们真不行！\n2⃣ 有氧+力量不能少！\n跑步、瑜伽、快走，保持心肺活力\n状态自然年轻🏃‍♀\n力量别偷懒！ 哑铃练上肢，杠铃练下肢\n慢慢加码，增肌才会腿脚有力！肌肉多了\n代谢快，力气足，背相机都轻松！\n3⃣ 户外拍摄、徒步旅行，吃饭不规律是常事\n就怕蛋白有缺口！我的包里常年揣着\n【圣元老君堂液体蛋白】它就是我的\n“便携充电宝”！\n\t\n有姐妹问我 为啥选它？\n方便携带 开盖直接喝  随时补充\n一瓶才168ml，塞包里毫无压力🎒\n尤其适合我们这种在外奔波的人\n不用冲泡  不耽误创作！\n\t\n一瓶就有15g优质蛋白\n配方干净，而且低脂轻负担\n运动后或两餐之间来一瓶\n0乳糖0蔗糖  像我这样乳糖不耐受的\n也能放心吨吨吨~\n\t\n最近跟老姐妹们出去采风好几天\n爬山涉水拍日出追日落🌄\n她们都累得够呛\n就我还跟没事儿人似的\n她们直呼羡慕！\n我心里那个美啊😄！\n\t\n掏心窝子的话：\n姐妹们，年纪上来了\n真得“防患于未然”！\n别等腿脚没劲了才着急\n提前把营养基础打好\n尤其是蛋白质补到位了\n身体这台“机器”运转顺畅了\n干啥都有劲！\n\t\n#圣元老君堂液体蛋白[话题]##蛋白饮[话题]##蛋白质[话题]##蛋白质补充[话题]##中老年健康[话题]##圣元老君堂蛋白饮[话题]##退休生活[话题]# #中老年摄影[话题]# #摄影爱好者[话题]# #健康保养[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "688b4906000000002a002c78",
+      "note_id": "6886dfdd000000001c0354bc",
+      "content": "这个年龄 我们用优质蛋白充电",
+      "nickname": "听海时光",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "50'+姐姐｜我的摄影好搭档",
+      "parent_post_desc": "姐妹们  退休不是躺平\n是我摄影人生的高光时刻！\n天天扛着“长枪短炮”在外采风，\n作品能被你们喜欢  真的超开心！\n\t\n好多姐妹私信问我：\n姐姐，你这体能也太绝了吧？\n爬山涉水 拍照一整天都不累？\n怎么保养的呀？\n\t\n说实话\n人到中老年 拼的不是财富\n是身体无恙 精力充沛！\n想跟我一样活力满满\n扛着相机走天下？\n我的秘诀就三点：\n\t\n1⃣ 牛奶🥛、鸡蛋🥚、牛肉🥩、豆制品、鱼虾🐟...\n高蛋白食物天天见！它们是肌肉的“砖瓦”\n没它们真不行！\n2⃣ 有氧+力量不能少！\n跑步、瑜伽、快走，保持心肺活力\n状态自然年轻🏃‍♀\n力量别偷懒！ 哑铃练上肢，杠铃练下肢\n慢慢加码，增肌才会腿脚有力！肌肉多了\n代谢快，力气足，背相机都轻松！\n3⃣ 户外拍摄、徒步旅行，吃饭不规律是常事\n就怕蛋白有缺口！我的包里常年揣着\n【圣元老君堂液体蛋白】它就是我的\n“便携充电宝”！\n\t\n有姐妹问我 为啥选它？\n方便携带 开盖直接喝  随时补充\n一瓶才168ml，塞包里毫无压力🎒\n尤其适合我们这种在外奔波的人\n不用冲泡  不耽误创作！\n\t\n一瓶就有15g优质蛋白\n配方干净，而且低脂轻负担\n运动后或两餐之间来一瓶\n0乳糖0蔗糖  像我这样乳糖不耐受的\n也能放心吨吨吨~\n\t\n最近跟老姐妹们出去采风好几天\n爬山涉水拍日出追日落🌄\n她们都累得够呛\n就我还跟没事儿人似的\n她们直呼羡慕！\n我心里那个美啊😄！\n\t\n掏心窝子的话：\n姐妹们，年纪上来了\n真得“防患于未然”！\n别等腿脚没劲了才着急\n提前把营养基础打好\n尤其是蛋白质补到位了\n身体这台“机器”运转顺畅了\n干啥都有劲！\n\t\n#圣元老君堂液体蛋白[话题]##蛋白饮[话题]##蛋白质[话题]##蛋白质补充[话题]##中老年健康[话题]##圣元老君堂蛋白饮[话题]##退休生活[话题]# #中老年摄影[话题]# #摄影爱好者[话题]# #健康保养[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a2276ca0000000023002f07",
+      "note_id": "6a165d070000000008001272",
+      "content": "坚持高蛋白，再配合简单运动一个月，状态真的不一样。有时候一天不吃东西只吃这个也不会心慌了，日常补蛋白很够用",
+      "nickname": "Stray",
+      "ip_location": "湖南",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "入夏前逆袭！坚持运动+补蛋白30天好惊喜..",
+      "parent_post_desc": "以前只顾着埋头运动\n练完随手喝咖啡、喝奶茶\n练了许久肉肉依旧松垮\n脸蛋也干巴巴没气色\n后来营养师跟我说补蛋白质才是关键！\n\t\n给我推荐了这个fiboo爆料蛋白粉\n运动后喝一杯 香蕉奶香口感顺滑\n✅ 8 种真材实料爆料，口感层次丰富，解馋不输奶茶\n✅ 13.5%高膳食纤维，饱腹感十足，管住嘴更轻松\n✅ 双重乳清蛋白，吸收快\n一杯蛋白营养抵 7 杯牛奶，热量却只相当于半个苹果，控体毫无负担\n0香精0色素，配料干净，长期喝特别安心\n\t\n想在夏天惊艳亮相的姐妹\n运动 + 补蛋白这个组合一定要锁死！\n﻿#入夏逆袭[话题]#﻿ ﻿#运动补蛋白[话题]#﻿ ﻿#自律打卡[话题]#﻿ ﻿#fiboo蛋白粉[话题]#﻿ ﻿#高蛋白饮品[话题]#﻿ ﻿#蛋白质[话题]#﻿ ﻿#补蛋白[话题]#﻿ ﻿#fiboo爆料蛋白粉[话题]#﻿ ﻿#蛋白粉推荐[话题]#﻿ ﻿#蛋白粉女生[话题]#﻿",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a2276c9000000002300e34d",
+      "note_id": "6a165d070000000008001272",
+      "content": "每次运动后30分钟都搭配这个蛋白粉喝，体脂下降好明显！线条也慢慢出来了！一勺补充蛋白质，再也不用吃鸡胸肉啦，饱腹感也强，睡前不饿，推荐推荐",
+      "nickname": "绵绵冰不加冰",
+      "ip_location": "湖南",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "入夏前逆袭！坚持运动+补蛋白30天好惊喜..",
+      "parent_post_desc": "以前只顾着埋头运动\n练完随手喝咖啡、喝奶茶\n练了许久肉肉依旧松垮\n脸蛋也干巴巴没气色\n后来营养师跟我说补蛋白质才是关键！\n\t\n给我推荐了这个fiboo爆料蛋白粉\n运动后喝一杯 香蕉奶香口感顺滑\n✅ 8 种真材实料爆料，口感层次丰富，解馋不输奶茶\n✅ 13.5%高膳食纤维，饱腹感十足，管住嘴更轻松\n✅ 双重乳清蛋白，吸收快\n一杯蛋白营养抵 7 杯牛奶，热量却只相当于半个苹果，控体毫无负担\n0香精0色素，配料干净，长期喝特别安心\n\t\n想在夏天惊艳亮相的姐妹\n运动 + 补蛋白这个组合一定要锁死！\n﻿#入夏逆袭[话题]#﻿ ﻿#运动补蛋白[话题]#﻿ ﻿#自律打卡[话题]#﻿ ﻿#fiboo蛋白粉[话题]#﻿ ﻿#高蛋白饮品[话题]#﻿ ﻿#蛋白质[话题]#﻿ ﻿#补蛋白[话题]#﻿ ﻿#fiboo爆料蛋白粉[话题]#﻿ ﻿#蛋白粉推荐[话题]#﻿ ﻿#蛋白粉女生[话题]#﻿",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a1e380400000000270213f4",
+      "note_id": "6a165d070000000008001272",
+      "content": "健身这两年蛋白粉没断过，头发都好了不少",
+      "nickname": "圆圆",
+      "ip_location": "天津",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "入夏前逆袭！坚持运动+补蛋白30天好惊喜..",
+      "parent_post_desc": "以前只顾着埋头运动\n练完随手喝咖啡、喝奶茶\n练了许久肉肉依旧松垮\n脸蛋也干巴巴没气色\n后来营养师跟我说补蛋白质才是关键！\n\t\n给我推荐了这个fiboo爆料蛋白粉\n运动后喝一杯 香蕉奶香口感顺滑\n✅ 8 种真材实料爆料，口感层次丰富，解馋不输奶茶\n✅ 13.5%高膳食纤维，饱腹感十足，管住嘴更轻松\n✅ 双重乳清蛋白，吸收快\n一杯蛋白营养抵 7 杯牛奶，热量却只相当于半个苹果，控体毫无负担\n0香精0色素，配料干净，长期喝特别安心\n\t\n想在夏天惊艳亮相的姐妹\n运动 + 补蛋白这个组合一定要锁死！\n﻿#入夏逆袭[话题]#﻿ ﻿#运动补蛋白[话题]#﻿ ﻿#自律打卡[话题]#﻿ ﻿#fiboo蛋白粉[话题]#﻿ ﻿#高蛋白饮品[话题]#﻿ ﻿#蛋白质[话题]#﻿ ﻿#补蛋白[话题]#﻿ ﻿#fiboo爆料蛋白粉[话题]#﻿ ﻿#蛋白粉推荐[话题]#﻿ ﻿#蛋白粉女生[话题]#﻿",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69ffde5f0000000028037b1a",
+      "note_id": "69fe820900000000350387ae",
+      "content": "好希望内地可以引进啊，冲蛋白粉太麻烦了",
+      "nickname": "防弹小超人",
+      "ip_location": null,
+      "like_count": "7",
+      "sub_comment_count": "9",
+      "parent_post_title": "香港711依旧权威",
+      "parent_post_desc": "上架了on的蛋白饮，以前都是喝的蛋白粉，第一次见他们的蛋白饮料#on蛋白粉[话题]# #香港711[话题]# #on蛋白粉双巧[话题]# #香港便利店[话题]##健身饮料[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6937af76000000001d025a78",
+      "note_id": "6936768b000000001e00bb65",
+      "content": "可不可以兑在饮料里喝",
+      "nickname": "橙儿",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "自媒体人熬夜写稿保命水！垮脸回弹实录😎",
+      "parent_post_desc": "今天跟自媒体老友约了个饭\n很开心取了不少经，当然也很开心被夸夸了💕\n\t\n老友说自从做了博主熬夜剪片她都快垮成人精了🫣\n看到我的状态一直问我是不是不熬夜的？一点都不憔悴\n\t\n讲真，自媒体人哪有不熬夜的？🙂‍↔️\n只不过很早之前我就知道\n经常熬夜不采取措施将会一发不可收拾🤯\n\t\n我的熬夜回春水✨【兰艾施余甘子胶原蛋白三肽饮】\n这款蛋白饮真心颠覆我对胶原产品的认知！\n✔️每瓶含15000mg分子量极小的胶原蛋白三肽\n✔️专利双营技术加持，吸收率up！\n✔️IRB双盲实测+SGS检测真实放心\n\t\n👉亲测：灌完一盒，脸居然自己“支棱”起来了！\n真心希望每个自媒体博主都能喝到它！🤩\n#女性成长[话题]# #胶原蛋白[话题]# #胶原蛋白三肽[话题]# #兰艾施NHBFL[话题]# #余甘子胶原蛋白三肽饮品[话题]# #肌肤发光的秘密[话题]# #内服好物[话题]# #保持好气色[话题]# #内外调养好气色[话题]# #养出好气色[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69a6cedc000000000601cda8",
+      "note_id": "699ec177000000001a02d63b",
+      "content": "减脂期间喝这个补充蛋白正合适",
+      "nickname": "甜心工具人",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "闺蜜以为我只是喝果汁…却不曾想...",
+      "parent_post_desc": "救命！终于搞懂超模们为啥常年身材保持老好了🤯\n根本不是靠饿到头晕眼花，而是每天必喝的果蔬蛋白饮\n悄悄提代代，给身体加点儿燃料！\n\t\n扒了好久明星也在喝的同款，终于在李若彤这里被我挖到宝了！\n就是这款汤臣倍健仙女紫紫条！有它在手，过年大吃大喝真没在怕hhh！！\n在家随手就能做的超模同款果蔬奶昔饮，好喝又方便~\n\t\n懒人版做法直接抄：低糖低卡果蔬榨汁+仙女紫紫条，搅拌均匀就能喝！\n不用复杂步骤，不用额外备料，1 分钟搞定，口感顺滑像奶昔，幸福感拉满～\n\t\n重点夸夸这个紫紫条，成分真的太懂蓬蓬女孩的需求了💥\n\t\n✅500 亿后生元灭活菌B207含量夯爆了！99.99% 直达肠道，线粒体小马达⚡收到📶，这速度跑起来！\n\t\n✅7S 代代蛋白，0 胆固醇的优质蛋白，浓度是普通款的 2.7 倍⚡️护💪🏻～\n\t\n✅三重燃动膳食纤维太会了！嘴馋犯饿时候来一条，馋嘴星人暂时掉线了~\n\t\n大家也可以试试仙女紫紫条+果蔬汁这个邪修组合\n离悄悄变美又前进啦哈哈哈～✨\n\t\n#汤臣倍健蛋白粉[话题]##汤臣倍健仙女紫紫条[话题]##汤臣倍健slimify纤燃能蛋白粉[话题]##汤臣倍健[话题]##超模塑腰秘籍[话题]##果蔬蛋白饮[话题]##好物分享[话题]##低卡饮品[话题]##内服[话题]##内服推荐[话题]##好物推荐[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69fc481100000000280350d5",
+      "note_id": "69fae5d40000000037036955",
+      "content": "亲测有效！品酷鲜萃蛋白Mini，减脂期补蛋白太省心了，口感清爽无负担，直接冲！",
+      "nickname": "晚小婉",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "以为蛋白饮都一样？原来工艺差这么多",
+      "parent_post_desc": "做了很多功课后才发现，减脂期选蛋白饮，工艺比含量更关键——市面上不少瓶装蛋白饮，本质都是「粉兑水」！\n\t\n先给大家拆解行业普遍工艺：\n大部分品牌先把牛奶制成蛋白粉，再兑水冲调、灭菌灌装。经过高温干燥与二次处理，乳蛋白易变性、营养流失多，通常还需要防腐剂、香精来调整口感，喝起来总有明显工业粉味，减脂期喝着也不安心…\n\t\n而这款品酷鲜萃蛋白Mini，是真正用生牛乳直接做成液体蛋白，从源头锁住新鲜，专为科学减脂、控体朋友看过来👇\n\t\n🔬 核心差异：从牧场到成品，全程液态鲜萃\n1️⃣ 100%生牛乳起步，新鲜直达\n原料用限定专属牧场直采生鲜牛乳，非复原乳、非奶粉冲调，从源头保持原生鲜活状态。\n2️⃣ 50℃- 72℃低温物理膜分离液态蛋白浓缩技术\n直接从鲜奶中浓缩乳蛋白，全程不高温、不干燥、不变粉，最大程度保留蛋白活性与氨基酸完整度。\n3️⃣ 无菌冷灌装，配方更干净\n低温无菌锁鲜，真正做到配料极简，零乳糖，搭配真实果酱，清爽不齁甜，无工业粉感。\n4️⃣ 严格品控，吸收更高效\n每批次经过规范检测，蛋白含量真实，易被身体吸收利用，减脂期补充更安心。\n\t\n💡 为什么科学减脂党更适合品酷鲜萃蛋白Mini？\n做功课时才真正弄懂：\n\t\n✅ 高蛋白更抗饿：每瓶18g优质蛋白，饱腹感强，稳稳守住热量缺口，减少暴食冲动。\n✅ 轻卡低脂无负担：低脂低卡低碳水，严格控卡、碳循环、减脂期都能放心喝。\n✅ 0乳糖0蔗糖更友好：不添多余糖分，去乳糖配方，乳糖不耐、肠胃敏感也无压力。\n✅ 吸收更清爽：鲜萃蛋白活性高，不黏腻不胀肚，运动后喝不拖减脂后腿。\n✅ 便携不麻烦：开瓶即饮，不用冲粉洗杯，减脂党随时随地都能干净补蛋白。\n\t\n科学减脂的核心：吃得干净、补得精准、无多余负担。\n这款全程液态鲜萃的蛋白饮，把减脂期需要的“高蛋白、低负担、好吸收、口感佳”全部拉满，训练后、早餐、加餐都适配，减脂不掉肌肉、不委屈味蕾。\n\t\n#蛋白饮测评[话题]# #鲜萃蛋白[话题]# #控卡饮品[话题]# #成分党好物[话题]# #品酷蛋白饮[话题]##品酷[话题]##品酷鲜萃蛋白Mini[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a3b117a0000000029035e1f",
+      "note_id": "6a3092a600000000110067e7",
+      "content": "好蛋白，喝起来[玫瑰R][点赞R]",
+      "nickname": "退休的70后，昆明乡下有个院",
+      "ip_location": "云南",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "全家都在喝的OSHICAR分离乳清蛋白粉",
+      "parent_post_desc": "带娃忙到孩子上学后，我大多时间坐着休息，平日里出门走几步就容易浑身发软没力气。找了很久温和的蛋白补给，终于挖到这款OSHICAR分离乳清蛋白粉，一家人都在日常喝，用来补足饮食里缺的蛋白质刚刚好。\n它采用无乳糖、无蔗糖、无大豆蛋白配方，我本身肠胃偏弱，每天一袋喝着挺舒服，不会觉得胀气，长期喝也能温和呵护肠胃。蛋白质补足之后，整个人精气神看着都清爽了不少。\n配料干净，没有多余添加剂，含有88%高纯度蛋白，还包含18种人体必需氨基酸。平时家常菜很难吃够足量蛋白，用它刚好填补营养缺口，营养搭配很全面。\n分离乳清的质地相对更好吸收，温水一冲就能溶解开，淡淡的天然奶香，没有难闻的腥味。早上空腹、饭后或是出门散步回来冲一杯，简单省事。\n不靠它快速改善身体，只是踏踏实实补上日常缺失的蛋白。坚持喝一段时间，明显感觉体力稳定了不少，老人、家里年轻人都能喝，是适合全家的日常营养小帮手。\n#蛋白粉[话题]# #蛋白补充新方式[话题]# #平衡营养更好状态上场[话题]#\n#营养全面守护[话题]# #健康活力每一天[话题]# #全家营养首选[话题]#\n#OSHICAR分离乳清蛋白粉[话题]# #oshicar分离乳清蛋白粉[话题]# #oshicar[话题]# #OSHICAR蛋白粉[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a39db93000000002b028890",
+      "note_id": "6a3092a600000000110067e7",
+      "content": "好的蛋白质是我们身体必需品[点赞R][点赞R]",
+      "nickname": "蓝调blue",
+      "ip_location": "江苏",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "全家都在喝的OSHICAR分离乳清蛋白粉",
+      "parent_post_desc": "带娃忙到孩子上学后，我大多时间坐着休息，平日里出门走几步就容易浑身发软没力气。找了很久温和的蛋白补给，终于挖到这款OSHICAR分离乳清蛋白粉，一家人都在日常喝，用来补足饮食里缺的蛋白质刚刚好。\n它采用无乳糖、无蔗糖、无大豆蛋白配方，我本身肠胃偏弱，每天一袋喝着挺舒服，不会觉得胀气，长期喝也能温和呵护肠胃。蛋白质补足之后，整个人精气神看着都清爽了不少。\n配料干净，没有多余添加剂，含有88%高纯度蛋白，还包含18种人体必需氨基酸。平时家常菜很难吃够足量蛋白，用它刚好填补营养缺口，营养搭配很全面。\n分离乳清的质地相对更好吸收，温水一冲就能溶解开，淡淡的天然奶香，没有难闻的腥味。早上空腹、饭后或是出门散步回来冲一杯，简单省事。\n不靠它快速改善身体，只是踏踏实实补上日常缺失的蛋白。坚持喝一段时间，明显感觉体力稳定了不少，老人、家里年轻人都能喝，是适合全家的日常营养小帮手。\n#蛋白粉[话题]# #蛋白补充新方式[话题]# #平衡营养更好状态上场[话题]#\n#营养全面守护[话题]# #健康活力每一天[话题]# #全家营养首选[话题]#\n#OSHICAR分离乳清蛋白粉[话题]# #oshicar分离乳清蛋白粉[话题]# #oshicar[话题]# #OSHICAR蛋白粉[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68895ef9000000002a00f80e",
+      "note_id": "6886e0ff000000002400a245",
+      "content": "中年以后，身体代谢逐渐减退，肌肉流失严重，科学饮食，规律作息，补充蛋白质，缺一不可，液体蛋白，值得分享的好品[玫瑰R]",
+      "nickname": "东东漫生活",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "1",
+      "parent_post_title": "💥运动营养宝藏：圣元老君堂液体蛋白✨",
+      "parent_post_desc": "[种草R]下班后一直坚持每天跑步，也结识了好多跑友，坐在街心公园长椅上休息时，有跑友问我，每天跑步，你累不累？\n[种草R]\n她说她跑一天休一天，感觉体力跟不上，我从随身带的包里给她拿了一瓶，液体蛋白特殊膳食，告诉她这个就是支撑我每天跑下去的法宝。\n[种草R]\n两周后的一天，跑步又遇见了她，面色红润，老远就给我打招呼，说自从安利了这款，液体蛋白特殊膳食，感觉像充足了电，每天跑甩下水下好多人在身后，很骄傲的表情里带着一份可爱[飞吻R]\n[种草R]\n这款液体蛋白特殊膳食，锻炼的人可以喝，体弱多病的老人也可以喝，性价比很高，周末回家，不知道给父母买啥的，就安利这一款吧\n[种草R]\n这款圣元老君堂，液体蛋白特殊膳食的外包装也惊艳到了我，除了旅游，跑步补充营养，还是在外拍照的好道具，看照片上的我喝的多开心呀[[大笑R]\n[种草R]\n浓缩牛奶蛋白+原生乳钙，0蔗糖无负担🥛\n15g蛋白质补给，红枣味超适口🍒\n运动党/营养补充刚需速锁，补蛋白选它准没错‼️\n#圣元老君堂蛋白饮[话题]# #圣元老君堂[话题]##圣元老君堂液体蛋白[话题]##蛋白饮[话题]##蛋白质[话题]##蛋白质补充[话题]##中老年健康[话题]##父母健康[话题]##圣元老君堂蛋白饮[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6888a033000000002b02005e",
+      "note_id": "6886e0ff000000002400a245",
+      "content": "补充蛋白首选，健康好分享[点赞R][点赞R]",
+      "nickname": "小张阿姨",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "💥运动营养宝藏：圣元老君堂液体蛋白✨",
+      "parent_post_desc": "[种草R]下班后一直坚持每天跑步，也结识了好多跑友，坐在街心公园长椅上休息时，有跑友问我，每天跑步，你累不累？\n[种草R]\n她说她跑一天休一天，感觉体力跟不上，我从随身带的包里给她拿了一瓶，液体蛋白特殊膳食，告诉她这个就是支撑我每天跑下去的法宝。\n[种草R]\n两周后的一天，跑步又遇见了她，面色红润，老远就给我打招呼，说自从安利了这款，液体蛋白特殊膳食，感觉像充足了电，每天跑甩下水下好多人在身后，很骄傲的表情里带着一份可爱[飞吻R]\n[种草R]\n这款液体蛋白特殊膳食，锻炼的人可以喝，体弱多病的老人也可以喝，性价比很高，周末回家，不知道给父母买啥的，就安利这一款吧\n[种草R]\n这款圣元老君堂，液体蛋白特殊膳食的外包装也惊艳到了我，除了旅游，跑步补充营养，还是在外拍照的好道具，看照片上的我喝的多开心呀[[大笑R]\n[种草R]\n浓缩牛奶蛋白+原生乳钙，0蔗糖无负担🥛\n15g蛋白质补给，红枣味超适口🍒\n运动党/营养补充刚需速锁，补蛋白选它准没错‼️\n#圣元老君堂蛋白饮[话题]# #圣元老君堂[话题]##圣元老君堂液体蛋白[话题]##蛋白饮[话题]##蛋白质[话题]##蛋白质补充[话题]##中老年健康[话题]##父母健康[话题]##圣元老君堂蛋白饮[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "688763650000000013037056",
+      "note_id": "6886e0ff000000002400a245",
+      "content": "补充蛋白守卫健康[两颗心R]好分享[点赞R]",
+      "nickname": "至纯至真至诚",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "💥运动营养宝藏：圣元老君堂液体蛋白✨",
+      "parent_post_desc": "[种草R]下班后一直坚持每天跑步，也结识了好多跑友，坐在街心公园长椅上休息时，有跑友问我，每天跑步，你累不累？\n[种草R]\n她说她跑一天休一天，感觉体力跟不上，我从随身带的包里给她拿了一瓶，液体蛋白特殊膳食，告诉她这个就是支撑我每天跑下去的法宝。\n[种草R]\n两周后的一天，跑步又遇见了她，面色红润，老远就给我打招呼，说自从安利了这款，液体蛋白特殊膳食，感觉像充足了电，每天跑甩下水下好多人在身后，很骄傲的表情里带着一份可爱[飞吻R]\n[种草R]\n这款液体蛋白特殊膳食，锻炼的人可以喝，体弱多病的老人也可以喝，性价比很高，周末回家，不知道给父母买啥的，就安利这一款吧\n[种草R]\n这款圣元老君堂，液体蛋白特殊膳食的外包装也惊艳到了我，除了旅游，跑步补充营养，还是在外拍照的好道具，看照片上的我喝的多开心呀[[大笑R]\n[种草R]\n浓缩牛奶蛋白+原生乳钙，0蔗糖无负担🥛\n15g蛋白质补给，红枣味超适口🍒\n运动党/营养补充刚需速锁，补蛋白选它准没错‼️\n#圣元老君堂蛋白饮[话题]# #圣元老君堂[话题]##圣元老君堂液体蛋白[话题]##蛋白饮[话题]##蛋白质[话题]##蛋白质补充[话题]##中老年健康[话题]##父母健康[话题]##圣元老君堂蛋白饮[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []

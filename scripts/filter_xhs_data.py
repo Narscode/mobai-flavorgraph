@@ -7,7 +7,7 @@ import csv
 from datetime import datetime
 
 # Paths
-MEDIA_CRAWLER_DATA_DIR = "/Users/nareswari/Downloads/MediaCrawler-main/data/xhs/jsonl"
+MEDIA_CRAWLER_DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "mediacrawler", "data", "xhs", "jsonl")
 OUTPUT_DIR = "/Users/nareswari/mobai-flavorgraph-1"
 OUTPUT_JSON = os.path.join(OUTPUT_DIR, "xhs_mobai_insights.json")
 OUTPUT_CSV = os.path.join(OUTPUT_DIR, "xhs_mobai_insights.csv")

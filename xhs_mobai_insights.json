@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generation_time": "2026-06-24T12:38:02.979254",
-    "total_posts_filtered": 79,
-    "total_comments_filtered": 106
+    "generation_time": "2026-06-24T12:40:08.919166",
+    "total_posts_filtered": 99,
+    "total_comments_filtered": 141
   },
   "matched_posts": [
     {
@@ -334,8 +334,8 @@
           "饮品"
         ],
         "flavor": [
-          "菊花",
-          "奶茶"
+          "奶茶",
+          "菊花"
         ],
         "sensory": []
       }
@@ -390,8 +390,8 @@
           "饮料"
         ],
         "flavor": [
-          "茉莉",
-          "奶茶"
+          "奶茶",
+          "茉莉"
         ],
         "sensory": [
           "涩"
@@ -579,9 +579,9 @@
       },
       "matched_keywords": {
         "product": [
-          "乳清蛋白",
+          "蛋白",
           "饮品",
-          "蛋白"
+          "乳清蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -766,8 +766,8 @@
       },
       "matched_keywords": {
         "product": [
-          "乳清蛋白",
           "蛋白",
+          "乳清蛋白",
           "即饮"
         ],
         "flavor": [],
@@ -794,8 +794,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "蛋白",
+          "饮品",
           "即饮"
         ],
         "flavor": [
@@ -824,9 +824,9 @@
       },
       "matched_keywords": {
         "product": [
+          "蛋白",
           "饮料",
-          "乳清蛋白",
-          "蛋白"
+          "乳清蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -884,8 +884,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "奇怪",
-          "药"
+          "药",
+          "奇怪"
         ]
       }
     },
@@ -989,8 +989,8 @@
       },
       "matched_keywords": {
         "product": [
-          "乳清蛋白",
           "蛋白",
+          "乳清蛋白",
           "胶原蛋白"
         ],
         "flavor": [
@@ -1019,8 +1019,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "蛋白"
+          "蛋白",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -1046,9 +1046,9 @@
       },
       "matched_keywords": {
         "product": [
-          "瓶装",
+          "蛋白",
           "饮品",
-          "蛋白"
+          "瓶装"
         ],
         "flavor": [
           "奶茶"
@@ -1105,9 +1105,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1215,9 +1215,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1272,9 +1272,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1302,9 +1302,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1332,8 +1332,8 @@
           "饮品"
         ],
         "flavor": [
-          "芒果",
-          "奶茶"
+          "奶茶",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1361,9 +1361,9 @@
           "饮品"
         ],
         "flavor": [
+          "奶茶",
           "芒果",
-          "茉莉",
-          "奶茶"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1392,9 +1392,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1446,8 +1446,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "奶茶"
+          "奶茶",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1479,8 +1479,8 @@
         ],
         "sensory": [
           "苦",
-          "苦涩",
-          "涩"
+          "涩",
+          "苦涩"
         ]
       }
     },
@@ -1535,9 +1535,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1565,10 +1565,10 @@
           "饮品"
         ],
         "flavor": [
-          "芒果",
+          "椰乳",
           "奶茶",
-          "茉莉",
-          "椰乳"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1594,8 +1594,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "芒果",
-          "奶茶"
+          "奶茶",
+          "芒果"
         ],
         "sensory": []
       }
@@ -1623,9 +1623,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果茉莉",
           "芒果",
-          "茉莉",
-          "芒果茉莉"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1732,8 +1732,8 @@
         "product": [],
         "flavor": [
           "生椰",
-          "生椰奶茶",
-          "奶茶"
+          "奶茶",
+          "生椰奶茶"
         ],
         "sensory": []
       }
@@ -1761,11 +1761,11 @@
           "饮品"
         ],
         "flavor": [
-          "生椰",
-          "茉莉",
-          "椰乳",
           "芒果",
-          "奶茶"
+          "茉莉",
+          "生椰",
+          "奶茶",
+          "椰乳"
         ],
         "sensory": [
           "苦"
@@ -1794,8 +1794,8 @@
         "product": [],
         "flavor": [
           "生椰",
-          "生椰奶茶",
-          "奶茶"
+          "奶茶",
+          "生椰奶茶"
         ],
         "sensory": []
       }
@@ -1821,10 +1821,10 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "奶茶",
           "生椰",
-          "茉莉",
-          "椰乳"
+          "奶茶",
+          "椰乳",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1910,10 +1910,10 @@
           "饮品"
         ],
         "flavor": [
-          "椰子",
-          "生椰",
           "生椰奶茶",
           "茉莉",
+          "生椰",
+          "椰子",
           "奶茶"
         ],
         "sensory": [
@@ -1999,8 +1999,8 @@
         "product": [],
         "flavor": [
           "生椰",
-          "茉莉",
-          "奶茶"
+          "奶茶",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -2198,10 +2198,10 @@
           "饮品"
         ],
         "flavor": [
-          "奶茶",
-          "椰子",
           "生椰",
-          "椰乳"
+          "奶茶",
+          "椰乳",
+          "椰子"
         ],
         "sensory": [
           "苦"
@@ -2232,10 +2232,570 @@
         ],
         "flavor": [
           "生椰",
-          "茉莉",
+          "奶茶",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68ff3e390000000007000fa3",
+      "title": "人，兔闻到了秋天…",
+      "desc": "秋天的味道是桂花味儿的，像东方树叶桂花乌龙茶的清甜！\n#宠物生活月刊[话题]##侏儒兔[话题]##秋天[话题]##捡秋[话题]##东方树叶桂花乌龙限时香见[话题]# #东方树叶中国茶[话题]##桂花[话题]#",
+      "nickname": "噗噗是只小兔几",
+      "note_url": "https://www.xiaohongshu.com/explore/68ff3e390000000007000fa3?xsec_token=ABKs6Dnax5nUQwMbYqXKPgsTZHLQAUws46n09regSAwek=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "10万+",
+      "collected_count": "5686",
+      "comment_count": "634",
+      "share_count": "3440",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "682d94f20000000021007aa1",
+      "title": "南京街头10一份的桂花酒酿，冰冰凉凉的超好喝～\n\t\n#值得为吃而去的小城[话题]# #小城土著认证老店[话题]# #小城绝世小神店[话题]# #小城暴走吃喝路线[话题]# #说点吃喝大实话[话题]# #跟着兴趣去旅行[话题]# #地球村食评人大赛[话题]##家乡味活地图[话题]#  #市井食探[话题]# #华夏烟火巷[话题]# #心头好美食拯救计划[话题]##古早way[话题]#\n\t\n@吃货薯",
+      "desc": "南京街头10一份的桂花酒酿，冰冰凉凉的超好喝～\n\t\n#值得为吃而去的小城[话题]# #小城土著认证老店[话题]# #小城绝世小神店[话题]# #小城暴走吃喝路线[话题]# #说点吃喝大实话[话题]# #跟着兴趣去旅行[话题]# #地球村食评人大赛[话题]##家乡味活地图[话题]#  #市井食探[话题]# #华夏烟火巷[话题]# #心头好美食拯救计划[话题]##古早way[话题]#\n\t\n@吃货薯",
+      "nickname": "南昌李知恩",
+      "note_url": "https://www.xiaohongshu.com/explore/682d94f20000000021007aa1?xsec_token=AByupvObutGfwrfkEt45toQsxXoJmkdHo6Gr2AeSjU6Ic=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "5.2万",
+      "collected_count": "5003",
+      "comment_count": "1646",
+      "share_count": "3908",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "63627835000000000a00a0c5",
+      "title": "和室友拼了三次了…奶奶的，太好喝了！！",
+      "desc": "真不知道该怎么夸了😭巨香甜的奶粉！！\n奶粉真的超级细腻，不会结块\n直接温水冲泡就行，真的奶晕我了！！\n加点桂花就是暖乎乎的桂花牛奶\n加咖啡液就是一杯好喝的热拿铁！！\n奶味真的好浓！！而且没有奶腥味\n替你们试过了，这btn奶粉干吃也好好吃！\n一桶足足两斤，真的是和室友拼了又拼！！\n#牛奶[话题]# #奶粉[话题]# #牛奶推荐[话题]# #BTN奶粉[话题]# #成人奶粉[话题]#",
+      "nickname": "郑芭玖",
+      "note_url": "https://www.xiaohongshu.com/explore/63627835000000000a00a0c5?xsec_token=ABa2GQJQ29B8-v8n9TazTxzr9asuaMtn8MK2b44KPiDVg=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "5.1万",
+      "collected_count": "3万",
+      "comment_count": "1075",
+      "share_count": "771",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "67ebbbdf000000001d026bb6",
+      "title": "都给我去喝！！桂花椰子奶盖冰茶！！",
+      "desc": "学会这一杯 夏天还去什么奶茶店啊\n#自制饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "nickname": "UUU的小店",
+      "note_url": "https://www.xiaohongshu.com/explore/67ebbbdf000000001d026bb6?xsec_token=ABL2ie4rU7N_JFG46Grj1H6zs7rePjD5wFy3qJNIWRQfQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "3.8万",
+      "collected_count": "1.6万",
+      "comment_count": "284",
+      "share_count": "4066",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "桂花",
+          "奶茶",
+          "椰子"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69060b67000000000300e6ab",
+      "title": "到底是谁发明的焦糖桂花烤奶❗️真的好好喝",
+      "desc": "满屋飘香的桂花烤奶  天冷来一杯暖呼呼的～ 用优诺5.0A2牛乳做出来的浓厚的烤奶  真的好好喝，又营养！姐妹们 信我，快去试。#桂花烤奶[话题]# #秋冬热饮[话题]# #优诺鲜牛乳[话题]# #优诺5.0[话题]# #高蛋白[话题]# #牛奶推荐[话题]# #牛奶[话题]# #牛奶蛋白[话题]# #高钙牛奶[话题]#",
+      "nickname": "奶茶喝不够🦋",
+      "note_url": "https://www.xiaohongshu.com/explore/69060b67000000000300e6ab?xsec_token=ABxU9yPoOsbuLBHQtTJp3GFIbnJ3TIU5pu2LSeljKhi8E=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "3.2万",
+      "collected_count": "6970",
+      "comment_count": "191",
+      "share_count": "1171",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "671232fd000000001b0130d3",
+      "title": "៸៸᳐>⩊<៸៸᳐ … 我的秋日满杯桂花拿铁🌼",
+      "desc": "#桂花拍照[话题]# #把秋天装进瓶子里[话题]# #杭州拍照[话题]# #杭州小众拍照[话题]#",
+      "nickname": "拿铁.",
+      "note_url": "https://www.xiaohongshu.com/explore/671232fd000000001b0130d3?xsec_token=ABFyPCQj9kj3cz0SnvTt9gXR1fDc9n_NmPZ7_cBufnxHY=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2.1万",
+      "collected_count": "2429",
+      "comment_count": "701",
+      "share_count": "2492",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69ce5a0a0000000023012e6e",
+      "title": "十块钱一份的桂花酒酿，酸酸甜甜的真好喝~",
+      "desc": "#路边摊美味[话题]# #街边小吃[话题]# #地方特色美食[话题]# #桂花酒酿[话题]# #酒酿[话题]# #万物皆可酿[话题]# #就爱这一口街头小吃[话题]# #寻味路边摊的人间烟火[话题]#",
+      "nickname": "小杨今天吃什么",
+      "note_url": "https://www.xiaohongshu.com/explore/69ce5a0a0000000023012e6e?xsec_token=ABx5IUCWS-MiPKiDcodmrlHBHLHrtOL-Jl2zrzgvGVglo=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2万",
+      "collected_count": "1262",
+      "comment_count": "258",
+      "share_count": "641",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "678f8ee1000000002a00f43a",
+      "title": "跟风做的桂花烤奶！好喝哭😭了！！！",
+      "desc": "救命🆘！这个桂花烤奶真的太好喝了！香甜可口！奶香浓郁！天气冷，想喝点热乎的♨️，来上一杯桂花烤奶再适合不过了，茶香，桂花香，奶香，口感敲好的，吼吼喝～\n\t\n✅食材和做法都在图片上\n\t\n#美食日常[话题]# #自制神仙饮品[话题]# #自制饮品[话题]# #饮品[话题]# #桂花烤奶[话题]# #喝出好气色[话题]# #桂花[话题]# #女孩子应该知道的事[话题]# #一起嚯奶茶[话题]#",
+      "nickname": "陈哈哈",
+      "note_url": "https://www.xiaohongshu.com/explore/678f8ee1000000002a00f43a?xsec_token=ABrlKYgxhYU1Zg6BNWvaJIgTbUAUXW1H7wShsX-GKUitU=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2万",
+      "collected_count": "9546",
+      "comment_count": "2177",
+      "share_count": "2168",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "桂花",
           "奶茶"
         ],
         "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "67067664000000002c016dee",
+      "title": "跟风做的桂花烤奶…真的好好喝啊😭😭",
+      "desc": "茶香！花香！奶香！又奶又香\n满屋子都是烤奶甜香～\n做法巨简单！你们快去做！！！！\n#比奶茶还要好喝[话题]# #笔记灵感[话题]# #吃了甜食会开心[话题]# #美食日常[话题]# #一起嚯奶茶[话题]# #甜品治愈一切[话题]# #奶茶[话题]# #饮料[话题]# #饮料日常[话题]# #自制神仙饮品[话题]#",
+      "nickname": "酒酿酥心茶",
+      "note_url": "https://www.xiaohongshu.com/explore/67067664000000002c016dee?xsec_token=ABi-fur57aeSsapMiIobIFKZpej4IFmLEiRxZoU1TZtCQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.9万",
+      "collected_count": "1.5万",
+      "comment_count": "914",
+      "share_count": "6855",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "饮品"
+        ],
+        "flavor": [
+          "桂花",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "67e7bf9a000000001d015997",
+      "title": "都给我去做！！没想到金桂乌龙冰奶这么好喝！",
+      "desc": "#自制饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]# #好喝不贵[话题]# #桂花[话题]#",
+      "nickname": "UUU的小店",
+      "note_url": "https://www.xiaohongshu.com/explore/67e7bf9a000000001d015997?xsec_token=ABZWENfP7h8cS6U-KvqjP3aMbTCRzxc7K2H29u66O7Y1g=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.5万",
+      "collected_count": "7663",
+      "comment_count": "118",
+      "share_count": "1840",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "67e90d9b000000001e0026a3",
+      "title": "都给我去喝！！桂花抹茶冰奶真的太上头了！！",
+      "desc": "#自制饮品[话题]# #仙女都在喝什么[话题]# #好喝不贵[话题]#",
+      "nickname": "UUU的小店",
+      "note_url": "https://www.xiaohongshu.com/explore/67e90d9b000000001e0026a3?xsec_token=ABnlAxiT3P1o4oh8ZnPF33b4TvgZ1KXXC29cHC8b4kjMQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.5万",
+      "collected_count": "9120",
+      "comment_count": "89",
+      "share_count": "1740",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68d3bad0000000001302bb2d",
+      "title": "谁能拒绝1L装的桂花酒酿冰奶🍂清甜丝滑‼️",
+      "desc": "#仙女都在喝什么[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #桂花酒酿[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #尝一口桂花味的秋天[话题]# #在家做饮品[话题]#",
+      "nickname": "棍棍爱喝冰",
+      "note_url": "https://www.xiaohongshu.com/explore/68d3bad0000000001302bb2d?xsec_token=ABuoZaAk4qxfawzvoom35GwkHdHPBDo0caHYgL57Xu_iM=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.5万",
+      "collected_count": "1万",
+      "comment_count": "165",
+      "share_count": "3808",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68c142de000000001d020781",
+      "title": "排浊水",
+      "desc": "身体汗味大，嘴巴苦有异味的宝子请留步，教你喝出体香#中医养生[话题]# #排浊[话题]# #养生茶[话题]# #香香公主[话题]# #老祖宗的智慧[话题]#",
+      "nickname": "青蘅",
+      "note_url": "https://www.xiaohongshu.com/explore/68c142de000000001d020781?xsec_token=AB1IkQY6OUyo-8O0EMn3dJg21kAu7YPCC9viB4-E4otdI=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.3万",
+      "collected_count": "2.1万",
+      "comment_count": "219",
+      "share_count": "2649",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "66e29c6d00000000120118a2",
+      "title": "古茗中式审美已经next level！新皮肤美哭！",
+      "desc": "啊啊啊古茗新品桂花系列真嘟好喝晕了！！\n中秋限定新皮肤一整个高级住了！！金灿灿的🧡～提前感受中秋氛围！！中式美学还得看古茗！！\n\t\n🌼桂花酒酿小丸紫\n桂花乌龙奶茶+酒酿+紫米丸子\n入口就是浓郁的桂花香！！好惊艳！！清甜的酒酿搭配新小料“紫米丸子” q弹软糯 口感好丰富！！真的一口爱上！！🫶🏻\n🌼十里江南桂\n桂花乌龙茶底+牛乳\n这杯是原叶鲜奶茶，清爽低负担~入口丝滑 牛乳加上清新的桂花香，是秋天的味道！！\n🌼桂花莲子奶\n桂花乌龙奶茶+莲子+紫米丸子\n扑面而来的莲子香、桂花香、米香，三重享受啊啊啊！！每吸一口都能喝到糯叽叽的紫米丸子 口感好丰富！！\n\t\n#桂花酒酿小丸紫[话题]#、#十里江南桂[话题]#、#桂花莲子奶[话题]##、#古茗[话题]#、#古茗奶茶[话题]#、#古茗推荐[话题]#、#奶茶推荐[话题]#、#桂花奶茶[话题]#、#中秋[话题]#、#古茗桂花[话题]#、#古茗新品[话题]#、#奶茶新品[话题]#、#奶茶[话题]#、#一起嚯奶茶[话题]#、#奶茶[话题]#、#奶茶分享[话题]#、#给我一杯奶茶[话题]#",
+      "nickname": "乖巧宝宝",
+      "note_url": "https://www.xiaohongshu.com/explore/66e29c6d00000000120118a2?xsec_token=ABsUnZRRxlRX_Rs-0IviUVqAJ2w-ycBJZvFHccmWkKcB0=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1万",
+      "collected_count": "1430",
+      "comment_count": "298",
+      "share_count": "1284",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "66e29fc10000000025032f85",
+      "title": "古茗这杯桂花好喝麻了！中秋新皮肤好浪漫",
+      "desc": "永远都可以相信古茗的中式审美！！\n中秋桂花限定皮肤简直太美了！！有种在江南的错觉！！\n·\n✔桂花酒酿小丸紫\n桂花脑袋真的爱惨了这杯！！一入口就是馥郁的桂花香气，底下是软糯有嚼劲的酒酿和新小料紫米丸子，口感层次hin丰富的一杯～\n·\n✔十里江南桂\n桂花乌龙茶搭配牛乳，茶香桂花香扑鼻\n口感细腻又丝滑，清爽又低卡！！\n·\n✔桂花莲子奶\n桂花乌龙奶茶➕莲子➕紫米丸子\n这杯小料加的是真多啊🥹莲子很绵密，一抿就化！配上软糯的紫米丸子，嚼起来太过瘾啦！！\n·\n#桂花酒酿小丸紫[话题]# #十里江南桂[话题]# #桂花莲子奶[话题]# #古茗[话题]# #古茗奶茶[话题]# #古茗推荐[话题]# #奶茶推荐[话题]# #桂花奶茶[话题]# #中秋[话题]# #古茗桂花[话题]#  #古茗新品[话题]# #奶茶新品[话题]# #奶茶[话题]# #一起嚯奶茶[话题]# #奶茶[话题]# #奶茶分享[话题]# #给我一杯奶茶[话题]# #下午茶甜品[话题]# #奶茶点单攻略[话题]# #饮料日常[话题]# #秋天的第一杯奶茶[话题]# #外卖[话题]# #适合秋天的饮料[话题]#",
+      "nickname": "年糕味的芝士",
+      "note_url": "https://www.xiaohongshu.com/explore/66e29fc10000000025032f85?xsec_token=ABsUnZRRxlRX_Rs-0IviUVqAoDT0Vh9kfQ7dq67eh3u-w=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "9983",
+      "collected_count": "2048",
+      "comment_count": "120",
+      "share_count": "261",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料"
+        ],
+        "flavor": [
+          "桂花",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "63355c31000000001d00cb90",
+      "title": "😓在婚礼上喝到的…差点暴饮…",
+      "desc": ".\n回来自己做…连喝了三天都没腻\n茉莉花➕桂花双拼米酒！真的一口沦陷！\n加点冰块🧊淡淡的茉莉花香混着桂花糯米酒真的太好喝了，尾调还会有浓浓的桂花香在嘴里🤤赶紧试试\n❌度数不高只有0.5👋…喜欢微醺的姐妹可以参考下",
+      "nickname": "无糖大橘🍊",
+      "note_url": "https://www.xiaohongshu.com/explore/63355c31000000001d00cb90?xsec_token=ABd6jpGvjJ17-P-CrxZS-2obU9v92J98BvIQQN_jNtaAY=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "9617",
+      "collected_count": "4521",
+      "comment_count": "84",
+      "share_count": "371",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68d50958000000000e020ea6",
+      "title": "古茗桂花系列！也太好喝了吧",
+      "desc": "#古茗桂花酒酿小丸子[话题]# #古茗十里江南桂[话题]# #古茗桂花拿铁[话题]##古茗新品[话题]# #古茗推荐[话题]# #古茗点单攻略[话题]# #古茗鲜活好状态[话题]# #古茗桂花[话题]# #古茗奶茶[话题]# #古茗桂花系列[话题]##桂花[话题]# #奶茶[话题]# #奶茶测评[话题]# #搞笑[话题]# #抽象[话题]# #内容过于真实[话题]# #反转[话题]# #饮品[话题]# #饮品测评[话题]# #奶茶推荐[话题]# #一起嚯奶茶[话题]#",
+      "nickname": "阳阳阳阳阳阳阳",
+      "note_url": "https://www.xiaohongshu.com/explore/68d50958000000000e020ea6?xsec_token=ABS7IsIOnMX2v_ycLWH4FWtoWPN5QqmwnV9CBCQQ8AsxI=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "8361",
+      "collected_count": "2137",
+      "comment_count": "78",
+      "share_count": "127",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "桂花",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68d0e27000000000130050c5",
+      "title": "🍂秋天的第一杯桂花烤奶👅奶呼呼的好好喝！",
+      "desc": "#自制神仙饮品[话题]# #DIY饮品[话题]# #仙女都在喝什么[话题]# #桂花烤奶[话题]# #秋冬热饮[话题]# #健康养生[话题]# #Olé精品超市[话题]# #Olé必买清单[话题]# #ole[话题]# #Olé上新[话题]# #ole必买[话题]#  #圆了就好了[话题]#  #Olé中秋必买清单[话题]# #ole新品[话题]# #非均质牛奶[话题]#",
+      "nickname": "狂饮少女",
+      "note_url": "https://www.xiaohongshu.com/explore/68d0e27000000000130050c5?xsec_token=AB3rUPEo55aAS7RcGhuqUBMRd0QylE4xJRWMouX9r80tY=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "7222",
+      "collected_count": "3661",
+      "comment_count": "102",
+      "share_count": "1053",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6575b59e00000000050397cf",
+      "title": "桂花乌龙冰茶这样做太太太好喝啦😭巨清爽",
+      "desc": "#自制神仙饮品[话题]# #好喝的饮品[话题]# #饮料日常[话题]# #仙女都在喝什么[话题]# #一人食吃什么[话题]# #桂花[话题]# #自制饮品[话题]#",
+      "nickname": "是草莓的莓啊",
+      "note_url": "https://www.xiaohongshu.com/explore/6575b59e00000000050397cf?xsec_token=ABesC8FTMUjqSoPvTUuIhbIIq6bMpXfvkh3FYxifas-ZY=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "7228",
+      "collected_count": "1953",
+      "comment_count": "47",
+      "share_count": "145",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "饮品"
+        ],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6343c2e0000000001d014997",
+      "title": "整个办公室都问我要链接🤣太宝藏了！！",
+      "desc": "回购的第四五六次了！爆清爽！！\n我朋友以为我变养生都不喝奶茶了..\n谁知道给他们喝了一杯都问我要🔗..\n九种口味都不踩雷！一星期不带喝重样的！\n小小一支！方便携带！！一杯泡一支！\n冷泡热泡皆可！直接泡水或者泡牛奶..\n还能DIY各种饮品！！不要太方便啊啊啊！🤣\n\t\n跟袋泡茶不同，这个鲜萃茶没有茶渣..\n里头是新鲜萃取的浓缩茶液，和满满的茶多酚！泡开是清香淡雅的桂花乌龙香！喝着不苦涩！一口下去满嘴桂花香！🔆秋冬喝上一杯太舒服了～\n我这种爱喝奶茶咖啡的！喝了它以后都戒奶茶了！不仅好喝还提神哈哈哈！\n\t\n配料表干净！也没有添加什么乱七八糟的..\n0⃣️蔗糖0⃣️脂肪0⃣️香精0⃣️防腐剂！\n不爱喝水的！爱喝饮料的！建议去试试它！\n低卡低脂！！好喝不胖！减脂期姐妹快冲！\n#秋冬喝什么[话题]# #八分之三[话题]# #桂花[话题]# #乌龙[话题]# #奶茶自制[话题]# #奶茶推荐[话题]# #茶饮[话题]##自制神仙饮品[话题]#",
+      "nickname": "一只🐑",
+      "note_url": "https://www.xiaohongshu.com/explore/6343c2e0000000001d014997?xsec_token=AB_6lG0ekuL6GSLd-NeuDylmgCz--n-5Z9iuwOg3UZFZA=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "6791",
+      "collected_count": "3829",
+      "comment_count": "63",
+      "share_count": "659",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "饮品"
+        ],
+        "flavor": [
+          "桂花",
+          "奶茶"
+        ],
+        "sensory": [
+          "苦",
+          "涩",
+          "苦涩"
+        ]
       }
     }
   ],
@@ -2663,8 +3223,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "桂花"
+          "桂花",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -3016,8 +3576,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "蛋白"
+          "蛋白",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -4908,6 +5468,887 @@
           "椰乳"
         ],
         "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68ff5496000000003901d6b9",
+      "note_id": "68ff3e390000000007000fa3",
+      "content": "兔兔笑纳了，桂花乌龙笑纳了",
+      "nickname": "葡萄猪猪柠茶",
+      "ip_location": null,
+      "like_count": "47",
+      "sub_comment_count": "2",
+      "parent_post_title": "人，兔闻到了秋天…",
+      "parent_post_desc": "秋天的味道是桂花味儿的，像东方树叶桂花乌龙茶的清甜！\n#宠物生活月刊[话题]##侏儒兔[话题]##秋天[话题]##捡秋[话题]##东方树叶桂花乌龙限时香见[话题]# #东方树叶中国茶[话题]##桂花[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67edaa56000000001e03a3a9",
+      "note_id": "67ebbbdf000000001d026bb6",
+      "content": "这个桂花酱好吃吗，有人吃过吗",
+      "nickname": "ᅠᅠᅠ",
+      "ip_location": null,
+      "like_count": "99",
+      "sub_comment_count": "23",
+      "parent_post_title": "都给我去喝！！桂花椰子奶盖冰茶！！",
+      "parent_post_desc": "学会这一杯 夏天还去什么奶茶店啊\n#自制饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67f382c40000000012003975",
+      "note_id": "67ebbbdf000000001d026bb6",
+      "content": "关键是怎么样才能免费要到奶茶店的冰块儿和这种杯子呀",
+      "nickname": "不晚",
+      "ip_location": null,
+      "like_count": "35",
+      "sub_comment_count": "4",
+      "parent_post_title": "都给我去喝！！桂花椰子奶盖冰茶！！",
+      "parent_post_desc": "学会这一杯 夏天还去什么奶茶店啊\n#自制饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67eca2b10000000012010fca",
+      "note_id": "67ebbbdf000000001d026bb6",
+      "content": "都自己做了，还冰块放满，冰块放满这么黑心的事情，只有奶茶店才会做吧",
+      "nickname": "汤圆圆",
+      "ip_location": null,
+      "like_count": "24",
+      "sub_comment_count": "1",
+      "parent_post_title": "都给我去喝！！桂花椰子奶盖冰茶！！",
+      "parent_post_desc": "学会这一杯 夏天还去什么奶茶店啊\n#自制饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67ed4bf3000000001f009445",
+      "note_id": "67ebbbdf000000001d026bb6",
+      "content": "求成本计算，现在10元内的奶茶也挺多[笑哭R]",
+      "nickname": "咪的天",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "都给我去喝！！桂花椰子奶盖冰茶！！",
+      "parent_post_desc": "学会这一杯 夏天还去什么奶茶店啊\n#自制饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69087552000000003802a959",
+      "note_id": "69060b67000000000300e6ab",
+      "content": "桂花是要干的吗？",
+      "nickname": "清玖",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "到底是谁发明的焦糖桂花烤奶❗️真的好好喝",
+      "parent_post_desc": "满屋飘香的桂花烤奶  天冷来一杯暖呼呼的～ 用优诺5.0A2牛乳做出来的浓厚的烤奶  真的好好喝，又营养！姐妹们 信我，快去试。#桂花烤奶[话题]# #秋冬热饮[话题]# #优诺鲜牛乳[话题]# #优诺5.0[话题]# #高蛋白[话题]# #牛奶推荐[话题]# #牛奶[话题]# #牛奶蛋白[话题]# #高钙牛奶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6910a999000000003800a4da",
+      "note_id": "69060b67000000000300e6ab",
+      "content": "好，我明天就去楼下薅桂花",
+      "nickname": "好好",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "1",
+      "parent_post_title": "到底是谁发明的焦糖桂花烤奶❗️真的好好喝",
+      "parent_post_desc": "满屋飘香的桂花烤奶  天冷来一杯暖呼呼的～ 用优诺5.0A2牛乳做出来的浓厚的烤奶  真的好好喝，又营养！姐妹们 信我，快去试。#桂花烤奶[话题]# #秋冬热饮[话题]# #优诺鲜牛乳[话题]# #优诺5.0[话题]# #高蛋白[话题]# #牛奶推荐[话题]# #牛奶[话题]# #牛奶蛋白[话题]# #高钙牛奶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67132b330000000020022331",
+      "note_id": "671232fd000000001b0130d3",
+      "content": "桂花树下桂花猫🐈",
+      "nickname": "拿铁.",
+      "ip_location": null,
+      "like_count": "459",
+      "sub_comment_count": "25",
+      "parent_post_title": "៸៸᳐>⩊<៸៸᳐ … 我的秋日满杯桂花拿铁🌼",
+      "parent_post_desc": "#桂花拍照[话题]# #把秋天装进瓶子里[话题]# #杭州拍照[话题]# #杭州小众拍照[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67149d060000000024034b8a",
+      "note_id": "671232fd000000001b0130d3",
+      "content": "好漂亮的桂花，在哪里呀，求地址",
+      "nickname": "Lydiaaaa",
+      "ip_location": null,
+      "like_count": "6",
+      "sub_comment_count": "10",
+      "parent_post_title": "៸៸᳐>⩊<៸៸᳐ … 我的秋日满杯桂花拿铁🌼",
+      "parent_post_desc": "#桂花拍照[话题]# #把秋天装进瓶子里[话题]# #杭州拍照[话题]# #杭州小众拍照[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6713580e000000000c016293",
+      "note_id": "671232fd000000001b0130d3",
+      "content": "好好看，今天我也要点杯瑞幸给朋友送过去，她心情不太好，闻闻桂花香可能会好些",
+      "nickname": "Sera_",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "1",
+      "parent_post_title": "៸៸᳐>⩊<៸៸᳐ … 我的秋日满杯桂花拿铁🌼",
+      "parent_post_desc": "#桂花拍照[话题]# #把秋天装进瓶子里[话题]# #杭州拍照[话题]# #杭州小众拍照[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6715c87a000000002a02b83e",
+      "note_id": "67067664000000002c016dee",
+      "content": "有没有干桂花推荐呀",
+      "nickname": "心碎小海苔",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "7",
+      "parent_post_title": "跟风做的桂花烤奶…真的好好喝啊😭😭",
+      "parent_post_desc": "茶香！花香！奶香！又奶又香\n满屋子都是烤奶甜香～\n做法巨简单！你们快去做！！！！\n#比奶茶还要好喝[话题]# #笔记灵感[话题]# #吃了甜食会开心[话题]# #美食日常[话题]# #一起嚯奶茶[话题]# #甜品治愈一切[话题]# #奶茶[话题]# #饮料[话题]# #饮料日常[话题]# #自制神仙饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67333dd500000000020053d6",
+      "note_id": "67067664000000002c016dee",
+      "content": "为啥我喝起来有点苦[笑哭R]是桂花放多了吗",
+      "nickname": "长命岁喜乐随",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "2",
+      "parent_post_title": "跟风做的桂花烤奶…真的好好喝啊😭😭",
+      "parent_post_desc": "茶香！花香！奶香！又奶又香\n满屋子都是烤奶甜香～\n做法巨简单！你们快去做！！！！\n#比奶茶还要好喝[话题]# #笔记灵感[话题]# #吃了甜食会开心[话题]# #美食日常[话题]# #一起嚯奶茶[话题]# #甜品治愈一切[话题]# #奶茶[话题]# #饮料[话题]# #饮料日常[话题]# #自制神仙饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67166c7500000000270200d9",
+      "note_id": "67067664000000002c016dee",
+      "content": "可是你不觉得干桂花喝到嘴里满口钻很不舒服吗？我都得吐出来[笑哭R]",
+      "nickname": "小红薯_8844",
+      "ip_location": null,
+      "like_count": "4",
+      "sub_comment_count": "3",
+      "parent_post_title": "跟风做的桂花烤奶…真的好好喝啊😭😭",
+      "parent_post_desc": "茶香！花香！奶香！又奶又香\n满屋子都是烤奶甜香～\n做法巨简单！你们快去做！！！！\n#比奶茶还要好喝[话题]# #笔记灵感[话题]# #吃了甜食会开心[话题]# #美食日常[话题]# #一起嚯奶茶[话题]# #甜品治愈一切[话题]# #奶茶[话题]# #饮料[话题]# #饮料日常[话题]# #自制神仙饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67e7dfc50000000020017254",
+      "note_id": "67e7bf9a000000001d015997",
+      "content": "这个牌子的桂花蜜看运气，我第一次买桂花味特浓，觉得非常好。后来买的两次都一点味道都没有，店家还说要碰运气碰上桂花好就味道香。一个牌子连品质都稳定不了，让买家碰运气也是绝了",
+      "nickname": "大大大肉粽",
+      "ip_location": null,
+      "like_count": "485",
+      "sub_comment_count": "22",
+      "parent_post_title": "都给我去做！！没想到金桂乌龙冰奶这么好喝！",
+      "parent_post_desc": "#自制饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]# #好喝不贵[话题]# #桂花[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67ea089700000000120123ac",
+      "note_id": "67e90d9b000000001e0026a3",
+      "content": "这个桂花卖了我都退了[笑哭R][笑哭R]太糖精了",
+      "nickname": "臭屁陈",
+      "ip_location": null,
+      "like_count": "67",
+      "sub_comment_count": "23",
+      "parent_post_title": "都给我去喝！！桂花抹茶冰奶真的太上头了！！",
+      "parent_post_desc": "#自制饮品[话题]# #仙女都在喝什么[话题]# #好喝不贵[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67f164e0000000001f009cbc",
+      "note_id": "67e90d9b000000001e0026a3",
+      "content": "这个桂花酱的推广也太多了[扶额R][扶额R][扶额R][扶额R][扶额R]随便看个卖咖啡的就是这款",
+      "nickname": "这样的爱与生活很不错吖💗",
+      "ip_location": null,
+      "like_count": "6",
+      "sub_comment_count": "6",
+      "parent_post_title": "都给我去喝！！桂花抹茶冰奶真的太上头了！！",
+      "parent_post_desc": "#自制饮品[话题]# #仙女都在喝什么[话题]# #好喝不贵[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67e9393a000000001e039ae7",
+      "note_id": "67e90d9b000000001e0026a3",
+      "content": "美女姐姐你可以做个分类合集不，比如桂花合集，话梅合集这种[斜眼R][斜眼R]",
+      "nickname": "静谧",
+      "ip_location": null,
+      "like_count": "58",
+      "sub_comment_count": "1",
+      "parent_post_title": "都给我去喝！！桂花抹茶冰奶真的太上头了！！",
+      "parent_post_desc": "#自制饮品[话题]# #仙女都在喝什么[话题]# #好喝不贵[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67ea1056000000001f02b4ca",
+      "note_id": "67e90d9b000000001e0026a3",
+      "content": "请问这个桂花酱是咸口还是甜口的",
+      "nickname": "喵呜",
+      "ip_location": null,
+      "like_count": "3",
+      "sub_comment_count": "2",
+      "parent_post_title": "都给我去喝！！桂花抹茶冰奶真的太上头了！！",
+      "parent_post_desc": "#自制饮品[话题]# #仙女都在喝什么[话题]# #好喝不贵[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68df79c200000000370108be",
+      "note_id": "68d3bad0000000001302bb2d",
+      "content": "主播没有茉莉花茶，可以吗？",
+      "nickname": "oia",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "7",
+      "parent_post_title": "谁能拒绝1L装的桂花酒酿冰奶🍂清甜丝滑‼️",
+      "parent_post_desc": "#仙女都在喝什么[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #桂花酒酿[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #尝一口桂花味的秋天[话题]# #在家做饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68d918470000000002024217",
+      "note_id": "68d3bad0000000001302bb2d",
+      "content": "有不放冰块的奶茶吗[捂脸R]",
+      "nickname": "小红薯62BD6F7C",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "4",
+      "parent_post_title": "谁能拒绝1L装的桂花酒酿冰奶🍂清甜丝滑‼️",
+      "parent_post_desc": "#仙女都在喝什么[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #桂花酒酿[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #尝一口桂花味的秋天[话题]# #在家做饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68f651f4000000003800d75f",
+      "note_id": "68d3bad0000000001302bb2d",
+      "content": "为什么我的桂花酱不挂壁的",
+      "nickname": "菠萝",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "谁能拒绝1L装的桂花酒酿冰奶🍂清甜丝滑‼️",
+      "parent_post_desc": "#仙女都在喝什么[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #桂花酒酿[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #尝一口桂花味的秋天[话题]# #在家做饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68f0f04f0000000039002b48",
+      "note_id": "68d3bad0000000001302bb2d",
+      "content": "桂花酱可以推荐下吗？",
+      "nickname": "Tanya",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "谁能拒绝1L装的桂花酒酿冰奶🍂清甜丝滑‼️",
+      "parent_post_desc": "#仙女都在喝什么[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #桂花酒酿[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #尝一口桂花味的秋天[话题]# #在家做饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68efa0490000000038005c87",
+      "note_id": "68c142de000000001d020781",
+      "content": "茉莉放5克会苦",
+      "nickname": "芦苇草",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "排浊水",
+      "parent_post_desc": "身体汗味大，嘴巴苦有异味的宝子请留步，教你喝出体香#中医养生[话题]# #排浊[话题]# #养生茶[话题]# #香香公主[话题]# #老祖宗的智慧[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "66e2a3360000000002005ba3",
+      "note_id": "66e29c6d00000000120118a2",
+      "content": "满满桂花香[大笑R] 好喝爱喝",
+      "nickname": "小迷别吃啦",
+      "ip_location": null,
+      "like_count": "6",
+      "sub_comment_count": "4",
+      "parent_post_title": "古茗中式审美已经next level！新皮肤美哭！",
+      "parent_post_desc": "啊啊啊古茗新品桂花系列真嘟好喝晕了！！\n中秋限定新皮肤一整个高级住了！！金灿灿的🧡～提前感受中秋氛围！！中式美学还得看古茗！！\n\t\n🌼桂花酒酿小丸紫\n桂花乌龙奶茶+酒酿+紫米丸子\n入口就是浓郁的桂花香！！好惊艳！！清甜的酒酿搭配新小料“紫米丸子” q弹软糯 口感好丰富！！真的一口爱上！！🫶🏻\n🌼十里江南桂\n桂花乌龙茶底+牛乳\n这杯是原叶鲜奶茶，清爽低负担~入口丝滑 牛乳加上清新的桂花香，是秋天的味道！！\n🌼桂花莲子奶\n桂花乌龙奶茶+莲子+紫米丸子\n扑面而来的莲子香、桂花香、米香，三重享受啊啊啊！！每吸一口都能喝到糯叽叽的紫米丸子 口感好丰富！！\n\t\n#桂花酒酿小丸紫[话题]#、#十里江南桂[话题]#、#桂花莲子奶[话题]##、#古茗[话题]#、#古茗奶茶[话题]#、#古茗推荐[话题]#、#奶茶推荐[话题]#、#桂花奶茶[话题]#、#中秋[话题]#、#古茗桂花[话题]#、#古茗新品[话题]#、#奶茶新品[话题]#、#奶茶[话题]#、#一起嚯奶茶[话题]#、#奶茶[话题]#、#奶茶分享[话题]#、#给我一杯奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "66e85c72000000002400c846",
+      "note_id": "66e29c6d00000000120118a2",
+      "content": "酒酿小丸子很好喝[喝奶茶R]",
+      "nickname": "苹",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "5",
+      "parent_post_title": "古茗中式审美已经next level！新皮肤美哭！",
+      "parent_post_desc": "啊啊啊古茗新品桂花系列真嘟好喝晕了！！\n中秋限定新皮肤一整个高级住了！！金灿灿的🧡～提前感受中秋氛围！！中式美学还得看古茗！！\n\t\n🌼桂花酒酿小丸紫\n桂花乌龙奶茶+酒酿+紫米丸子\n入口就是浓郁的桂花香！！好惊艳！！清甜的酒酿搭配新小料“紫米丸子” q弹软糯 口感好丰富！！真的一口爱上！！🫶🏻\n🌼十里江南桂\n桂花乌龙茶底+牛乳\n这杯是原叶鲜奶茶，清爽低负担~入口丝滑 牛乳加上清新的桂花香，是秋天的味道！！\n🌼桂花莲子奶\n桂花乌龙奶茶+莲子+紫米丸子\n扑面而来的莲子香、桂花香、米香，三重享受啊啊啊！！每吸一口都能喝到糯叽叽的紫米丸子 口感好丰富！！\n\t\n#桂花酒酿小丸紫[话题]#、#十里江南桂[话题]#、#桂花莲子奶[话题]##、#古茗[话题]#、#古茗奶茶[话题]#、#古茗推荐[话题]#、#奶茶推荐[话题]#、#桂花奶茶[话题]#、#中秋[话题]#、#古茗桂花[话题]#、#古茗新品[话题]#、#奶茶新品[话题]#、#奶茶[话题]#、#一起嚯奶茶[话题]#、#奶茶[话题]#、#奶茶分享[话题]#、#给我一杯奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "63391d44000000001700df37",
+      "note_id": "63355c31000000001d00cb90",
+      "content": "求桂花和茉莉花的牌子",
+      "nickname": "妙兮",
+      "ip_location": null,
+      "like_count": "4",
+      "sub_comment_count": "1",
+      "parent_post_title": "😓在婚礼上喝到的…差点暴饮…",
+      "parent_post_desc": ".\n回来自己做…连喝了三天都没腻\n茉莉花➕桂花双拼米酒！真的一口沦陷！\n加点冰块🧊淡淡的茉莉花香混着桂花糯米酒真的太好喝了，尾调还会有浓浓的桂花香在嘴里🤤赶紧试试\n❌度数不高只有0.5👋…喜欢微醺的姐妹可以参考下",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68d6552a000000001a00ba34",
+      "note_id": "68d50958000000000e020ea6",
+      "content": "给我推荐个好喝的奶茶",
+      "nickname": "Lee",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "4",
+      "parent_post_title": "古茗桂花系列！也太好喝了吧",
+      "parent_post_desc": "#古茗桂花酒酿小丸子[话题]# #古茗十里江南桂[话题]# #古茗桂花拿铁[话题]##古茗新品[话题]# #古茗推荐[话题]# #古茗点单攻略[话题]# #古茗鲜活好状态[话题]# #古茗桂花[话题]# #古茗奶茶[话题]# #古茗桂花系列[话题]##桂花[话题]# #奶茶[话题]# #奶茶测评[话题]# #搞笑[话题]# #抽象[话题]# #内容过于真实[话题]# #反转[话题]# #饮品[话题]# #饮品测评[话题]# #奶茶推荐[话题]# #一起嚯奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68dd41c5000000003902cea7",
+      "note_id": "68d50958000000000e020ea6",
+      "content": "今天被桂花酒酿小丸子恶心到了，酒酿碰上牛奶一口好想在吃嗖掉的米饭，实在是喝不下去，反而别人吐槽的十里金桂好喝一些",
+      "nickname": "爱吃爱玩的小包子",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "古茗桂花系列！也太好喝了吧",
+      "parent_post_desc": "#古茗桂花酒酿小丸子[话题]# #古茗十里江南桂[话题]# #古茗桂花拿铁[话题]##古茗新品[话题]# #古茗推荐[话题]# #古茗点单攻略[话题]# #古茗鲜活好状态[话题]# #古茗桂花[话题]# #古茗奶茶[话题]# #古茗桂花系列[话题]##桂花[话题]# #奶茶[话题]# #奶茶测评[话题]# #搞笑[话题]# #抽象[话题]# #内容过于真实[话题]# #反转[话题]# #饮品[话题]# #饮品测评[话题]# #奶茶推荐[话题]# #一起嚯奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68f101570000000033006cbb",
+      "note_id": "68d0e27000000000130050c5",
+      "content": "桂花在哪有卖",
+      "nickname": "👒 晴天",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "6",
+      "parent_post_title": "🍂秋天的第一杯桂花烤奶👅奶呼呼的好好喝！",
+      "parent_post_desc": "#自制神仙饮品[话题]# #DIY饮品[话题]# #仙女都在喝什么[话题]# #桂花烤奶[话题]# #秋冬热饮[话题]# #健康养生[话题]# #Olé精品超市[话题]# #Olé必买清单[话题]# #ole[话题]# #Olé上新[话题]# #ole必买[话题]#  #圆了就好了[话题]#  #Olé中秋必买清单[话题]# #ole新品[话题]# #非均质牛奶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68d744e6000000000800dce2",
+      "note_id": "68d0e27000000000130050c5",
+      "content": "请问桂花是干的，还是鲜的？",
+      "nickname": "小青青妈妈呀",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "2",
+      "parent_post_title": "🍂秋天的第一杯桂花烤奶👅奶呼呼的好好喝！",
+      "parent_post_desc": "#自制神仙饮品[话题]# #DIY饮品[话题]# #仙女都在喝什么[话题]# #桂花烤奶[话题]# #秋冬热饮[话题]# #健康养生[话题]# #Olé精品超市[话题]# #Olé必买清单[话题]# #ole[话题]# #Olé上新[话题]# #ole必买[话题]#  #圆了就好了[话题]#  #Olé中秋必买清单[话题]# #ole新品[话题]# #非均质牛奶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "657645dc000000000801e1da",
+      "note_id": "6575b59e00000000050397cf",
+      "content": "桂花酱链接[哭惹R]",
+      "nickname": "每天都很困的啦～",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "1",
+      "parent_post_title": "桂花乌龙冰茶这样做太太太好喝啦😭巨清爽",
+      "parent_post_desc": "#自制神仙饮品[话题]# #好喝的饮品[话题]# #饮料日常[话题]# #仙女都在喝什么[话题]# #一人食吃什么[话题]# #桂花[话题]# #自制饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "63475d08000000000d02370f",
+      "note_id": "6343c2e0000000001d014997",
+      "content": "价格虾来了  知秋加奶感觉就是桂花奶乌！ 也可以试试其他口味 70+有14支 还可以浅尝一下那个42块七支多口味的 我最喜欢喝普洱和知秋[笑哭R] 真真茶香 光兑水就好喝",
+      "nickname": "嘻嘻",
+      "ip_location": null,
+      "like_count": "39",
+      "sub_comment_count": "0",
+      "parent_post_title": "整个办公室都问我要链接🤣太宝藏了！！",
+      "parent_post_desc": "回购的第四五六次了！爆清爽！！\n我朋友以为我变养生都不喝奶茶了..\n谁知道给他们喝了一杯都问我要🔗..\n九种口味都不踩雷！一星期不带喝重样的！\n小小一支！方便携带！！一杯泡一支！\n冷泡热泡皆可！直接泡水或者泡牛奶..\n还能DIY各种饮品！！不要太方便啊啊啊！🤣\n\t\n跟袋泡茶不同，这个鲜萃茶没有茶渣..\n里头是新鲜萃取的浓缩茶液，和满满的茶多酚！泡开是清香淡雅的桂花乌龙香！喝着不苦涩！一口下去满嘴桂花香！🔆秋冬喝上一杯太舒服了～\n我这种爱喝奶茶咖啡的！喝了它以后都戒奶茶了！不仅好喝还提神哈哈哈！\n\t\n配料表干净！也没有添加什么乱七八糟的..\n0⃣️蔗糖0⃣️脂肪0⃣️香精0⃣️防腐剂！\n不爱喝水的！爱喝饮料的！建议去试试它！\n低卡低脂！！好喝不胖！减脂期姐妹快冲！\n#秋冬喝什么[话题]# #八分之三[话题]# #桂花[话题]# #乌龙[话题]# #奶茶自制[话题]# #奶茶推荐[话题]# #茶饮[话题]##自制神仙饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "63450bb70000000012008b39",
+      "note_id": "6343c2e0000000001d014997",
+      "content": "第一次入的白茶 入口绝了 后来入的普洱 兑奶就是普洱奶茶 然后跟着入了一盏知秋 桂花乌龙清爽解腻太适合秋天了[笑哭R]",
+      "nickname": "怎么我成狼了",
+      "ip_location": null,
+      "like_count": "20",
+      "sub_comment_count": "1",
+      "parent_post_title": "整个办公室都问我要链接🤣太宝藏了！！",
+      "parent_post_desc": "回购的第四五六次了！爆清爽！！\n我朋友以为我变养生都不喝奶茶了..\n谁知道给他们喝了一杯都问我要🔗..\n九种口味都不踩雷！一星期不带喝重样的！\n小小一支！方便携带！！一杯泡一支！\n冷泡热泡皆可！直接泡水或者泡牛奶..\n还能DIY各种饮品！！不要太方便啊啊啊！🤣\n\t\n跟袋泡茶不同，这个鲜萃茶没有茶渣..\n里头是新鲜萃取的浓缩茶液，和满满的茶多酚！泡开是清香淡雅的桂花乌龙香！喝着不苦涩！一口下去满嘴桂花香！🔆秋冬喝上一杯太舒服了～\n我这种爱喝奶茶咖啡的！喝了它以后都戒奶茶了！不仅好喝还提神哈哈哈！\n\t\n配料表干净！也没有添加什么乱七八糟的..\n0⃣️蔗糖0⃣️脂肪0⃣️香精0⃣️防腐剂！\n不爱喝水的！爱喝饮料的！建议去试试它！\n低卡低脂！！好喝不胖！减脂期姐妹快冲！\n#秋冬喝什么[话题]# #八分之三[话题]# #桂花[话题]# #乌龙[话题]# #奶茶自制[话题]# #奶茶推荐[话题]# #茶饮[话题]##自制神仙饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "桂花",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "634d4bdf000000000800daf2",
+      "note_id": "6343c2e0000000001d014997",
+      "content": "求奶茶杯",
+      "nickname": "mimikyu🌙",
+      "ip_location": null,
+      "like_count": "4",
+      "sub_comment_count": "1",
+      "parent_post_title": "整个办公室都问我要链接🤣太宝藏了！！",
+      "parent_post_desc": "回购的第四五六次了！爆清爽！！\n我朋友以为我变养生都不喝奶茶了..\n谁知道给他们喝了一杯都问我要🔗..\n九种口味都不踩雷！一星期不带喝重样的！\n小小一支！方便携带！！一杯泡一支！\n冷泡热泡皆可！直接泡水或者泡牛奶..\n还能DIY各种饮品！！不要太方便啊啊啊！🤣\n\t\n跟袋泡茶不同，这个鲜萃茶没有茶渣..\n里头是新鲜萃取的浓缩茶液，和满满的茶多酚！泡开是清香淡雅的桂花乌龙香！喝着不苦涩！一口下去满嘴桂花香！🔆秋冬喝上一杯太舒服了～\n我这种爱喝奶茶咖啡的！喝了它以后都戒奶茶了！不仅好喝还提神哈哈哈！\n\t\n配料表干净！也没有添加什么乱七八糟的..\n0⃣️蔗糖0⃣️脂肪0⃣️香精0⃣️防腐剂！\n不爱喝水的！爱喝饮料的！建议去试试它！\n低卡低脂！！好喝不胖！减脂期姐妹快冲！\n#秋冬喝什么[话题]# #八分之三[话题]# #桂花[话题]# #乌龙[话题]# #奶茶自制[话题]# #奶茶推荐[话题]# #茶饮[话题]##自制神仙饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "638e02880000000024023ee3",
+      "note_id": "6343c2e0000000001d014997",
+      "content": "买过，确实不错，但是有点包装过度的感觉，不能用塑料制品装吗",
+      "nickname": "用户已注销",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "整个办公室都问我要链接🤣太宝藏了！！",
+      "parent_post_desc": "回购的第四五六次了！爆清爽！！\n我朋友以为我变养生都不喝奶茶了..\n谁知道给他们喝了一杯都问我要🔗..\n九种口味都不踩雷！一星期不带喝重样的！\n小小一支！方便携带！！一杯泡一支！\n冷泡热泡皆可！直接泡水或者泡牛奶..\n还能DIY各种饮品！！不要太方便啊啊啊！🤣\n\t\n跟袋泡茶不同，这个鲜萃茶没有茶渣..\n里头是新鲜萃取的浓缩茶液，和满满的茶多酚！泡开是清香淡雅的桂花乌龙香！喝着不苦涩！一口下去满嘴桂花香！🔆秋冬喝上一杯太舒服了～\n我这种爱喝奶茶咖啡的！喝了它以后都戒奶茶了！不仅好喝还提神哈哈哈！\n\t\n配料表干净！也没有添加什么乱七八糟的..\n0⃣️蔗糖0⃣️脂肪0⃣️香精0⃣️防腐剂！\n不爱喝水的！爱喝饮料的！建议去试试它！\n低卡低脂！！好喝不胖！减脂期姐妹快冲！\n#秋冬喝什么[话题]# #八分之三[话题]# #桂花[话题]# #乌龙[话题]# #奶茶自制[话题]# #奶茶推荐[话题]# #茶饮[话题]##自制神仙饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "塑料"
+        ]
       }
     }
   ]

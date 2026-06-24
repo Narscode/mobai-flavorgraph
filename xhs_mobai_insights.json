@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generation_time": "2026-06-24T12:33:13.881404",
-    "total_posts_filtered": 39,
-    "total_comments_filtered": 48
+    "generation_time": "2026-06-24T12:34:07.349992",
+    "total_posts_filtered": 59,
+    "total_comments_filtered": 77
   },
   "matched_posts": [
     {
@@ -276,8 +276,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "瓶装",
+          "饮料",
           "饮品"
         ],
         "flavor": [],
@@ -390,8 +390,8 @@
           "饮料"
         ],
         "flavor": [
-          "茉莉",
-          "奶茶"
+          "奶茶",
+          "茉莉"
         ],
         "sensory": [
           "涩"
@@ -884,8 +884,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "奇怪",
-          "药"
+          "药",
+          "奇怪"
         ]
       }
     },
@@ -990,8 +990,8 @@
       "matched_keywords": {
         "product": [
           "蛋白",
-          "胶原蛋白",
-          "乳清蛋白"
+          "乳清蛋白",
+          "胶原蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -1081,6 +1081,581 @@
         "flavor": [],
         "sensory": []
       }
+    },
+    {
+      "type": "post",
+      "note_id": "661f717f00000000030222e2",
+      "title": "芒果茉莉冰奶🥭香香甜甜🤣芒果脑袋别错过",
+      "desc": "#一人食吃什么[话题]# 又来发掘新的芒果饮品啦！芒果茉莉冰奶简单又好喝，真滴太清爽啦！#高颜值饮品[话题]# #DIY饮品[话题]# #治愈系美食[话题]# #创意美食[话题]# #仙女都在喝什么[话题]# #自制神仙饮品[话题]# #竹够桂汽竹够圆[话题]# #当我们圆在一起[话题]# #饮品[话题]# #吃了甜食会开心[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #芒果[话题]# #芒果控[话题]#",
+      "nickname": "小梨今天喝什么呢",
+      "note_url": "https://www.xiaohongshu.com/explore/661f717f00000000030222e2?xsec_token=ABmgY2LEZDTzJMEcOn6lJbOJaWvEz5k_FHxRdUMV99OrU=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "3万",
+      "collected_count": "2.5万",
+      "comment_count": "374",
+      "share_count": "3669",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "茉莉",
+          "芒果茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "671773a50000000021002ad8",
+      "title": "沉浸式做蛋糕|茉莉花奶冻➕芒果",
+      "desc": "#沉浸式做蛋糕[话题]# #吃了甜食会开心[话题]# #海盐奥利奥蛋糕[话题]# #最好吃的奶油蛋糕[话题]# #南宁蛋糕[话题]# #茉莉花奶冻[话题]# #南宁蛋糕推荐[话题]# #南宁下午茶推荐[话题]#",
+      "nickname": "嗨森cake",
+      "note_url": "https://www.xiaohongshu.com/explore/671773a50000000021002ad8?xsec_token=AB1fwrMepATdSC5-GCC33ePMGgA91OHGFdhuQvZ21no-U=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2.6万",
+      "collected_count": "1999",
+      "comment_count": "734",
+      "share_count": "2753",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "663215e1000000001e033ce1",
+      "title": "在家自制一杯暴打🥭芒果柠檬茶！",
+      "desc": "#自制水果茶[话题]# #自制[话题]#",
+      "nickname": "沛珊",
+      "note_url": "https://www.xiaohongshu.com/explore/663215e1000000001e033ce1?xsec_token=ABt_wdxvrI9J6U93q9uiSW-iqFcdF9atBieKO3DqcQpyQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.5万",
+      "collected_count": "1.5万",
+      "comment_count": "78",
+      "share_count": "1057",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "65a4a61f000000001d034757",
+      "title": "沉浸式蛋糕制作 超厚茉莉奶冻蛋糕教程❗️",
+      "desc": "#解压[话题]# #沉浸式做蛋糕[话题]# #生日蛋糕[话题]# #蛋糕定制[话题]# #蛋糕教程[话题]# #蛋糕[话题]# #最好吃的奶油蛋糕[话题]# #沉浸式[话题]# #定制蛋糕[话题]#",
+      "nickname": "痞勒在后厨",
+      "note_url": "https://www.xiaohongshu.com/explore/65a4a61f000000001d034757?xsec_token=AB-tq-0fUIjdWZuRq7AwuIJpFibIF-WN4w_5HOeC_lDfM=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "9912",
+      "collected_count": "1256",
+      "comment_count": "222",
+      "share_count": "210",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "683ead70000000002300e4a3",
+      "title": "谁能拒绝一杯香甜冰爽的芒果茉莉冰茶呢！",
+      "desc": "#夏日饮品[话题]# #自制神仙饮品[话题]# #仙女都在喝什么[话题]##适合夏天的饮料[话题]# #芒果[话题]# #水果茶[话题]#",
+      "nickname": "勾勾每天喝啥",
+      "note_url": "https://www.xiaohongshu.com/explore/683ead70000000002300e4a3?xsec_token=ABdMX6doJLMMFaRC7AzuyA89rhDwwGQdTZSCXT1iOXc7M=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "8119",
+      "collected_count": "3661",
+      "comment_count": "71",
+      "share_count": "1242",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "茉莉",
+          "芒果茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "677a56860000000013002b93",
+      "title": "沉浸式做蛋糕丨茉莉花奶冻➕芒果 草莓蛋糕",
+      "desc": "#吃了甜食会开心[话题]# #沉浸式做蛋糕的一天[话题]# #沉浸式做蛋糕[话题]# #复古裱花蛋糕[话题]# #草莓蛋糕[话题]# #南宁蛋糕[话题]# #最好吃的奶油蛋糕[话题]# #蛋糕定制[话题]# #南宁蛋糕订制[话题]#",
+      "nickname": "嗨森cake",
+      "note_url": "https://www.xiaohongshu.com/explore/677a56860000000013002b93?xsec_token=ABTkRv5Yb35y7X1KVFFR261JjHDXwKrAB4xSKORItbi5E=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "7751",
+      "collected_count": "448",
+      "comment_count": "90",
+      "share_count": "505",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "698ec7f60000000016008b8e",
+      "title": "芒果茉莉冰奶🥭香甜可口、简直太好喝了！",
+      "desc": "没想到只需要 3种材料就能搞定！姐妹们快去做！#在家做饮品[话题]# #DIY饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #芒果[话题]# #年夜饭饮品[话题]# #芒果茉莉冰奶[话题]# #吃商开悟大赛[话题]#",
+      "nickname": "爱吃的胖达",
+      "note_url": "https://www.xiaohongshu.com/explore/698ec7f60000000016008b8e?xsec_token=ABZXb2ym7130PtGpP9B98JZKtPX-XyhKQ5NX8xL5v8bBg=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "7006",
+      "collected_count": "1.1万",
+      "comment_count": "62",
+      "share_count": "1109",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "茉莉",
+          "芒果茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69fc3ca00000000036000096",
+      "title": "芒果茉莉冰奶🥭一口入夏～简单3步搞定！",
+      "desc": "#自制神仙饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #芒果冰奶[话题]# #夏日冰饮[话题]# #美食sop指南[话题]# #美食研学主理人[话题]# #howto过春天[话题]#",
+      "nickname": "小七喝不胖",
+      "note_url": "https://www.xiaohongshu.com/explore/69fc3ca00000000036000096?xsec_token=ABUNgz1te4CPNv59spt0LSwunb9uieEWQqwgu3jD3EQkc=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "5460",
+      "collected_count": "7398",
+      "comment_count": "57",
+      "share_count": "673",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "茉莉",
+          "芒果茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69f0a353000000001b023d0a",
+      "title": "柠香芒芒🥭，500ml出品！！！",
+      "desc": "#高品质饮品[话题]# #芒果[话题]# #夏日饮品[话题]# #柠檬茶[话题]# #餐饮店饮品[话题]# #一起豁奶荼[话题]# #饮品推荐[话题]# #好喝的饮品[话题]# #奶茶培训[话题]# #奶茶[话题]#",
+      "nickname": "今点奶茶咖啡咨询（东莞）",
+      "note_url": "https://www.xiaohongshu.com/explore/69f0a353000000001b023d0a?xsec_token=ABOdJbvRmZR9JhentHdaJPW20BOTvcadn77EwHsPQ3yco=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "4915",
+      "collected_count": "4218",
+      "comment_count": "83",
+      "share_count": "1037",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a099003000000003601e770",
+      "title": "这个夏天不能没有芒果🥭茉莉冰奶～芒果的香甜配上茶香再加上奶香，一口下去香甜丝滑真的超级好喝！\n#仙女都在喝自制饮品[话题]# #仙女爱喝的奶茶[话题]# #现做饮品[话题]# #上热门的奶茶[话题]#",
+      "desc": "这个夏天不能没有芒果🥭茉莉冰奶～芒果的香甜配上茶香再加上奶香，一口下去香甜丝滑真的超级好喝！\n#仙女都在喝自制饮品[话题]# #仙女爱喝的奶茶[话题]# #现做饮品[话题]# #上热门的奶茶[话题]#",
+      "nickname": "晓暖超爱喝",
+      "note_url": "https://www.xiaohongshu.com/explore/6a099003000000003601e770?xsec_token=ABnlZ0xoqMPU1NgabmzIEbANvHFU6iKAVu6Hqkc6gh7ZU=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "4751",
+      "collected_count": "4549",
+      "comment_count": "37",
+      "share_count": "620",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "奶茶",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a0c35bb0000000006035288",
+      "title": "没人能拒绝1L装的芒果茉莉冰奶！！！",
+      "desc": "#芒果冰奶[话题]# #芒果茉莉冰奶[话题]# #在家做饮品[话题]# #饮料日常[话题]# #自制神仙饮品[话题]# #howto搞定0失败美食[话题]# @HOWTO薯",
+      "nickname": "小梨大侠",
+      "note_url": "https://www.xiaohongshu.com/explore/6a0c35bb0000000006035288?xsec_token=ABu-JcLcNeu3MZDigo2IYIlYz7hwoQwTCSTzkhhTIHzNU=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "4433",
+      "collected_count": "6491",
+      "comment_count": "48",
+      "share_count": "687",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "茉莉",
+          "芒果茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "665ee361000000000e0302cc",
+      "title": "一口入夏很是上头！这杯杨枝甘露真的超哇塞",
+      "desc": "#饮品[话题]#  #自制神仙饮品[话题]#  #自制饮品[话题]#  #茶饮[话题]# #杨枝甘露",
+      "nickname": "一个深情的饮品师",
+      "note_url": "https://www.xiaohongshu.com/explore/665ee361000000000e0302cc?xsec_token=ABpvrdRWvTdC6dPnrG7OyqtWvp3D4k-6YBMmFJFM0ZOS4=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "3321",
+      "collected_count": "3689",
+      "comment_count": "67",
+      "share_count": "632",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a35374b000000000702d08d",
+      "title": "世界上到底有没有这种芒果糯米特调🥹🥹🥹",
+      "desc": "#奶茶[话题]##芒果糯米饭[话题]##芒果[话题]##Tamkoko[话题]##Tamkoko泰柯茶园[话题]##泰柯茶园[话题]##芒果糯米特调[话题]#",
+      "nickname": "我是O泡",
+      "note_url": "https://www.xiaohongshu.com/explore/6a35374b000000000702d08d?xsec_token=ABAk2jvhRw1GrdnydfKyQyOIj2KcTuOpmTSRNvmggH4OA=&xsec_source=pc_search",
+      "ip_location": "安徽",
+      "liked_count": "3105",
+      "collected_count": "1277",
+      "comment_count": "13",
+      "share_count": "27",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68a2a94c000000001d013ec7",
+      "title": "自制6款水果茶合集🌴｜清爽解暑🍃附教程🔥",
+      "desc": "有手就会！水果茶冰饮🍸说来就来了！\n姐妹们👭快快试试这几款自制水果茶饮品\n亲测都很好喝！果香四溢！清凉又解暑\n天气炎热，来上一杯真的太满足了😌😌😌\n\t\n✅食材和做法都在图片上\n\t\n茶底我搭配的淳茶舍冷萃茶的两个口味👉茉莉花茶和玉露绿茶，偏清爽一点的口感，茶香与花香融合，敲适合我这种喜欢淡淡花香茶味的打工人👩🏻‍💼，用来DIY 饮品也很百搭，平时上班也会带着，比较忙的时候我都是单独喝~冰镇过后也很好喝哦！柔滑顺口，茶香四溢， 💯真实茶叶冷萃的，原料很安心，喝着也放心~\n\t\n他家是通过低温慢沏的冷萃工艺，让茶叶在低温下慢慢释放精华而出来的茶汤，保留茶叶本身香味的同时，不会苦涩，而且很茶汤清新透亮，回味中还有一丝甘甜，怪不得说它有一万滴的回甘呢，爱了爱了😍\n\t\n看了配料真的敲干净的，0️⃣糖0️⃣脂0️⃣能量，自律期/身材管理期/久坐的打工人👩🏻‍💼也能放心畅快的咕噜噜了！！！\n\t\n#自制神仙饮品[话题]##淳茶舍一万滴的回甘[话题]# #淳茶舍冷萃茶[话题]# #淳茶舍[话题]# #无糖茶[话题]# #茉莉花茶[话题]# #淳茶舍迪丽热巴[话题]# #淳茶舍茉莉花茶[话题]# #迪丽热巴代言[话题]##DIY饮品[话题]##打工人必备[话题]##自制饮品[话题]##饮品[话题]##好喝的饮品[话题]# #茉莉花茶饮品自制[话题]# #茉莉花茶推荐[话题]# #无糖茶推荐[话题]#",
+      "nickname": "陈哈哈",
+      "note_url": "https://www.xiaohongshu.com/explore/68a2a94c000000001d013ec7?xsec_token=ABGduOrcGqQ9pQ5Gn3YDoTmtzcshOhqO0eXR76sviXoxo=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2377",
+      "collected_count": "1520",
+      "comment_count": "12",
+      "share_count": "191",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": [
+          "苦",
+          "苦涩",
+          "涩"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6655bbb70000000016012b56",
+      "title": "一口入夏很是上头！这杯芒芒百香真的超解腻",
+      "desc": "#饮品[话题]#  #饮品推荐[话题]#  #饮品教程[话题]#  #柠檬茶[话题]#  #茶饮[话题]#  #茶饮培训[话题]#  #芒果[话题]#  #芒果控[话题]#  #百香果[话题]#",
+      "nickname": "一个深情的饮品师",
+      "note_url": "https://www.xiaohongshu.com/explore/6655bbb70000000016012b56?xsec_token=ABZX9rYYP3i6wRvaaYJHOEtz8SJiQT6jMjp_Bk2FtxF6I=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2281",
+      "collected_count": "3233",
+      "comment_count": "26",
+      "share_count": "585",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6896b674000000002301b11e",
+      "title": "这杯坦白局！全世界第1️⃣好喝的芒果冰奶",
+      "desc": "救命！这杯自制冰奶也太绝了吧！！🤤\n清爽芒果撞上幽香茉莉🌼\n重点是这个基底奶—— 金典娟姗有机纯牛奶！\n空口喝都超醇厚香浓的娟姗奶🐄\n做成冰饮简直把奶香放大100倍！💥\n做法巨简单👇：\n芒果捣成泥打底，加满冰块，倒入金典娟姗奶，淋上茉莉花茶，就完成啦！\n一口下去：芒果甜 + 茉莉香 + 爆炸级醇厚奶香！😍\n冰爽丝滑，清爽不腻！\n夏天续命就靠它了！冲！💨\n#金典[话题]# #金典娟姗小牛[话题]# #金典娟姗有机奶[话题]# #牛奶[话题]# #自制神仙饮品[话题]# #夏日饮品[话题]# #芒果茉莉冰奶[话题]#",
+      "nickname": "金典牛奶",
+      "note_url": "https://www.xiaohongshu.com/explore/6896b674000000002301b11e?xsec_token=AB0RUi2LLk5f9VT_cz9yzMaDJq1bW-5292WK74bTJ7IYI=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2141",
+      "collected_count": "2326",
+      "comment_count": "25",
+      "share_count": "53",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "茉莉",
+          "芒果茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6687e8b2000000001e010d4e",
+      "title": "都给我收藏！6款神仙芒果饮品配方分享！",
+      "desc": "芒果控看过来！\n今天分享6款超简单的芒果饮品\n奶茶店的人气爆款，做法非常简单\n想开饮品店，学饮品一定要看到最后！\n.\n🥭芒芒百香果\n芒果原浆50g\n茉莉清茶160g\n芒果果肉30g\n百香果20g\n冰块150g\n果糖20ml\n.\n🥭芒果抹茶牛乳\n芒果原浆50g\n鲜奶180ml\n抹茶液40ml\n冰块150g\n果糖20ml\n.\n🥭芒果奶绿\n芒果果肉50g\n茉莉花茶100ml\n芒果浓汁60ml\n奶浆100ml\n果糖20ml\n.\n🥭芒果椰拿铁\n芒果果肉50g\n厚椰乳150ml\n浓缩咖啡1份\n冰块150g\n果糖20ml\n咖啡奶15ml\n.\n🔥深圳去哪里学奶茶饮品？\n艾丽斯5天短期饮品课程，面向0基础小白，课程包含网红水果茶、冰沙、奶盖、雪顶、柠檬茶、气泡水、特色茶饮等，涵盖市面上所有热销款🔥而且教你举一反三研发更多新品\n.\n📒【课程内容】\n1️⃣奶茶系列\n2️⃣水果茶系列\n3️⃣柠檬茶系列\n4️⃣芝士鲜果系列\n5️⃣雪顶系列\n6️⃣气泡水系列\n7️⃣益生菌系列\n.\n🌈想了解饮品课程内容\n👉🏻评论区回复：1\n.\n#芒果控[话题]# #芒果饮品[话题]# #芒果饮品做法[话题]# #杨枝甘露[话题]# #自制神仙饮品[话题]# #夏日饮品[话题]# #饮品培训[话题]# #深圳饮品培训[话题]#",
+      "nickname": "艾丽斯烘焙培训",
+      "note_url": "https://www.xiaohongshu.com/explore/6687e8b2000000001e010d4e?xsec_token=AB9AnqLx-VEGCOiHHBg2UdmNeih8tKacNX-BMOdVeEiwc=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1925",
+      "collected_count": "1765",
+      "comment_count": "35",
+      "share_count": "193",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "椰乳",
+          "奶茶",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6a0ed9ae00000000070227b0",
+      "title": "第45天芒果柠檬打奶",
+      "desc": "这个芒果柠檬打奶比芒果椰椰还好喝！芒果脑袋直接冲就对了，喝完嘴里还留着柠檬的回甘#柠檬茶[话题]# #芒果柠檬打奶[话题]# #摆摊[话题]# #奶茶制作教程[话题]#",
+      "nickname": "柠檬茶打手宗介",
+      "note_url": "https://www.xiaohongshu.com/explore/6a0ed9ae00000000070227b0?xsec_token=ABYQo2olUxFYpo6sFWLmMJGtEEn_9ZEGISfhL9f1ADJKo=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1819",
+      "collected_count": "1914",
+      "comment_count": "82",
+      "share_count": "301",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69be7b50000000002102c54c",
+      "title": "芒果茉莉冰茶‼️夏天没有这一杯真的会难过",
+      "desc": "#自制饮品[话题]# #自制神仙饮品[话题]# #芒果[话题]# #仙女都在喝什么[话题]#",
+      "nickname": "77-3U",
+      "note_url": "https://www.xiaohongshu.com/explore/69be7b50000000002102c54c?xsec_token=ABm3YGG7PfVT0iTi1Kfp6BzO-TDIATPeJfNakFvEawIDg=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1616",
+      "collected_count": "1380",
+      "comment_count": "12",
+      "share_count": "266",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮品"
+        ],
+        "flavor": [
+          "芒果",
+          "茉莉",
+          "芒果茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "68c12bce000000001d0082ac",
+      "title": "茉莉奶白这杯一口给我爽到海岛了！！",
+      "desc": "茉莉奶白这杯新品真的惊艳到我了！简直好喝到离谱的程度！\n一口下去，芒果的果香和奶霜的椰香萦绕在口腔挥之不去！再加上茉莉针王茶底，整体的口感又很清爽丝滑~\n满满的热带海岛风味，喝了一口现在满脑子只想飞去海边度假啊啊啊啊！！\n真的是又好看又好喝的一杯！答应我12号上新一定要去喝好吗！！\n#茉莉奶白[话题]##茉莉奶白东方摩登茶[话题]##茉莉奶白新品[话题]##茉莉奶白针王芒芒椰[话题]##针王芒芒椰[话题]##茉莉奶白日不落小岛[话题]##芒里偷闲一口登岛[话题]#",
+      "nickname": "沫沫胖成一堵墙。",
+      "note_url": "https://www.xiaohongshu.com/explore/68c12bce000000001d0082ac?xsec_token=AB1IkQY6OUyo-8O0EMn3dJgxf5U4D8hE1MyjabqLJRHiQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1411",
+      "collected_count": "322",
+      "comment_count": "69",
+      "share_count": "1299",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
     }
   ],
   "matched_comments": [
@@ -1129,8 +1704,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "奶茶",
-          "桂花"
+          "桂花",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1507,8 +2082,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "桂花"
+          "桂花",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -2292,6 +2867,740 @@
           "蛋白"
         ],
         "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "661f940d000000001c03ad66",
+      "note_id": "661f717f00000000030222e2",
+      "content": "茉莉花茶怎么弄？",
+      "nickname": "诚匠装饰～小柯",
+      "ip_location": null,
+      "like_count": "20",
+      "sub_comment_count": "13",
+      "parent_post_title": "芒果茉莉冰奶🥭香香甜甜🤣芒果脑袋别错过",
+      "parent_post_desc": "#一人食吃什么[话题]# 又来发掘新的芒果饮品啦！芒果茉莉冰奶简单又好喝，真滴太清爽啦！#高颜值饮品[话题]# #DIY饮品[话题]# #治愈系美食[话题]# #创意美食[话题]# #仙女都在喝什么[话题]# #自制神仙饮品[话题]# #竹够桂汽竹够圆[话题]# #当我们圆在一起[话题]# #饮品[话题]# #吃了甜食会开心[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #芒果[话题]# #芒果控[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "663a03d70000000003034e5f",
+      "note_id": "661f717f00000000030222e2",
+      "content": "刚做了，老好喝了。我用的两个小台芒，买的茉莉蜜茶，奶是旺仔，真的老好喝了，谁喝谁迷糊",
+      "nickname": "啊樱🍃",
+      "ip_location": null,
+      "like_count": "86",
+      "sub_comment_count": "5",
+      "parent_post_title": "芒果茉莉冰奶🥭香香甜甜🤣芒果脑袋别错过",
+      "parent_post_desc": "#一人食吃什么[话题]# 又来发掘新的芒果饮品啦！芒果茉莉冰奶简单又好喝，真滴太清爽啦！#高颜值饮品[话题]# #DIY饮品[话题]# #治愈系美食[话题]# #创意美食[话题]# #仙女都在喝什么[话题]# #自制神仙饮品[话题]# #竹够桂汽竹够圆[话题]# #当我们圆在一起[话题]# #饮品[话题]# #吃了甜食会开心[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #芒果[话题]# #芒果控[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "662dd4530000000013025a15",
+      "note_id": "661f717f00000000030222e2",
+      "content": "茉莉花茶是自己泡的还是东方茶叶那款，还是三块饮料茉莉蜜茶呀[害羞R]",
+      "nickname": "上网当皇帝",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "2",
+      "parent_post_title": "芒果茉莉冰奶🥭香香甜甜🤣芒果脑袋别错过",
+      "parent_post_desc": "#一人食吃什么[话题]# 又来发掘新的芒果饮品啦！芒果茉莉冰奶简单又好喝，真滴太清爽啦！#高颜值饮品[话题]# #DIY饮品[话题]# #治愈系美食[话题]# #创意美食[话题]# #仙女都在喝什么[话题]# #自制神仙饮品[话题]# #竹够桂汽竹够圆[话题]# #当我们圆在一起[话题]# #饮品[话题]# #吃了甜食会开心[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #芒果[话题]# #芒果控[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料"
+        ],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "680b37f4000000001f00a10f",
+      "note_id": "661f717f00000000030222e2",
+      "content": "三得利的无糖茉莉花茶可以吗",
+      "nickname": "rotioki（见过小时版）",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "2",
+      "parent_post_title": "芒果茉莉冰奶🥭香香甜甜🤣芒果脑袋别错过",
+      "parent_post_desc": "#一人食吃什么[话题]# 又来发掘新的芒果饮品啦！芒果茉莉冰奶简单又好喝，真滴太清爽啦！#高颜值饮品[话题]# #DIY饮品[话题]# #治愈系美食[话题]# #创意美食[话题]# #仙女都在喝什么[话题]# #自制神仙饮品[话题]# #竹够桂汽竹够圆[话题]# #当我们圆在一起[话题]# #饮品[话题]# #吃了甜食会开心[话题]# #自制饮品[话题]# #好喝的饮品[话题]# #芒果[话题]# #芒果控[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6650a636000000001c00ce5b",
+      "note_id": "663215e1000000001e033ce1",
+      "content": "茉莉花茶可以拿绿茶自己泡吗[笑哭R]",
+      "nickname": "진명옥",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "在家自制一杯暴打🥭芒果柠檬茶！",
+      "parent_post_desc": "#自制水果茶[话题]# #自制[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "664c2749000000001c00d0dd",
+      "note_id": "663215e1000000001e033ce1",
+      "content": "我对芒果过敏。",
+      "nickname": "DM.",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "在家自制一杯暴打🥭芒果柠檬茶！",
+      "parent_post_desc": "#自制水果茶[话题]# #自制[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "65a9cd12000000000202528d",
+      "note_id": "65a4a61f000000001d034757",
+      "content": "把奶油挤在塑料皮上，是什么操作[扶墙R]",
+      "nickname": "叮当",
+      "ip_location": null,
+      "like_count": "10",
+      "sub_comment_count": "3",
+      "parent_post_title": "沉浸式蛋糕制作 超厚茉莉奶冻蛋糕教程❗️",
+      "parent_post_desc": "#解压[话题]# #沉浸式做蛋糕[话题]# #生日蛋糕[话题]# #蛋糕定制[话题]# #蛋糕教程[话题]# #蛋糕[话题]# #最好吃的奶油蛋糕[话题]# #沉浸式[话题]# #定制蛋糕[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "塑料"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "65b08730000000000103109a",
+      "note_id": "65a4a61f000000001d034757",
+      "content": "茉莉脑袋狠狠爱了，我又爱茉莉，又爱芒果[偷笑R]",
+      "nickname": "藤锦上",
+      "ip_location": null,
+      "like_count": "3",
+      "sub_comment_count": "2",
+      "parent_post_title": "沉浸式蛋糕制作 超厚茉莉奶冻蛋糕教程❗️",
+      "parent_post_desc": "#解压[话题]# #沉浸式做蛋糕[话题]# #生日蛋糕[话题]# #蛋糕定制[话题]# #蛋糕教程[话题]# #蛋糕[话题]# #最好吃的奶油蛋糕[话题]# #沉浸式[话题]# #定制蛋糕[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "684053d900000000080269ca",
+      "note_id": "683ead70000000002300e4a3",
+      "content": "柠檬泡久了不苦吗",
+      "nickname": "郑在睡觉",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "8",
+      "parent_post_title": "谁能拒绝一杯香甜冰爽的芒果茉莉冰茶呢！",
+      "parent_post_desc": "#夏日饮品[话题]# #自制神仙饮品[话题]# #仙女都在喝什么[话题]##适合夏天的饮料[话题]# #芒果[话题]# #水果茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68442597000000000b02f1ea",
+      "note_id": "683ead70000000002300e4a3",
+      "content": "好幸福[害羞R][害羞R][害羞R][害羞R]芒果真的太爱了",
+      "nickname": "0x_x6",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "谁能拒绝一杯香甜冰爽的芒果茉莉冰茶呢！",
+      "parent_post_desc": "#夏日饮品[话题]# #自制神仙饮品[话题]# #仙女都在喝什么[话题]##适合夏天的饮料[话题]# #芒果[话题]# #水果茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68413130000000000702b6fc",
+      "note_id": "683ead70000000002300e4a3",
+      "content": "直接用自己榨芒果汁可以吗？",
+      "nickname": "...",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "谁能拒绝一杯香甜冰爽的芒果茉莉冰茶呢！",
+      "parent_post_desc": "#夏日饮品[话题]# #自制神仙饮品[话题]# #仙女都在喝什么[话题]##适合夏天的饮料[话题]# #芒果[话题]# #水果茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68413464000000000103f619",
+      "note_id": "683ead70000000002300e4a3",
+      "content": "没有茉莉花能用绿茶代替吗",
+      "nickname": "🥣",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "谁能拒绝一杯香甜冰爽的芒果茉莉冰茶呢！",
+      "parent_post_desc": "#夏日饮品[话题]# #自制神仙饮品[话题]# #仙女都在喝什么[话题]##适合夏天的饮料[话题]# #芒果[话题]# #水果茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6849a05c000000001c036a32",
+      "note_id": "683ead70000000002300e4a3",
+      "content": "芒果芒果",
+      "nickname": "多宝吃不胖",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "谁能拒绝一杯香甜冰爽的芒果茉莉冰茶呢！",
+      "parent_post_desc": "#夏日饮品[话题]# #自制神仙饮品[话题]# #仙女都在喝什么[话题]##适合夏天的饮料[话题]# #芒果[话题]# #水果茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "677b5bda000000001200f15a",
+      "note_id": "677a56860000000013002b93",
+      "content": "请问一下，茉莉奶冻是什么味道？",
+      "nickname": "小官",
+      "ip_location": null,
+      "like_count": "96",
+      "sub_comment_count": "5",
+      "parent_post_title": "沉浸式做蛋糕丨茉莉花奶冻➕芒果 草莓蛋糕",
+      "parent_post_desc": "#吃了甜食会开心[话题]# #沉浸式做蛋糕的一天[话题]# #沉浸式做蛋糕[话题]# #复古裱花蛋糕[话题]# #草莓蛋糕[话题]# #南宁蛋糕[话题]# #最好吃的奶油蛋糕[话题]# #蛋糕定制[话题]# #南宁蛋糕订制[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "677a69e3000000001101aa9e",
+      "note_id": "677a56860000000013002b93",
+      "content": "茉莉芒果我得最爱！不敢想象这块蛋糕有多好吃[吧唧R]",
+      "nickname": "清风雨",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "1",
+      "parent_post_title": "沉浸式做蛋糕丨茉莉花奶冻➕芒果 草莓蛋糕",
+      "parent_post_desc": "#吃了甜食会开心[话题]# #沉浸式做蛋糕的一天[话题]# #沉浸式做蛋糕[话题]# #复古裱花蛋糕[话题]# #草莓蛋糕[话题]# #南宁蛋糕[话题]# #最好吃的奶油蛋糕[话题]# #蛋糕定制[话题]# #南宁蛋糕订制[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a3aa6c9000000002b0038f3",
+      "note_id": "698ec7f60000000016008b8e",
+      "content": "芒果100加冰100加200茉莉茶汤加100椰奶，也超级好喝[自拍R]",
+      "nickname": "湖畔咖啡",
+      "ip_location": "四川",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "芒果茉莉冰奶🥭香甜可口、简直太好喝了！",
+      "parent_post_desc": "没想到只需要 3种材料就能搞定！姐妹们快去做！#在家做饮品[话题]# #DIY饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #芒果[话题]# #年夜饭饮品[话题]# #芒果茉莉冰奶[话题]# #吃商开悟大赛[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69b187d9000000001400b7c3",
+      "note_id": "698ec7f60000000016008b8e",
+      "content": "茉莉花茶可以自己泡的那种吗",
+      "nickname": "一生姓胡",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "2",
+      "parent_post_title": "芒果茉莉冰奶🥭香甜可口、简直太好喝了！",
+      "parent_post_desc": "没想到只需要 3种材料就能搞定！姐妹们快去做！#在家做饮品[话题]# #DIY饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #芒果[话题]# #年夜饭饮品[话题]# #芒果茉莉冰奶[话题]# #吃商开悟大赛[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a252af1000000002b000661",
+      "note_id": "698ec7f60000000016008b8e",
+      "content": "主播是茉莉花茶还是茉莉蜜茶？",
+      "nickname": "睡困小猫",
+      "ip_location": "吉林",
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "芒果茉莉冰奶🥭香甜可口、简直太好喝了！",
+      "parent_post_desc": "没想到只需要 3种材料就能搞定！姐妹们快去做！#在家做饮品[话题]# #DIY饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #芒果[话题]# #年夜饭饮品[话题]# #芒果茉莉冰奶[话题]# #吃商开悟大赛[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "698edc2b000000000503a006",
+      "note_id": "698ec7f60000000016008b8e",
+      "content": "喝过一点点的芒果冰奶[doge]",
+      "nickname": "Blue",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "芒果茉莉冰奶🥭香甜可口、简直太好喝了！",
+      "parent_post_desc": "没想到只需要 3种材料就能搞定！姐妹们快去做！#在家做饮品[话题]# #DIY饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #芒果[话题]# #年夜饭饮品[话题]# #芒果茉莉冰奶[话题]# #吃商开悟大赛[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a092eb6000000002a005864",
+      "note_id": "69fc3ca00000000036000096",
+      "content": "我喜欢喝东方树叶的茉莉花",
+      "nickname": "小红薯3159873972向前",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "芒果茉莉冰奶🥭一口入夏～简单3步搞定！",
+      "parent_post_desc": "#自制神仙饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #芒果冰奶[话题]# #夏日冰饮[话题]# #美食sop指南[话题]# #美食研学主理人[话题]# #howto过春天[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a0386870000000028038744",
+      "note_id": "69fc3ca00000000036000096",
+      "content": "感觉。。。偷懒的可以直接用瓶装茉莉茶[doge]喜欢甜的就康师傅茉莉蜜茶，不喜欢太甜就茉莉清茶",
+      "nickname": "kosmo妖妖",
+      "ip_location": null,
+      "like_count": "4",
+      "sub_comment_count": "1",
+      "parent_post_title": "芒果茉莉冰奶🥭一口入夏～简单3步搞定！",
+      "parent_post_desc": "#自制神仙饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #芒果冰奶[话题]# #夏日冰饮[话题]# #美食sop指南[话题]# #美食研学主理人[话题]# #howto过春天[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "瓶装"
+        ],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a06040a000000002803ecaf",
+      "note_id": "69fc3ca00000000036000096",
+      "content": "茉莉花茶白色的？不应该绿色？",
+      "nickname": "冢不二",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "芒果茉莉冰奶🥭一口入夏～简单3步搞定！",
+      "parent_post_desc": "#自制神仙饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #芒果冰奶[话题]# #夏日冰饮[话题]# #美食sop指南[话题]# #美食研学主理人[话题]# #howto过春天[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a05d6e7000000002800b0a3",
+      "note_id": "69fc3ca00000000036000096",
+      "content": "茉莉花茶可以换成东方树叶系列的不",
+      "nickname": "Etc.",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "芒果茉莉冰奶🥭一口入夏～简单3步搞定！",
+      "parent_post_desc": "#自制神仙饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #芒果冰奶[话题]# #夏日冰饮[话题]# #美食sop指南[话题]# #美食研学主理人[话题]# #howto过春天[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a0002dc000000002701771a",
+      "note_id": "69fc3ca00000000036000096",
+      "content": "茉莉花可以用什么代替？",
+      "nickname": "懿心饼干",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "芒果茉莉冰奶🥭一口入夏～简单3步搞定！",
+      "parent_post_desc": "#自制神仙饮品[话题]# #自制饮品[话题]# #自制神仙饮品[话题]# #DIY饮品[话题]# #芒果冰奶[话题]# #夏日冰饮[话题]# #美食sop指南[话题]# #美食研学主理人[话题]# #howto过春天[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69f43d410000000027023af6",
+      "note_id": "69f0a353000000001b023d0a",
+      "content": "没有买到咖奶，其它的都复刻了，20元的芒果+10块的奈雪的雪山茉莉，+子弹头香水柠檬。我个人口味觉得一般…",
+      "nickname": "望闻问切的咕咕",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "3",
+      "parent_post_title": "柠香芒芒🥭，500ml出品！！！",
+      "parent_post_desc": "#高品质饮品[话题]# #芒果[话题]# #夏日饮品[话题]# #柠檬茶[话题]# #餐饮店饮品[话题]# #一起豁奶荼[话题]# #饮品推荐[话题]# #好喝的饮品[话题]# #奶茶培训[话题]# #奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a158e14000000002b0291a0",
+      "note_id": "6a099003000000003601e770",
+      "content": "我没有吃剩的芒果怎么办？？",
+      "nickname": "马兰开花",
+      "ip_location": "江苏",
+      "like_count": "3",
+      "sub_comment_count": "1",
+      "parent_post_title": "这个夏天不能没有芒果🥭茉莉冰奶～芒果的香甜配上茶香再加上奶香，一口下去香甜丝滑真的超级好喝！\n#仙女都在喝自制饮品[话题]# #仙女爱喝的奶茶[话题]# #现做饮品[话题]# #上热门的奶茶[话题]#",
+      "parent_post_desc": "这个夏天不能没有芒果🥭茉莉冰奶～芒果的香甜配上茶香再加上奶香，一口下去香甜丝滑真的超级好喝！\n#仙女都在喝自制饮品[话题]# #仙女爱喝的奶茶[话题]# #现做饮品[话题]# #上热门的奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a16e4c500000000290125e5",
+      "note_id": "6a099003000000003601e770",
+      "content": "做完芒果不好吃了，悦鲜活茉莉清茶不好喝了，",
+      "nickname": "momo",
+      "ip_location": "山西",
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "这个夏天不能没有芒果🥭茉莉冰奶～芒果的香甜配上茶香再加上奶香，一口下去香甜丝滑真的超级好喝！\n#仙女都在喝自制饮品[话题]# #仙女爱喝的奶茶[话题]# #现做饮品[话题]# #上热门的奶茶[话题]#",
+      "parent_post_desc": "这个夏天不能没有芒果🥭茉莉冰奶～芒果的香甜配上茶香再加上奶香，一口下去香甜丝滑真的超级好喝！\n#仙女都在喝自制饮品[话题]# #仙女爱喝的奶茶[话题]# #现做饮品[话题]# #上热门的奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果",
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a0d85c2000000002901a296",
+      "note_id": "6a0c35bb0000000006035288",
+      "content": "做了[吧唧R]跟奶茶店没啥区别",
+      "nickname": "泡泡茶芋圆",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "没人能拒绝1L装的芒果茉莉冰奶！！！",
+      "parent_post_desc": "#芒果冰奶[话题]# #芒果茉莉冰奶[话题]# #在家做饮品[话题]# #饮料日常[话题]# #自制神仙饮品[话题]# #howto搞定0失败美食[话题]# @HOWTO薯",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a1ab1fd000000002800bbcf",
+      "note_id": "6a0c35bb0000000006035288",
+      "content": "想做芒果玻璃精的，如果芒果不够多，可以加一点糖浆。要不然不够甜",
+      "nickname": "晓美焰",
+      "ip_location": "广西",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "没人能拒绝1L装的芒果茉莉冰奶！！！",
+      "parent_post_desc": "#芒果冰奶[话题]# #芒果茉莉冰奶[话题]# #在家做饮品[话题]# #饮料日常[话题]# #自制神仙饮品[话题]# #howto搞定0失败美食[话题]# @HOWTO薯",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
         "sensory": []
       }
     }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generation_time": "2026-06-24T12:35:36.358570",
+    "generation_time": "2026-06-24T12:38:02.979254",
     "total_posts_filtered": 79,
-    "total_comments_filtered": 88
+    "total_comments_filtered": 106
   },
   "matched_posts": [
     {
@@ -51,8 +51,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -130,8 +130,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "饮料",
+          "饮品",
           "即饮"
         ],
         "flavor": [
@@ -162,8 +162,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": [
@@ -217,8 +217,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "生椰",
@@ -249,8 +249,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -276,8 +276,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "饮料",
+          "饮品",
           "瓶装"
         ],
         "flavor": [],
@@ -330,8 +330,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
           "菊花",
@@ -360,8 +360,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -444,8 +444,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -471,8 +471,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -552,8 +552,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -579,8 +579,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "乳清蛋白",
+          "饮品",
           "蛋白"
         ],
         "flavor": [],
@@ -659,8 +659,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -712,8 +712,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -739,8 +739,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -767,8 +767,8 @@
       "matched_keywords": {
         "product": [
           "乳清蛋白",
-          "即饮",
-          "蛋白"
+          "蛋白",
+          "即饮"
         ],
         "flavor": [],
         "sensory": []
@@ -795,8 +795,8 @@
       "matched_keywords": {
         "product": [
           "饮品",
-          "即饮",
-          "蛋白"
+          "蛋白",
+          "即饮"
         ],
         "flavor": [
           "奶茶"
@@ -824,8 +824,8 @@
       },
       "matched_keywords": {
         "product": [
-          "乳清蛋白",
           "饮料",
+          "乳清蛋白",
           "蛋白"
         ],
         "flavor": [
@@ -909,8 +909,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -936,8 +936,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -990,8 +990,8 @@
       "matched_keywords": {
         "product": [
           "乳清蛋白",
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -1046,8 +1046,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "瓶装",
+          "饮品",
           "蛋白"
         ],
         "flavor": [
@@ -1105,9 +1105,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "芒果",
           "茉莉",
-          "芒果"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1133,8 +1133,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1211,13 +1211,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "芒果",
           "茉莉",
-          "芒果"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1243,8 +1243,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1272,9 +1272,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "芒果",
           "茉莉",
-          "芒果"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1302,9 +1302,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "芒果",
           "茉莉",
-          "芒果"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1361,8 +1361,8 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
           "芒果",
+          "茉莉",
           "奶茶"
         ],
         "sensory": []
@@ -1388,13 +1388,13 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "芒果",
           "茉莉",
-          "芒果"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1478,9 +1478,9 @@
           "茉莉"
         ],
         "sensory": [
-          "涩",
+          "苦",
           "苦涩",
-          "苦"
+          "涩"
         ]
       }
     },
@@ -1535,9 +1535,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "芒果",
           "茉莉",
-          "芒果"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1565,10 +1565,10 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
           "芒果",
-          "椰乳",
-          "奶茶"
+          "奶茶",
+          "茉莉",
+          "椰乳"
         ],
         "sensory": []
       }
@@ -1623,9 +1623,9 @@
           "饮品"
         ],
         "flavor": [
-          "芒果茉莉",
+          "芒果",
           "茉莉",
-          "芒果"
+          "芒果茉莉"
         ],
         "sensory": []
       }
@@ -1651,8 +1651,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1731,8 +1731,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰奶茶",
           "生椰",
+          "生椰奶茶",
           "奶茶"
         ],
         "sensory": []
@@ -1762,8 +1762,8 @@
         ],
         "flavor": [
           "生椰",
-          "椰乳",
           "茉莉",
+          "椰乳",
           "芒果",
           "奶茶"
         ],
@@ -1793,8 +1793,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "生椰奶茶",
           "生椰",
+          "生椰奶茶",
           "奶茶"
         ],
         "sensory": []
@@ -1821,10 +1821,10 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
+          "奶茶",
           "生椰",
           "茉莉",
-          "椰乳",
-          "奶茶"
+          "椰乳"
         ],
         "sensory": []
       }
@@ -1906,19 +1906,19 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "饮料"
+          "饮料",
+          "饮品"
         ],
         "flavor": [
-          "生椰",
           "椰子",
+          "生椰",
+          "生椰奶茶",
           "茉莉",
-          "奶茶",
-          "生椰奶茶"
+          "奶茶"
         ],
         "sensory": [
-          "苦",
-          "药"
+          "药",
+          "苦"
         ]
       }
     },
@@ -2198,10 +2198,10 @@
           "饮品"
         ],
         "flavor": [
-          "椰乳",
-          "生椰",
+          "奶茶",
           "椰子",
-          "奶茶"
+          "生椰",
+          "椰乳"
         ],
         "sensory": [
           "苦"
@@ -2663,8 +2663,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "桂花",
-          "茉莉"
+          "茉莉",
+          "桂花"
         ],
         "sensory": []
       }
@@ -2913,8 +2913,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -2939,8 +2939,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -2965,8 +2965,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -3067,8 +3067,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -3093,8 +3093,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -3419,8 +3419,8 @@
       },
       "matched_keywords": {
         "product": [
-          "胶原蛋白",
-          "蛋白"
+          "蛋白",
+          "胶原蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -3648,8 +3648,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -3824,8 +3824,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -3850,8 +3850,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -4078,8 +4078,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -4129,8 +4129,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -4456,6 +4456,456 @@
         "product": [],
         "flavor": [
           "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "674bff3d00000000070069f2",
+      "note_id": "6745b1ad000000000201894d",
+      "content": "今天买一song一最后一天啦！！\n快和奶茶搭子喝起来！！！！！！[喝奶茶R][喝奶茶R][喝奶茶R]",
+      "nickname": "年糕味的芝士",
+      "ip_location": null,
+      "like_count": "3",
+      "sub_comment_count": "0",
+      "parent_post_title": "太好了！是古茗大促！我们的奶茶有救了！！",
+      "parent_post_desc": "古茗你为了让我们每日一奶茶是真的宠啊！！连续七天各种活动！！这谁能顶得住🥹\n11.25-11.29，12点-13点猜口令抢🆓喝\n11.25-11.29，找三位好友助力就有机会得🆓单or买一S一！\n11.29-12.1，小🍠还有惊喜随机掉落？！\n11.30-12.1，爆款饮品买一song一！\n这不得赶紧叫上奶茶搭子一起喝起来！！！！\n·\n✔布蕾脆脆奶芙\n我愿称之为奶茶届的queen！！！\n顶上是奶芙和坚果碎🌰，奶茶底一点都不甜腻！！还加了奶fufu的布蕾和很好嚼的珍珠！！就一整个口感大爆炸！！！\n·\n✔杨枝甘露轻盈版\n这杯真的狂喝都喝不腻！\n入口就是清甜的芒果香，还能吃到超多小料！口感超丰富！！\n·\n✔生椰抹茶麻薯\n抹茶脑袋闭眼冲！！是稍微偏苦调的抹茶，搭配醇香椰乳刚刚好，底下还加了麻薯和紫米丸子，适合下午茶来一杯～\n·\n✔黑糖珍珠牛乳\n现熬的黑糖珍珠搭配醇香牛乳，奶香味很浓郁，夹杂着黑糖的焦香🥛珍珠特别软糯好嚼！！\n·\n✔云岭茉莉白\n喜欢纯奶茶的可以点这杯～\n茉莉花茶➕牛乳，喝起来hin清爽！奶香茶香花香融合的恰到好处！\n·\n✔百香芒芒冰柚茶\n新鲜的芒果果肉➕百香果➕柚子汁，酸酸甜甜的还能补充满满维c🥭超超超清爽的一杯！\n·\n#古茗[话题]# #古茗奶茶[话题]# #古茗推荐[话题]##奶茶推荐[话题]# #古茗轻乳茶[话题]# #古茗点单攻略[话题]#   #奶茶推荐必喝[话题]# #古茗口令[话题]# #古茗免单券[话题]##古茗买一送一[话题]# #布蕾脆脆奶芙[话题]##杨枝甘露轻盈版[话题]# #云岭茉莉白[话题]# #生椰抹茶麻薯[话题]##黑糖珍珠牛乳[话题]# #红岩桃胶炖奶[话题]# #红岩咸奶茶[话题]# #百香双重奏[话题]# #百香芒芒冰柚[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "674c6718000000001a01af6c",
+      "note_id": "6745b1ad000000000201894d",
+      "content": "古茗的奶茶有什么好喝的推荐吗？[害羞R]",
+      "nickname": "🧀^奶油^._小芷🍼'",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "3",
+      "parent_post_title": "太好了！是古茗大促！我们的奶茶有救了！！",
+      "parent_post_desc": "古茗你为了让我们每日一奶茶是真的宠啊！！连续七天各种活动！！这谁能顶得住🥹\n11.25-11.29，12点-13点猜口令抢🆓喝\n11.25-11.29，找三位好友助力就有机会得🆓单or买一S一！\n11.29-12.1，小🍠还有惊喜随机掉落？！\n11.30-12.1，爆款饮品买一song一！\n这不得赶紧叫上奶茶搭子一起喝起来！！！！\n·\n✔布蕾脆脆奶芙\n我愿称之为奶茶届的queen！！！\n顶上是奶芙和坚果碎🌰，奶茶底一点都不甜腻！！还加了奶fufu的布蕾和很好嚼的珍珠！！就一整个口感大爆炸！！！\n·\n✔杨枝甘露轻盈版\n这杯真的狂喝都喝不腻！\n入口就是清甜的芒果香，还能吃到超多小料！口感超丰富！！\n·\n✔生椰抹茶麻薯\n抹茶脑袋闭眼冲！！是稍微偏苦调的抹茶，搭配醇香椰乳刚刚好，底下还加了麻薯和紫米丸子，适合下午茶来一杯～\n·\n✔黑糖珍珠牛乳\n现熬的黑糖珍珠搭配醇香牛乳，奶香味很浓郁，夹杂着黑糖的焦香🥛珍珠特别软糯好嚼！！\n·\n✔云岭茉莉白\n喜欢纯奶茶的可以点这杯～\n茉莉花茶➕牛乳，喝起来hin清爽！奶香茶香花香融合的恰到好处！\n·\n✔百香芒芒冰柚茶\n新鲜的芒果果肉➕百香果➕柚子汁，酸酸甜甜的还能补充满满维c🥭超超超清爽的一杯！\n·\n#古茗[话题]# #古茗奶茶[话题]# #古茗推荐[话题]##奶茶推荐[话题]# #古茗轻乳茶[话题]# #古茗点单攻略[话题]#   #奶茶推荐必喝[话题]# #古茗口令[话题]# #古茗免单券[话题]##古茗买一送一[话题]# #布蕾脆脆奶芙[话题]##杨枝甘露轻盈版[话题]# #云岭茉莉白[话题]# #生椰抹茶麻薯[话题]##黑糖珍珠牛乳[话题]# #红岩桃胶炖奶[话题]# #红岩咸奶茶[话题]# #百香双重奏[话题]# #百香芒芒冰柚[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "674c26b9000000000b03ce02",
+      "note_id": "6745b1ad000000000201894d",
+      "content": "避雷抹茶的那杯，苦死了",
+      "nickname": "Gardenia",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "太好了！是古茗大促！我们的奶茶有救了！！",
+      "parent_post_desc": "古茗你为了让我们每日一奶茶是真的宠啊！！连续七天各种活动！！这谁能顶得住🥹\n11.25-11.29，12点-13点猜口令抢🆓喝\n11.25-11.29，找三位好友助力就有机会得🆓单or买一S一！\n11.29-12.1，小🍠还有惊喜随机掉落？！\n11.30-12.1，爆款饮品买一song一！\n这不得赶紧叫上奶茶搭子一起喝起来！！！！\n·\n✔布蕾脆脆奶芙\n我愿称之为奶茶届的queen！！！\n顶上是奶芙和坚果碎🌰，奶茶底一点都不甜腻！！还加了奶fufu的布蕾和很好嚼的珍珠！！就一整个口感大爆炸！！！\n·\n✔杨枝甘露轻盈版\n这杯真的狂喝都喝不腻！\n入口就是清甜的芒果香，还能吃到超多小料！口感超丰富！！\n·\n✔生椰抹茶麻薯\n抹茶脑袋闭眼冲！！是稍微偏苦调的抹茶，搭配醇香椰乳刚刚好，底下还加了麻薯和紫米丸子，适合下午茶来一杯～\n·\n✔黑糖珍珠牛乳\n现熬的黑糖珍珠搭配醇香牛乳，奶香味很浓郁，夹杂着黑糖的焦香🥛珍珠特别软糯好嚼！！\n·\n✔云岭茉莉白\n喜欢纯奶茶的可以点这杯～\n茉莉花茶➕牛乳，喝起来hin清爽！奶香茶香花香融合的恰到好处！\n·\n✔百香芒芒冰柚茶\n新鲜的芒果果肉➕百香果➕柚子汁，酸酸甜甜的还能补充满满维c🥭超超超清爽的一杯！\n·\n#古茗[话题]# #古茗奶茶[话题]# #古茗推荐[话题]##奶茶推荐[话题]# #古茗轻乳茶[话题]# #古茗点单攻略[话题]#   #奶茶推荐必喝[话题]# #古茗口令[话题]# #古茗免单券[话题]##古茗买一送一[话题]# #布蕾脆脆奶芙[话题]##杨枝甘露轻盈版[话题]# #云岭茉莉白[话题]# #生椰抹茶麻薯[话题]##黑糖珍珠牛乳[话题]# #红岩桃胶炖奶[话题]# #红岩咸奶茶[话题]# #百香双重奏[话题]# #百香芒芒冰柚[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "674c61da000000000b03cb99",
+      "note_id": "6745b1ad000000000201894d",
+      "content": "我姑姑说做奶茶的",
+      "nickname": "弥殉",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "太好了！是古茗大促！我们的奶茶有救了！！",
+      "parent_post_desc": "古茗你为了让我们每日一奶茶是真的宠啊！！连续七天各种活动！！这谁能顶得住🥹\n11.25-11.29，12点-13点猜口令抢🆓喝\n11.25-11.29，找三位好友助力就有机会得🆓单or买一S一！\n11.29-12.1，小🍠还有惊喜随机掉落？！\n11.30-12.1，爆款饮品买一song一！\n这不得赶紧叫上奶茶搭子一起喝起来！！！！\n·\n✔布蕾脆脆奶芙\n我愿称之为奶茶届的queen！！！\n顶上是奶芙和坚果碎🌰，奶茶底一点都不甜腻！！还加了奶fufu的布蕾和很好嚼的珍珠！！就一整个口感大爆炸！！！\n·\n✔杨枝甘露轻盈版\n这杯真的狂喝都喝不腻！\n入口就是清甜的芒果香，还能吃到超多小料！口感超丰富！！\n·\n✔生椰抹茶麻薯\n抹茶脑袋闭眼冲！！是稍微偏苦调的抹茶，搭配醇香椰乳刚刚好，底下还加了麻薯和紫米丸子，适合下午茶来一杯～\n·\n✔黑糖珍珠牛乳\n现熬的黑糖珍珠搭配醇香牛乳，奶香味很浓郁，夹杂着黑糖的焦香🥛珍珠特别软糯好嚼！！\n·\n✔云岭茉莉白\n喜欢纯奶茶的可以点这杯～\n茉莉花茶➕牛乳，喝起来hin清爽！奶香茶香花香融合的恰到好处！\n·\n✔百香芒芒冰柚茶\n新鲜的芒果果肉➕百香果➕柚子汁，酸酸甜甜的还能补充满满维c🥭超超超清爽的一杯！\n·\n#古茗[话题]# #古茗奶茶[话题]# #古茗推荐[话题]##奶茶推荐[话题]# #古茗轻乳茶[话题]# #古茗点单攻略[话题]#   #奶茶推荐必喝[话题]# #古茗口令[话题]# #古茗免单券[话题]##古茗买一送一[话题]# #布蕾脆脆奶芙[话题]##杨枝甘露轻盈版[话题]# #云岭茉莉白[话题]# #生椰抹茶麻薯[话题]##黑糖珍珠牛乳[话题]# #红岩桃胶炖奶[话题]# #红岩咸奶茶[话题]# #百香双重奏[话题]# #百香芒芒冰柚[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "64c34c3b00000000180381c0",
+      "note_id": "64b267760000000012010e7d",
+      "content": "为什么我这样做椰汁都水油分离了，咋回事啊",
+      "nickname": "a蕊妮儿呦",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "2",
+      "parent_post_title": "🔥卖爆的700ml白月光柠檬茶配方教程出来啦",
+      "parent_post_desc": "白月光柠檬茶700毫升\n做法教程：\n1、雪克杯加入4片香水柠檬，少许冰块，用柠檬锤爆锤出香。\n2、冰块加到650线。\n3、加入250毫升越王头生椰乳，雪克均匀，即可出品啦~\n\t\n#奶茶培训[话题]# #笔记灵感[话题]# #一起嚯奶茶[话题]# #柠檬茶[话题]# #暴打柠檬茶[话题]# #手打柠檬茶[话题]# #香水柠檬[话题]# #柠檬[话题]# #生椰乳[话题]# #茉莉椰椰[话题]# #白月光[话题]# #白月光柠檬茶[话题]# #白月光手打柠檬茶[话题]# #奶茶原料[话题]# #生打椰椰[话题]# #冰糖糖浆[话题]# #奶茶店[话题]# #人气奶茶店[话题]# #奶茶店创业[话题]# #奶茶店商用配方[话题]# #日常碎片PLOG[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰汁"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67887c50000000002200bf3a",
+      "note_id": "675d192700000000020177a3",
+      "content": "请问生椰燕麦牛奶可以变成牛奶吗[害羞R][害羞R]",
+      "nickname": "在夏天🏖",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "2",
+      "parent_post_title": "超简单‼️巨好喝的秋冬热饮搭配☕🔥",
+      "parent_post_desc": "姐妹们，天冷就要喝点热乎乎的，把奶茶换成这几款秋冬热饮，健康又好喝！做法也很简单，学起来再也不用去奶茶店啦～\n-\n✅芋泥啵啵牛乳【芋泥、小芋圆、生椰燕麦牛奶】\n✅抹茶草莓牛乳【抹茶粉、草莓酱、淡奶油、生椰燕麦牛奶】\n✅南瓜西米露【南瓜、西米、生椰燕麦牛奶】\n✅生椰热可可【热可可、奥利奥碎、巧克力酱、生椰燕麦牛奶】\n✅红豆沙牛乳【红豆沙、生椰燕麦牛奶】\n✅布蕾珍珠奶茶【珍珠、布蕾、红茶、生椰燕麦牛奶】\n-\n🌈具体做法参考图片噢～\n\t\n👏🏻最近的快乐搭子--谷粒多生椰燕麦牛奶，[赞R]尊嘟好好喝！！入口丝滑醇厚，椰香浓郁，而且不会齁甜，每一口都能嚼到大颗燕麦粒，Q弹好吃，喝完很有饱腹感～\n当早餐或者下午加餐都🉑！我和女鹅都很喜欢！\n🧋还可以用来diy热饮甜品，口感丰富还健康，这不比去奶茶店买奶茶香多了？\n-\n#自制神仙饮品[话题]##自制饮品[话题]##仙女都在喝什么[话题]##生椰配燕麦扛饿真粒害[话题]# #谷粒多奶茶平替[话题]##谷粒多实现奶茶自由[话题]##谷粒多奶茶diy[话题]##下午茶[话题]##谷afternoon打工人[话题]##秋冬热饮[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "生椰"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "676282f5000000000e01f414",
+      "note_id": "675d192700000000020177a3",
+      "content": "芋泥的我要[喝奶茶R]",
+      "nickname": "QQQQing",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "超简单‼️巨好喝的秋冬热饮搭配☕🔥",
+      "parent_post_desc": "姐妹们，天冷就要喝点热乎乎的，把奶茶换成这几款秋冬热饮，健康又好喝！做法也很简单，学起来再也不用去奶茶店啦～\n-\n✅芋泥啵啵牛乳【芋泥、小芋圆、生椰燕麦牛奶】\n✅抹茶草莓牛乳【抹茶粉、草莓酱、淡奶油、生椰燕麦牛奶】\n✅南瓜西米露【南瓜、西米、生椰燕麦牛奶】\n✅生椰热可可【热可可、奥利奥碎、巧克力酱、生椰燕麦牛奶】\n✅红豆沙牛乳【红豆沙、生椰燕麦牛奶】\n✅布蕾珍珠奶茶【珍珠、布蕾、红茶、生椰燕麦牛奶】\n-\n🌈具体做法参考图片噢～\n\t\n👏🏻最近的快乐搭子--谷粒多生椰燕麦牛奶，[赞R]尊嘟好好喝！！入口丝滑醇厚，椰香浓郁，而且不会齁甜，每一口都能嚼到大颗燕麦粒，Q弹好吃，喝完很有饱腹感～\n当早餐或者下午加餐都🉑！我和女鹅都很喜欢！\n🧋还可以用来diy热饮甜品，口感丰富还健康，这不比去奶茶店买奶茶香多了？\n-\n#自制神仙饮品[话题]##自制饮品[话题]##仙女都在喝什么[话题]##生椰配燕麦扛饿真粒害[话题]# #谷粒多奶茶平替[话题]##谷粒多实现奶茶自由[话题]##谷粒多奶茶diy[话题]##下午茶[话题]##谷afternoon打工人[话题]##秋冬热饮[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6839965b000000000a0370a5",
+      "note_id": "683992e6000000002101a949",
+      "content": "嘴香的都不是奶茶了吧",
+      "nickname": "woshijlm🖤💛",
+      "ip_location": null,
+      "like_count": "533",
+      "sub_comment_count": "5",
+      "parent_post_title": "奶茶大测评！有你喜欢的吗？",
+      "parent_post_desc": "#今天喝什么[话题]# #离谱但合理[话题]# #饮料[话题]# #奶茶[话题]# #嘴臭[话题]# #口气[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "683b14cd000000000103e2e7",
+      "note_id": "683992e6000000002101a949",
+      "content": "省流：奶茶vs果茶",
+      "nickname": "momo",
+      "ip_location": null,
+      "like_count": "6",
+      "sub_comment_count": "0",
+      "parent_post_title": "奶茶大测评！有你喜欢的吗？",
+      "parent_post_desc": "#今天喝什么[话题]# #离谱但合理[话题]# #饮料[话题]# #奶茶[话题]# #嘴臭[话题]# #口气[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "67c64dc5000000001800edd5",
+      "note_id": "67a60888000000001800e0d0",
+      "content": "陆卢缘是塑料茶包，塑料茶包，塑料茶包",
+      "nickname": "Castle",
+      "ip_location": null,
+      "like_count": "43",
+      "sub_comment_count": "4",
+      "parent_post_title": "2024 我真的喝了超多饮料",
+      "parent_post_desc": "全自费无广\n打勾是推荐\n勾点是可以尝尝\n打叉是不推荐\n\t\np1-p2的茶包很推荐 它是真的有功效 还挺好喝 桑葚那个脸黄的时候喝完第二天真变白了 所以又回购了\n牛乳茉莉奶茶不推荐 味道非常的廉价\n生椰奶茶我觉得很像药的味道\n\t\np3维维 两款豆奶我都觉得味道怪怪的 喜欢巧克力牛奶不如去买高乐高 高乐高是我理想中巧克力奶的味道\n\t\np4都不太推荐 这种奶茶店出的茶包都是形式大于内容 茶叶用得不太好\n\t\np5酸枣仁很适合吃多的时候喝 胃很舒服\n\t\np6新疆奶茶很香很好喝 但是和奶茶店奶茶不太一样 冲泡奶茶里面我最推荐这个\n\t\np7-p 8浓缩果汁是用来兑气泡水的只有甜味 不喜欢\n强推山楂汁 酸酸苦苦甜甜 很开胃 我很喜欢💕 买了好多好多好多\n\t\np9-p10椰子水还是if好喝 它比较甜\n汇源果汁有点普通 我感觉意文复合果汁好喝\n\t\np11柚子汁还行 它味道淡淡的 一开始感觉很普通 后来就有点上头 我可能夏天会回购\n\t\np12巧克力粉 对我来说太甜了 可是它很适合冬天喝 也很适合和咖啡混在一起喝\n\t\np13格力高扁桃仁不好喝 哈哈哈哈哈哈 难怪它打折       茉莉抹茶有点东西\n\t\np14麦茶推荐元气森林 上头 买了一箱喝到怕了\n\t\n#饮料分享[话题]# #饮品爱好者[话题]# #冲泡饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [],
+        "sensory": [
+          "塑料"
+        ]
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d5327a0000000015015237",
+      "note_id": "69cddeaf000000001d01b07f",
+      "content": "其实厚椰乳已经很甜了，可以不用放糖浆[捂脸R]",
+      "nickname": "月亮睡不着",
+      "ip_location": null,
+      "like_count": "5",
+      "sub_comment_count": "3",
+      "parent_post_title": "别只懂生椰拿铁！9 款椰椰爆款配方全整理",
+      "parent_post_desc": "#奶茶饮品培训[话题]# #饮品培训[话题]# #奶茶培训[话题]# #奶茶店创业[话题]# #奶茶原料[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰乳"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69df38740000000002035d42",
+      "note_id": "69cddeaf000000001d01b07f",
+      "content": "都一定要添加茉莉茶汤吗？不加可行？",
+      "nickname": " 💰 Eve 衣服👪 ",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "别只懂生椰拿铁！9 款椰椰爆款配方全整理",
+      "parent_post_desc": "#奶茶饮品培训[话题]# #饮品培训[话题]# #奶茶培训[话题]# #奶茶店创业[话题]# #奶茶原料[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69f332db000000002701614f",
+      "note_id": "696d7505000000001a02b91b",
+      "content": "云岭茉莉七分糖去冰",
+      "nickname": "淋雨的小猫🥝",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "古茗超全点单攻略，这几杯真的没有对手！！",
+      "parent_post_desc": "1️⃣曲香茉莉\n2️⃣黑糖珍珠牛乳\n3️⃣提拉米苏拿铁\n4️⃣奥利奥留心芝士\n5️⃣抹茶布蕾\n6️⃣松语乌龙\n7️⃣超A芝士葡萄\n8️⃣生椰抹茶麻薯\n9️⃣芋泥牛乳小丸子\n#给我一杯奶茶[话题]# #奶茶推荐[话题]# #一起豁奶荼[话题]#\n#人气奶茶店[话题]# #古茗水果茶[话题]# #古茗奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "698da2d5000000000b034bbc",
+      "note_id": "696d7505000000001a02b91b",
+      "content": "奶茶有什么推荐",
+      "nickname": "俄罗斯物流专线的小鱼",
+      "ip_location": null,
+      "like_count": "9",
+      "sub_comment_count": "0",
+      "parent_post_title": "古茗超全点单攻略，这几杯真的没有对手！！",
+      "parent_post_desc": "1️⃣曲香茉莉\n2️⃣黑糖珍珠牛乳\n3️⃣提拉米苏拿铁\n4️⃣奥利奥留心芝士\n5️⃣抹茶布蕾\n6️⃣松语乌龙\n7️⃣超A芝士葡萄\n8️⃣生椰抹茶麻薯\n9️⃣芋泥牛乳小丸子\n#给我一杯奶茶[话题]# #奶茶推荐[话题]# #一起豁奶荼[话题]#\n#人气奶茶店[话题]# #古茗水果茶[话题]# #古茗奶茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "66474a14000000001c035570",
+      "note_id": "663de5d8000000001e0369b0",
+      "content": "为什么加了厚椰乳以后还要加牛奶，对口感有什么影响",
+      "nickname": "momo",
+      "ip_location": null,
+      "like_count": "5",
+      "sub_comment_count": "5",
+      "parent_post_title": "生椰抹茶🍵巨巨好喝🤣抹茶脑袋一定要试试！",
+      "parent_post_desc": "今天做：生椰抹茶🍵\n喝过的人都说好，抹茶脑袋当然不能错过啦～\n在家就能做，不但颜值超高，好喝又简单方便！！\n快推给你爱喝抹茶的姐妹🙋🏻‍♀️😋\n\t\n#一人食吃什么[话题]##仙女都在喝什么[话题]# #好喝的饮品[话题]# #自制神仙饮品[话题]# #抹茶[话题]# #夏日必备[话题]# #夏日饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰乳"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "66dd3253000000001203e564",
+      "note_id": "663de5d8000000001e0369b0",
+      "content": "感觉加这个厚椰乳还是有点腻 加水的话会不会影响口感呢",
+      "nickname": "以猫就",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "1",
+      "parent_post_title": "生椰抹茶🍵巨巨好喝🤣抹茶脑袋一定要试试！",
+      "parent_post_desc": "今天做：生椰抹茶🍵\n喝过的人都说好，抹茶脑袋当然不能错过啦～\n在家就能做，不但颜值超高，好喝又简单方便！！\n快推给你爱喝抹茶的姐妹🙋🏻‍♀️😋\n\t\n#一人食吃什么[话题]##仙女都在喝什么[话题]# #好喝的饮品[话题]# #自制神仙饮品[话题]# #抹茶[话题]# #夏日必备[话题]# #夏日饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰乳"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68ffbf2c0000000039032798",
+      "note_id": "68cc1a56000000001101d190",
+      "content": "一定要茉莉毛尖吗",
+      "nickname": "鱼姐（大健康变现）",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "抹茶脑袋快冲❗️超好喝的生椰抹茶教程✅",
+      "parent_post_desc": "#奶茶分享[话题]# #奶茶配方[话题]# #仙女都在喝什么[话题]# #奶茶教学[话题]# #奶茶培训[话题]# #长沙奶茶培训[话题]# #自制神仙饮品[话题]# #抹茶饮品[话题]# #生椰抹茶[话题]# #饮品教程[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69fb6a58000000002702e99e",
+      "note_id": "684293e700000000230141fd",
+      "content": "请问厚椰乳用哪个牌子",
+      "nickname": "柠夏手打柠檬茶",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "简单好喝的红茶生椰～🔴",
+      "parent_post_desc": "#浪漫生活的记录者[话题]# #奶茶店茶底[话题]# #奶茶培训[话题]# #饮品培训[话题]# #奶茶店创业[话题]# #人气奶茶店[话题]# #新中式茶饮[话题]# #茶饮[话题]# #奶茶店[话题]# #餐饮店饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰乳"
         ],
         "sensory": []
       }

@@ -130,6 +130,8 @@ def main():
     posts = {}
     matched_posts = []
     matched_comments = []
+    seen_post_ids = set()
+    seen_comment_ids = set()
 
     # 1. Process Post Contents
     for file_path in content_files:
@@ -154,6 +156,9 @@ def main():
                         "source_keyword": source_keyword
                     }
 
+                    if note_id in seen_post_ids:
+                        continue
+
                     # Check for matches
                     match_text = f"{title} {desc}"
                     has_prod = check_match(match_text, PRODUCT_REGEX)
@@ -166,6 +171,7 @@ def main():
                         matched_sens_kws = extract_matched_keywords(match_text, SENSORY_REGEX)
                         
                         group_name = get_keyword_group(source_keyword)
+                        seen_post_ids.add(note_id)
                         
                         matched_posts.append({
                             "type": "post",
@@ -210,6 +216,9 @@ def main():
                     note_id = data.get("note_id")
                     content = data.get("content", "")
                     
+                    if comment_id in seen_comment_ids:
+                        continue
+                        
                     has_prod = check_match(content, PRODUCT_REGEX)
                     has_flav = check_match(content, FLAVOR_REGEX)
                     has_sens = check_match(content, SENSORY_REGEX)
@@ -222,6 +231,7 @@ def main():
                         parent_post = posts.get(note_id, {})
                         source_keyword = parent_post.get("source_keyword", "")
                         group_name = get_keyword_group(source_keyword)
+                        seen_comment_ids.add(comment_id)
                         
                         matched_comments.append({
                             "type": "comment",

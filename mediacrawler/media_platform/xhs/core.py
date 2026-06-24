@@ -133,11 +133,30 @@ class XiaoHongShuCrawler(AbstractCrawler):
         if config.CRAWLER_MAX_NOTES_COUNT < xhs_limit_count:
             config.CRAWLER_MAX_NOTES_COUNT = xhs_limit_count
         start_page = config.START_PAGE
+
+        # Load completed keywords to support resume
+        completed_kw_file = os.path.join(os.getcwd(), "completed_keywords.txt")
+        completed_keywords = set()
+        if os.path.exists(completed_kw_file):
+            try:
+                with open(completed_kw_file, 'r', encoding='utf-8') as f:
+                    completed_keywords = {line.strip() for line in f if line.strip()}
+            except Exception as e:
+                utils.logger.error(f"Error reading completed_keywords.txt: {e}")
+
         for keyword in config.KEYWORDS.split(","):
+            keyword = keyword.strip()
+            if not keyword:
+                continue
+            if keyword in completed_keywords:
+                utils.logger.info(f"[XiaoHongShuCrawler.search] Skip already completed keyword: {keyword}")
+                continue
+
             source_keyword_var.set(keyword)
             utils.logger.info(f"[XiaoHongShuCrawler.search] Current search keyword: {keyword}")
             page = 1
             search_id = get_search_id()
+            completed_successfully = True
             while (page - start_page + 1) * xhs_limit_count <= config.CRAWLER_MAX_NOTES_COUNT:
                 if page < start_page:
                     utils.logger.info(f"[XiaoHongShuCrawler.search] Skip page {page}")
@@ -183,7 +202,21 @@ class XiaoHongShuCrawler(AbstractCrawler):
                     utils.logger.info(f"[XiaoHongShuCrawler.search] Sleeping for {config.CRAWLER_MAX_SLEEP_SEC} seconds after page {page-1}")
                 except DataFetchError:
                     utils.logger.error("[XiaoHongShuCrawler.search] Get note detail error")
+                    completed_successfully = False
                     break
+                except Exception as e:
+                    utils.logger.error(f"[XiaoHongShuCrawler.search] Unexpected error: {e}")
+                    completed_successfully = False
+                    raise e
+
+            if completed_successfully:
+                try:
+                    with open(completed_kw_file, 'a', encoding='utf-8') as f:
+                        f.write(keyword + "\n")
+                    completed_keywords.add(keyword)
+                    utils.logger.info(f"[XiaoHongShuCrawler.search] Successfully completed and saved keyword: {keyword}")
+                except Exception as e:
+                    utils.logger.error(f"Error writing to completed_keywords.txt: {e}")
 
     async def get_creators_and_notes(self) -> None:
         """Get creator's notes and retrieve their comment information."""

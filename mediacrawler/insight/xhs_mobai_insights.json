@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generation_time": "2026-06-24T13:32:47.535414",
-    "total_posts_filtered": 265,
-    "total_comments_filtered": 252
+    "generation_time": "2026-06-24T13:43:50.690984",
+    "total_posts_filtered": 283,
+    "total_comments_filtered": 287
   },
   "matched_posts": [
     {
@@ -140,8 +140,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [
@@ -237,8 +237,8 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
-          "生椰"
+          "生椰",
+          "茉莉"
         ],
         "sensory": [
           "涩"
@@ -358,8 +358,8 @@
           "饮品"
         ],
         "flavor": [
-          "菊花",
-          "奶茶"
+          "奶茶",
+          "菊花"
         ],
         "sensory": []
       }
@@ -592,8 +592,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -622,8 +622,8 @@
       "matched_keywords": {
         "product": [
           "乳清蛋白",
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -707,8 +707,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -764,8 +764,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -793,8 +793,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -822,8 +822,8 @@
       },
       "matched_keywords": {
         "product": [
-          "乳清蛋白",
           "即饮",
+          "乳清蛋白",
           "蛋白"
         ],
         "flavor": [],
@@ -852,9 +852,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "即饮",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -884,8 +884,8 @@
       },
       "matched_keywords": {
         "product": [
-          "乳清蛋白",
           "饮料",
+          "乳清蛋白",
           "蛋白"
         ],
         "flavor": [
@@ -948,8 +948,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "药",
-          "奇怪"
+          "奇怪",
+          "药"
         ]
       }
     },
@@ -975,8 +975,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -1004,8 +1004,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -1061,9 +1061,9 @@
       },
       "matched_keywords": {
         "product": [
+          "胶原蛋白",
           "乳清蛋白",
-          "蛋白",
-          "胶原蛋白"
+          "蛋白"
         ],
         "flavor": [
           "奶茶"
@@ -1123,8 +1123,8 @@
       "matched_keywords": {
         "product": [
           "瓶装",
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -1185,9 +1185,9 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
+          "芒果",
           "芒果茉莉",
-          "芒果"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1215,8 +1215,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1303,9 +1303,9 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
+          "芒果",
           "芒果茉莉",
-          "芒果"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1333,8 +1333,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1364,9 +1364,9 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
+          "芒果",
           "芒果茉莉",
-          "芒果"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1396,9 +1396,9 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
+          "芒果",
           "芒果茉莉",
-          "芒果"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1428,8 +1428,8 @@
           "饮品"
         ],
         "flavor": [
-          "奶茶",
-          "芒果"
+          "芒果",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1459,9 +1459,9 @@
           "饮品"
         ],
         "flavor": [
+          "芒果",
           "茉莉",
-          "奶茶",
-          "芒果"
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1492,9 +1492,9 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
+          "芒果",
           "芒果茉莉",
-          "芒果"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1550,8 +1550,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "奶茶",
-          "芒果"
+          "芒果",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1585,8 +1585,8 @@
         ],
         "sensory": [
           "苦",
-          "涩",
-          "苦涩"
+          "苦涩",
+          "涩"
         ]
       }
     },
@@ -1645,9 +1645,9 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
+          "芒果",
           "芒果茉莉",
-          "芒果"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1677,10 +1677,10 @@
           "饮品"
         ],
         "flavor": [
-          "椰乳",
+          "芒果",
           "茉莉",
-          "奶茶",
-          "芒果"
+          "椰乳",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1708,8 +1708,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "奶茶",
-          "芒果"
+          "芒果",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1739,9 +1739,9 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
+          "芒果",
           "芒果茉莉",
-          "芒果"
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1769,8 +1769,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -1798,8 +1798,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "奶茶",
-          "生椰"
+          "生椰",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1855,8 +1855,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "奶茶",
           "生椰",
+          "奶茶",
           "生椰奶茶"
         ],
         "sensory": []
@@ -1887,11 +1887,11 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
           "奶茶",
           "芒果",
           "椰乳",
-          "生椰"
+          "生椰",
+          "茉莉"
         ],
         "sensory": [
           "苦"
@@ -1921,8 +1921,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "奶茶",
           "生椰",
+          "奶茶",
           "生椰奶茶"
         ],
         "sensory": []
@@ -1951,10 +1951,10 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "椰乳",
+          "生椰",
           "茉莉",
-          "奶茶",
-          "生椰"
+          "椰乳",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -1984,8 +1984,8 @@
           "饮品"
         ],
         "flavor": [
-          "奶茶",
-          "生椰"
+          "生椰",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2046,11 +2046,11 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
           "奶茶",
+          "生椰奶茶",
           "椰子",
           "生椰",
-          "生椰奶茶"
+          "茉莉"
         ],
         "sensory": [
           "苦",
@@ -2083,8 +2083,8 @@
           "饮品"
         ],
         "flavor": [
-          "奶茶",
-          "生椰"
+          "生椰",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2140,9 +2140,9 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
+          "生椰",
           "茉莉",
-          "奶茶",
-          "生椰"
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2230,8 +2230,8 @@
           "饮品"
         ],
         "flavor": [
-          "奶茶",
-          "生椰"
+          "生椰",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2261,8 +2261,8 @@
           "饮料"
         ],
         "flavor": [
-          "奶茶",
-          "生椰"
+          "生椰",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2292,8 +2292,8 @@
           "饮品"
         ],
         "flavor": [
-          "奶茶",
-          "生椰"
+          "生椰",
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2323,8 +2323,8 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
-          "生椰"
+          "生椰",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -2354,9 +2354,9 @@
           "饮品"
         ],
         "flavor": [
-          "椰乳",
-          "奶茶",
           "生椰",
+          "奶茶",
+          "椰乳",
           "椰子"
         ],
         "sensory": [
@@ -2389,9 +2389,9 @@
           "饮品"
         ],
         "flavor": [
+          "生椰",
           "茉莉",
-          "奶茶",
-          "生椰"
+          "奶茶"
         ],
         "sensory": []
       }
@@ -2505,9 +2505,9 @@
           "饮品"
         ],
         "flavor": [
-          "桂花",
+          "椰子",
           "奶茶",
-          "椰子"
+          "桂花"
         ],
         "sensory": []
       }
@@ -2991,8 +2991,8 @@
         ],
         "sensory": [
           "苦",
-          "涩",
-          "苦涩"
+          "苦涩",
+          "涩"
         ]
       }
     },
@@ -3024,8 +3024,8 @@
           "奶茶"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3086,8 +3086,8 @@
           "奶茶"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3145,8 +3145,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3177,9 +3177,9 @@
         "flavor": [],
         "sensory": [
           "苦",
-          "药",
+          "苦涩",
           "涩",
-          "苦涩"
+          "药"
         ]
       }
     },
@@ -3240,8 +3240,8 @@
           "奶茶"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3298,12 +3298,12 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "椰乳",
-          "芒果"
+          "芒果",
+          "椰乳"
         ],
         "sensory": [
-          "苦味",
           "苦",
+          "苦味",
           "涩"
         ]
       }
@@ -3365,11 +3365,11 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦",
+          "涩",
           "苦味",
-          "苦涩",
           "去苦",
-          "涩"
+          "苦涩",
+          "苦"
         ]
       }
     },
@@ -3398,12 +3398,12 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": [
-          "苦味",
           "苦",
+          "苦味",
           "涩"
         ]
       }
@@ -3435,8 +3435,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
           "苦",
+          "苦味",
           "涩"
         ]
       }
@@ -3465,8 +3465,8 @@
         "product": [],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3497,8 +3497,8 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3560,8 +3560,8 @@
           "茉莉"
         ],
         "sensory": [
-          "苦味",
           "苦",
+          "苦味",
           "涩"
         ]
       }
@@ -3618,8 +3618,8 @@
         "product": [],
         "flavor": [],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -3963,8 +3963,8 @@
       "matched_keywords": {
         "product": [
           "瓶装",
-          "饮品",
-          "即饮"
+          "即饮",
+          "饮品"
         ],
         "flavor": [
           "椰子"
@@ -3994,14 +3994,14 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [
-          "金银花",
           "奶茶",
-          "枸杞"
+          "枸杞",
+          "金银花"
         ],
         "sensory": [
           "药"
@@ -4242,8 +4242,8 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
-          "椰子"
+          "椰子",
+          "茉莉"
         ],
         "sensory": [
           "苦"
@@ -4336,10 +4336,10 @@
         ],
         "flavor": [],
         "sensory": [
-          "苦味",
           "苦",
-          "涩",
-          "苦涩"
+          "苦味",
+          "苦涩",
+          "涩"
         ]
       }
     },
@@ -4576,13 +4576,13 @@
           "饮品"
         ],
         "flavor": [
+          "芒果",
           "茉莉",
-          "奶茶",
-          "芒果"
+          "奶茶"
         ],
         "sensory": [
-          "苦味",
-          "苦"
+          "苦",
+          "苦味"
         ]
       }
     },
@@ -4608,8 +4608,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "瓶装"
+          "瓶装",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -4637,12 +4637,12 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [
-          "花草茶",
           "茉莉",
+          "花草茶",
           "枸杞"
         ],
         "sensory": []
@@ -4703,9 +4703,9 @@
           "饮品"
         ],
         "flavor": [
+          "茉莉",
           "草本",
           "凉茶",
-          "茉莉",
           "金银花"
         ],
         "sensory": []
@@ -4733,8 +4733,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "即饮"
+          "即饮",
+          "饮品"
         ],
         "flavor": [
           "罗汉果"
@@ -4797,8 +4797,8 @@
           "饮品"
         ],
         "flavor": [
-          "茉莉",
-          "椰子"
+          "椰子",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -4828,10 +4828,10 @@
           "饮料"
         ],
         "flavor": [
-          "椰乳",
-          "茉莉",
           "椰子",
-          "金银花"
+          "茉莉",
+          "金银花",
+          "椰乳"
         ],
         "sensory": []
       }
@@ -4858,8 +4858,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "瓶装"
+          "瓶装",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -4891,8 +4891,8 @@
           "饮品"
         ],
         "flavor": [
-          "草本",
           "枸杞",
+          "草本",
           "金银花",
           "罗汉果"
         ],
@@ -4923,10 +4923,10 @@
       },
       "matched_keywords": {
         "product": [
-          "能量饮料",
           "饮料",
+          "蛋白",
           "饮品",
-          "蛋白"
+          "能量饮料"
         ],
         "flavor": [
           "人参"
@@ -4956,9 +4956,9 @@
       },
       "matched_keywords": {
         "product": [
-          "RTD",
           "瓶装",
-          "即饮"
+          "即饮",
+          "RTD"
         ],
         "flavor": [],
         "sensory": []
@@ -5074,8 +5074,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [],
@@ -5161,8 +5161,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [
           "草本"
@@ -5194,8 +5194,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": [
@@ -5225,8 +5225,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [
@@ -5257,8 +5257,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [
@@ -5291,8 +5291,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [],
@@ -5321,8 +5321,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [],
@@ -5351,8 +5351,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [
           "茉莉"
@@ -5382,8 +5382,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -5442,8 +5442,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [
@@ -5474,8 +5474,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -5559,8 +5559,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -5588,8 +5588,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": [
@@ -5619,8 +5619,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [
@@ -5708,8 +5708,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -5738,8 +5738,8 @@
       "matched_keywords": {
         "product": [
           "瓶装",
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [
           "草本"
@@ -5865,8 +5865,8 @@
         ],
         "sensory": [
           "苦",
-          "涩",
-          "苦涩"
+          "苦涩",
+          "涩"
         ]
       }
     },
@@ -5892,9 +5892,9 @@
       },
       "matched_keywords": {
         "product": [
+          "胶原蛋白",
           "即饮",
-          "蛋白",
-          "胶原蛋白"
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -6013,8 +6013,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
+          "饮料",
           "饮品"
         ],
         "flavor": [
@@ -6047,11 +6047,11 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "饮品",
-          "蛋白",
+          "饮料",
+          "胶原蛋白",
           "即饮",
-          "胶原蛋白"
+          "蛋白"
         ],
         "flavor": [
           "草本",
@@ -6112,8 +6112,8 @@
       "matched_keywords": {
         "product": [
           "瓶装",
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -6170,8 +6170,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
-          "即饮"
+          "即饮",
+          "饮料"
         ],
         "flavor": [],
         "sensory": []
@@ -6343,8 +6343,8 @@
       "matched_keywords": {
         "product": [
           "饮料",
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -6374,9 +6374,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
           "即饮",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -6404,8 +6404,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": [
@@ -6437,8 +6437,8 @@
         "product": [
           "Protein",
           "饮料",
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -6524,9 +6524,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
+          "胶原蛋白",
           "蛋白",
-          "胶原蛋白"
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -6612,10 +6612,10 @@
       },
       "matched_keywords": {
         "product": [
-          "饮料",
           "即饮",
-          "饮品",
-          "蛋白"
+          "饮料",
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -6645,9 +6645,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
+          "胶原蛋白",
           "蛋白",
-          "胶原蛋白"
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -6675,8 +6675,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -6704,8 +6704,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -6761,9 +6761,9 @@
       },
       "matched_keywords": {
         "product": [
+          "胶原蛋白",
           "饮料",
-          "蛋白",
-          "胶原蛋白"
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -6848,8 +6848,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [
           "芒果"
@@ -6879,9 +6879,9 @@
       },
       "matched_keywords": {
         "product": [
+          "胶原蛋白",
           "饮料",
-          "蛋白",
-          "胶原蛋白"
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -6968,8 +6968,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -6998,8 +6998,8 @@
       "matched_keywords": {
         "product": [
           "乳清蛋白",
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -7058,9 +7058,9 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
+          "胶原蛋白",
           "蛋白",
-          "胶原蛋白"
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -7116,8 +7116,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -7146,9 +7146,9 @@
       "matched_keywords": {
         "product": [
           "瓶装",
-          "饮品",
           "即饮",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -7290,8 +7290,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -7347,8 +7347,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -7376,9 +7376,9 @@
       },
       "matched_keywords": {
         "product": [
+          "胶原蛋白",
           "饮料",
-          "蛋白",
-          "胶原蛋白"
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -7434,8 +7434,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -7463,8 +7463,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -7492,8 +7492,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -7550,8 +7550,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -7579,8 +7579,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": []
@@ -7637,8 +7637,8 @@
       "matched_keywords": {
         "product": [
           "乳清蛋白",
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [],
         "sensory": [
@@ -7728,8 +7728,8 @@
       },
       "matched_keywords": {
         "product": [
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
           "奶茶"
@@ -7762,13 +7762,13 @@
       "matched_keywords": {
         "product": [
           "饮料",
-          "饮品",
-          "蛋白"
+          "蛋白",
+          "饮品"
         ],
         "flavor": [
+          "椰子",
           "茉莉",
-          "奶茶",
-          "椰子"
+          "奶茶"
         ],
         "sensory": [
           "苦",
@@ -7856,9 +7856,9 @@
       },
       "matched_keywords": {
         "product": [
-          "乳清蛋白",
           "Protein",
           "即饮",
+          "乳清蛋白",
           "蛋白"
         ],
         "flavor": [],
@@ -8003,6 +8003,552 @@
       "matched_keywords": {
         "product": [
           "饮料",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69ec28120000000035025f44",
+      "title": "桑葚奶昔🍇一个低卡高蛋白的庞然大物！",
+      "desc": "又大又好吃😋像冰淇淋🍦\n\t\n营养价值：\n290大卡，28.7克蛋白质，41.7克碳水，2.6克脂肪\n\t\n配料：\n一根冷冻香蕉，140克冷冻过的桑葚，一勺蛋白粉，3克奇亚籽（可选），120毫升任意奶（低卡推荐无糖巴旦木奶）\n\t\n#手抓奶昔[话题]# #低卡甜品[话题]# #高蛋白[话题]# #超模饮食[话题]# #减脂[话题]# #桑葚[话题]# #特色小吃[话题]# #泰格西[话题]# #浪漫生活的记录者[话题]#",
+      "nickname": "蛋白厨房",
+      "note_url": "https://www.xiaohongshu.com/explore/69ec28120000000035025f44?xsec_token=AB8eq8CvUbwKitPCxTUO-Vpk8RaECKhN7Xe7zqFbiRB5E=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2万",
+      "collected_count": "3995",
+      "comment_count": "599",
+      "share_count": "2065",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69992ecb000000000a02b0e5",
+      "title": "沉浸式低卡高蛋白甜品：芒果火龙果奶昔🥭🔥",
+      "desc": "新年好！\n\t\n营养价值：\n269大卡，28.3克蛋白质，31.2克碳水，3.8克脂肪\n\t\n配料：\n120克芒果、120克火龙果、一勺蛋白粉（30克左右）、120毫升无糖巴旦木奶。\n\t\n#高蛋白[话题]# #减脂[话题]# #低卡甜品[话题]# #奶昔[话题]# #超模饮食[话题]# #红心火龙果[话题]# #手抓奶昔[话题]# #在家实现冰淇淋自由[话题]# #这也太可爱了吧[话题]#",
+      "nickname": "蛋白厨房",
+      "note_url": "https://www.xiaohongshu.com/explore/69992ecb000000000a02b0e5?xsec_token=ABXo5XxZnYso4gUC8KaBLr5Dx92mdY5FtHmcOavvF5Dnk=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.4万",
+      "collected_count": "2346",
+      "comment_count": "314",
+      "share_count": "1039",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "64db0233000000000800d2da",
+      "title": "买第三桶了…好喝我已经说累了🥲！！！",
+      "desc": "最近办公室的姐妹们人手一桶这个羊奶粉！\n我自己买来“吃独食”的时候她们就忍不了啦，一开罐工位都是奶香味！\n就是它！伊利倍畅羊奶粉！\n100%纯羊乳，不含牛乳蛋白的A2奶！\n很浓郁的奶香，入口贼丝滑，香醇浓郁，真的好喝到失语！\n加点芋圆珍珠小料真的秒杀奶茶店！一天一杯！！\n赶紧分享给姐妹们👭！！！！\n秘密武器就是：羊奶粉➕山药杏仁粉！！\n生长因子的来源除了燕窝就是羊奶啦！\n而且羊奶粉里有丰富的Vc和Ve，再加上山药杏仁粉里也有Ve和杏仁油！！\n对女孩子来说是真的好～\n而且！！高蛋白！0蔗糖！！减脂姐妹放心冲！！\n#羊奶粉[话题]# #自制神仙饮品[话题]# #伊利倍畅羊奶粉[话题]# #成人奶粉[话题]#",
+      "nickname": "心心今天吃什么",
+      "note_url": "https://www.xiaohongshu.com/explore/64db0233000000000800d2da?xsec_token=ABXdytZ7lmwwsSX8_VsjqHOPlriIPF0MEfPI_WCnQQfxI=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1.1万",
+      "collected_count": "4115",
+      "comment_count": "80",
+      "share_count": "89",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": [
+          "药"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "64352ee90000000027003113",
+      "title": "谁还没喝过豆腐奶昔啊！真的太掉秤了！",
+      "desc": "宝子们，内酯豆腐真的有点东西啊\n直接我打开新世界大门！\n咱们不说好喝到满地找头🤣\n但是喜欢抹茶的宝子们一定要试\n喝了之后，一点也不馋植脂末了\n减🥩期的宝子真的可以冲\n超饱腹+高植物蛋白！喝起来巨丝滑~\n酸奶可以换成任何你喜欢的饮品哦！\n清爽低卡优质蛋白yyds!\n🌟准备材料：内酯豆腐半盒+半根香蕉+抹茶粉3g+酸奶200ml+清水200ml\n🌟做法：奶昔模式\n#自制神仙饮品[话题]# #破壁机食谱[话题]#  #破壁机[话题]# #代餐奶昔[话题]# #豆腐奶昔[话题]#",
+      "nickname": "牛轧糖今天喝什么",
+      "note_url": "https://www.xiaohongshu.com/explore/64352ee90000000027003113?xsec_token=ABIw61xaZkOkUowDABLhiFSMH8JpIM2Myg2hN7z4YtfAQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "6736",
+      "collected_count": "8891",
+      "comment_count": "214",
+      "share_count": "975",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "66e25f2c000000000c019cdc",
+      "title": "36种高蛋白质含量食物🥚附好喝的蛋白粉",
+      "desc": "🙋‍我们都知道身材管理期间要多吃蛋白质，少吃碳水\n那么这么多食物，哪些食物蛋白质含量高呢？我们一起来看看吧\n1⃣肉蛋奶蛋白质含量从高到低：\n牛肉(瘦)→猪瘦肉→瘦羊肉→鳕鱼→鸡肉→鱼肉→虾肉→鸡蛋→鹌鹑蛋→扇贝肉→酸奶→牛奶\n.\n2⃣蔬菜蛋白质含量从高到低:\n白笋干→黄花菜→毛豆→豌豆→羽衣甘蓝→红薯叶→黄豆芽→冬笋→西蓝花→豌豆苗→抱子甘蓝→油菜苔\n.\n3⃣菌类蛋白质含量从高到低:\n口蘑→羊肚菌→松茸→珍珠白蘑→冬菇→黄蘑→黑木耳→银耳→榛蘑→杏鲍菇→草菇→金针菇\n-\n成年人每天蛋白质摄入量=1g蛋白质✖体重kg\n假如体重50公斤，就要吃够50克蛋白质\n如果是有Z肌需求或者体弱的人还要摄入更多一些\n-\n我发现了一款适合在身材管理期间喝的➡VIFIT乳清蛋白粉\n✅100%荷兰进口乳清蛋白粉，新鲜生牛乳入料，蛋白好吸收\n✅76.9%高含量蛋白质，小小一袋26g含有20g蛋白质，相当于吃了 100g牛肉🥩/3个鸡蛋🥚的蛋白质含量\n✅含有近6倍的亮氨酸，可以让姐妹们达到很好的状态\n📋特别添加铁、叶酸、维生素 D，对女生很友好~\n❌0蔗糖❌0激S🔥热量小于1个🍎\n👉独立小包装，干净易携带\n🍈水盈蜜瓜味很好喝清爽，不甜腻不齁嗓，对了还有轻云牛乳味和元气桃桃味哦，都很不错！\n💦用40度以下水，在摇摇杯中摇匀就可以喝啦！很方便！\n🌈50g蛋白质=2.5条VIFIT小燃条=220g牛肉=6盒牛奶=4斤金针菇\n🔺食物要吃很多，才能补充到蛋白质，而且进食过程中容易摄取多余的糖、油、脂肪，喝蛋白粉就可以好的达到我们的需求！\n#VIFIT[话题]# #VIFIT女性蛋白粉[话题]# #VIFIT蛋白粉[话题]# #VIFIT小燃条[话题]# #蛋白粉女生[话题]# #蛋白粉推荐[话题]# #蛋白质[话题]# #健康知识[话题]# #高蛋白质食物[话题]#",
+      "nickname": "二娃爱吃吃喝喝",
+      "note_url": "https://www.xiaohongshu.com/explore/66e25f2c000000000c019cdc?xsec_token=ABsUnZRRxlRX_Rs-0IviUVqE7kVgv9yzQrXCM0lOe9Hb4=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "5481",
+      "collected_count": "5420",
+      "comment_count": "32",
+      "share_count": "2345",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "乳清蛋白",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "698590f7000000000a032939",
+      "title": "这几杯真的夯爆了！直接没对手！！！",
+      "desc": "用一瓶金典鲜活纯牛奶🥛解锁出网上很火的几种喝法！\n分分钟就可以搞定一杯好看又好喝的diy饮品🍸\n亲测每一杯都很好喝！奶香浓郁！丝滑爽口！\n快快进来抄作业，好喝不踩雷，附分享教程哦\n\t\n✅食材和做法都在图片上\n\t\n最近金典鲜活纯牛奶也太火了🔥，身边同事都在喝，作为资深的奶娃子，我必须也安排上[派对R][派对R][派对R]！不管是单喝还是diy真的都很惊艳我，单喝入口奶味敲浓郁，又很丝滑，而且不冰也好喝，还带着一点鲜甜，常温牛奶能做到这么鲜活！？\n\t\n查了下发现金典用了✔INF0.09秒超瞬时杀菌工艺，能更好的锁住生牛乳的天然鲜甜，怪不得常温也能这么好喝！！！\n\t\n它们家的奶源也很优秀👍，富含优质蛋白与原生高钙，品质有保证，让人喝着放心！！！\n\t\n一口下去满满营养，闲暇时用来解锁几种喝法，diy出来的饮品一口沦陷了，奶香很浓郁，香醇又丝滑，营养又好喝[赞R]\n\t\n不管是早餐🥣，还是下午特调咖啡☕️都是妥妥的上班族👩🏻‍💼必备，这种营养鲜甜又好喝的牛奶我是真的爱了😍，关键是大品牌，姐妹们放心冲~\n#金典鲜活[话题]##金典鲜活牛奶[话题]##金典[话题]##金典有机给最爱的人[话题]##米其林大厨认证的好喝牛奶[话题]##不冰也好喝常温也新鲜[话题]##金典鲜活纯牛奶[话题]#",
+      "nickname": "陈哈哈",
+      "note_url": "https://www.xiaohongshu.com/explore/698590f7000000000a032939?xsec_token=ABqZzUrZSL9ZDhlvaO4oMvg10VlA3iZAlw_pEsEQ86X-8=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "4498",
+      "collected_count": "2559",
+      "comment_count": "17",
+      "share_count": "227",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "687f5de1000000000d026f0e",
+      "title": "奶冻芒果西米露！！好喝到能开店了",
+      "desc": "啊啊啊！！！这个真的比杨枝甘露还好喝！...\n浓郁香甜的牛奶搭配💕芒果还有西米露\n一口下去简直太满足啦！！！😭😭\n-\n牛奶我用的金典限定呼伦贝尔有机奶\n喝到我的人生牛奶了！跟别的奶真的不一样！！\n口感丝滑细腻还很醇厚，跟小时候喝的一样\n-\n这么好喝真不是吹的！奶源来自呼伦贝尔大草原\n这真的是牧草王国奶牛的天堂！好草原孕育有机好奶\n怪不得产出的牛奶品质这么高这么好喝！\n-\n2倍原生Omega-3，125mg原生高钙\n一瓶的蛋白质含量相当于吃了76g三文鱼！\n打工人在办公室囤了好多日常当早餐很适合！\n✅三重有机认证喝着超放心\n-\n金典有机纯牛奶（梦幻盖）这款也好喝！\n旋盖设计的，喝不完拧紧不怕洒，很方便\n配料只有生牛乳，都是优质蛋白高钙！！！\n姐妹们可以放心冲啦～\n#牛奶早餐吃什么[话题]##牛奶推荐[话题]##好喝的牛奶[话题]##办公室充能[话题]# #金典[话题]# #有机生活有我定义[话题]##金典有机奶[话题]# #自制神仙饮品[话题]##自制饮品[话题]##夏天饮品[话题]#",
+      "nickname": "晴子今天吃点啥",
+      "note_url": "https://www.xiaohongshu.com/explore/687f5de1000000000d026f0e?xsec_token=AB9O_hHWZrlFDXdivcop2YVjFaxponwvP_z97vr5XS7Jo=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "4185",
+      "collected_count": "3049",
+      "comment_count": "30",
+      "share_count": "254",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69d4f605000000001f006da1",
+      "title": "近期喝到的蓝莓仙品！！！！！！！",
+      "desc": "啊啊啊库迪你别太懂我们女生了吧！！！😭\n真被这次漂亮又好喝的胶原莓果系列给狠狠拿捏住了！！！蓝莓、桑葚花青素+胶原的双buff也太顶了！\n这不就是妥妥的春日素颜水嘛！！这不得一天一杯！\n一天怒喝了3杯！真给我喝美了！感觉自己脸都在发光！😍\n🫐 胶原莓果美式\n早八女生直接锁死这杯吧！！！感觉花青素都要溢到我脸上了！吸一口就能嚼到大颗又饱满的蓝莓桑葚果肉！里面还加了duangduang的胶原蛋白肽！口感好丰富！咖啡的醇香混着酸甜的果香～边提神边养肤！！！\n🫐胶原莓桑冰茶\n不爱咖啡星人的报恩果茶！鲜萃茉莉茶底超鲜灵～高寒地带的北高丛蓝莓+树熟桑葚果肉，和嫩滑的胶原蛋白肽一起嚼嚼嚼～果香茶香层层递进，喝完嘴里都是淡淡的茉莉香 ～低卡完全没负担！感觉喝完皮肤都自动变透亮了🥹\n🫐 胶原莓桑奶昔\n真的巨巨巨好喝！！！！\n这就是一杯可以喝的浆果冰淇淋吧😭\n绵密醇厚的厚椰乳裹着大颗莓果粒！！！\n酸酸甜甜的！回味全是浓郁椰香～每一口都好满足！既能解馋～还能补胶原花青素！管理期的时候还可以晚上喝一杯它来代餐～喝完感觉自己都变成了一个香香软软的小仙女了🥹幸福感爆棚！！！\n#库迪咖啡[话题]# #库迪新品[话题]# #库迪咖啡联名⼀⼈之下[话题]# #库迪胶原莓果系列上新[话题]# #库迪超⼤杯[话题]# #一起嚯奶茶[话题]# #奶茶分享[话题]# #我的咖啡日记[话题]# #咖啡日常[话题]# #一人之下[话题]# #吃了甜食会开心[话题]#",
+      "nickname": "牛牛吃胖亿点点",
+      "note_url": "https://www.xiaohongshu.com/explore/69d4f605000000001f006da1?xsec_token=ABqY9Ifh4d6OoOj8TbbrOjJm0wIG4hdwwmNnx47ijUMHI=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "3820",
+      "collected_count": "632",
+      "comment_count": "406",
+      "share_count": "284",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "胶原蛋白",
+          "蛋白"
+        ],
+        "flavor": [
+          "茉莉",
+          "椰乳",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69d24c0c0000000023010737",
+      "title": "星巴克已经进入高蛋白PRO时代了。。。",
+      "desc": "长期三餐潦草对付，整个人整天蔫蔫的没活力。后来才知道每天蛋白质跟不上真的超影响状态！成人每天需要 60g 优质蛋白，光靠日常吃饭根本难达标，想专门补蛋白又麻烦，\n直到遇上星巴克高蛋白拿铁 PRO☕️才算找到解法\n一杯含 20g 原生乳蛋白，刚好补齐每日 1/3 的蛋白需求，口感清甜丝滑不腻口，日常喝不腻，补蛋白又省心又方便。而且0 乳糖配方对我们乳糖不耐的姐妹也太友好了吧！\n高蛋白抹茶拿铁 PRO🍵\n清新的一级抹茶搭配6.0高蛋白牛乳，晚间或午后想喝饮品又不想喝咖啡的再合适不过！\n还有春日限定的巴西莓高蛋白拿铁 PRO + 海蓝柚高蛋白拿铁 PRO，添加超级食物，颜值亮眼，堪称咖啡界的某蓝之谜，口感层次超丰富。\n🥚早午餐想加倍补蛋白，搭配一份慢煮芝士蛋就够，软嫩咸香，和高蛋白 PRO系列搭成完美高蛋白 CP。\n不用再顾忌奶咖，也不用费心折腾补蛋白，一杯就能把口感和营养都照顾到。\n高蛋白拿铁 PRO，好喝好状态，轻松拿捏每一天的轻盈活力~\n#星巴克出了拿铁PRO[话题]# #星巴克高蛋白拿铁PRO[话题]# #一杯20g高蛋白[话题]# #星巴克新品[话题]# #我的咖啡日记[话题]# #咖啡推荐[话题]# #星巴克Lacoste联名[话题]#",
+      "nickname": "Neil你噢",
+      "note_url": "https://www.xiaohongshu.com/explore/69d24c0c0000000023010737?xsec_token=ABPjtANbW3B8QJUWN5SOmcdGSr62dSlalmuRo5bKouEtk=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "3650",
+      "collected_count": "499",
+      "comment_count": "164",
+      "share_count": "904",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "6870da590000000010024553",
+      "title": "荔枝冰奶…信我喝一次就会彻底爱上！！！！",
+      "desc": "刷到了好多好多次的荔枝冰奶～\n今天终于忍不住对它下手了✌️\n尝完我就2字评价：仙品！！！！！！！！\n🥺真的求求所有姐妹夏天都去试试～清爽又解腻\n特别特别简单！！\n1️⃣荔枝捣碎出汁水\n2️⃣倒入牛奶+茉莉花茶，比例1:1就搞定啦（还可以根据自己的口味加一点糖浆和冰块哦～）\n.\n荔枝的清甜混合着茉莉花香+浓郁的奶香…我做给同事们喝，大家直接上演夸夸大会😌一人一杯，奶茶都不用点了\n而且！俺觉着吧！灵魂就在🥛金典限定呼伦贝尔有机奶\n饮品diy嘛，最怕的就是奶味寡淡…\n金典这个做出来真的奶味又浓又香醇（白月光啊啊啊！！）\n不管是配茶、咖啡都嘎嘎好喝！！我最近直接变身办公室diy大师了哈哈哈哈哈哈🤣好多同事下午都来找我讨一杯喝喝\n.\n好喝的同时，蛋白质含量也贼高～😌一瓶的蛋白质含量约等于76g三文鱼！！还高钙！2倍原生Omega-3的含金量谁懂…\n就很适合早八没空吃早饭的时候喝上一瓶，又营养又顶饱\n奶源还是呼伦贝尔有机牧场，简直是奶牛的天堂🥺\n而且听说牛牛还有16位硕博士智慧养殖！每头牛每天的伙食费高达100元（不是…这比我吃的都好🤣）\n中、欧有机双认证真不是盖的～～\n我现在家里放一箱，办公室囤一箱！每天都要喝上两瓶✌️\n对啦对啦，还有款金典有机纯牛奶（梦幻盖）也不错！打开盖子就能喝蛮方便滴~\n#牛奶推荐[话题]# #牛奶测评[话题]# #办公室充能[话题]# #金典[话题]#  #金典有机奶[话题]# #有机生活有我定义[话题]# #自制神仙饮品[话题]# #宝藏饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "nickname": "兔子不吃胡萝卜🥕🥕",
+      "note_url": "https://www.xiaohongshu.com/explore/6870da590000000010024553?xsec_token=ABXvRbMy75RjUdLxYCbZfTab3ThTyeFBDQNRoUP9zQv24=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2405",
+      "collected_count": "1050",
+      "comment_count": "41",
+      "share_count": "197",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [
+          "茉莉",
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69d220d9000000001d01d327",
+      "title": "早晨来杯高蛋白PRO 开启一天好状态💻",
+      "desc": "天已经亮了，身体还睡在昨夜。\n拉开窗帘，光线涌进来，眼睛来不及睁开💤\n工作信息就来了\n坐到电脑前，打开文档。\n光标一闪一闪，手指停在键盘上，却迟迟敲不出一个字。该开始了，脑子却像隔了一层毛玻璃，什么都推不动。\n后来才明白，这不只是缺觉，更是打工人的常态：三餐潦草对付，日常蛋白质严重不足，身体缺了真正的营养支撑，精力自然跟不上💭\n博尔赫斯说：“时间是带走我的河流，但我即是河流。”可那个清晨，我只觉得自己像块搁浅的石头，等不来流动的活力。\n于是出门，去星巴克用一杯高蛋白拿铁 PRO☕️，给身体补上真正缺的营养✨入口柔润，奶香清甜。一杯20g原生乳蛋白，刚好补齐每日 1/3 蛋白需求，像慢慢把身体从沉睡里拉回来！\n0乳糖对乳糖不耐的姐妹也很友好。它不止是普通拿铁，更是给身体的轻盈蛋白补给。\n🍵高蛋白抹茶拿铁 PRO，清新的抹茶被6.0高蛋白牛乳包裹，茶香鲜爽，喝完整个人都沉静下来，卡住的文档终于顺利落笔💻\n☕️巴西莓高蛋白拿铁 PRO 的酸甜明亮、海蓝柚高蛋白拿铁 PRO 的清新果香，也很适合午后来一杯，换换心情，刚好✨\n🍳想要补充更多蛋白质，就搭配一份慢煮芝士蛋，软嫩蛋液咸香入味，和拿铁PRO搭配口感超契合，蛋白直接拉满，把身体亏空的营养稳稳补够🤤\n那些光标闪烁、敲不出字的早晨，后来都被一杯高蛋白拿铁PRO轻轻推开了✍🏻\n开启从容的一天，从高蛋白拿铁PRO这一杯的好喝好状态开始☕️\n#星巴克出了拿铁PRO[话题]# #星巴克高蛋白拿铁PRO[话题]# #一杯20g高蛋白[话题]# #星巴克新品[话题]# #打工人[话题]# #拍出氛围感[话题]# #我的咖啡日记[话题]# #今天喝什么[话题]# #交换奶茶[话题]# #COTD咖啡探店[话题]#",
+      "nickname": "树野春泽",
+      "note_url": "https://www.xiaohongshu.com/explore/69d220d9000000001d01d327?xsec_token=ABPjtANbW3B8QJUWN5SOmcdFNT24mjEoUw5NRR5liFBTw=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "2092",
+      "collected_count": "314",
+      "comment_count": "83",
+      "share_count": "110",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69d435670000000023012e0b",
+      "title": "星巴克新品｜高蛋白pro拿铁热量🔥（附碳蛋脂",
+      "desc": "有很多宝宝求星巴克高蛋白pro拿铁的热量！其实今天4.7才正式上线！大家都喝了嘛[暗中观察R]？\n想着这个拿铁的受众都是健身/减脂/增肌的人群，所以这条笔记务必想着要在今天和这个拿铁正式上线的日子一起出！\n昨天“肝”到挺晚的…所以大家发现和我主页之前的画风都不太一样[捂脸R]（像枪版的笔记…）不管了不管了..此刻作为一个一直对平面设计有要求的人，真的“肝”不动了\n\t\n这一次就是Excel截图，其实每一个数字背后都是公式（我们J人是这样的😬辛苦大家这一次就先看看Excel的文档截图吧～希望还是清晰的[合十R]\n\t\n我查了很多资料，详细的配料&成分&计算过程我也可以公开给大家以便参考，都是我自己算的，所以也是仅供参考[抱拳R]～\n废话说了很多…啊安妮喂…这一次的新品是…\n💛高蛋白拿铁PRO\n💚高蛋白抹茶拿铁PRO\n💜巴西莓高蛋白拿铁PRO\n🩵海蓝柚高蛋白拿铁PRO\n\t\n然后然后睡了3个小时的我现在准备去赶高铁🚄祝我好运吧🍀赶完高铁我就无缝衔接要去上班～佛系回消息ing，再次感谢大家，每一个可爱的你们都是我创作的动力[红色心形R]（难得有感而发，请多担待[皱眉R]\n\t\n#星巴克高蛋白拿铁PRO[话题]##星巴克出了拿铁PRO[话题]#  #星巴克新品[话题]# #热量计算[话题]# #星巴克热量[话题]# #高蛋白拿铁pro热量[话题]# #高蛋白拿铁热量[话题]#  #一杯20g高蛋白[话题]# #星巴克咖啡热量[话题]# #乳糖不耐友好[话题]#",
+      "nickname": "芋泥橙",
+      "note_url": "https://www.xiaohongshu.com/explore/69d435670000000023012e0b?xsec_token=ABqY9Ifh4d6OoOj8TbbrOjJlQEkKkN3oCjHJVd8PTDWaM=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1971",
+      "collected_count": "1166",
+      "comment_count": "209",
+      "share_count": "966",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69dddbdc0000000023023187",
+      "title": "过劳肥+肉变垮？打工人自救指南来了",
+      "desc": "上个月公司体检，体重是轻了4斤，但体脂率涨了…\n👩🏻‍⚕️幽幽来一句：“肌肉流失有点多啊”🙃\n真的一整个大破防！！！\n本打工仔每天早10晚8，能坚持运动已经很不错了 结果辛辛苦苦掉的居然是肌肉…\n教练跟我说这样基础代谢会越来越低，以后喝水都胖…\n让我像健身博主那样顿顿鸡胸肉、水煮蛋我真的做不到\n通勤加班已经很累了 哪有时间天天备餐\n而且市面很多蛋白粉要么热量高怕长胖 要么难溶解 喝完洗杯子都嫌麻烦…\n\t\n还好前一阵爱健身的闺蜜给我推荐了雀巢医学营养研发的美版蛋白补\n简直是我这种懒人打工人的天菜！\n−\n📝0脂低卡无负担\n它真的只有蛋白质！每勺0胆固醇、0脂肪、0添加糖\n喝起来完全没有罪恶感\n对于我们这种只是想维持线条、守住减脂成果的人来说太友好了！\n难怪我在香港的朋友也在喝，真的太适合女孩子增薄肌了\n−\n📝99%优质乳清蛋白\n纯度超高！不是那种乱七八糟的添加\n运动后来一杯 感觉肌肉在悄悄修复，那种运动后的疲惫感也能缓解不少\n平时早餐喝牛奶也会加一勺 补充全天所需 感觉自己代谢都变好了\n−\n📝雀巢大品牌\n毕竟是百年大牌 美国进口 品质和品控这块确实让人放心\n而且它是那种淡淡的原味 没有奇怪的香精味\n我最爱的喝法就是加在冰美式里 瞬间变成高蛋白拿铁\n口感顺滑巨好喝！或者加在酸奶、燕麦里也毫无违和感 完美融入日常饮食。\n一罐一百多块 我能喝一个月 性价比真的很高！\n现在我工位和家里都备着一罐 下午饿了冲一杯 或者健身后喝一杯\n补蛋白这件事 终于变成了一件随手就能完成的简单小事～\n#雀巢美版蛋白补[话题]# #蛋白粉[话题]# #优质蛋白质[话题]# #补充蛋白质[话题]# #均衡营养[话题]# #打工人[话题]# #见人不如健身[话题]# #我的健康生活[话题]# #生活化减脂[话题]# #好物分享[话题]#",
+      "nickname": "糯米千层酥",
+      "note_url": "https://www.xiaohongshu.com/explore/69dddbdc0000000023023187?xsec_token=ABaSsaSmM0bXTALTKUYib0mJXtp1vLWXhn3vDd6I7G9lQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1855",
+      "collected_count": "686",
+      "comment_count": "6",
+      "share_count": "34",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": true
+      },
+      "matched_keywords": {
+        "product": [
+          "乳清蛋白",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": [
+          "苦",
+          "奇怪"
+        ]
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "682e85b40000000012001d23",
+      "title": "暴食后悔水（无咖啡因版神方）",
+      "desc": "玉米须茶➕椰子水➕豆浆粉\n不摄入任何咖啡因就这么水灵灵消完了\n这么强的一杯好喝飞了➡️淡淡爆米花香的奶茶小甜水🍿 饱腹感也是一绝\n\t\n上次的冰椰抹茶有宝宝经期怕寒\n这杯新版方子不仅可以经期喝\n而且还是无咖啡因的☕️\n可以全天喝，不影响睡眠💤\n（但不要睡前喝，因为你半夜真的会想起来上厕所🚽）\n\t\n📝配方：150ml熊津玉米须茶 300ml椰子水 两条豆浆粉40g（说明见p3）\n1.椰子水含钾，天然排钠（注意用纯椰子水不是调制的饮料）\n2.豆浆粉很适合经期喝，黄豆也补钾，而且高蛋白\n3.玉米须茶就是很消的，作为无咖啡因茶底刚刚好，玉米香气很搭椰香豆浆\n\t\n热量还很低，一大杯兑两包豆浆粉喝饱了也只有200多卡🧋\n你可以早上起来搭配鸡蛋当早餐吃🥣\n当健康奶茶替也完全ok！！上午下午都可以喝\n\t\n全天多吃：冬瓜/柚子/海带/菠菜/香蕉/银耳（补钾排钠）见p6\n清水煮白菜汤、柚子拌酸奶都不错\n记得热水澡多泡脚拉伸按摩库库喝水全套满上一条龙\n\t\n淡人真的会反复爱上这个玉米须茶\n熊津做的淡淡玉米香特别好喝，有点刚炒好的无糖爆米花的感觉！像小时候家门口马路对面老式爆米花小车传来的香气，还是无糖0脂无咖啡因\n有的时候不想喝白水就喜欢喝味道淡淡香香的茶\n后调还有草本回甘超级清新🍃\n\t\n这个方子你一早上起来就可以喝\n皮质醇友好，善良的爆米花味小甜水🧋\n一杯下去过一会儿眼皮也睁得开了\n好喝爱喝美美喝😋大家还有什么无咖啡因配方！！\n\t\n#低卡饮料[话题]# #液断[话题]# #简单又好喝[话题]# #热量低了更爽了[话题]# #自制神仙饮品[话题]# #低卡饮品[话题]# #好喝无负担[话题]# #熊津[话题]# #韩国玉米须茶[话题]# #玉米须茶[话题]#",
+      "nickname": "麻薯小狗泥",
+      "note_url": "https://www.xiaohongshu.com/explore/682e85b40000000012001d23?xsec_token=ABCf7DptA1TYz0eufLcpMK8fRlxUPkneMeYJwGwlDlKuU=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1725",
+      "collected_count": "1099",
+      "comment_count": "50",
+      "share_count": "92",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [
+          "椰子",
+          "奶茶",
+          "草本"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69ae69e200000000160089e2",
+      "title": "蛋白饮千万别乱买！营养师教你3招选对不踩雷",
+      "desc": "#健康饮食[话题]# #蛋白补充新方式[话题]# #蛋白饮[话题]# #蛋白饮料[话题]# #蛋白质饮料[话题]# #优质蛋白质[话题]# #蛋白补充[话题]# #BPJ[话题]# #BPJ高蛋白饮料[话题]# #代餐奶昔[话题]#",
+      "nickname": "营养师琳君",
+      "note_url": "https://www.xiaohongshu.com/explore/69ae69e200000000160089e2?xsec_token=ABwQeLTYd-u6DO0PFgnmXuVu53Q3NVPvkKNVKEgGf8CEA=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1688",
+      "collected_count": "778",
+      "comment_count": "8",
+      "share_count": "41",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "665fc08d000000001501349f",
+      "title": "挖到宝了！！山姆新品！！巨巨掉秤的草莓奶昔！！",
+      "desc": "在ins刷到这个草莓高蛋白饮心动了N久\n居然在南京浦口山姆挖到了立马拿下！！\n-\n高钙低脂还0️⃣乳糖，对乳糖不耐受的人也友好！\n每瓶25g牛乳蛋白，优质蛋白大概🟰16个中等大小的虾🦐！蛋白含量太太太高了啊我救！！\n而且都是天然的牛乳蛋白，不是人工合成的那种，更好吸收\n运动后30min内得尽快补充蛋白质，不然咱这流的汗不能百分百发挥效果\n之前也喝蛋白粉，还得到处找水冲，最主要的是味道真的不敢恭维，\n直到我遇见了它，真的绝绝好喝！\n整整95%的生牛乳，配上恰到好处的香甜草莓味，这哪是高蛋白饮，简直比奶茶还好喝[赞R][赞R]\n尤其是冰镇过后，清清爽爽的奶香草莓，让你运动后迅速满血复活！\n-\n最近有点偷懒没去健身房，我发现用它代餐也不错\n高蛋白真的超级顶饿，而且一瓶500ml，晚餐喝到睡前也一点都不饿，\n还是低脂的，代晚餐轻轻松松产生500大卡的热量缺口！！\n基本上相当于你帕姐2小时呢！！！最近每天晚上都喝这个，明显感觉到维度变窄了，裤子都变松了\n啊啊啊啊快乐减肥谁懂！喝完完全一点儿饥饿感没有！！饱腹感真的nb😅😅😅\n-\n衷心敲锣打鼓的安利给所有爱喝奶茶又想减肥的妹喝爆它！！也太幸福了吧呜呜呜呜\n夏天到了囤起来慢慢喝嘿嘿～\n-\n#山姆新品[话题]# #山姆好物[话题]# #阿尔乐高蛋白饮[话题]#  #一起嚯奶茶[话题]# #给我一杯奶茶[话题]# #奶茶分享[话题]# #山姆美食[话题]# #山姆[话题]# #好喝的饮品[话题]# #减肥减脂吃什么[话题]# #南京美食[话题]# #南京探店[话题]# #吃了甜食会开心[话题]#",
+      "nickname": "七酚甜",
+      "note_url": "https://www.xiaohongshu.com/explore/665fc08d000000001501349f?xsec_token=ABIewcnziSt63yIsXkebxQRyYrcDa3zEdkK02JOD-eWUc=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1631",
+      "collected_count": "797",
+      "comment_count": "114",
+      "share_count": "1432",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [
+          "奶茶"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "697f2371000000002203134d",
+      "title": "6款高蛋白营养汤🔥简单好喝✅老少皆宜",
+      "desc": "随着天气进入深冬，大家也要慢慢开始给身体加油，补补元气啦[派对R]因为这段时间是冬令进补收官的关键期，古人讲究“冬藏精”，此时补足身体所需营养，提高抵抗力，来年春天才能元气满满哦🥰今天苏苏给大家分享6款高蛋白营养汤，营养好喝，做法简单，小白也能学会，大家可以安排起来哦~\n\t\n1⃣️莲藕排骨汤\n2⃣️肉丸鸡蛋汤\n3⃣️玉米牛肉汤\n4⃣️羊肚菌鸡汤\n5⃣️板栗鸽子汤\n6⃣️无花果鸭汤\n像平时生活工作压力大，抵抗力差，又没时间煲汤的宝可以试试我常在喝这款——OSHICAR分离乳清蛋白粉～\n有40多种营养素，可以满足日常营养所需，比营养汤食补营养更全面，它的蛋白纯度高达90%-95%，还含9种人体必需氨基酸、免疫球蛋白和乳铁蛋白，提升免疫力杠杠的👍\n若上了年纪肠胃比较弱，它含有异麦芽酮糖醇，喝这个也不会胀吸收快，而且低脂肪、没有乳糖添加，是全家都能喝的营养粉～喝起来是淡淡的奶香味🤗好喝不腻~\n关键独立包装，放杯中温水一冲就化开了，很适合下午加餐或者睡前喝都刚好，推荐想要恢复元气的宝可以试试看，过年送长辈也蛮合适的～\n\t\n#一人一碗入冬养生汤[话题]# #OSHICAR分离乳清蛋白粉[话题]##OSHICAR蛋白粉[话题]##蛋白粉分享[话题]##健康养生[话题]##喝出好气色[话题]##老年人营养[话题]##老年人养生[话题]##老年人饮食[话题]##老年人健康[话题]##中老年营养粉[话题]##营养汤[话题]##高蛋白[话题]##养生汤[话题]##滋补汤[话题]##老鸭汤[话题]##羊肚菌鸡汤[话题]##鸽子汤[话题]##在小红书轻养生[话题]##广东靓汤[话题]##养生煲汤[话题]##汤汤水水最养人[话题]#",
+      "nickname": "苏苏的养生宝典",
+      "note_url": "https://www.xiaohongshu.com/explore/697f2371000000002203134d?xsec_token=ABWXyHiTRGrALcx9F8OLC2pkmsPTxbA07c9S9AKTqRMsQ=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1519",
+      "collected_count": "1808",
+      "comment_count": "1",
+      "share_count": "463",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "乳清蛋白",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "post",
+      "note_id": "69d0db9200000000230276f1",
+      "title": "星巴克蛋白质真神出现！！！！",
+      "desc": "谁懂啊家人们！早八人真的会为一杯能救状态的奶咖疯狂心动！\n每天匆匆忙忙赶拍摄，早餐随便对付两口，还没拍多久就昏昏沉沉，想靠奶咖提提神，还总怕乳糖不耐闹肚子！\n没想到星巴克 4/7 上新的高蛋白拿铁 PRO，把补蛋白质这件事变得如此简单。直接把奶咖卷到新高度！\n0 乳糖配方！本资深乳糖不耐星人亲测，喝着完全没负担，终于能实现奶咖自由，一天一杯 kuku 喝都没问题，管理期的姐妹闭眼冲都没问题！\n而且1 杯就含 20g 原生乳蛋白，轻松补上日常三分之一的蛋白质缺口，迅速找回状态；不额外加糖也满是牛乳自带的清甜奶香。\n高蛋白拿铁PRO，好喝好状态，星子你是真的太会了！\n\t\n✨四款新品实测，款款能打，具体测评口感在图片上了，按自己喜好闭眼冲不踩雷！\n作为美食测评人，这次星巴克的新品真的挑不出毛病！补蛋白、0 乳糖、颜值高、口感好，全场景适配，不管是早八、通勤、下午茶还是管理期的姐妹，都能喝到爽！\n想补充更多蛋白质的直接再搭一个咸香Q弹的慢煮芝士蛋，双份蛋白质双份营养！早午餐一套直接配齐！\n家人们别等了，4月7日全门店上线，直接冲就对了！\n\t\n#星巴克出了拿铁PRO[话题]#  #星巴克高蛋白拿铁PRO[话题]#  #一杯20g高蛋白[话题]#  #星巴克新品[话题]# #美食测评[话题]# #打工人续命咖啡[话题]# #春日咖啡搭子[话题]# #一起嚯咖啡[话题]#",
+      "nickname": "麦兜的肚子",
+      "note_url": "https://www.xiaohongshu.com/explore/69d0db9200000000230276f1?xsec_token=AB2SxKQUbYsuqzSxDyneIUVYsAR3rLUqrgMDeeTRk_Grc=&xsec_source=pc_search",
+      "ip_location": "",
+      "liked_count": "1491",
+      "collected_count": "239",
+      "comment_count": "35",
+      "share_count": "265",
+      "source_file": "search_contents_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
           "蛋白"
         ],
         "flavor": [],
@@ -8738,8 +9284,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -8766,8 +9312,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -8794,8 +9340,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -8904,8 +9450,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -8932,8 +9478,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -9284,8 +9830,8 @@
       },
       "matched_keywords": {
         "product": [
-          "蛋白",
-          "胶原蛋白"
+          "胶原蛋白",
+          "蛋白"
         ],
         "flavor": [],
         "sensory": []
@@ -9531,8 +10077,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -9721,8 +10267,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -9749,8 +10295,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -9995,8 +10541,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -10050,8 +10596,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "茉莉",
-          "芒果"
+          "芒果",
+          "茉莉"
         ],
         "sensory": []
       }
@@ -11976,8 +12522,8 @@
         "flavor": [],
         "sensory": [
           "苦",
-          "涩",
-          "苦涩"
+          "苦涩",
+          "涩"
         ]
       }
     },
@@ -12759,8 +13305,8 @@
       "matched_keywords": {
         "product": [],
         "flavor": [
-          "椰汁",
-          "椰子"
+          "椰子",
+          "椰汁"
         ],
         "sensory": []
       }
@@ -13706,8 +14252,8 @@
         "product": [],
         "flavor": [],
         "sensory": [
-          "药",
-          "药味"
+          "药味",
+          "药"
         ]
       }
     },
@@ -13734,8 +14280,8 @@
         "product": [],
         "flavor": [],
         "sensory": [
-          "药",
-          "药味"
+          "药味",
+          "药"
         ]
       }
     },
@@ -14843,6 +15389,954 @@
           "蛋白"
         ],
         "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69250d7e000000003803e7e2",
+      "note_id": "692468eb000000001e00781c",
+      "content": "当我拿出一瓶43克蛋白质 180卡 一克碳水一克脂肪的又如何[doge]",
+      "nickname": "우씨띠씨라라뽀（已减114斤）",
+      "ip_location": null,
+      "like_count": "692",
+      "sub_comment_count": "96",
+      "parent_post_title": "这对吗韩国人都卷到这种程度了吗..",
+      "parent_post_desc": "卧槽了我朋友去威海旅游给我买回来的，真震惊了兄弟们每250毫升里面有24克蛋白质…健身人狂喜配料表都是蛋白粉真离谱",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69258d4b000000001403cace",
+      "note_id": "692468eb000000001e00781c",
+      "content": "请看蛋白质忽略不计的蛋白质饮料！",
+      "nickname": "大爪水獭",
+      "ip_location": null,
+      "like_count": "150",
+      "sub_comment_count": "20",
+      "parent_post_title": "这对吗韩国人都卷到这种程度了吗..",
+      "parent_post_desc": "卧槽了我朋友去威海旅游给我买回来的，真震惊了兄弟们每250毫升里面有24克蛋白质…健身人狂喜配料表都是蛋白粉真离谱",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "692568c200000000060192d4",
+      "note_id": "692468eb000000001e00781c",
+      "content": "所以我想知道这种蛋白质算是优质蛋白吗，在学校不想吃僵尸肉经常买蛋白棒蛋白饼啥的补充蛋白质，周末回家吃家常菜，这样会吃出问题吗[哭惹R][哭惹R]",
+      "nickname": "whisper",
+      "ip_location": null,
+      "like_count": "23",
+      "sub_comment_count": "27",
+      "parent_post_title": "这对吗韩国人都卷到这种程度了吗..",
+      "parent_post_desc": "卧槽了我朋友去威海旅游给我买回来的，真震惊了兄弟们每250毫升里面有24克蛋白质…健身人狂喜配料表都是蛋白粉真离谱",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69258e54000000003803f1be",
+      "note_id": "692468eb000000001e00781c",
+      "content": "有没有中国便利店能买到的高蛋白饮品啊 我昨天在超市看到10g蛋白质的酸奶 简直是弟中之弟",
+      "nickname": "钢琴小学生",
+      "ip_location": null,
+      "like_count": "303",
+      "sub_comment_count": "31",
+      "parent_post_title": "这对吗韩国人都卷到这种程度了吗..",
+      "parent_post_desc": "卧槽了我朋友去威海旅游给我买回来的，真震惊了兄弟们每250毫升里面有24克蛋白质…健身人狂喜配料表都是蛋白粉真离谱",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白",
+          "饮品"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6925b590000000001702d689",
+      "note_id": "692468eb000000001e00781c",
+      "content": "喝点实在的，鸡胸蛋白质饮料[偷笑R]",
+      "nickname": "A-Liberty",
+      "ip_location": null,
+      "like_count": "14",
+      "sub_comment_count": "19",
+      "parent_post_title": "这对吗韩国人都卷到这种程度了吗..",
+      "parent_post_desc": "卧槽了我朋友去威海旅游给我买回来的，真震惊了兄弟们每250毫升里面有24克蛋白质…健身人狂喜配料表都是蛋白粉真离谱",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "饮料",
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a17ec4c000000002b024cca",
+      "note_id": "6a0d73960000000006035b2a",
+      "content": "含多少蛋白质呀",
+      "nickname": "卷心菜",
+      "ip_location": "浙江",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "姐不语，只是一味的喝上瘾。。。",
+      "parent_post_desc": "班上久了，皮肤差了，身材圆了，活人微si感强了。。连补营养都想走个捷径！偏偏咱又是那种又懒又爱瞎研究的人，最近居然歪打正着挖到个宝！就是这个港女都在喝的雀巢美版蛋白补！天天食补太容易腻了，以前也买过大桶蛋白粉，一冲全是结块，口感还怪怪的，扔一边放到过期都喝不完！这款真就完全没有这些问题，不结块口感还贼好，本打工懒人先爱住！\n\t\n先来唠唠我平时怎么喝的！像咱们早上赶时间上班来不及做早餐，起来随手冲杯这个蛋白补，再配个面包，一顿完美早餐搞定！我习惯用牛奶冲泡，倒进去晃两下就全溶了，一点结块都没有，比我之前买的那种省心100倍！！而且还完全不串味，就是原本的味道！不过我也试过直接用温水冲泡，没有一丝奶腥味也不甜腻。每天来一杯，不知不觉就把蛋白补到位了~\n\t\n当然最让人放心的还是这款雀巢美版蛋白补的成分，没有乱七八糟的添加。核心就是99%的纯乳清蛋白，只添加1%大豆磷脂乳化剂用来提升溶解效果，这个用料真太良心了！你看像乳清蛋白本来就很容易被人体消化吸收，不会给肠胃增加负担，就算是平时肠胃比较敏感的姐妹也能轻松接受！毕竟喝进嘴里的东西，简单纯粹才最安心！\n\t\n而且还是雀巢医学营养研发的，百年大牌，美国原装进口，质检标准真的很严格，香港卖的最好的也是这个，家里备一罐真挺合适的，放工位也超合适！而且天气慢慢回暖，咱的身材管理该提上日程了吧，铁也该撸起来了吧，这时候真特别需要这种简单又靠谱的蛋白补，好喝还不费劲！\n\t\n#雀巢美版蛋白补[话题]##蛋白[话题]##优质蛋白质[话题]##均衡营养[话题]##雀巢白补[话题]##打工人养生[话题]##内服好物[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a1d4a24000000002701d55e",
+      "note_id": "6a0d73960000000006035b2a",
+      "content": "蛋白质含量多少，有没有什么效果吗",
+      "nickname": "你你你你吖。",
+      "ip_location": "河北",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "姐不语，只是一味的喝上瘾。。。",
+      "parent_post_desc": "班上久了，皮肤差了，身材圆了，活人微si感强了。。连补营养都想走个捷径！偏偏咱又是那种又懒又爱瞎研究的人，最近居然歪打正着挖到个宝！就是这个港女都在喝的雀巢美版蛋白补！天天食补太容易腻了，以前也买过大桶蛋白粉，一冲全是结块，口感还怪怪的，扔一边放到过期都喝不完！这款真就完全没有这些问题，不结块口感还贼好，本打工懒人先爱住！\n\t\n先来唠唠我平时怎么喝的！像咱们早上赶时间上班来不及做早餐，起来随手冲杯这个蛋白补，再配个面包，一顿完美早餐搞定！我习惯用牛奶冲泡，倒进去晃两下就全溶了，一点结块都没有，比我之前买的那种省心100倍！！而且还完全不串味，就是原本的味道！不过我也试过直接用温水冲泡，没有一丝奶腥味也不甜腻。每天来一杯，不知不觉就把蛋白补到位了~\n\t\n当然最让人放心的还是这款雀巢美版蛋白补的成分，没有乱七八糟的添加。核心就是99%的纯乳清蛋白，只添加1%大豆磷脂乳化剂用来提升溶解效果，这个用料真太良心了！你看像乳清蛋白本来就很容易被人体消化吸收，不会给肠胃增加负担，就算是平时肠胃比较敏感的姐妹也能轻松接受！毕竟喝进嘴里的东西，简单纯粹才最安心！\n\t\n而且还是雀巢医学营养研发的，百年大牌，美国原装进口，质检标准真的很严格，香港卖的最好的也是这个，家里备一罐真挺合适的，放工位也超合适！而且天气慢慢回暖，咱的身材管理该提上日程了吧，铁也该撸起来了吧，这时候真特别需要这种简单又靠谱的蛋白补，好喝还不费劲！\n\t\n#雀巢美版蛋白补[话题]##蛋白[话题]##优质蛋白质[话题]##均衡营养[话题]##雀巢白补[话题]##打工人养生[话题]##内服好物[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69df367e000000001400a31b",
+      "note_id": "69defce2000000002100653e",
+      "content": "国内要努力吃足蛋白质好难，特别是学生党[石化R][石化R][石化R]要吃干净做法的肉菜太难了。。。",
+      "nickname": "Sadoch🍊",
+      "ip_location": null,
+      "like_count": "19",
+      "sub_comment_count": "9",
+      "parent_post_title": "默默放下水煮鸡胸，健身党馋哭了😭",
+      "parent_post_desc": "接上一篇讲的国内外蛋白饮食的断层，今天继续来补充国内缺失的很多蛋白饮食生态位\n🥛 1. Fairlife Core Power Elite 巧克力奶昔 (42g蛋白质)\n绝对的“液体牛排”，小小一瓶400ml，直接怼了42g蛋白质进去。重点是无乳糖，口感非常顺滑，不像很多蛋白粉冲水有那种结块粉感，喝起来就是浓郁的巧克力奶\n在国内，这种即饮高蛋白奶还在起步阶段。如果你在国内想要一顿补齐40g+的蛋白质，通常只能靠自己老老实实拿个摇摇杯冲两勺乳清蛋白粉。\n🌯 2. Chipotle Double High Protein Burrito (79g蛋白质)\n79g蛋白质的碳水炸弹+蛋白炸弹，双份烤鸡肉加上各种豆类、芝士和蔬菜。吃完这一卷，你一整天的蛋白质KPI基本就完成了一大半。量大管饱，简单粗暴。\n这就好比国内的 Wagas或者各类轻食沙拉店的牛肉/鸡胸肉卷。但区别在于人设：国内的轻食卷饼往往走的是“精致白领、低卡减脂、小资生活”路线，分量比较克制；而Chipotle在美国完全就是北美干饭人/糙汉增肌的街头食，主打一个热量透明、能量拉满。\n🍫 3. RXBAR 蛋白棒 (12g蛋白质)\n在美国庞大的蛋白零食市场可以说是十分另类，包装上直接印着“3个蛋清、6个杏仁、4个腰果、2颗红枣，No B.S.（没有废话）”。它最大的卖点就是配料表极度干净，没有乱七八糟的代糖和粘合剂，写了什么就只有什么，全靠红枣的天然甜味和粘性。口感偏嚼劲（稍微有点粘牙），但味道太原始了，与之对应的我只能想到是国内的 “极简成分党”零食（如ffit8等部分代餐棒）。RXBAR这种原始人饮食法的死磕态度，要是放在国内算是一个比较小众但死忠粉很多的细分市场。\n🍨 4. Protein Pints 巧克力高蛋白冰淇淋\n减脂期的终极欺骗餐，一整桶含有30g蛋白。吃起来虽然没有普通冰激凌那么绵密，但我说白了一桶就360卡热量还要啥自行车，吃完一整桶都没有负罪感。国内的冰淇淋目前更多停留在减法阶段（减糖、减脂、减热量）而美国冰淇淋已经卷到了加法阶段\n不知道国内健身党看完有没有嘴馋，我先吃为敬#REDDelicious美食研究生[话题]# #超级食物[话题]# #高蛋白[话题]# #增强饱腹感[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69e6fbfc000000001401ac08",
+      "note_id": "69defce2000000002100653e",
+      "content": "fairlife好喝吗会有蛋白的怪味道吗",
+      "nickname": "兄弟挨打我卖萌",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "默默放下水煮鸡胸，健身党馋哭了😭",
+      "parent_post_desc": "接上一篇讲的国内外蛋白饮食的断层，今天继续来补充国内缺失的很多蛋白饮食生态位\n🥛 1. Fairlife Core Power Elite 巧克力奶昔 (42g蛋白质)\n绝对的“液体牛排”，小小一瓶400ml，直接怼了42g蛋白质进去。重点是无乳糖，口感非常顺滑，不像很多蛋白粉冲水有那种结块粉感，喝起来就是浓郁的巧克力奶\n在国内，这种即饮高蛋白奶还在起步阶段。如果你在国内想要一顿补齐40g+的蛋白质，通常只能靠自己老老实实拿个摇摇杯冲两勺乳清蛋白粉。\n🌯 2. Chipotle Double High Protein Burrito (79g蛋白质)\n79g蛋白质的碳水炸弹+蛋白炸弹，双份烤鸡肉加上各种豆类、芝士和蔬菜。吃完这一卷，你一整天的蛋白质KPI基本就完成了一大半。量大管饱，简单粗暴。\n这就好比国内的 Wagas或者各类轻食沙拉店的牛肉/鸡胸肉卷。但区别在于人设：国内的轻食卷饼往往走的是“精致白领、低卡减脂、小资生活”路线，分量比较克制；而Chipotle在美国完全就是北美干饭人/糙汉增肌的街头食，主打一个热量透明、能量拉满。\n🍫 3. RXBAR 蛋白棒 (12g蛋白质)\n在美国庞大的蛋白零食市场可以说是十分另类，包装上直接印着“3个蛋清、6个杏仁、4个腰果、2颗红枣，No B.S.（没有废话）”。它最大的卖点就是配料表极度干净，没有乱七八糟的代糖和粘合剂，写了什么就只有什么，全靠红枣的天然甜味和粘性。口感偏嚼劲（稍微有点粘牙），但味道太原始了，与之对应的我只能想到是国内的 “极简成分党”零食（如ffit8等部分代餐棒）。RXBAR这种原始人饮食法的死磕态度，要是放在国内算是一个比较小众但死忠粉很多的细分市场。\n🍨 4. Protein Pints 巧克力高蛋白冰淇淋\n减脂期的终极欺骗餐，一整桶含有30g蛋白。吃起来虽然没有普通冰激凌那么绵密，但我说白了一桶就360卡热量还要啥自行车，吃完一整桶都没有负罪感。国内的冰淇淋目前更多停留在减法阶段（减糖、减脂、减热量）而美国冰淇淋已经卷到了加法阶段\n不知道国内健身党看完有没有嘴馋，我先吃为敬#REDDelicious美食研究生[话题]# #超级食物[话题]# #高蛋白[话题]# #增强饱腹感[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69f8ebf0000000002701d4db",
+      "note_id": "69defce2000000002100653e",
+      "content": "rx不好吃啊 粘牙齿 而且吃鸡蛋鸡肉少加工的蛋白质不好吗..黄焖鸡多香啊",
+      "nickname": "爱吃虾姑的北冬",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "默默放下水煮鸡胸，健身党馋哭了😭",
+      "parent_post_desc": "接上一篇讲的国内外蛋白饮食的断层，今天继续来补充国内缺失的很多蛋白饮食生态位\n🥛 1. Fairlife Core Power Elite 巧克力奶昔 (42g蛋白质)\n绝对的“液体牛排”，小小一瓶400ml，直接怼了42g蛋白质进去。重点是无乳糖，口感非常顺滑，不像很多蛋白粉冲水有那种结块粉感，喝起来就是浓郁的巧克力奶\n在国内，这种即饮高蛋白奶还在起步阶段。如果你在国内想要一顿补齐40g+的蛋白质，通常只能靠自己老老实实拿个摇摇杯冲两勺乳清蛋白粉。\n🌯 2. Chipotle Double High Protein Burrito (79g蛋白质)\n79g蛋白质的碳水炸弹+蛋白炸弹，双份烤鸡肉加上各种豆类、芝士和蔬菜。吃完这一卷，你一整天的蛋白质KPI基本就完成了一大半。量大管饱，简单粗暴。\n这就好比国内的 Wagas或者各类轻食沙拉店的牛肉/鸡胸肉卷。但区别在于人设：国内的轻食卷饼往往走的是“精致白领、低卡减脂、小资生活”路线，分量比较克制；而Chipotle在美国完全就是北美干饭人/糙汉增肌的街头食，主打一个热量透明、能量拉满。\n🍫 3. RXBAR 蛋白棒 (12g蛋白质)\n在美国庞大的蛋白零食市场可以说是十分另类，包装上直接印着“3个蛋清、6个杏仁、4个腰果、2颗红枣，No B.S.（没有废话）”。它最大的卖点就是配料表极度干净，没有乱七八糟的代糖和粘合剂，写了什么就只有什么，全靠红枣的天然甜味和粘性。口感偏嚼劲（稍微有点粘牙），但味道太原始了，与之对应的我只能想到是国内的 “极简成分党”零食（如ffit8等部分代餐棒）。RXBAR这种原始人饮食法的死磕态度，要是放在国内算是一个比较小众但死忠粉很多的细分市场。\n🍨 4. Protein Pints 巧克力高蛋白冰淇淋\n减脂期的终极欺骗餐，一整桶含有30g蛋白。吃起来虽然没有普通冰激凌那么绵密，但我说白了一桶就360卡热量还要啥自行车，吃完一整桶都没有负罪感。国内的冰淇淋目前更多停留在减法阶段（减糖、减脂、减热量）而美国冰淇淋已经卷到了加法阶段\n不知道国内健身党看完有没有嘴馋，我先吃为敬#REDDelicious美食研究生[话题]# #超级食物[话题]# #高蛋白[话题]# #增强饱腹感[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6909e844000000003902e027",
+      "note_id": "690821f3000000000703afa6",
+      "content": "我也要补充蛋白质[色色R]",
+      "nickname": "咪咪子🎈",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "游泳完来杯蛋白质饮料🥤呗",
+      "parent_post_desc": "有没有跟我一样的游泳搭子？狂游1小时，肩背酸爽，明明累得只想躺，结果翻来覆去到半夜还睁着眼！后来才知道，是游泳累狠了身体里“皮质醇”冒太高——这激素一作妖，脑子就跟开了倍速似的，肌肉也没法好好歇着，第二天起来感觉精力也没完全恢复！\n后来查询🔍才知道，游泳完一定要补充一点蛋白质，找了好久终于发现了这款析康力素U+蛋白固体饮料🥤\n✔️ 小包装特便携，塞泳包角落不占地儿，更衣室接杯温水就泡开\n✔️ 不用多兑水，15ml水就够，游完不用猛灌水跑厕所，太懂咱们游泳人的需求了！\n#游泳[话题]# #游泳打卡[话题]# #游泳健身[话题]# #运动补充能量[话题]# #游泳装备[话题]# #运动好伴侣[话题]# #泡在游泳池里的冬天[话题]# #给身体充电[话题]# #析康力素蛋白固体饮料[话题]##析康力素0磷0钾蛋白粉[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a05ab1e000000002900f01e",
+      "note_id": "6a058275000000000702638d",
+      "content": "我平时喝点all Max白桶补蛋白，很干净减脂期也能喝",
+      "nickname": "鸡腿去皮谢谢",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "不甜不腥的蛋白补，我这懒人减脂期也能坚持",
+      "parent_post_desc": "这段时间一直在减脂控卡，加上工作忙，经常感觉没力气，练完肩背恢复也慢，总觉得整个人软塌塌的，线条感也越来越差。朋友给我塞了一罐雀巢的蛋白补，让我试试。\n\t\n它的成分特别干净，99%都是分离乳清蛋白，只有1%的乳化剂，没有添加糖、香精那些乱七八糟的东西，喝起来无色无味，完全不挑搭配，我一般直接加在牛奶或者无糖酸奶里，对我这种不爱喝甜的人太友好了。\n\t\n蛋白含量真的很实在，一勺7g里面就有6g纯分离乳清蛋白，差不多等于4杯250ml牛奶的乳清蛋白含量，热量却很低，减脂期喝也没负担。而且它还过滤掉了乳糖，让乳糖不耐受的朋友也能放心喝，我这种肠胃敏感的人喝着也完全没有不舒服。\n\t\n它的冲调也特别省心，温水一搅就化开了，不会结块，平时出门装在包里也方便，一罐227g，每天两勺能喝两周，性价比也很高。而且是雀巢这种老牌子，品控这块也让人放心，喝着也安心。\n\t\n其实减脂期真的不用怕补蛋白，选对这种高纯度、低负担的就好，日常加在饮食里就能把蛋白补够，慢慢把线条感养回来，也不用硬扛那种没力气的疲惫感。\n\t\n#雀巢美版蛋白补[话题]##雀巢[话题]##优质蛋白质[话题]# #内服好物[话题]# #身材管理[话题]# #蛋白粉推荐养生[话题]# #蛋白[话题]# #均衡营养[话题]# #职场养生[话题]# #618囤货[话题]# #618必买清单[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69f5de4a000000002803121e",
+      "note_id": "69f5a70500000000380227ed",
+      "content": "要是他零乳糖零脂肪就好了，10块钱买到50块的蛋白质非常不错了",
+      "nickname": "范海辛",
+      "ip_location": null,
+      "like_count": "8",
+      "sub_comment_count": "21",
+      "parent_post_title": "健身届很牛的饮料",
+      "parent_post_desc": "七鲜买的高蛋白0脂肪牛奶，9.9r，950ml，折合下来一瓶47.5g蛋白质。\n味道我觉得还可以，有点接近优诺5.0牛乳的味道，但那款不是脱脂。口感和味道都像0乳糖牛奶，但是没有0乳糖牛奶的清甜味。\n\t\n喜欢喝浓浓奶味的不建议，毕竟脱脂了，不如不脱脂的4.0。\n但是控制热量又馋牛奶的可以买来喝，味道不像常温脱脂奶的“涂改液”味道感。[哇R]\n#好喝不怕胖[话题]# #好喝没压力[话题]# #低卡饮料[话题]# #健身[话题]# #牛奶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "蛋白质饮料推荐",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "699afca9000000000900729a",
+      "note_id": "69992ecb000000000a02b0e5",
+      "content": "为什么这么稠？因为放蛋白粉吗？",
+      "nickname": "姜丸咏",
+      "ip_location": null,
+      "like_count": "408",
+      "sub_comment_count": "16",
+      "parent_post_title": "沉浸式低卡高蛋白甜品：芒果火龙果奶昔🥭🔥",
+      "parent_post_desc": "新年好！\n\t\n营养价值：\n269大卡，28.3克蛋白质，31.2克碳水，3.8克脂肪\n\t\n配料：\n120克芒果、120克火龙果、一勺蛋白粉（30克左右）、120毫升无糖巴旦木奶。\n\t\n#高蛋白[话题]# #减脂[话题]# #低卡甜品[话题]# #奶昔[话题]# #超模饮食[话题]# #红心火龙果[话题]# #手抓奶昔[话题]# #在家实现冰淇淋自由[话题]# #这也太可爱了吧[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "699a9385000000000601d3dc",
+      "note_id": "69992ecb000000000a02b0e5",
+      "content": "蛋白粉做成这样的奶昔会不会减少效果呀 想给男朋友做",
+      "nickname": "枣子",
+      "ip_location": null,
+      "like_count": "7",
+      "sub_comment_count": "4",
+      "parent_post_title": "沉浸式低卡高蛋白甜品：芒果火龙果奶昔🥭🔥",
+      "parent_post_desc": "新年好！\n\t\n营养价值：\n269大卡，28.3克蛋白质，31.2克碳水，3.8克脂肪\n\t\n配料：\n120克芒果、120克火龙果、一勺蛋白粉（30克左右）、120毫升无糖巴旦木奶。\n\t\n#高蛋白[话题]# #减脂[话题]# #低卡甜品[话题]# #奶昔[话题]# #超模饮食[话题]# #红心火龙果[话题]# #手抓奶昔[话题]# #在家实现冰淇淋自由[话题]# #这也太可爱了吧[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6999c87a000000000c0082a7",
+      "note_id": "69992ecb000000000a02b0e5",
+      "content": "我也是打糊糊：燕麦，无糖酸奶，半根香蕉，蓝莓，少量坚果，一勺蛋白粉，做早餐",
+      "nickname": "YYYANG-来玩多肉吧",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "1",
+      "parent_post_title": "沉浸式低卡高蛋白甜品：芒果火龙果奶昔🥭🔥",
+      "parent_post_desc": "新年好！\n\t\n营养价值：\n269大卡，28.3克蛋白质，31.2克碳水，3.8克脂肪\n\t\n配料：\n120克芒果、120克火龙果、一勺蛋白粉（30克左右）、120毫升无糖巴旦木奶。\n\t\n#高蛋白[话题]# #减脂[话题]# #低卡甜品[话题]# #奶昔[话题]# #超模饮食[话题]# #红心火龙果[话题]# #手抓奶昔[话题]# #在家实现冰淇淋自由[话题]# #这也太可爱了吧[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "66fa45de000000000c01739a",
+      "note_id": "66e25f2c000000000c019cdc",
+      "content": "人体所需蛋白质的植物性和动物性蛋白占比多少",
+      "nickname": "momo",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "2",
+      "parent_post_title": "36种高蛋白质含量食物🥚附好喝的蛋白粉",
+      "parent_post_desc": "🙋‍我们都知道身材管理期间要多吃蛋白质，少吃碳水\n那么这么多食物，哪些食物蛋白质含量高呢？我们一起来看看吧\n1⃣肉蛋奶蛋白质含量从高到低：\n牛肉(瘦)→猪瘦肉→瘦羊肉→鳕鱼→鸡肉→鱼肉→虾肉→鸡蛋→鹌鹑蛋→扇贝肉→酸奶→牛奶\n.\n2⃣蔬菜蛋白质含量从高到低:\n白笋干→黄花菜→毛豆→豌豆→羽衣甘蓝→红薯叶→黄豆芽→冬笋→西蓝花→豌豆苗→抱子甘蓝→油菜苔\n.\n3⃣菌类蛋白质含量从高到低:\n口蘑→羊肚菌→松茸→珍珠白蘑→冬菇→黄蘑→黑木耳→银耳→榛蘑→杏鲍菇→草菇→金针菇\n-\n成年人每天蛋白质摄入量=1g蛋白质✖体重kg\n假如体重50公斤，就要吃够50克蛋白质\n如果是有Z肌需求或者体弱的人还要摄入更多一些\n-\n我发现了一款适合在身材管理期间喝的➡VIFIT乳清蛋白粉\n✅100%荷兰进口乳清蛋白粉，新鲜生牛乳入料，蛋白好吸收\n✅76.9%高含量蛋白质，小小一袋26g含有20g蛋白质，相当于吃了 100g牛肉🥩/3个鸡蛋🥚的蛋白质含量\n✅含有近6倍的亮氨酸，可以让姐妹们达到很好的状态\n📋特别添加铁、叶酸、维生素 D，对女生很友好~\n❌0蔗糖❌0激S🔥热量小于1个🍎\n👉独立小包装，干净易携带\n🍈水盈蜜瓜味很好喝清爽，不甜腻不齁嗓，对了还有轻云牛乳味和元气桃桃味哦，都很不错！\n💦用40度以下水，在摇摇杯中摇匀就可以喝啦！很方便！\n🌈50g蛋白质=2.5条VIFIT小燃条=220g牛肉=6盒牛奶=4斤金针菇\n🔺食物要吃很多，才能补充到蛋白质，而且进食过程中容易摄取多余的糖、油、脂肪，喝蛋白粉就可以好的达到我们的需求！\n#VIFIT[话题]# #VIFIT女性蛋白粉[话题]# #VIFIT蛋白粉[话题]# #VIFIT小燃条[话题]# #蛋白粉女生[话题]# #蛋白粉推荐[话题]# #蛋白质[话题]# #健康知识[话题]# #高蛋白质食物[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "670134280000000024009dd3",
+      "note_id": "66e25f2c000000000c019cdc",
+      "content": "口蘑 蛋白质38.7？比牛肉还多 以什么为单位啊",
+      "nickname": "明月松间",
+      "ip_location": null,
+      "like_count": "18",
+      "sub_comment_count": "2",
+      "parent_post_title": "36种高蛋白质含量食物🥚附好喝的蛋白粉",
+      "parent_post_desc": "🙋‍我们都知道身材管理期间要多吃蛋白质，少吃碳水\n那么这么多食物，哪些食物蛋白质含量高呢？我们一起来看看吧\n1⃣肉蛋奶蛋白质含量从高到低：\n牛肉(瘦)→猪瘦肉→瘦羊肉→鳕鱼→鸡肉→鱼肉→虾肉→鸡蛋→鹌鹑蛋→扇贝肉→酸奶→牛奶\n.\n2⃣蔬菜蛋白质含量从高到低:\n白笋干→黄花菜→毛豆→豌豆→羽衣甘蓝→红薯叶→黄豆芽→冬笋→西蓝花→豌豆苗→抱子甘蓝→油菜苔\n.\n3⃣菌类蛋白质含量从高到低:\n口蘑→羊肚菌→松茸→珍珠白蘑→冬菇→黄蘑→黑木耳→银耳→榛蘑→杏鲍菇→草菇→金针菇\n-\n成年人每天蛋白质摄入量=1g蛋白质✖体重kg\n假如体重50公斤，就要吃够50克蛋白质\n如果是有Z肌需求或者体弱的人还要摄入更多一些\n-\n我发现了一款适合在身材管理期间喝的➡VIFIT乳清蛋白粉\n✅100%荷兰进口乳清蛋白粉，新鲜生牛乳入料，蛋白好吸收\n✅76.9%高含量蛋白质，小小一袋26g含有20g蛋白质，相当于吃了 100g牛肉🥩/3个鸡蛋🥚的蛋白质含量\n✅含有近6倍的亮氨酸，可以让姐妹们达到很好的状态\n📋特别添加铁、叶酸、维生素 D，对女生很友好~\n❌0蔗糖❌0激S🔥热量小于1个🍎\n👉独立小包装，干净易携带\n🍈水盈蜜瓜味很好喝清爽，不甜腻不齁嗓，对了还有轻云牛乳味和元气桃桃味哦，都很不错！\n💦用40度以下水，在摇摇杯中摇匀就可以喝啦！很方便！\n🌈50g蛋白质=2.5条VIFIT小燃条=220g牛肉=6盒牛奶=4斤金针菇\n🔺食物要吃很多，才能补充到蛋白质，而且进食过程中容易摄取多余的糖、油、脂肪，喝蛋白粉就可以好的达到我们的需求！\n#VIFIT[话题]# #VIFIT女性蛋白粉[话题]# #VIFIT蛋白粉[话题]# #VIFIT小燃条[话题]# #蛋白粉女生[话题]# #蛋白粉推荐[话题]# #蛋白质[话题]# #健康知识[话题]# #高蛋白质食物[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6918558b0000000039021839",
+      "note_id": "66e25f2c000000000c019cdc",
+      "content": "200斤男人一天需要多少蛋白质",
+      "nickname": "小红薯6804991E",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "36种高蛋白质含量食物🥚附好喝的蛋白粉",
+      "parent_post_desc": "🙋‍我们都知道身材管理期间要多吃蛋白质，少吃碳水\n那么这么多食物，哪些食物蛋白质含量高呢？我们一起来看看吧\n1⃣肉蛋奶蛋白质含量从高到低：\n牛肉(瘦)→猪瘦肉→瘦羊肉→鳕鱼→鸡肉→鱼肉→虾肉→鸡蛋→鹌鹑蛋→扇贝肉→酸奶→牛奶\n.\n2⃣蔬菜蛋白质含量从高到低:\n白笋干→黄花菜→毛豆→豌豆→羽衣甘蓝→红薯叶→黄豆芽→冬笋→西蓝花→豌豆苗→抱子甘蓝→油菜苔\n.\n3⃣菌类蛋白质含量从高到低:\n口蘑→羊肚菌→松茸→珍珠白蘑→冬菇→黄蘑→黑木耳→银耳→榛蘑→杏鲍菇→草菇→金针菇\n-\n成年人每天蛋白质摄入量=1g蛋白质✖体重kg\n假如体重50公斤，就要吃够50克蛋白质\n如果是有Z肌需求或者体弱的人还要摄入更多一些\n-\n我发现了一款适合在身材管理期间喝的➡VIFIT乳清蛋白粉\n✅100%荷兰进口乳清蛋白粉，新鲜生牛乳入料，蛋白好吸收\n✅76.9%高含量蛋白质，小小一袋26g含有20g蛋白质，相当于吃了 100g牛肉🥩/3个鸡蛋🥚的蛋白质含量\n✅含有近6倍的亮氨酸，可以让姐妹们达到很好的状态\n📋特别添加铁、叶酸、维生素 D，对女生很友好~\n❌0蔗糖❌0激S🔥热量小于1个🍎\n👉独立小包装，干净易携带\n🍈水盈蜜瓜味很好喝清爽，不甜腻不齁嗓，对了还有轻云牛乳味和元气桃桃味哦，都很不错！\n💦用40度以下水，在摇摇杯中摇匀就可以喝啦！很方便！\n🌈50g蛋白质=2.5条VIFIT小燃条=220g牛肉=6盒牛奶=4斤金针菇\n🔺食物要吃很多，才能补充到蛋白质，而且进食过程中容易摄取多余的糖、油、脂肪，喝蛋白粉就可以好的达到我们的需求！\n#VIFIT[话题]# #VIFIT女性蛋白粉[话题]# #VIFIT蛋白粉[话题]# #VIFIT小燃条[话题]# #蛋白粉女生[话题]# #蛋白粉推荐[话题]# #蛋白质[话题]# #健康知识[话题]# #高蛋白质食物[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "679b551b000000000b038db1",
+      "note_id": "66e25f2c000000000c019cdc",
+      "content": "牛奶的蛋白质含量这么低吗[汗颜R]",
+      "nickname": "明明",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "1",
+      "parent_post_title": "36种高蛋白质含量食物🥚附好喝的蛋白粉",
+      "parent_post_desc": "🙋‍我们都知道身材管理期间要多吃蛋白质，少吃碳水\n那么这么多食物，哪些食物蛋白质含量高呢？我们一起来看看吧\n1⃣肉蛋奶蛋白质含量从高到低：\n牛肉(瘦)→猪瘦肉→瘦羊肉→鳕鱼→鸡肉→鱼肉→虾肉→鸡蛋→鹌鹑蛋→扇贝肉→酸奶→牛奶\n.\n2⃣蔬菜蛋白质含量从高到低:\n白笋干→黄花菜→毛豆→豌豆→羽衣甘蓝→红薯叶→黄豆芽→冬笋→西蓝花→豌豆苗→抱子甘蓝→油菜苔\n.\n3⃣菌类蛋白质含量从高到低:\n口蘑→羊肚菌→松茸→珍珠白蘑→冬菇→黄蘑→黑木耳→银耳→榛蘑→杏鲍菇→草菇→金针菇\n-\n成年人每天蛋白质摄入量=1g蛋白质✖体重kg\n假如体重50公斤，就要吃够50克蛋白质\n如果是有Z肌需求或者体弱的人还要摄入更多一些\n-\n我发现了一款适合在身材管理期间喝的➡VIFIT乳清蛋白粉\n✅100%荷兰进口乳清蛋白粉，新鲜生牛乳入料，蛋白好吸收\n✅76.9%高含量蛋白质，小小一袋26g含有20g蛋白质，相当于吃了 100g牛肉🥩/3个鸡蛋🥚的蛋白质含量\n✅含有近6倍的亮氨酸，可以让姐妹们达到很好的状态\n📋特别添加铁、叶酸、维生素 D，对女生很友好~\n❌0蔗糖❌0激S🔥热量小于1个🍎\n👉独立小包装，干净易携带\n🍈水盈蜜瓜味很好喝清爽，不甜腻不齁嗓，对了还有轻云牛乳味和元气桃桃味哦，都很不错！\n💦用40度以下水，在摇摇杯中摇匀就可以喝啦！很方便！\n🌈50g蛋白质=2.5条VIFIT小燃条=220g牛肉=6盒牛奶=4斤金针菇\n🔺食物要吃很多，才能补充到蛋白质，而且进食过程中容易摄取多余的糖、油、脂肪，喝蛋白粉就可以好的达到我们的需求！\n#VIFIT[话题]# #VIFIT女性蛋白粉[话题]# #VIFIT蛋白粉[话题]# #VIFIT小燃条[话题]# #蛋白粉女生[话题]# #蛋白粉推荐[话题]# #蛋白质[话题]# #健康知识[话题]# #高蛋白质食物[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "671f039e000000001a030ff9",
+      "note_id": "66e25f2c000000000c019cdc",
+      "content": "请问这个是每一百克食材含有的蛋白质量吗",
+      "nickname": "阿奇妙妙人生",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "36种高蛋白质含量食物🥚附好喝的蛋白粉",
+      "parent_post_desc": "🙋‍我们都知道身材管理期间要多吃蛋白质，少吃碳水\n那么这么多食物，哪些食物蛋白质含量高呢？我们一起来看看吧\n1⃣肉蛋奶蛋白质含量从高到低：\n牛肉(瘦)→猪瘦肉→瘦羊肉→鳕鱼→鸡肉→鱼肉→虾肉→鸡蛋→鹌鹑蛋→扇贝肉→酸奶→牛奶\n.\n2⃣蔬菜蛋白质含量从高到低:\n白笋干→黄花菜→毛豆→豌豆→羽衣甘蓝→红薯叶→黄豆芽→冬笋→西蓝花→豌豆苗→抱子甘蓝→油菜苔\n.\n3⃣菌类蛋白质含量从高到低:\n口蘑→羊肚菌→松茸→珍珠白蘑→冬菇→黄蘑→黑木耳→银耳→榛蘑→杏鲍菇→草菇→金针菇\n-\n成年人每天蛋白质摄入量=1g蛋白质✖体重kg\n假如体重50公斤，就要吃够50克蛋白质\n如果是有Z肌需求或者体弱的人还要摄入更多一些\n-\n我发现了一款适合在身材管理期间喝的➡VIFIT乳清蛋白粉\n✅100%荷兰进口乳清蛋白粉，新鲜生牛乳入料，蛋白好吸收\n✅76.9%高含量蛋白质，小小一袋26g含有20g蛋白质，相当于吃了 100g牛肉🥩/3个鸡蛋🥚的蛋白质含量\n✅含有近6倍的亮氨酸，可以让姐妹们达到很好的状态\n📋特别添加铁、叶酸、维生素 D，对女生很友好~\n❌0蔗糖❌0激S🔥热量小于1个🍎\n👉独立小包装，干净易携带\n🍈水盈蜜瓜味很好喝清爽，不甜腻不齁嗓，对了还有轻云牛乳味和元气桃桃味哦，都很不错！\n💦用40度以下水，在摇摇杯中摇匀就可以喝啦！很方便！\n🌈50g蛋白质=2.5条VIFIT小燃条=220g牛肉=6盒牛奶=4斤金针菇\n🔺食物要吃很多，才能补充到蛋白质，而且进食过程中容易摄取多余的糖、油、脂肪，喝蛋白粉就可以好的达到我们的需求！\n#VIFIT[话题]# #VIFIT女性蛋白粉[话题]# #VIFIT蛋白粉[话题]# #VIFIT小燃条[话题]# #蛋白粉女生[话题]# #蛋白粉推荐[话题]# #蛋白质[话题]# #健康知识[话题]# #高蛋白质食物[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "68b57855000000000902b5da",
+      "note_id": "687f5de1000000000d026f0e",
+      "content": "没有买到芒果 还挺好吃的[飞吻R]",
+      "nickname": "Theo-小合～",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "奶冻芒果西米露！！好喝到能开店了",
+      "parent_post_desc": "啊啊啊！！！这个真的比杨枝甘露还好喝！...\n浓郁香甜的牛奶搭配💕芒果还有西米露\n一口下去简直太满足啦！！！😭😭\n-\n牛奶我用的金典限定呼伦贝尔有机奶\n喝到我的人生牛奶了！跟别的奶真的不一样！！\n口感丝滑细腻还很醇厚，跟小时候喝的一样\n-\n这么好喝真不是吹的！奶源来自呼伦贝尔大草原\n这真的是牧草王国奶牛的天堂！好草原孕育有机好奶\n怪不得产出的牛奶品质这么高这么好喝！\n-\n2倍原生Omega-3，125mg原生高钙\n一瓶的蛋白质含量相当于吃了76g三文鱼！\n打工人在办公室囤了好多日常当早餐很适合！\n✅三重有机认证喝着超放心\n-\n金典有机纯牛奶（梦幻盖）这款也好喝！\n旋盖设计的，喝不完拧紧不怕洒，很方便\n配料只有生牛乳，都是优质蛋白高钙！！！\n姐妹们可以放心冲啦～\n#牛奶早餐吃什么[话题]##牛奶推荐[话题]##好喝的牛奶[话题]##办公室充能[话题]# #金典[话题]# #有机生活有我定义[话题]##金典有机奶[话题]# #自制神仙饮品[话题]##自制饮品[话题]##夏天饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "芒果"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d4c1760000000001005574",
+      "note_id": "69d24c0c0000000023010737",
+      "content": "今天已经可以喝到啦！不另外加糖喝出好奶的自然甜感！也不用担心脂肪含量这些，其实就跟普通的奶一样，只不过蛋白质含量翻倍了！另外觉得咖啡味淡的，可以点深烘豆！！！",
+      "nickname": "Neil你噢",
+      "ip_location": null,
+      "like_count": "15",
+      "sub_comment_count": "0",
+      "parent_post_title": "星巴克已经进入高蛋白PRO时代了。。。",
+      "parent_post_desc": "长期三餐潦草对付，整个人整天蔫蔫的没活力。后来才知道每天蛋白质跟不上真的超影响状态！成人每天需要 60g 优质蛋白，光靠日常吃饭根本难达标，想专门补蛋白又麻烦，\n直到遇上星巴克高蛋白拿铁 PRO☕️才算找到解法\n一杯含 20g 原生乳蛋白，刚好补齐每日 1/3 的蛋白需求，口感清甜丝滑不腻口，日常喝不腻，补蛋白又省心又方便。而且0 乳糖配方对我们乳糖不耐的姐妹也太友好了吧！\n高蛋白抹茶拿铁 PRO🍵\n清新的一级抹茶搭配6.0高蛋白牛乳，晚间或午后想喝饮品又不想喝咖啡的再合适不过！\n还有春日限定的巴西莓高蛋白拿铁 PRO + 海蓝柚高蛋白拿铁 PRO，添加超级食物，颜值亮眼，堪称咖啡界的某蓝之谜，口感层次超丰富。\n🥚早午餐想加倍补蛋白，搭配一份慢煮芝士蛋就够，软嫩咸香，和高蛋白 PRO系列搭成完美高蛋白 CP。\n不用再顾忌奶咖，也不用费心折腾补蛋白，一杯就能把口感和营养都照顾到。\n高蛋白拿铁 PRO，好喝好状态，轻松拿捏每一天的轻盈活力~\n#星巴克出了拿铁PRO[话题]# #星巴克高蛋白拿铁PRO[话题]# #一杯20g高蛋白[话题]# #星巴克新品[话题]# #我的咖啡日记[话题]# #咖啡推荐[话题]# #星巴克Lacoste联名[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "688065120000000018000f8e",
+      "note_id": "6870da590000000010024553",
+      "content": "茉莉花茶可以选东方树叶的吗？",
+      "nickname": "Summer.祎",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "荔枝冰奶…信我喝一次就会彻底爱上！！！！",
+      "parent_post_desc": "刷到了好多好多次的荔枝冰奶～\n今天终于忍不住对它下手了✌️\n尝完我就2字评价：仙品！！！！！！！！\n🥺真的求求所有姐妹夏天都去试试～清爽又解腻\n特别特别简单！！\n1️⃣荔枝捣碎出汁水\n2️⃣倒入牛奶+茉莉花茶，比例1:1就搞定啦（还可以根据自己的口味加一点糖浆和冰块哦～）\n.\n荔枝的清甜混合着茉莉花香+浓郁的奶香…我做给同事们喝，大家直接上演夸夸大会😌一人一杯，奶茶都不用点了\n而且！俺觉着吧！灵魂就在🥛金典限定呼伦贝尔有机奶\n饮品diy嘛，最怕的就是奶味寡淡…\n金典这个做出来真的奶味又浓又香醇（白月光啊啊啊！！）\n不管是配茶、咖啡都嘎嘎好喝！！我最近直接变身办公室diy大师了哈哈哈哈哈哈🤣好多同事下午都来找我讨一杯喝喝\n.\n好喝的同时，蛋白质含量也贼高～😌一瓶的蛋白质含量约等于76g三文鱼！！还高钙！2倍原生Omega-3的含金量谁懂…\n就很适合早八没空吃早饭的时候喝上一瓶，又营养又顶饱\n奶源还是呼伦贝尔有机牧场，简直是奶牛的天堂🥺\n而且听说牛牛还有16位硕博士智慧养殖！每头牛每天的伙食费高达100元（不是…这比我吃的都好🤣）\n中、欧有机双认证真不是盖的～～\n我现在家里放一箱，办公室囤一箱！每天都要喝上两瓶✌️\n对啦对啦，还有款金典有机纯牛奶（梦幻盖）也不错！打开盖子就能喝蛮方便滴~\n#牛奶推荐[话题]# #牛奶测评[话题]# #办公室充能[话题]# #金典[话题]#  #金典有机奶[话题]# #有机生活有我定义[话题]# #自制神仙饮品[话题]# #宝藏饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "687342910000000001021b16",
+      "note_id": "6870da590000000010024553",
+      "content": "茉莉花茶是买的那个吗",
+      "nickname": "不想上班想退休的芒果",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "0",
+      "parent_post_title": "荔枝冰奶…信我喝一次就会彻底爱上！！！！",
+      "parent_post_desc": "刷到了好多好多次的荔枝冰奶～\n今天终于忍不住对它下手了✌️\n尝完我就2字评价：仙品！！！！！！！！\n🥺真的求求所有姐妹夏天都去试试～清爽又解腻\n特别特别简单！！\n1️⃣荔枝捣碎出汁水\n2️⃣倒入牛奶+茉莉花茶，比例1:1就搞定啦（还可以根据自己的口味加一点糖浆和冰块哦～）\n.\n荔枝的清甜混合着茉莉花香+浓郁的奶香…我做给同事们喝，大家直接上演夸夸大会😌一人一杯，奶茶都不用点了\n而且！俺觉着吧！灵魂就在🥛金典限定呼伦贝尔有机奶\n饮品diy嘛，最怕的就是奶味寡淡…\n金典这个做出来真的奶味又浓又香醇（白月光啊啊啊！！）\n不管是配茶、咖啡都嘎嘎好喝！！我最近直接变身办公室diy大师了哈哈哈哈哈哈🤣好多同事下午都来找我讨一杯喝喝\n.\n好喝的同时，蛋白质含量也贼高～😌一瓶的蛋白质含量约等于76g三文鱼！！还高钙！2倍原生Omega-3的含金量谁懂…\n就很适合早八没空吃早饭的时候喝上一瓶，又营养又顶饱\n奶源还是呼伦贝尔有机牧场，简直是奶牛的天堂🥺\n而且听说牛牛还有16位硕博士智慧养殖！每头牛每天的伙食费高达100元（不是…这比我吃的都好🤣）\n中、欧有机双认证真不是盖的～～\n我现在家里放一箱，办公室囤一箱！每天都要喝上两瓶✌️\n对啦对啦，还有款金典有机纯牛奶（梦幻盖）也不错！打开盖子就能喝蛮方便滴~\n#牛奶推荐[话题]# #牛奶测评[话题]# #办公室充能[话题]# #金典[话题]#  #金典有机奶[话题]# #有机生活有我定义[话题]# #自制神仙饮品[话题]# #宝藏饮品[话题]# #仙女都在喝什么[话题]# #DIY饮品[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "茉莉"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d4d7df000000000103fab0",
+      "note_id": "69d220d9000000001d01d327",
+      "content": "☕️：不另外加糖，甜味来自好奶本身的自然甜感；热量方面脂肪含量和普通奶一样，但蛋白质是普通奶的2倍；如果觉得咖啡味淡，建议选深烘豆，咖啡会更香浓[害羞R]",
+      "nickname": "树野春泽",
+      "ip_location": null,
+      "like_count": "9",
+      "sub_comment_count": "0",
+      "parent_post_title": "早晨来杯高蛋白PRO 开启一天好状态💻",
+      "parent_post_desc": "天已经亮了，身体还睡在昨夜。\n拉开窗帘，光线涌进来，眼睛来不及睁开💤\n工作信息就来了\n坐到电脑前，打开文档。\n光标一闪一闪，手指停在键盘上，却迟迟敲不出一个字。该开始了，脑子却像隔了一层毛玻璃，什么都推不动。\n后来才明白，这不只是缺觉，更是打工人的常态：三餐潦草对付，日常蛋白质严重不足，身体缺了真正的营养支撑，精力自然跟不上💭\n博尔赫斯说：“时间是带走我的河流，但我即是河流。”可那个清晨，我只觉得自己像块搁浅的石头，等不来流动的活力。\n于是出门，去星巴克用一杯高蛋白拿铁 PRO☕️，给身体补上真正缺的营养✨入口柔润，奶香清甜。一杯20g原生乳蛋白，刚好补齐每日 1/3 蛋白需求，像慢慢把身体从沉睡里拉回来！\n0乳糖对乳糖不耐的姐妹也很友好。它不止是普通拿铁，更是给身体的轻盈蛋白补给。\n🍵高蛋白抹茶拿铁 PRO，清新的抹茶被6.0高蛋白牛乳包裹，茶香鲜爽，喝完整个人都沉静下来，卡住的文档终于顺利落笔💻\n☕️巴西莓高蛋白拿铁 PRO 的酸甜明亮、海蓝柚高蛋白拿铁 PRO 的清新果香，也很适合午后来一杯，换换心情，刚好✨\n🍳想要补充更多蛋白质，就搭配一份慢煮芝士蛋，软嫩蛋液咸香入味，和拿铁PRO搭配口感超契合，蛋白直接拉满，把身体亏空的营养稳稳补够🤤\n那些光标闪烁、敲不出字的早晨，后来都被一杯高蛋白拿铁PRO轻轻推开了✍🏻\n开启从容的一天，从高蛋白拿铁PRO这一杯的好喝好状态开始☕️\n#星巴克出了拿铁PRO[话题]# #星巴克高蛋白拿铁PRO[话题]# #一杯20g高蛋白[话题]# #星巴克新品[话题]# #打工人[话题]# #拍出氛围感[话题]# #我的咖啡日记[话题]# #今天喝什么[话题]# #交换奶茶[话题]# #COTD咖啡探店[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d241a4000000000f019523",
+      "note_id": "69d220d9000000001d01d327",
+      "content": "我也想喝高蛋白☕️",
+      "nickname": "冷了肉",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "1",
+      "parent_post_title": "早晨来杯高蛋白PRO 开启一天好状态💻",
+      "parent_post_desc": "天已经亮了，身体还睡在昨夜。\n拉开窗帘，光线涌进来，眼睛来不及睁开💤\n工作信息就来了\n坐到电脑前，打开文档。\n光标一闪一闪，手指停在键盘上，却迟迟敲不出一个字。该开始了，脑子却像隔了一层毛玻璃，什么都推不动。\n后来才明白，这不只是缺觉，更是打工人的常态：三餐潦草对付，日常蛋白质严重不足，身体缺了真正的营养支撑，精力自然跟不上💭\n博尔赫斯说：“时间是带走我的河流，但我即是河流。”可那个清晨，我只觉得自己像块搁浅的石头，等不来流动的活力。\n于是出门，去星巴克用一杯高蛋白拿铁 PRO☕️，给身体补上真正缺的营养✨入口柔润，奶香清甜。一杯20g原生乳蛋白，刚好补齐每日 1/3 蛋白需求，像慢慢把身体从沉睡里拉回来！\n0乳糖对乳糖不耐的姐妹也很友好。它不止是普通拿铁，更是给身体的轻盈蛋白补给。\n🍵高蛋白抹茶拿铁 PRO，清新的抹茶被6.0高蛋白牛乳包裹，茶香鲜爽，喝完整个人都沉静下来，卡住的文档终于顺利落笔💻\n☕️巴西莓高蛋白拿铁 PRO 的酸甜明亮、海蓝柚高蛋白拿铁 PRO 的清新果香，也很适合午后来一杯，换换心情，刚好✨\n🍳想要补充更多蛋白质，就搭配一份慢煮芝士蛋，软嫩蛋液咸香入味，和拿铁PRO搭配口感超契合，蛋白直接拉满，把身体亏空的营养稳稳补够🤤\n那些光标闪烁、敲不出字的早晨，后来都被一杯高蛋白拿铁PRO轻轻推开了✍🏻\n开启从容的一天，从高蛋白拿铁PRO这一杯的好喝好状态开始☕️\n#星巴克出了拿铁PRO[话题]# #星巴克高蛋白拿铁PRO[话题]# #一杯20g高蛋白[话题]# #星巴克新品[话题]# #打工人[话题]# #拍出氛围感[话题]# #我的咖啡日记[话题]# #今天喝什么[话题]# #交换奶茶[话题]# #COTD咖啡探店[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d436ab000000000100600e",
+      "note_id": "69d435670000000023012e0b",
+      "content": "星巴克高蛋白0乳糖牛乳",
+      "nickname": "芋泥橙",
+      "ip_location": null,
+      "like_count": "25",
+      "sub_comment_count": "5",
+      "parent_post_title": "星巴克新品｜高蛋白pro拿铁热量🔥（附碳蛋脂",
+      "parent_post_desc": "有很多宝宝求星巴克高蛋白pro拿铁的热量！其实今天4.7才正式上线！大家都喝了嘛[暗中观察R]？\n想着这个拿铁的受众都是健身/减脂/增肌的人群，所以这条笔记务必想着要在今天和这个拿铁正式上线的日子一起出！\n昨天“肝”到挺晚的…所以大家发现和我主页之前的画风都不太一样[捂脸R]（像枪版的笔记…）不管了不管了..此刻作为一个一直对平面设计有要求的人，真的“肝”不动了\n\t\n这一次就是Excel截图，其实每一个数字背后都是公式（我们J人是这样的😬辛苦大家这一次就先看看Excel的文档截图吧～希望还是清晰的[合十R]\n\t\n我查了很多资料，详细的配料&成分&计算过程我也可以公开给大家以便参考，都是我自己算的，所以也是仅供参考[抱拳R]～\n废话说了很多…啊安妮喂…这一次的新品是…\n💛高蛋白拿铁PRO\n💚高蛋白抹茶拿铁PRO\n💜巴西莓高蛋白拿铁PRO\n🩵海蓝柚高蛋白拿铁PRO\n\t\n然后然后睡了3个小时的我现在准备去赶高铁🚄祝我好运吧🍀赶完高铁我就无缝衔接要去上班～佛系回消息ing，再次感谢大家，每一个可爱的你们都是我创作的动力[红色心形R]（难得有感而发，请多担待[皱眉R]\n\t\n#星巴克高蛋白拿铁PRO[话题]##星巴克出了拿铁PRO[话题]#  #星巴克新品[话题]# #热量计算[话题]# #星巴克热量[话题]# #高蛋白拿铁pro热量[话题]# #高蛋白拿铁热量[话题]#  #一杯20g高蛋白[话题]# #星巴克咖啡热量[话题]# #乳糖不耐友好[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d46dfd00000000150059ef",
+      "note_id": "69d435670000000023012e0b",
+      "content": "高蛋白是加蛋白粉的意思吗？",
+      "nickname": "百事可乐哟",
+      "ip_location": null,
+      "like_count": "2",
+      "sub_comment_count": "2",
+      "parent_post_title": "星巴克新品｜高蛋白pro拿铁热量🔥（附碳蛋脂",
+      "parent_post_desc": "有很多宝宝求星巴克高蛋白pro拿铁的热量！其实今天4.7才正式上线！大家都喝了嘛[暗中观察R]？\n想着这个拿铁的受众都是健身/减脂/增肌的人群，所以这条笔记务必想着要在今天和这个拿铁正式上线的日子一起出！\n昨天“肝”到挺晚的…所以大家发现和我主页之前的画风都不太一样[捂脸R]（像枪版的笔记…）不管了不管了..此刻作为一个一直对平面设计有要求的人，真的“肝”不动了\n\t\n这一次就是Excel截图，其实每一个数字背后都是公式（我们J人是这样的😬辛苦大家这一次就先看看Excel的文档截图吧～希望还是清晰的[合十R]\n\t\n我查了很多资料，详细的配料&成分&计算过程我也可以公开给大家以便参考，都是我自己算的，所以也是仅供参考[抱拳R]～\n废话说了很多…啊安妮喂…这一次的新品是…\n💛高蛋白拿铁PRO\n💚高蛋白抹茶拿铁PRO\n💜巴西莓高蛋白拿铁PRO\n🩵海蓝柚高蛋白拿铁PRO\n\t\n然后然后睡了3个小时的我现在准备去赶高铁🚄祝我好运吧🍀赶完高铁我就无缝衔接要去上班～佛系回消息ing，再次感谢大家，每一个可爱的你们都是我创作的动力[红色心形R]（难得有感而发，请多担待[皱眉R]\n\t\n#星巴克高蛋白拿铁PRO[话题]##星巴克出了拿铁PRO[话题]#  #星巴克新品[话题]# #热量计算[话题]# #星巴克热量[话题]# #高蛋白拿铁pro热量[话题]# #高蛋白拿铁热量[话题]#  #一杯20g高蛋白[话题]# #星巴克咖啡热量[话题]# #乳糖不耐友好[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d45391000000001400a543",
+      "note_id": "69d435670000000023012e0b",
+      "content": "如果是高蛋白拿铁大杯去冰呢？",
+      "nickname": "33🧀",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "8",
+      "parent_post_title": "星巴克新品｜高蛋白pro拿铁热量🔥（附碳蛋脂",
+      "parent_post_desc": "有很多宝宝求星巴克高蛋白pro拿铁的热量！其实今天4.7才正式上线！大家都喝了嘛[暗中观察R]？\n想着这个拿铁的受众都是健身/减脂/增肌的人群，所以这条笔记务必想着要在今天和这个拿铁正式上线的日子一起出！\n昨天“肝”到挺晚的…所以大家发现和我主页之前的画风都不太一样[捂脸R]（像枪版的笔记…）不管了不管了..此刻作为一个一直对平面设计有要求的人，真的“肝”不动了\n\t\n这一次就是Excel截图，其实每一个数字背后都是公式（我们J人是这样的😬辛苦大家这一次就先看看Excel的文档截图吧～希望还是清晰的[合十R]\n\t\n我查了很多资料，详细的配料&成分&计算过程我也可以公开给大家以便参考，都是我自己算的，所以也是仅供参考[抱拳R]～\n废话说了很多…啊安妮喂…这一次的新品是…\n💛高蛋白拿铁PRO\n💚高蛋白抹茶拿铁PRO\n💜巴西莓高蛋白拿铁PRO\n🩵海蓝柚高蛋白拿铁PRO\n\t\n然后然后睡了3个小时的我现在准备去赶高铁🚄祝我好运吧🍀赶完高铁我就无缝衔接要去上班～佛系回消息ing，再次感谢大家，每一个可爱的你们都是我创作的动力[红色心形R]（难得有感而发，请多担待[皱眉R]\n\t\n#星巴克高蛋白拿铁PRO[话题]##星巴克出了拿铁PRO[话题]#  #星巴克新品[话题]# #热量计算[话题]# #星巴克热量[话题]# #高蛋白拿铁pro热量[话题]# #高蛋白拿铁热量[话题]#  #一杯20g高蛋白[话题]# #星巴克咖啡热量[话题]# #乳糖不耐友好[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "69d60cc90000000014033f25",
+      "note_id": "69d435670000000023012e0b",
+      "content": "[哇R]朋友高蛋白款奶味儿重吗？不喜欢奶味重的",
+      "nickname": "河烟",
+      "ip_location": null,
+      "like_count": "1",
+      "sub_comment_count": "2",
+      "parent_post_title": "星巴克新品｜高蛋白pro拿铁热量🔥（附碳蛋脂",
+      "parent_post_desc": "有很多宝宝求星巴克高蛋白pro拿铁的热量！其实今天4.7才正式上线！大家都喝了嘛[暗中观察R]？\n想着这个拿铁的受众都是健身/减脂/增肌的人群，所以这条笔记务必想着要在今天和这个拿铁正式上线的日子一起出！\n昨天“肝”到挺晚的…所以大家发现和我主页之前的画风都不太一样[捂脸R]（像枪版的笔记…）不管了不管了..此刻作为一个一直对平面设计有要求的人，真的“肝”不动了\n\t\n这一次就是Excel截图，其实每一个数字背后都是公式（我们J人是这样的😬辛苦大家这一次就先看看Excel的文档截图吧～希望还是清晰的[合十R]\n\t\n我查了很多资料，详细的配料&成分&计算过程我也可以公开给大家以便参考，都是我自己算的，所以也是仅供参考[抱拳R]～\n废话说了很多…啊安妮喂…这一次的新品是…\n💛高蛋白拿铁PRO\n💚高蛋白抹茶拿铁PRO\n💜巴西莓高蛋白拿铁PRO\n🩵海蓝柚高蛋白拿铁PRO\n\t\n然后然后睡了3个小时的我现在准备去赶高铁🚄祝我好运吧🍀赶完高铁我就无缝衔接要去上班～佛系回消息ing，再次感谢大家，每一个可爱的你们都是我创作的动力[红色心形R]（难得有感而发，请多担待[皱眉R]\n\t\n#星巴克高蛋白拿铁PRO[话题]##星巴克出了拿铁PRO[话题]#  #星巴克新品[话题]# #热量计算[话题]# #星巴克热量[话题]# #高蛋白拿铁pro热量[话题]# #高蛋白拿铁热量[话题]#  #一杯20g高蛋白[话题]# #星巴克咖啡热量[话题]# #乳糖不耐友好[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a0d3baf0000000029013e7e",
+      "note_id": "69dddbdc0000000023023187",
+      "content": "就是蛋白粉吗？",
+      "nickname": "人间NPC的日常",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "过劳肥+肉变垮？打工人自救指南来了",
+      "parent_post_desc": "上个月公司体检，体重是轻了4斤，但体脂率涨了…\n👩🏻‍⚕️幽幽来一句：“肌肉流失有点多啊”🙃\n真的一整个大破防！！！\n本打工仔每天早10晚8，能坚持运动已经很不错了 结果辛辛苦苦掉的居然是肌肉…\n教练跟我说这样基础代谢会越来越低，以后喝水都胖…\n让我像健身博主那样顿顿鸡胸肉、水煮蛋我真的做不到\n通勤加班已经很累了 哪有时间天天备餐\n而且市面很多蛋白粉要么热量高怕长胖 要么难溶解 喝完洗杯子都嫌麻烦…\n\t\n还好前一阵爱健身的闺蜜给我推荐了雀巢医学营养研发的美版蛋白补\n简直是我这种懒人打工人的天菜！\n−\n📝0脂低卡无负担\n它真的只有蛋白质！每勺0胆固醇、0脂肪、0添加糖\n喝起来完全没有罪恶感\n对于我们这种只是想维持线条、守住减脂成果的人来说太友好了！\n难怪我在香港的朋友也在喝，真的太适合女孩子增薄肌了\n−\n📝99%优质乳清蛋白\n纯度超高！不是那种乱七八糟的添加\n运动后来一杯 感觉肌肉在悄悄修复，那种运动后的疲惫感也能缓解不少\n平时早餐喝牛奶也会加一勺 补充全天所需 感觉自己代谢都变好了\n−\n📝雀巢大品牌\n毕竟是百年大牌 美国进口 品质和品控这块确实让人放心\n而且它是那种淡淡的原味 没有奇怪的香精味\n我最爱的喝法就是加在冰美式里 瞬间变成高蛋白拿铁\n口感顺滑巨好喝！或者加在酸奶、燕麦里也毫无违和感 完美融入日常饮食。\n一罐一百多块 我能喝一个月 性价比真的很高！\n现在我工位和家里都备着一罐 下午饿了冲一杯 或者健身后喝一杯\n补蛋白这件事 终于变成了一件随手就能完成的简单小事～\n#雀巢美版蛋白补[话题]# #蛋白粉[话题]# #优质蛋白质[话题]# #补充蛋白质[话题]# #均衡营养[话题]# #打工人[话题]# #见人不如健身[话题]# #我的健康生活[话题]# #生活化减脂[话题]# #好物分享[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6a1f5de0000000002a0060df",
+      "note_id": "69dddbdc0000000023023187",
+      "content": "这个和蛋白粉有什么区别呀？",
+      "nickname": "小小",
+      "ip_location": "上海",
+      "like_count": "0",
+      "sub_comment_count": "0",
+      "parent_post_title": "过劳肥+肉变垮？打工人自救指南来了",
+      "parent_post_desc": "上个月公司体检，体重是轻了4斤，但体脂率涨了…\n👩🏻‍⚕️幽幽来一句：“肌肉流失有点多啊”🙃\n真的一整个大破防！！！\n本打工仔每天早10晚8，能坚持运动已经很不错了 结果辛辛苦苦掉的居然是肌肉…\n教练跟我说这样基础代谢会越来越低，以后喝水都胖…\n让我像健身博主那样顿顿鸡胸肉、水煮蛋我真的做不到\n通勤加班已经很累了 哪有时间天天备餐\n而且市面很多蛋白粉要么热量高怕长胖 要么难溶解 喝完洗杯子都嫌麻烦…\n\t\n还好前一阵爱健身的闺蜜给我推荐了雀巢医学营养研发的美版蛋白补\n简直是我这种懒人打工人的天菜！\n−\n📝0脂低卡无负担\n它真的只有蛋白质！每勺0胆固醇、0脂肪、0添加糖\n喝起来完全没有罪恶感\n对于我们这种只是想维持线条、守住减脂成果的人来说太友好了！\n难怪我在香港的朋友也在喝，真的太适合女孩子增薄肌了\n−\n📝99%优质乳清蛋白\n纯度超高！不是那种乱七八糟的添加\n运动后来一杯 感觉肌肉在悄悄修复，那种运动后的疲惫感也能缓解不少\n平时早餐喝牛奶也会加一勺 补充全天所需 感觉自己代谢都变好了\n−\n📝雀巢大品牌\n毕竟是百年大牌 美国进口 品质和品控这块确实让人放心\n而且它是那种淡淡的原味 没有奇怪的香精味\n我最爱的喝法就是加在冰美式里 瞬间变成高蛋白拿铁\n口感顺滑巨好喝！或者加在酸奶、燕麦里也毫无违和感 完美融入日常饮食。\n一罐一百多块 我能喝一个月 性价比真的很高！\n现在我工位和家里都备着一罐 下午饿了冲一杯 或者健身后喝一杯\n补蛋白这件事 终于变成了一件随手就能完成的简单小事～\n#雀巢美版蛋白补[话题]# #蛋白粉[话题]# #优质蛋白质[话题]# #补充蛋白质[话题]# #均衡营养[话题]# #打工人[话题]# #见人不如健身[话题]# #我的健康生活[话题]# #生活化减脂[话题]# #好物分享[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": true,
+        "flavor": false,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [
+          "蛋白"
+        ],
+        "flavor": [],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "683c70e40000000003036f38",
+      "note_id": "682e85b40000000012001d23",
+      "content": "亲，就是椰子水直接倒进豆浆粉里面吗？",
+      "nickname": "Yilia",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "2",
+      "parent_post_title": "暴食后悔水（无咖啡因版神方）",
+      "parent_post_desc": "玉米须茶➕椰子水➕豆浆粉\n不摄入任何咖啡因就这么水灵灵消完了\n这么强的一杯好喝飞了➡️淡淡爆米花香的奶茶小甜水🍿 饱腹感也是一绝\n\t\n上次的冰椰抹茶有宝宝经期怕寒\n这杯新版方子不仅可以经期喝\n而且还是无咖啡因的☕️\n可以全天喝，不影响睡眠💤\n（但不要睡前喝，因为你半夜真的会想起来上厕所🚽）\n\t\n📝配方：150ml熊津玉米须茶 300ml椰子水 两条豆浆粉40g（说明见p3）\n1.椰子水含钾，天然排钠（注意用纯椰子水不是调制的饮料）\n2.豆浆粉很适合经期喝，黄豆也补钾，而且高蛋白\n3.玉米须茶就是很消的，作为无咖啡因茶底刚刚好，玉米香气很搭椰香豆浆\n\t\n热量还很低，一大杯兑两包豆浆粉喝饱了也只有200多卡🧋\n你可以早上起来搭配鸡蛋当早餐吃🥣\n当健康奶茶替也完全ok！！上午下午都可以喝\n\t\n全天多吃：冬瓜/柚子/海带/菠菜/香蕉/银耳（补钾排钠）见p6\n清水煮白菜汤、柚子拌酸奶都不错\n记得热水澡多泡脚拉伸按摩库库喝水全套满上一条龙\n\t\n淡人真的会反复爱上这个玉米须茶\n熊津做的淡淡玉米香特别好喝，有点刚炒好的无糖爆米花的感觉！像小时候家门口马路对面老式爆米花小车传来的香气，还是无糖0脂无咖啡因\n有的时候不想喝白水就喜欢喝味道淡淡香香的茶\n后调还有草本回甘超级清新🍃\n\t\n这个方子你一早上起来就可以喝\n皮质醇友好，善良的爆米花味小甜水🧋\n一杯下去过一会儿眼皮也睁得开了\n好喝爱喝美美喝😋大家还有什么无咖啡因配方！！\n\t\n#低卡饮料[话题]# #液断[话题]# #简单又好喝[话题]# #热量低了更爽了[话题]# #自制神仙饮品[话题]# #低卡饮品[话题]# #好喝无负担[话题]# #熊津[话题]# #韩国玉米须茶[话题]# #玉米须茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰子"
+        ],
+        "sensory": []
+      }
+    },
+    {
+      "type": "comment",
+      "comment_id": "6839e72e000000000a0375fc",
+      "note_id": "682e85b40000000012001d23",
+      "content": "蹲蹲推荐的椰子水和豆浆粉[皱眉R][皱眉R]",
+      "nickname": "三羧酸循环",
+      "ip_location": null,
+      "like_count": "0",
+      "sub_comment_count": "2",
+      "parent_post_title": "暴食后悔水（无咖啡因版神方）",
+      "parent_post_desc": "玉米须茶➕椰子水➕豆浆粉\n不摄入任何咖啡因就这么水灵灵消完了\n这么强的一杯好喝飞了➡️淡淡爆米花香的奶茶小甜水🍿 饱腹感也是一绝\n\t\n上次的冰椰抹茶有宝宝经期怕寒\n这杯新版方子不仅可以经期喝\n而且还是无咖啡因的☕️\n可以全天喝，不影响睡眠💤\n（但不要睡前喝，因为你半夜真的会想起来上厕所🚽）\n\t\n📝配方：150ml熊津玉米须茶 300ml椰子水 两条豆浆粉40g（说明见p3）\n1.椰子水含钾，天然排钠（注意用纯椰子水不是调制的饮料）\n2.豆浆粉很适合经期喝，黄豆也补钾，而且高蛋白\n3.玉米须茶就是很消的，作为无咖啡因茶底刚刚好，玉米香气很搭椰香豆浆\n\t\n热量还很低，一大杯兑两包豆浆粉喝饱了也只有200多卡🧋\n你可以早上起来搭配鸡蛋当早餐吃🥣\n当健康奶茶替也完全ok！！上午下午都可以喝\n\t\n全天多吃：冬瓜/柚子/海带/菠菜/香蕉/银耳（补钾排钠）见p6\n清水煮白菜汤、柚子拌酸奶都不错\n记得热水澡多泡脚拉伸按摩库库喝水全套满上一条龙\n\t\n淡人真的会反复爱上这个玉米须茶\n熊津做的淡淡玉米香特别好喝，有点刚炒好的无糖爆米花的感觉！像小时候家门口马路对面老式爆米花小车传来的香气，还是无糖0脂无咖啡因\n有的时候不想喝白水就喜欢喝味道淡淡香香的茶\n后调还有草本回甘超级清新🍃\n\t\n这个方子你一早上起来就可以喝\n皮质醇友好，善良的爆米花味小甜水🧋\n一杯下去过一会儿眼皮也睁得开了\n好喝爱喝美美喝😋大家还有什么无咖啡因配方！！\n\t\n#低卡饮料[话题]# #液断[话题]# #简单又好喝[话题]# #热量低了更爽了[话题]# #自制神仙饮品[话题]# #低卡饮品[话题]# #好喝无负担[话题]# #熊津[话题]# #韩国玉米须茶[话题]# #玉米须茶[话题]#",
+      "source_file": "search_comments_2026-06-24.jsonl",
+      "source_keyword": "高蛋白饮品 好喝",
+      "group": "flavor",
+      "match_categories": {
+        "product": false,
+        "flavor": true,
+        "sensory": false
+      },
+      "matched_keywords": {
+        "product": [],
+        "flavor": [
+          "椰子"
+        ],
         "sensory": []
       }
     }

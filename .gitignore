@@ -1,0 +1,18 @@
+# Sensitive data
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local SQLite databases
+*.sqlite
+failed_compounds.txt
+*.log
+
+# Generated output assets & files
+*.png
+*.gpickle
+*.npy
+mobai_analysis_results.json
+mobai_dashboard.html

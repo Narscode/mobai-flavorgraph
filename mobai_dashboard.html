@@ -139,14 +139,14 @@
                     <div class="card">
                         <h3>Variant A: Mango × Jasmine</h3>
                         <p>Pooled Molecular Cosine Similarity</p>
-                        <div class="metric">0.9999</div>
+                        <div class="metric">0.9998</div>
                         <p style="color: #34d399; font-weight: bold;">STRONG PAIRING (Shared molecular pathways)</p>
                         <p style="color: #94a3b8; font-size: 0.95em;">driven by high terpene and ester sharing between floral and exotic fruit volatile receptors.</p>
                     </div>
                     <div class="card">
                         <h3>Variant B: Coconut × Milk Tea</h3>
                         <p>Pooled Molecular Cosine Similarity</p>
-                        <div class="metric">0.9982</div>
+                        <div class="metric">0.9967</div>
                         <p style="color: #34d399; font-weight: bold;">STRONG PAIRING (Shared molecular pathways)</p>
                         <p style="color: #94a3b8; font-size: 0.95em;">driven by strong lactone lipophilic vectors associating with roasted pyrazines and catechins.</p>
                     </div>
@@ -183,17 +183,17 @@
                                 </tr>
                                 <tr>
                                     <td>Cardboard</td>
-                                    <td>99.9%</td>
                                     <td>99.7%</td>
-                                    <td>99.7%</td>
+                                    <td>99.6%</td>
+                                    <td>99.6%</td>
                                     <td>100.0%</td>
                                     <td>65.0%</td>
                                 </tr>
                                 <tr>
                                     <td>Soapy</td>
-                                    <td>99.8%</td>
                                     <td>99.6%</td>
-                                    <td>99.7%</td>
+                                    <td>99.5%</td>
+                                    <td>99.6%</td>
                                     <td>100.0%</td>
                                     <td>55.0%</td>
                                 </tr>
@@ -220,7 +220,7 @@
                     <div class="card">
                         <h3>Best Pick: Osmanthus (桂花)</h3>
                         <p>Centroid Similarity: <strong>100.0%</strong></p>
-                        <p>WPI Off-Note Masking: <strong>99.9%</strong></p>
+                        <p>WPI Off-Note Masking: <strong>99.8%</strong></p>
                         <p>Molecular Novelty: <strong>0.0%</strong></p>
                         <hr style="border: 0; border-top: 1px solid #334155; margin: 15px 0;">
                         <p><strong>Rationale:</strong> Osmanthus shares rich volatile ketones (beta-ionone) and lactones (gamma-decalactone) that construct a perfect aromatic bridge between mango's tropical top notes, jasmine's floral body, and oolong's roasted pyrazines, while competing heavily against soapy off-note lipid receptor binding channels.</p>
@@ -269,7 +269,7 @@
             var radarData = [
                 {
                     type: 'scatterpolar',
-                    r: [93.71507465839386, 91.08055144548416, 88.5180147488912, 86.1999100446701],
+                    r: [93.71259585022926, 90.97681105136871, 88.40077638626099, 86.19921535253525],
                     theta: ['Sulphury Volatiles', 'Carbonyl/Aldehydes', 'Soapy Fatty Acids', 'Bitter Peptides'],
                     fill: 'toself',
                     name: 'Variant A: Mango × Jasmine',
@@ -277,7 +277,7 @@
                 },
                 {
                     type: 'scatterpolar',
-                    r: [91.65059824784596, 88.27836990356445, 84.90921682781644, 81.62234584490459],
+                    r: [91.64452155431111, 88.21370681126912, 84.84191523657906, 81.61978483200073],
                     theta: ['Sulphury Volatiles', 'Carbonyl/Aldehydes', 'Soapy Fatty Acids', 'Bitter Peptides'],
                     fill: 'toself',
                     name: 'Variant B: Coconut × Milk Tea',
@@ -300,8 +300,8 @@
             
             // BAR CHART
             var barData = [{
-                y: ['Passionfruit', 'Taro', 'Osmanthus', 'Ginger', 'Pandan'],
-                x: [0.7994818634457059, 0.799416470527649, 0.7992919087409974, 0.7992682443724738, 0.7992444727155896],
+                y: ['Passionfruit', 'Osmanthus', 'Ginger', 'Taro', 'Lychee'],
+                x: [0.7993110524283515, 0.7990086595217387, 0.7989648832215204, 0.7988881985346475, 0.7986714363098146],
                 type: 'bar',
                 orientation: 'h',
                 marker: {
@@ -320,13 +320,13 @@
             
             // SCATTER CHART
             var scatterData = [{
-                x: [150.17, 154.25, 88.11, 94.11, 170.25, 114.19, 130.18, 136.24, 120.15, 117.15, 80.09, 134.09, 192.12, 204.23, 136.24, 144.21, 136.24, 164.24, 136.24, 564.5, 116.16, 218.33, 131.17, 152.23, 62.13, 114.19, 1135.0, 156.22, 204.35, 111.14, 136.24, 122.16, 172.26, 144.21, 154.25, 200.32, 294.39, 165.19, 142.2, 128.13, 126.11, 455.7, 324.4, 152.15, 154.25, 114.19, 166.17, 117.15, 106.12, 154.25, 86.09, 180.16, 60.05, 136.24, 152.23, 131.17, 342.3, 290.27, 224.3, 44.05, 172.26, 272.25, 192.3, 100.16, 94.2, 170.25, 200.32, 136.24, 470.5, 88.11, 88.11, 212.24, 194.19, 144.21, 142.24, 116.16, 90.08, 156.27, 58.44],
-                y: [0.152, 0.1, 0.064, 0.274, 0.13, 0.176, 0.348, 0.404, 0.288, 0.334, 0.276, 0.518, 0.324, 0.91, 0.244, 0.276, 0.264, 0.266, 0.164, 0.696, 0.138, 0.324, 0.906, 0.09, 0.162, 0.128, 0.694, 0.174, 0.148, 0.304, 0.212, 0.326, 0.276, 0.276, 0.056, 0.276, 0.31, 0.874, 0.166, 0.202, 0.154, 0.354, 0.762, 0.102, 0.232, 0.438, 0.194, 0.902, 0.264, 0.216, 0.202, 0.106, 0.288, 0.404, 0.278, 0.902, 0.072, 0.414, 0.21, 0.088, 0.276, 0.694, 0.204, 0.128, 0.162, 0.13, 0.276, 0.228, 0.866, 0.414, 0.296, 0.272, 0.698, 0.116, 0.128, 0.138, 0.598, 0.344, 0.194],
+                x: [204.23, 154.25, 154.25, 170.25, 272.25, 131.17, 142.24, 164.24, 165.19, 136.24, 144.21, 150.17, 136.24, 117.15, 200.32, 62.13, 126.11, 218.33, 94.2, 156.22, 172.26, 90.08, 342.3, 180.16, 130.18, 192.12, 324.4, 94.11, 114.19, 111.14, 212.24, 106.12, 144.21, 80.09, 120.15, 136.24, 86.09, 131.17, 116.16, 88.11, 192.3, 136.24, 294.39, 136.24, 564.5, 114.19, 134.09, 224.3, 88.11, 116.16, 1135.0, 128.13, 100.16, 172.26, 152.15, 156.27, 144.21, 114.19, 60.05, 136.24, 290.27, 455.7, 200.32, 142.2, 44.05, 152.23, 194.19, 470.5, 117.15, 170.25, 154.25, 152.23, 122.16, 88.11, 204.35, 166.17, 136.24, 154.25, 58.44],
+                y: [0.918, 0.216, 0.124, 0.13, 0.694, 0.894, 0.152, 0.284, 0.894, 0.408, 0.286, 0.14, 0.242, 0.88, 0.286, 0.176, 0.156, 0.358, 0.178, 0.166, 0.286, 0.576, 0.056, 0.09, 0.314, 0.32, 0.774, 0.256, 0.152, 0.29, 0.262, 0.272, 0.286, 0.26, 0.296, 0.198, 0.216, 0.912, 0.166, 0.43, 0.202, 0.174, 0.328, 0.248, 0.662, 0.208, 0.5, 0.2, 0.066, 0.166, 0.612, 0.21, 0.152, 0.286, 0.116, 0.34, 0.132, 0.456, 0.288, 0.212, 0.402, 0.36, 0.286, 0.166, 0.106, 0.112, 0.7, 0.848, 0.324, 0.13, 0.07, 0.262, 0.322, 0.318, 0.17, 0.204, 0.408, 0.204, 0.192],
                 mode: 'markers',
-                text: ['Benzyl Acetate (MW: 150.2, Bitter Prob: 0.15)', 'Geraniol (MW: 154.2, Bitter Prob: 0.10)', 'Ethyl Acetate (MW: 88.1, Bitter Prob: 0.06)', '2-Methylpyrazine (MW: 94.1, Bitter Prob: 0.27)', 'Gamma-Decalactone (MW: 170.2, Bitter Prob: 0.13)', '2-Heptanone (MW: 114.2, Bitter Prob: 0.18)', 'Isoamyl Acetate (MW: 130.2, Bitter Prob: 0.35)', 'Alpha-Phellandrene (MW: 136.2, Bitter Prob: 0.40)', 'Phenylacetaldehyde (MW: 120.2, Bitter Prob: 0.29)', 'Indole (MW: 117.2, Bitter Prob: 0.33)', 'Pyrazine (MW: 80.1, Bitter Prob: 0.28)', 'Malic Acid (MW: 134.1, Bitter Prob: 0.52)', 'Citric Acid (MW: 192.1, Bitter Prob: 0.32)', 'Tryptophan (MW: 204.2, Bitter Prob: 0.91)', 'Limonene (MW: 136.2, Bitter Prob: 0.24)', 'Octanoic Acid (MW: 144.2, Bitter Prob: 0.28)', '3-Carene (MW: 136.2, Bitter Prob: 0.26)', 'Cis-Jasmone (MW: 164.2, Bitter Prob: 0.27)', 'Beta-Myrcene (MW: 136.2, Bitter Prob: 0.16)', 'Theaflavin (MW: 564.5, Bitter Prob: 0.70)', 'Ethyl Butyrate (MW: 116.2, Bitter Prob: 0.14)', 'Turmerone (MW: 218.3, Bitter Prob: 0.32)', 'Leucine (MW: 131.2, Bitter Prob: 0.91)', 'Citral (MW: 152.2, Bitter Prob: 0.09)', 'Dimethyl Sulfide (MW: 62.1, Bitter Prob: 0.16)', 'Heptanal (MW: 114.2, Bitter Prob: 0.13)', 'Cyclodextrin (MW: 1135.0, Bitter Prob: 0.69)', 'Gamma-Nonalactone (MW: 156.2, Bitter Prob: 0.17)', 'Alpha-Farnesene (MW: 204.3, Bitter Prob: 0.15)', '2-Acetyl-1-Pyrroline (MW: 111.1, Bitter Prob: 0.30)', 'Alpha-Terpinolene (MW: 136.2, Bitter Prob: 0.21)', 'Phenylethyl Alcohol (MW: 122.2, Bitter Prob: 0.33)', 'Decanoic Acid (MW: 172.3, Bitter Prob: 0.28)', 'Caprylic Acid (MW: 144.2, Bitter Prob: 0.28)', 'Linalool (MW: 154.2, Bitter Prob: 0.06)', 'Dodecanoic Acid (MW: 200.3, Bitter Prob: 0.28)', 'Gingerol (MW: 294.4, Bitter Prob: 0.31)', 'Phenylalanine (MW: 165.2, Bitter Prob: 0.87)', 'Delta-Octalactone (MW: 142.2, Bitter Prob: 0.17)', '4-Hydroxy-2,5-Dimethyl-3(2H)-Furanone (MW: 128.1, Bitter Prob: 0.20)', 'Maltol (MW: 126.1, Bitter Prob: 0.15)', 'Zinc Gluconate (MW: 455.7, Bitter Prob: 0.35)', 'Quinine (MW: 324.4, Bitter Prob: 0.76)', 'Vanillin (MW: 152.2, Bitter Prob: 0.10)', 'Borneol (MW: 154.2, Bitter Prob: 0.23)', 'Methylheptanone (MW: 114.2, Bitter Prob: 0.44)', 'Ethyl Vanillin (MW: 166.2, Bitter Prob: 0.19)', 'Valine (MW: 117.2, Bitter Prob: 0.90)', 'Benzaldehyde (MW: 106.1, Bitter Prob: 0.26)', 'Alpha-Terpineol (MW: 154.2, Bitter Prob: 0.22)', 'Diacetyl (MW: 86.1, Bitter Prob: 0.20)', 'Glucose (MW: 180.2, Bitter Prob: 0.11)', 'Acetic Acid (MW: 60.0, Bitter Prob: 0.29)', 'Gamma-Terpinene (MW: 136.2, Bitter Prob: 0.40)', 'Camphor (MW: 152.2, Bitter Prob: 0.28)', 'Isoleucine (MW: 131.2, Bitter Prob: 0.90)', 'Sucrose (MW: 342.3, Bitter Prob: 0.07)', 'Catechin (MW: 290.3, Bitter Prob: 0.41)', 'Methyl Jasmonate (MW: 224.3, Bitter Prob: 0.21)', 'Acetaldehyde (MW: 44.0, Bitter Prob: 0.09)', 'Capric Acid (MW: 172.3, Bitter Prob: 0.28)', 'Naringenin (MW: 272.2, Bitter Prob: 0.69)', 'Beta-Ionone (MW: 192.3, Bitter Prob: 0.20)', 'Hexanal (MW: 100.2, Bitter Prob: 0.13)', 'Dimethyl Disulfide (MW: 94.2, Bitter Prob: 0.16)', 'Delta-Decalactone (MW: 170.2, Bitter Prob: 0.13)', 'Lauric Acid (MW: 200.3, Bitter Prob: 0.28)', 'Alpha-Pinene (MW: 136.2, Bitter Prob: 0.23)', 'Limonin (MW: 470.5, Bitter Prob: 0.87)', 'Acetoin (MW: 88.1, Bitter Prob: 0.41)', 'Butyric Acid (MW: 88.1, Bitter Prob: 0.30)', 'Benzyl Benzoate (MW: 212.2, Bitter Prob: 0.27)', 'Caffeine (MW: 194.2, Bitter Prob: 0.70)', 'Ethyl Hexanoate (MW: 144.2, Bitter Prob: 0.12)', 'Nonanal (MW: 142.2, Bitter Prob: 0.13)', 'Ethyl Butanoate (MW: 116.2, Bitter Prob: 0.14)', 'Lactic Acid (MW: 90.1, Bitter Prob: 0.60)', 'Citronellol (MW: 156.3, Bitter Prob: 0.34)', 'Sodium Chloride (MW: 58.4, Bitter Prob: 0.19)'],
+                text: ['Tryptophan (MW: 204.2, Bitter Prob: 0.92)', 'Borneol (MW: 154.2, Bitter Prob: 0.22)', 'Geraniol (MW: 154.2, Bitter Prob: 0.12)', 'Gamma-Decalactone (MW: 170.2, Bitter Prob: 0.13)', 'Naringenin (MW: 272.2, Bitter Prob: 0.69)', 'Isoleucine (MW: 131.2, Bitter Prob: 0.89)', 'Nonanal (MW: 142.2, Bitter Prob: 0.15)', 'Cis-Jasmone (MW: 164.2, Bitter Prob: 0.28)', 'Phenylalanine (MW: 165.2, Bitter Prob: 0.89)', 'Alpha-Phellandrene (MW: 136.2, Bitter Prob: 0.41)', 'Caprylic Acid (MW: 144.2, Bitter Prob: 0.29)', 'Benzyl Acetate (MW: 150.2, Bitter Prob: 0.14)', 'Limonene (MW: 136.2, Bitter Prob: 0.24)', 'Valine (MW: 117.2, Bitter Prob: 0.88)', 'Dodecanoic Acid (MW: 200.3, Bitter Prob: 0.29)', 'Dimethyl Sulfide (MW: 62.1, Bitter Prob: 0.18)', 'Maltol (MW: 126.1, Bitter Prob: 0.16)', 'Turmerone (MW: 218.3, Bitter Prob: 0.36)', 'Dimethyl Disulfide (MW: 94.2, Bitter Prob: 0.18)', 'Gamma-Nonalactone (MW: 156.2, Bitter Prob: 0.17)', 'Capric Acid (MW: 172.3, Bitter Prob: 0.29)', 'Lactic Acid (MW: 90.1, Bitter Prob: 0.58)', 'Sucrose (MW: 342.3, Bitter Prob: 0.06)', 'Glucose (MW: 180.2, Bitter Prob: 0.09)', 'Isoamyl Acetate (MW: 130.2, Bitter Prob: 0.31)', 'Citric Acid (MW: 192.1, Bitter Prob: 0.32)', 'Quinine (MW: 324.4, Bitter Prob: 0.77)', '2-Methylpyrazine (MW: 94.1, Bitter Prob: 0.26)', 'Heptanal (MW: 114.2, Bitter Prob: 0.15)', '2-Acetyl-1-Pyrroline (MW: 111.1, Bitter Prob: 0.29)', 'Benzyl Benzoate (MW: 212.2, Bitter Prob: 0.26)', 'Benzaldehyde (MW: 106.1, Bitter Prob: 0.27)', 'Octanoic Acid (MW: 144.2, Bitter Prob: 0.29)', 'Pyrazine (MW: 80.1, Bitter Prob: 0.26)', 'Phenylacetaldehyde (MW: 120.2, Bitter Prob: 0.30)', 'Alpha-Terpinolene (MW: 136.2, Bitter Prob: 0.20)', 'Diacetyl (MW: 86.1, Bitter Prob: 0.22)', 'Leucine (MW: 131.2, Bitter Prob: 0.91)', 'Ethyl Butanoate (MW: 116.2, Bitter Prob: 0.17)', 'Acetoin (MW: 88.1, Bitter Prob: 0.43)', 'Beta-Ionone (MW: 192.3, Bitter Prob: 0.20)', 'Beta-Myrcene (MW: 136.2, Bitter Prob: 0.17)', 'Gingerol (MW: 294.4, Bitter Prob: 0.33)', '3-Carene (MW: 136.2, Bitter Prob: 0.25)', 'Theaflavin (MW: 564.5, Bitter Prob: 0.66)', '2-Heptanone (MW: 114.2, Bitter Prob: 0.21)', 'Malic Acid (MW: 134.1, Bitter Prob: 0.50)', 'Methyl Jasmonate (MW: 224.3, Bitter Prob: 0.20)', 'Ethyl Acetate (MW: 88.1, Bitter Prob: 0.07)', 'Ethyl Butyrate (MW: 116.2, Bitter Prob: 0.17)', 'Cyclodextrin (MW: 1135.0, Bitter Prob: 0.61)', '4-Hydroxy-2,5-Dimethyl-3(2H)-Furanone (MW: 128.1, Bitter Prob: 0.21)', 'Hexanal (MW: 100.2, Bitter Prob: 0.15)', 'Decanoic Acid (MW: 172.3, Bitter Prob: 0.29)', 'Vanillin (MW: 152.2, Bitter Prob: 0.12)', 'Citronellol (MW: 156.3, Bitter Prob: 0.34)', 'Ethyl Hexanoate (MW: 144.2, Bitter Prob: 0.13)', 'Methylheptanone (MW: 114.2, Bitter Prob: 0.46)', 'Acetic Acid (MW: 60.0, Bitter Prob: 0.29)', 'Alpha-Pinene (MW: 136.2, Bitter Prob: 0.21)', 'Catechin (MW: 290.3, Bitter Prob: 0.40)', 'Zinc Gluconate (MW: 455.7, Bitter Prob: 0.36)', 'Lauric Acid (MW: 200.3, Bitter Prob: 0.29)', 'Delta-Octalactone (MW: 142.2, Bitter Prob: 0.17)', 'Acetaldehyde (MW: 44.0, Bitter Prob: 0.11)', 'Citral (MW: 152.2, Bitter Prob: 0.11)', 'Caffeine (MW: 194.2, Bitter Prob: 0.70)', 'Limonin (MW: 470.5, Bitter Prob: 0.85)', 'Indole (MW: 117.2, Bitter Prob: 0.32)', 'Delta-Decalactone (MW: 170.2, Bitter Prob: 0.13)', 'Linalool (MW: 154.2, Bitter Prob: 0.07)', 'Camphor (MW: 152.2, Bitter Prob: 0.26)', 'Phenylethyl Alcohol (MW: 122.2, Bitter Prob: 0.32)', 'Butyric Acid (MW: 88.1, Bitter Prob: 0.32)', 'Alpha-Farnesene (MW: 204.3, Bitter Prob: 0.17)', 'Ethyl Vanillin (MW: 166.2, Bitter Prob: 0.20)', 'Gamma-Terpinene (MW: 136.2, Bitter Prob: 0.41)', 'Alpha-Terpineol (MW: 154.2, Bitter Prob: 0.20)', 'Sodium Chloride (MW: 58.4, Bitter Prob: 0.19)'],
                 marker: {
                     size: 10,
-                    color: ['#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32']
+                    color: ['#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#D32F2F', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32']
                 }
             }];
             var scatterLayout = {

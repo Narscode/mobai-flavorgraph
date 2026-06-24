@@ -1,0 +1,129 @@
+<h1
+id="stepbystep-guide-run-mediacrawler-via-apify-freetrial-china-proxy">📋
+Step‑by‑Step Guide: Run <strong>MediaCrawler</strong> via Apify
+(Free‑Trial China Proxy)</h1>
+<blockquote>
+<p><strong>Goal</strong> – Connect the open‑source
+<code>MediaCrawler</code> scraper to Apify’s China proxy (free‑trial
+credits) so you can crawl Xiaohongshu (XHS) despite the
+geo‑restriction.</p>
+</blockquote>
+<hr />
+<h2 id="create-an-apify-account-activate-free-credits">1️⃣ Create an
+Apify Account &amp; Activate Free Credits</h2>
+<ol type="1">
+<li>Open <a href="https://apify.com/" class="uri">https://apify.com/</a>
+and click <strong>Sign up</strong>.</li>
+<li>Register with your email (no credit‑card required).</li>
+<li>After confirming the email, you land on the
+<strong>Dashboard</strong>.</li>
+<li>In the left‑hand menu choose <strong>Billing → Add
+credit</strong>.</li>
+<li>Click <strong>“Add free credits (10 USD)”</strong> – the credits are
+automatically added to your account and are valid for 30 days.</li>
+<li><em>(Optional)</em> Verify you have a <strong>China proxy</strong>
+in the plan: go to <strong>Integrations → Apify Proxy</strong> – the
+list should show <code>China</code> as an available region.</li>
+</ol>
+<hr />
+<h2 id="retrieve-your-china-proxy-url-credentials">2️⃣ Retrieve Your
+China Proxy URL &amp; Credentials</h2>
+<ol type="1">
+<li><p>In the Dashboard, navigate to <strong>Integrations → Apify
+Proxy</strong>.</p></li>
+<li><p>Click <strong>Generate new proxy</strong>.</p></li>
+<li><p>Set <strong>Country</strong> = <strong>China</strong>
+(CN).</p></li>
+<li><p>Copy the generated URL – it will look like:</p>
+<pre class="text"><code>http://proxy.apify.com:8000?country=cn</code></pre></li>
+<li><p>Note down your <strong>Apify username</strong> and <strong>API
+token</strong> (found under <strong>Account → API token</strong>).
+You’ll need them for HTTP‑basic authentication.</p></li>
+</ol>
+<hr />
+<h2 id="prepare-the-mediacrawler-project">3️⃣ Prepare the MediaCrawler
+Project</h2>
+<h3 id="clone-the-repo">3.1 Clone the repo</h3>
+<div class="sourceCode" id="cb2"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Choose a folder inside your workspace, e.g. ~/mobai-flavorgraph/mobai-poc</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> ~/mobai-flavorgraph</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> clone https://github.com/NanmiCoder/MediaCrawler.git</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> MediaCrawler</span></code></pre></div>
+<h3 id="install-dependencies">3.2 Install dependencies</h3>
+<div class="sourceCode" id="cb3"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Ensure Node ≥ 18 is installed (macOS comes with it)</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="ex">npm</span> ci   <span class="co"># installs exact versions from package‑lock.json</span></span></code></pre></div>
+<h3 id="create-an-.env-file-for-apify-credentials">3.3 Create an
+<code>.env</code> file for Apify credentials</h3>
+<p>Create a file named <code>.env</code> in the root of the repo:</p>
+<pre class="text"><code>APIFY_USER=your_apify_username
+APIFY_TOKEN=your_apify_api_token
+APIFY_PROXY_URL=http://proxy.apify.com:8000?country=cn</code></pre>
+<p><em>Replace <code>your_apify_username</code> and
+<code>your_apify_token</code> with the values from step 2.</em></p>
+<hr />
+<h2 id="wire-the-china-proxy-into-mediacrawler">4️⃣ Wire the China Proxy
+into MediaCrawler</h2>
+<p>MediaCrawler uses <strong>axios</strong> for HTTP requests (see
+<code>src/request.js</code>). 1. Open <code>src/request.js</code> (or
+the equivalent request helper). 2. Add the following snippet after the
+<code>axios</code> import:
+<code>js    const axios = require('axios');    const { APIFY_PROXY_URL, APIFY_USER, APIFY_TOKEN } = process.env;    const proxyAgent = APIFY_PROXY_URL        ? {            host: new URL(APIFY_PROXY_URL).hostname,            port: Number(new URL(APIFY_PROXY_URL).port),            auth: { username: APIFY_USER, password: APIFY_TOKEN },          }        : null;    const axiosInstance = axios.create({        proxy: proxyAgent,        timeout: 30_000,    });    module.exports = axiosInstance; // export the configured instance</code>
+3. Replace any direct <code>axios.get/post</code> calls with
+<code>axiosInstance.get/post</code>. 4. Save the file. &gt;
+<strong>Tip:</strong> If the repo already exports a custom
+<code>httpClient</code>, just inject the proxy config there.</p>
+<hr />
+<h2 id="run-a-test-crawl-local-uses-apify-freetrial-proxy">5️⃣ Run a Test
+Crawl (Local – uses Apify free‑trial proxy)</h2>
+<div class="sourceCode" id="cb5"><pre
+class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># From the MediaCrawler root directory</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="ex">node</span> src/main.js   <span class="co"># or the entry point defined by the repo</span></span></code></pre></div>
+<p>You should see console output similar to:</p>
+<pre><code>[INFO] Using Apify proxy: http://proxy.apify.com:8000?country=cn
+[INFO] Requesting https://www.xiaohongshu.com/... (via China IP)
+[SUCCESS] Received 200 OK – XHS page loaded!</code></pre>
+<p>If you get a <strong>403/Geo‑restriction</strong> error, double‑check
+that the <code>APIFY_PROXY_URL</code> includes <code>?country=cn</code>
+and that your <code>.env</code> values are correctly loaded (restart the
+process after any change).</p>
+<hr />
+<h2 id="deploy-to-apify-optional-run-as-a-cloud-actor">6️⃣ Deploy to
+Apify (Optional – run as a cloud actor)</h2>
+<ol type="1">
+<li>In the Apify Dashboard click <strong>Actors → Create
+new</strong>.</li>
+<li>Choose <strong>Node.js</strong> runtime, give it a name (e.g.,
+<code>media‑crawler‑xhs</code>).</li>
+<li>Set <strong>Source code</strong> → <strong>Git repository</strong> →
+paste the MediaCrawler repo URL.</li>
+<li>In <strong>Environment variables</strong> add the same keys from
+your local <code>.env</code>.</li>
+<li>In the <strong>Settings</strong> tab enable <strong>Apify
+Proxy</strong> and set <strong>Country</strong> to
+<strong>China</strong>.</li>
+<li>Save and click <strong>Run</strong> – the logs will show the same
+proxy‑connected request.</li>
+</ol>
+<hr />
+<h2 id="quick-checklist">✅ Quick Checklist</h2>
+<ul class="task-list">
+<li><label><input type="checkbox" />Apify account created &amp; free
+credits added.</label></li>
+<li><label><input type="checkbox" />China proxy URL &amp; credentials
+saved in <code>.env</code>.</label></li>
+<li><label><input type="checkbox" />MediaCrawler cloned &amp;
+dependencies installed.</label></li>
+<li><label><input type="checkbox" />Proxy injected into the request
+layer.</label></li>
+<li><label><input type="checkbox" />Local test run returns <strong>200
+OK</strong> from XHS.</label></li>
+<li><label><input type="checkbox" />(Optional) Actor deployed on
+Apify.</label></li>
+<li><label><input type="checkbox" />Guide saved/exported as
+PDF.</label></li>
+</ul>
+<hr />
+<p><strong>Now you should be able to scrape Xiaohongshu from Indonesia
+without hitting the geo‑restriction, using the free‑trial China proxy
+provided by Apify.</strong></p>

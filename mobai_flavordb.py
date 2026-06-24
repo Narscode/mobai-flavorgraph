@@ -14,6 +14,8 @@ import json
 import time
 import sqlite3
 import logging
+from dotenv import load_dotenv
+load_dotenv()
 import urllib.request
 import traceback
 import csv
@@ -220,6 +222,84 @@ BITTER_NEGATIVES = ['glucose', 'sucrose', 'vanillin', 'ethyl acetate', 'linalool
 
 DB_FILE = "mobai_flavordb.sqlite"
 
+class DBConn:
+    def __init__(self):
+        self.is_pg = False
+        self.conn = None
+        
+        database_url = os.getenv("DATABASE_URL")
+        if database_url:
+            try:
+                import psycopg2
+                self.conn = psycopg2.connect(database_url)
+                self.is_pg = True
+                logging.info("Connected to PostgreSQL database.")
+            except Exception as e:
+                logging.warning(f"Failed to connect to PostgreSQL: {e}. Falling back to SQLite.")
+                
+        if self.conn is None:
+            self.conn = sqlite3.connect(DB_FILE)
+            self.is_pg = False
+            logging.info("Connected to SQLite database.")
+            
+    def cursor(self):
+        return DBCursor(self.conn.cursor(), self.is_pg)
+        
+    def commit(self):
+        self.conn.commit()
+        
+    def close(self):
+        self.conn.close()
+
+class DBCursor:
+    def __init__(self, cursor, is_pg):
+        self.cursor = cursor
+        self.is_pg = is_pg
+        
+    def execute(self, query, params=None):
+        if self.is_pg:
+            # Replace SQLite placeholders '?' with PostgreSQL '%s'
+            query = query.replace("?", "%s")
+            # Translate SQLite "INSERT OR REPLACE" to PostgreSQL "ON CONFLICT"
+            if "INSERT OR REPLACE INTO molecules" in query:
+                query = """
+                    INSERT INTO molecules (cid, name, formula, weight, smiles, xlogp, tpsa, fingerprint)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+                    ON CONFLICT (name) DO UPDATE SET
+                        cid = EXCLUDED.cid,
+                        formula = EXCLUDED.formula,
+                        weight = EXCLUDED.weight,
+                        smiles = EXCLUDED.smiles,
+                        xlogp = EXCLUDED.xlogp,
+                        tpsa = EXCLUDED.tpsa,
+                        fingerprint = EXCLUDED.fingerprint
+                """
+            elif "INSERT OR REPLACE INTO ingredients" in query:
+                query = """
+                    INSERT INTO ingredients (name) VALUES (%s)
+                    ON CONFLICT (name) DO NOTHING
+                """
+            elif "INSERT OR REPLACE INTO ingredient_molecules" in query:
+                query = """
+                    INSERT INTO ingredient_molecules (ingredient_name, molecule_name)
+                    VALUES (%s, %s)
+                    ON CONFLICT (ingredient_name, molecule_name) DO NOTHING
+                """
+        if params is not None:
+            self.cursor.execute(query, params)
+        else:
+            self.cursor.execute(query)
+            
+    def fetchone(self):
+        return self.cursor.fetchone()
+        
+    def fetchall(self):
+        return self.cursor.fetchall()
+        
+    def close(self):
+        self.cursor.close()
+
+
 
 # --- UTILS & DATA DOWNLOAD ---
 def generate_morgan_fingerprint(smiles, name):
@@ -302,9 +382,12 @@ def download_all_datasets():
     except Exception as e:
         logging.warning(f"External download of FlavorDB files failed: {e}. Falling back to PubChemPy and local database.")
 
-    # Establish SQLite database
-    conn = sqlite3.connect(DB_FILE)
+    # Establish database connection
+    conn = DBConn()
     cursor = conn.cursor()
+    if getattr(conn, "is_pg", False):
+        cursor.execute("TRUNCATE TABLE ingredient_molecules, ingredients, molecules CASCADE;")
+        conn.commit()
     
     # Create tables (name is the primary key to allow synonyms with same PubChem CIDs)
     cursor.execute("""
@@ -400,10 +483,11 @@ def download_all_datasets():
             if row:
                 cursor.execute("INSERT OR REPLACE INTO ingredient_molecules (ingredient_name, molecule_name) VALUES (?, ?)", (ing, row[0]))
                 
+    db_type = "PostgreSQL" if getattr(conn, "is_pg", False) else "SQLite"
     conn.commit()
     conn.close()
     
-    logging.info(f"SQLite database populated. {resolved_count} unique compounds resolved.")
+    logging.info(f"{db_type} database populated. {resolved_count} unique compounds resolved.")
 
 
 # --- STEP 2: FLAVOR GRAPH CONSTRUCTION ---
@@ -489,7 +573,7 @@ def build_flavor_graph():
     logging.info("[2/8] Building flavor graph...")
     
     hfg = HeteroFlavorGraph()
-    conn = sqlite3.connect(DB_FILE)
+    conn = DBConn()
     cursor = conn.cursor()
     
     # Fetch all molecules
@@ -1337,6 +1421,57 @@ open bitter_risk_scatter.png
 # Flavor Graph network map
 open flavor_graph_network.png
 ```
+
+---
+
+## 🗄️ Local PostgreSQL Setup
+
+The system supports connecting to a local PostgreSQL instance for enterprise/production environments while falling back to SQLite if the PostgreSQL database is unavailable.
+
+### Steps to Setup PostgreSQL:
+
+1. **Install PostgreSQL** (macOS):
+   Use Homebrew to install the latest stable version:
+   ```bash
+   brew install postgresql@18
+   brew services start postgresql@18
+   ```
+
+2. **Configure Database & Role**:
+   Create a role `flavor_user` and the database `flavor_dev`:
+   ```bash
+   psql -d postgres -c "CREATE ROLE flavor_user WITH LOGIN PASSWORD 'fLaVoR_dB_sEcUrE_pAsS_2026';"
+   psql -d postgres -c "CREATE DATABASE flavor_dev WITH OWNER flavor_user;"
+   ```
+
+3. **Configure Environment Variables**:
+   Copy `.env.example` to `.env` and fill in your connection credentials:
+   ```env
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_NAME=flavor_dev
+   DB_USER=flavor_user
+   DB_PASSWORD=fLaVoR_dB_sEcUrE_pAsS_2026
+   DATABASE_URL=postgresql://flavor_user:fLaVoR_dB_sEcUrE_pAsS_2026@localhost:5432/flavor_dev
+   ```
+
+4. **Initialize Alembic Migrations**:
+   Run database migrations using Alembic to initialize the schema:
+   ```bash
+   alembic upgrade head
+   ```
+
+5. **Docker‑Compose Option (Fallback)**:
+   For containerized deployments, you can spin up PostgreSQL using the provided `docker-compose.yml`:
+   ```bash
+   docker-compose up -d
+   ```
+
+6. **Verify Connection**:
+   Verify connection using the test script:
+   ```bash
+   python scripts/test_db_connection.py
+   ```
 
 ---
 

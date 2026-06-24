@@ -2,18 +2,18 @@
     "embeddings_method": "Method A (Fingerprint UMAP)",
     "ingredient_similarities": {
         "Mango_x_Jasmine": {
-            "score": 0.9999086260795593,
+            "score": 0.9998274445533752,
             "validation": "STRONG PAIRING (Shared molecular pathways)"
         },
         "Coconut_x_MilkTea": {
-            "score": 0.9981772303581238,
+            "score": 0.9966810941696167,
             "validation": "STRONG PAIRING (Shared molecular pathways)"
         },
         "Mango_x_Yogurt": {
-            "score": 0.999759316444397
+            "score": 0.9997910261154175
         },
         "Jasmine_x_Yogurt": {
-            "score": 0.9997963905334473
+            "score": 0.9998355507850647
         }
     },
     "off_note_masking": {
@@ -21,56 +21,55 @@
             "label": "dimethyl sulfide (sulphury)",
             "congruence": [
                 {
-                    "compound": "camphor",
-                    "score": 0.9999310970306396
+                    "compound": "borneol",
+                    "score": 0.9999639391899109
                 },
                 {
-                    "compound": "borneol",
-                    "score": 0.9999199509620667
+                    "compound": "camphor",
+                    "score": 0.9999176859855652
                 },
                 {
                     "compound": "alpha-pinene",
-                    "score": 0.9999194145202637
+                    "score": 0.999886691570282
                 },
                 {
-                    "compound": "2-methylpyrazine",
-                    "score": 0.9998934864997864
+                    "compound": "caffeine",
+                    "score": 0.9998706579208374
                 },
                 {
-                    "compound": "3-carene",
-                    "score": 0.9998651742935181
+                    "compound": "maltol",
+                    "score": 0.9998162388801575
                 }
             ],
             "competition": [
                 {
                     "compound": "lauric acid",
-                    "score": 0.9963158369064331
+                    "score": 0.994832456111908
                 },
                 {
                     "compound": "capric acid",
-                    "score": 0.9965046644210815
+                    "score": 0.9950593113899231
                 },
                 {
                     "compound": "caprylic acid",
-                    "score": 0.9965575933456421
+                    "score": 0.9951543211936951
                 },
                 {
-                    "compound": "gamma-nonalactone",
-                    "score": 0.9966105818748474
+                    "compound": "delta-decalactone",
+                    "score": 0.9955033659934998
                 },
                 {
-                    "compound": "butyric acid",
-                    "score": 0.9967908263206482
+                    "compound": "gamma-decalactone",
+                    "score": 0.9955748915672302
                 }
             ],
             "mobai_coverage": [
-                "2-methylpyrazine",
-                "3-carene",
+                "caffeine",
+                "maltol",
                 "lauric acid",
                 "capric acid",
                 "caprylic acid",
-                "gamma-nonalactone",
-                "butyric acid"
+                "delta-decalactone"
             ],
             "gap_identified": "No"
         },
@@ -78,58 +77,57 @@
             "label": "dimethyl disulfide (sulphury)",
             "congruence": [
                 {
-                    "compound": "2-methylpyrazine",
-                    "score": 0.9998850226402283
-                },
-                {
                     "compound": "caffeine",
-                    "score": 0.9998661279678345
+                    "score": 0.9999305009841919
                 },
                 {
-                    "compound": "pyrazine",
-                    "score": 0.9998449683189392
+                    "compound": "borneol",
+                    "score": 0.999911367893219
                 },
                 {
-                    "compound": "4-hydroxy-2,5-dimethyl-3(2H)-furanone",
-                    "score": 0.9998428225517273
+                    "compound": "camphor",
+                    "score": 0.999843418598175
                 },
                 {
-                    "compound": "alpha-pinene",
-                    "score": 0.9998369216918945
+                    "compound": "cis-jasmone",
+                    "score": 0.9998393058776855
+                },
+                {
+                    "compound": "alpha-terpinolene",
+                    "score": 0.9998189806938171
                 }
             ],
             "competition": [
                 {
                     "compound": "lauric acid",
-                    "score": 0.9962666630744934
+                    "score": 0.994742214679718
                 },
                 {
                     "compound": "capric acid",
-                    "score": 0.9964554309844971
+                    "score": 0.9949817657470703
                 },
                 {
                     "compound": "caprylic acid",
-                    "score": 0.9965214133262634
+                    "score": 0.9951127171516418
+                },
+                {
+                    "compound": "delta-decalactone",
+                    "score": 0.9954876899719238
                 },
                 {
                     "compound": "butyric acid",
-                    "score": 0.9967131614685059
-                },
-                {
-                    "compound": "gamma-nonalactone",
-                    "score": 0.9967929720878601
+                    "score": 0.9955129623413086
                 }
             ],
             "mobai_coverage": [
-                "2-methylpyrazine",
                 "caffeine",
-                "pyrazine",
-                "4-hydroxy-2,5-dimethyl-3(2H)-furanone",
+                "cis-jasmone",
+                "alpha-terpinolene",
                 "lauric acid",
                 "capric acid",
                 "caprylic acid",
-                "butyric acid",
-                "gamma-nonalactone"
+                "delta-decalactone",
+                "butyric acid"
             ],
             "gap_identified": "No"
         },
@@ -137,54 +135,54 @@
             "label": "hexanal (cardboard/aldehydic)",
             "congruence": [
                 {
-                    "compound": "limonin",
-                    "score": 0.999835193157196
-                },
-                {
-                    "compound": "cyclodextrin",
-                    "score": 0.999775767326355
-                },
-                {
                     "compound": "gingerol",
-                    "score": 0.9997478723526001
+                    "score": 0.9999237060546875
                 },
                 {
-                    "compound": "theaflavin",
-                    "score": 0.9997323155403137
+                    "compound": "gamma-decalactone",
+                    "score": 0.9998032450675964
                 },
                 {
-                    "compound": "delta-decalactone",
-                    "score": 0.9996979236602783
+                    "compound": "ethyl hexanoate",
+                    "score": 0.9997997283935547
+                },
+                {
+                    "compound": "delta-octalactone",
+                    "score": 0.9997743964195251
+                },
+                {
+                    "compound": "ethyl butanoate",
+                    "score": 0.9997739195823669
                 }
             ],
             "competition": [
                 {
-                    "compound": "citral",
-                    "score": 0.9967871904373169
+                    "compound": "linalool",
+                    "score": 0.9951490163803101
                 },
                 {
-                    "compound": "geraniol",
-                    "score": 0.9971797466278076
-                },
-                {
-                    "compound": "citronellol",
-                    "score": 0.9971816539764404
-                },
-                {
-                    "compound": "alpha-farnesene",
-                    "score": 0.9971998333930969
+                    "compound": "gamma-terpinene",
+                    "score": 0.9955711364746094
                 },
                 {
                     "compound": "valine",
-                    "score": 0.9972503185272217
+                    "score": 0.9955746531486511
+                },
+                {
+                    "compound": "leucine",
+                    "score": 0.9956345558166504
+                },
+                {
+                    "compound": "beta-myrcene",
+                    "score": 0.9956710338592529
                 }
             ],
             "mobai_coverage": [
-                "cyclodextrin",
-                "theaflavin",
-                "delta-decalactone",
-                "geraniol",
-                "alpha-farnesene"
+                "delta-octalactone",
+                "ethyl butanoate",
+                "linalool",
+                "gamma-terpinene",
+                "beta-myrcene"
             ],
             "gap_identified": "No"
         },
@@ -192,51 +190,54 @@
             "label": "nonanal (cardboard/aldehydic)",
             "congruence": [
                 {
-                    "compound": "delta-decalactone",
-                    "score": 0.999737560749054
+                    "compound": "gamma-decalactone",
+                    "score": 0.9998981356620789
                 },
                 {
-                    "compound": "limonin",
-                    "score": 0.9997191429138184
+                    "compound": "delta-decalactone",
+                    "score": 0.9998897910118103
+                },
+                {
+                    "compound": "delta-octalactone",
+                    "score": 0.9998767375946045
+                },
+                {
+                    "compound": "gamma-nonalactone",
+                    "score": 0.9998340606689453
                 },
                 {
                     "compound": "gingerol",
-                    "score": 0.9996920228004456
-                },
-                {
-                    "compound": "gamma-decalactone",
-                    "score": 0.9996396899223328
-                },
-                {
-                    "compound": "theaflavin",
-                    "score": 0.9996242523193359
+                    "score": 0.9998195171356201
                 }
             ],
             "competition": [
                 {
-                    "compound": "citral",
-                    "score": 0.9962582588195801
+                    "compound": "linalool",
+                    "score": 0.9944294691085815
                 },
                 {
-                    "compound": "citronellol",
-                    "score": 0.996674120426178
+                    "compound": "beta-myrcene",
+                    "score": 0.995000422000885
                 },
                 {
                     "compound": "geraniol",
-                    "score": 0.9966741800308228
+                    "score": 0.9950416088104248
                 },
                 {
                     "compound": "valine",
-                    "score": 0.9966744780540466
+                    "score": 0.9950704574584961
                 },
                 {
                     "compound": "alpha-farnesene",
-                    "score": 0.996694028377533
+                    "score": 0.9951149821281433
                 }
             ],
             "mobai_coverage": [
                 "delta-decalactone",
-                "theaflavin",
+                "delta-octalactone",
+                "gamma-nonalactone",
+                "linalool",
+                "beta-myrcene",
                 "geraniol",
                 "alpha-farnesene"
             ],
@@ -247,52 +248,53 @@
             "congruence": [
                 {
                     "compound": "gingerol",
-                    "score": 0.9998024702072144
-                },
-                {
-                    "compound": "limonin",
-                    "score": 0.9997977018356323
-                },
-                {
-                    "compound": "delta-decalactone",
-                    "score": 0.9997857809066772
-                },
-                {
-                    "compound": "theaflavin",
-                    "score": 0.9997137784957886
+                    "score": 0.9998936057090759
                 },
                 {
                     "compound": "gamma-decalactone",
-                    "score": 0.9997097253799438
+                    "score": 0.9998427033424377
+                },
+                {
+                    "compound": "delta-octalactone",
+                    "score": 0.9998212456703186
+                },
+                {
+                    "compound": "delta-decalactone",
+                    "score": 0.9998128414154053
+                },
+                {
+                    "compound": "ethyl hexanoate",
+                    "score": 0.9997652173042297
                 }
             ],
             "competition": [
                 {
-                    "compound": "citral",
-                    "score": 0.9962567687034607
-                },
-                {
-                    "compound": "geraniol",
-                    "score": 0.9966803789138794
-                },
-                {
-                    "compound": "citronellol",
-                    "score": 0.9966879487037659
-                },
-                {
-                    "compound": "alpha-farnesene",
-                    "score": 0.9967249035835266
+                    "compound": "linalool",
+                    "score": 0.9949040412902832
                 },
                 {
                     "compound": "valine",
-                    "score": 0.9969450235366821
+                    "score": 0.9954227805137634
+                },
+                {
+                    "compound": "beta-myrcene",
+                    "score": 0.9954509735107422
+                },
+                {
+                    "compound": "gamma-terpinene",
+                    "score": 0.9954679608345032
+                },
+                {
+                    "compound": "leucine",
+                    "score": 0.9954813122749329
                 }
             ],
             "mobai_coverage": [
+                "delta-octalactone",
                 "delta-decalactone",
-                "theaflavin",
-                "geraniol",
-                "alpha-farnesene"
+                "linalool",
+                "beta-myrcene",
+                "gamma-terpinene"
             ],
             "gap_identified": "No"
         },
@@ -301,55 +303,56 @@
             "congruence": [
                 {
                     "compound": "caprylic acid",
-                    "score": 0.9999638795852661
-                },
-                {
-                    "compound": "butyric acid",
-                    "score": 0.9999608397483826
+                    "score": 0.9999774098396301
                 },
                 {
                     "compound": "capric acid",
-                    "score": 0.9999517202377319
+                    "score": 0.9999638199806213
                 },
                 {
                     "compound": "lauric acid",
-                    "score": 0.9999405741691589
+                    "score": 0.9999498724937439
+                },
+                {
+                    "compound": "butyric acid",
+                    "score": 0.9998928308486938
                 },
                 {
                     "compound": "gingerol",
-                    "score": 0.9998177289962769
+                    "score": 0.9997886419296265
                 }
             ],
             "competition": [
                 {
-                    "compound": "citral",
-                    "score": 0.9946058392524719
+                    "compound": "linalool",
+                    "score": 0.9932259321212769
+                },
+                {
+                    "compound": "gamma-terpinene",
+                    "score": 0.9935358762741089
+                },
+                {
+                    "compound": "valine",
+                    "score": 0.9937916994094849
                 },
                 {
                     "compound": "geraniol",
-                    "score": 0.9951228499412537
+                    "score": 0.993861734867096
                 },
                 {
-                    "compound": "citronellol",
-                    "score": 0.9951680302619934
-                },
-                {
-                    "compound": "alpha-farnesene",
-                    "score": 0.9953280687332153
-                },
-                {
-                    "compound": "beta-myrcene",
-                    "score": 0.9955187439918518
+                    "compound": "malic acid",
+                    "score": 0.9938638210296631
                 }
             ],
             "mobai_coverage": [
                 "caprylic acid",
-                "butyric acid",
                 "capric acid",
                 "lauric acid",
+                "butyric acid",
+                "linalool",
+                "gamma-terpinene",
                 "geraniol",
-                "alpha-farnesene",
-                "beta-myrcene"
+                "malic acid"
             ],
             "gap_identified": "No"
         },
@@ -358,55 +361,55 @@
             "congruence": [
                 {
                     "compound": "lauric acid",
-                    "score": 0.9999679327011108
+                    "score": 0.9999665021896362
                 },
                 {
                     "compound": "capric acid",
-                    "score": 0.9999428987503052
-                },
-                {
-                    "compound": "butyric acid",
-                    "score": 0.9999428987503052
+                    "score": 0.9999585151672363
                 },
                 {
                     "compound": "caprylic acid",
-                    "score": 0.9999284148216248
+                    "score": 0.9999579787254333
+                },
+                {
+                    "compound": "butyric acid",
+                    "score": 0.9998672604560852
                 },
                 {
                     "compound": "gingerol",
-                    "score": 0.999793529510498
+                    "score": 0.9997847080230713
                 }
             ],
             "competition": [
                 {
-                    "compound": "citral",
-                    "score": 0.9945669770240784
-                },
-                {
-                    "compound": "geraniol",
-                    "score": 0.9950798749923706
-                },
-                {
-                    "compound": "citronellol",
-                    "score": 0.9951197504997253
-                },
-                {
-                    "compound": "alpha-farnesene",
-                    "score": 0.9952659606933594
-                },
-                {
                     "compound": "linalool",
-                    "score": 0.9954680800437927
+                    "score": 0.993081271648407
+                },
+                {
+                    "compound": "gamma-terpinene",
+                    "score": 0.9933854937553406
+                },
+                {
+                    "compound": "valine",
+                    "score": 0.9936158657073975
+                },
+                {
+                    "compound": "malic acid",
+                    "score": 0.9936700463294983
+                },
+                {
+                    "compound": "leucine",
+                    "score": 0.9937094449996948
                 }
             ],
             "mobai_coverage": [
                 "lauric acid",
                 "capric acid",
-                "butyric acid",
                 "caprylic acid",
-                "geraniol",
-                "alpha-farnesene",
-                "linalool"
+                "butyric acid",
+                "linalool",
+                "gamma-terpinene",
+                "malic acid"
             ],
             "gap_identified": "No"
         },
@@ -415,54 +418,55 @@
             "congruence": [
                 {
                     "compound": "capric acid",
-                    "score": 0.9999606609344482
-                },
-                {
-                    "compound": "lauric acid",
-                    "score": 0.9999566078186035
-                },
-                {
-                    "compound": "butyric acid",
-                    "score": 0.9999538660049438
+                    "score": 0.9999744892120361
                 },
                 {
                     "compound": "caprylic acid",
-                    "score": 0.9999291896820068
+                    "score": 0.9999737739562988
+                },
+                {
+                    "compound": "lauric acid",
+                    "score": 0.9999527335166931
+                },
+                {
+                    "compound": "butyric acid",
+                    "score": 0.9999253153800964
                 },
                 {
                     "compound": "gingerol",
-                    "score": 0.9998037815093994
+                    "score": 0.9998155236244202
                 }
             ],
             "competition": [
                 {
-                    "compound": "citral",
-                    "score": 0.9948553442955017
+                    "compound": "linalool",
+                    "score": 0.9932267069816589
+                },
+                {
+                    "compound": "gamma-terpinene",
+                    "score": 0.9936285614967346
                 },
                 {
                     "compound": "geraniol",
-                    "score": 0.9953637719154358
+                    "score": 0.9938452839851379
                 },
                 {
-                    "compound": "citronellol",
-                    "score": 0.9954125881195068
-                },
-                {
-                    "compound": "alpha-farnesene",
-                    "score": 0.9955607056617737
+                    "compound": "valine",
+                    "score": 0.9938458800315857
                 },
                 {
                     "compound": "beta-myrcene",
-                    "score": 0.9957306385040283
+                    "score": 0.9938845038414001
                 }
             ],
             "mobai_coverage": [
                 "capric acid",
+                "caprylic acid",
                 "lauric acid",
                 "butyric acid",
-                "caprylic acid",
+                "linalool",
+                "gamma-terpinene",
                 "geraniol",
-                "alpha-farnesene",
                 "beta-myrcene"
             ],
             "gap_identified": "No"
@@ -472,45 +476,45 @@
             "congruence": [
                 {
                     "compound": "caprylic acid",
-                    "score": 0.9999825358390808
+                    "score": 0.9999728798866272
                 },
                 {
                     "compound": "capric acid",
-                    "score": 0.999965250492096
+                    "score": 0.9999512434005737
                 },
                 {
                     "compound": "lauric acid",
-                    "score": 0.9999567270278931
+                    "score": 0.9999346733093262
                 },
                 {
                     "compound": "butyric acid",
-                    "score": 0.9998740553855896
+                    "score": 0.9998212456703186
                 },
                 {
-                    "compound": "gingerol",
-                    "score": 0.9998515248298645
+                    "compound": "gamma-decalactone",
+                    "score": 0.9997471570968628
                 }
             ],
             "competition": [
                 {
-                    "compound": "citral",
-                    "score": 0.994999349117279
+                    "compound": "linalool",
+                    "score": 0.9929926991462708
                 },
                 {
-                    "compound": "geraniol",
-                    "score": 0.9954996109008789
+                    "compound": "gamma-terpinene",
+                    "score": 0.9932897090911865
                 },
                 {
-                    "compound": "citronellol",
-                    "score": 0.9955349564552307
+                    "compound": "valine",
+                    "score": 0.9935227632522583
                 },
                 {
-                    "compound": "alpha-farnesene",
-                    "score": 0.9956533908843994
+                    "compound": "leucine",
+                    "score": 0.9936010241508484
                 },
                 {
-                    "compound": "beta-myrcene",
-                    "score": 0.9958593249320984
+                    "compound": "malic acid",
+                    "score": 0.9936012625694275
                 }
             ],
             "mobai_coverage": [
@@ -518,9 +522,9 @@
                 "capric acid",
                 "lauric acid",
                 "butyric acid",
-                "geraniol",
-                "alpha-farnesene",
-                "beta-myrcene"
+                "linalool",
+                "gamma-terpinene",
+                "malic acid"
             ],
             "gap_identified": "No"
         }
@@ -528,10 +532,10 @@
     "variant_c_predictions": [
         {
             "ingredient": "passionfruit",
-            "sim_to_centroid": 0.9998921155929565,
-            "masking_score": 0.9987586008177863,
-            "novelty_score": 0.00010788440704345703,
-            "composite_score": 0.7994818634457059,
+            "sim_to_centroid": 0.9998804330825806,
+            "masking_score": 0.9983374145295885,
+            "novelty_score": 0.0001195669174194336,
+            "composite_score": 0.7993110524283515,
             "relevance": "high",
             "compounds": [
                 "ethyl butyrate",
@@ -541,24 +545,11 @@
             ]
         },
         {
-            "ingredient": "taro",
-            "sim_to_centroid": 0.999944806098938,
-            "masking_score": 0.9985687732696533,
-            "novelty_score": 5.519390106201172e-05,
-            "composite_score": 0.799416470527649,
-            "relevance": "high",
-            "compounds": [
-                "2-acetyl-1-pyrroline",
-                "maltol",
-                "vanillin"
-            ]
-        },
-        {
             "ingredient": "osmanthus",
-            "sim_to_centroid": 0.9997735619544983,
-            "masking_score": 0.9983429908752441,
-            "novelty_score": 0.00022643804550170898,
-            "composite_score": 0.7992919087409974,
+            "sim_to_centroid": 0.9997884631156921,
+            "masking_score": 0.9976274172465006,
+            "novelty_score": 0.00021153688430786133,
+            "composite_score": 0.7990086595217387,
             "relevance": "high",
             "compounds": [
                 "linalool",
@@ -569,10 +560,10 @@
         },
         {
             "ingredient": "ginger",
-            "sim_to_centroid": 0.9998323321342468,
-            "masking_score": 0.9982544448640611,
-            "novelty_score": 0.00016766786575317383,
-            "composite_score": 0.7992682443724738,
+            "sim_to_centroid": 0.9998103976249695,
+            "masking_score": 0.9975070092413161,
+            "novelty_score": 0.00018960237503051758,
+            "composite_score": 0.7989648832215204,
             "relevance": "medium",
             "compounds": [
                 "gingerol",
@@ -582,25 +573,24 @@
             ]
         },
         {
-            "ingredient": "pandan",
-            "sim_to_centroid": 0.9998631477355957,
-            "masking_score": 0.9981796079211764,
-            "novelty_score": 0.00013685226440429688,
-            "composite_score": 0.7992444727155896,
+            "ingredient": "taro",
+            "sim_to_centroid": 0.9998373985290527,
+            "masking_score": 0.9973017970720927,
+            "novelty_score": 0.00016260147094726562,
+            "composite_score": 0.7988881985346475,
             "relevance": "high",
             "compounds": [
                 "2-acetyl-1-pyrroline",
-                "linalool",
-                "pyrazine",
-                "ethyl acetate"
+                "maltol",
+                "vanillin"
             ]
         },
         {
             "ingredient": "lychee",
-            "sim_to_centroid": 0.9998139142990112,
-            "masking_score": 0.9980815582805209,
-            "novelty_score": 0.00018608570098876953,
-            "composite_score": 0.7991954061720107,
+            "sim_to_centroid": 0.999706506729126,
+            "masking_score": 0.9968253374099731,
+            "novelty_score": 0.00029349327087402344,
+            "composite_score": 0.7986714363098146,
             "relevance": "high",
             "compounds": [
                 "linalool",
@@ -611,11 +601,25 @@
             ]
         },
         {
+            "ingredient": "pandan",
+            "sim_to_centroid": 0.9997342824935913,
+            "masking_score": 0.9967795080608792,
+            "novelty_score": 0.0002657175064086914,
+            "composite_score": 0.7986586597230699,
+            "relevance": "high",
+            "compounds": [
+                "2-acetyl-1-pyrroline",
+                "linalool",
+                "pyrazine",
+                "ethyl acetate"
+            ]
+        },
+        {
             "ingredient": "hojicha",
-            "sim_to_centroid": 0.9996349811553955,
-            "masking_score": 0.9979795813560486,
-            "novelty_score": 0.0003650188446044922,
-            "composite_score": 0.7991188287734987,
+            "sim_to_centroid": 0.9995753765106201,
+            "masking_score": 0.9967229432529874,
+            "novelty_score": 0.0004246234893798828,
+            "composite_score": 0.798604252603319,
             "relevance": "high",
             "compounds": [
                 "pyrazine",
@@ -626,10 +630,10 @@
         },
         {
             "ingredient": "longan",
-            "sim_to_centroid": 0.9996459484100342,
-            "masking_score": 0.9977320300208198,
-            "novelty_score": 0.0003540515899658203,
-            "composite_score": 0.7990220016903348,
+            "sim_to_centroid": 0.9995879530906677,
+            "masking_score": 0.9965412418047587,
+            "novelty_score": 0.0004120469093322754,
+            "composite_score": 0.798534087340037,
             "relevance": "high",
             "compounds": [
                 "ethyl acetate",
@@ -639,31 +643,30 @@
             ]
         },
         {
+            "ingredient": "turmeric",
+            "sim_to_centroid": 0.9995649456977844,
+            "masking_score": 0.9964015881220499,
+            "novelty_score": 0.00043505430221557617,
+            "composite_score": 0.798473624388377,
+            "relevance": "low",
+            "compounds": [
+                "turmerone",
+                "limonene",
+                "alpha-phellandrene"
+            ]
+        },
+        {
             "ingredient": "chrysanthemum",
-            "sim_to_centroid": 0.9995867013931274,
-            "masking_score": 0.9977079629898071,
-            "novelty_score": 0.0004132986068725586,
-            "composite_score": 0.7990005254745485,
+            "sim_to_centroid": 0.9995294213294983,
+            "masking_score": 0.9963437981075711,
+            "novelty_score": 0.000470578670501709,
+            "composite_score": 0.7984434035089282,
             "relevance": "medium",
             "compounds": [
                 "linalool",
                 "borneol",
                 "camphor",
                 "alpha-terpineol"
-            ]
-        },
-        {
-            "ingredient": "matcha",
-            "sim_to_centroid": 0.9996243119239807,
-            "masking_score": 0.9976658158832126,
-            "novelty_score": 0.0003756880760192871,
-            "composite_score": 0.7989911887380812,
-            "relevance": "high",
-            "compounds": [
-                "caffeine",
-                "linalool",
-                "geraniol",
-                "pyrazine"
             ]
         }
     ]

@@ -50,11 +50,11 @@ This analysis deploys a heterogeneous molecular FlavorGraph to scientifically va
 By pooling molecular constituent vectors, we calculated the pairwise cosine similarity of MoBai's core formulations:
 
 *   **Variant A: Mango × Jasmine (芒果茉莉)**
-    *   **Cosine Similarity Score**: **`0.9999`**
+    *   **Cosine Similarity Score**: **`0.9998`**
     *   **Validation**: `STRONG PAIRING (Shared molecular pathways)`
     *   *Scientific Interpretation*: Driven by shared floral-fruity terpenoid and ester backbones. The overlap between jasmine’s linalool/esters and mango's volatile ethyl butanoate establishes a smooth transition profile across olfactory receptors.
 *   **Variant B: Coconut × Milk Tea (椰香奶茶)**
-    *   **Cosine Similarity Score**: **`0.9982`**
+    *   **Cosine Similarity Score**: **`0.9967`**
     *   **Validation**: `STRONG PAIRING (Shared molecular pathways)`
     *   *Scientific Interpretation*: Driven by fat-tannin binding synergy. The lactone esters in coconut (delta-decalactone) associate with milk tea's pyrazines and polyphenolic catechins, producing a highly rounded, thick mouthfeel profile.
 *   **Yogurt Base Compatibility**
@@ -69,8 +69,8 @@ Acidic Whey Protein Isolate (WPI) produces sulphury, aldehydic, soapy, and bitte
 | Off-Note Class | Lactic Base | Mango Terpenes | Jasmine Esters | Coconut & Tea Tannins | KGM Viscosity Proxy |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Sulphury Volatiles** | 100.0% | 100.0% | 99.9% | 100.0% | 75.0% |
-| **Carbonyl/Aldehydes** | 99.9% | 99.7% | 99.7% | 100.0% | 65.0% |
-| **Soapy Fatty Acids** | 99.8% | 99.6% | 99.7% | 100.0% | 55.0% |
+| **Carbonyl/Aldehydes** | 99.7% | 99.6% | 99.6% | 100.0% | 65.0% |
+| **Soapy Fatty Acids** | 99.6% | 99.5% | 99.6% | 100.0% | 55.0% |
 | **Bitter Peptides** | 100.0% | 99.9% | 100.0% | 99.9% | 45.0% |
 
 
@@ -83,23 +83,23 @@ Acidic Whey Protein Isolate (WPI) produces sulphury, aldehydic, soapy, and bitte
 ### Finding 3: Variant C Recommendation
 Using a composite score measuring pairing similarity to the MoBai centroid, WPI off-note masking capability, and molecular taste novelty, we screened APAC-relevant candidates:
 
-1.  **Top Recommendation**: **Passionfruit** (Composite Score: **`0.7995`**, APAC Relevance: **HIGH**)
+1.  **Top Recommendation**: **Passionfruit** (Composite Score: **`0.7993`**, APAC Relevance: **HIGH**)
     *   *Molecular Mechanism*: Driven by high terpene and lactone synergy. Linalool, beta-ionone, and gamma-decalactone in osmanthus provide a rich, creamy floral layer that bridges the yogurt base and tea notes while competing with soapy fatty acid receptor binding.
-2.  **Alternative**: **Taro** (Composite Score: **`0.7994`**)
-3.  **Alternative**: **Osmanthus** (Composite Score: **`0.7993`**)
+2.  **Alternative**: **Osmanthus** (Composite Score: **`0.7990`**)
+3.  **Alternative**: **Ginger** (Composite Score: **`0.7990`**)
 
 ---
 
 ### Finding 4: Bitter Risk Assessment
 The BitterPredict Random Forest model identified high-risk bitter tastants within the formulation database:
 
-- **tryptophan**: Probability = 0.91 (Status: bitter risk)
+- **tryptophan**: Probability = 0.92 (Status: bitter risk)
 - **leucine**: Probability = 0.91 (Status: bitter risk)
-- **valine**: Probability = 0.90 (Status: bitter risk)
-- **isoleucine**: Probability = 0.90 (Status: bitter risk)
-- **phenylalanine**: Probability = 0.87 (Status: bitter risk)
-- **limonin**: Probability = 0.87 (Status: bitter risk)
-- **quinine**: Probability = 0.76 (Status: bitter risk)
+- **isoleucine**: Probability = 0.89 (Status: bitter risk)
+- **phenylalanine**: Probability = 0.89 (Status: bitter risk)
+- **valine**: Probability = 0.88 (Status: bitter risk)
+- **limonin**: Probability = 0.85 (Status: bitter risk)
+- **quinine**: Probability = 0.77 (Status: bitter risk)
 - **caffeine**: Probability = 0.70 (Status: bitter risk)
 
 
@@ -158,6 +158,57 @@ open bitter_risk_scatter.png
 # Flavor Graph network map
 open flavor_graph_network.png
 ```
+
+---
+
+## 🗄️ Local PostgreSQL Setup
+
+The system supports connecting to a local PostgreSQL instance for enterprise/production environments while falling back to SQLite if the PostgreSQL database is unavailable.
+
+### Steps to Setup PostgreSQL:
+
+1. **Install PostgreSQL** (macOS):
+   Use Homebrew to install the latest stable version:
+   ```bash
+   brew install postgresql@18
+   brew services start postgresql@18
+   ```
+
+2. **Configure Database & Role**:
+   Create a role `flavor_user` and the database `flavor_dev`:
+   ```bash
+   psql -d postgres -c "CREATE ROLE flavor_user WITH LOGIN PASSWORD 'fLaVoR_dB_sEcUrE_pAsS_2026';"
+   psql -d postgres -c "CREATE DATABASE flavor_dev WITH OWNER flavor_user;"
+   ```
+
+3. **Configure Environment Variables**:
+   Copy `.env.example` to `.env` and fill in your connection credentials:
+   ```env
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_NAME=flavor_dev
+   DB_USER=flavor_user
+   DB_PASSWORD=fLaVoR_dB_sEcUrE_pAsS_2026
+   DATABASE_URL=postgresql://flavor_user:fLaVoR_dB_sEcUrE_pAsS_2026@localhost:5432/flavor_dev
+   ```
+
+4. **Initialize Alembic Migrations**:
+   Run database migrations using Alembic to initialize the schema:
+   ```bash
+   alembic upgrade head
+   ```
+
+5. **Docker‑Compose Option (Fallback)**:
+   For containerized deployments, you can spin up PostgreSQL using the provided `docker-compose.yml`:
+   ```bash
+   docker-compose up -d
+   ```
+
+6. **Verify Connection**:
+   Verify connection using the test script:
+   ```bash
+   python scripts/test_db_connection.py
+   ```
 
 ---
 

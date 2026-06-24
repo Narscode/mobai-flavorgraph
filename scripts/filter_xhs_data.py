@@ -12,6 +12,43 @@ OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file
 OUTPUT_JSON = os.path.join(OUTPUT_DIR, "xhs_mobai_insights.json")
 OUTPUT_CSV = os.path.join(OUTPUT_DIR, "xhs_mobai_insights.csv")
 
+# XHS Keyword Groups defined by Azril
+XHS_GROUPS = {
+    "flavor": [
+        "蛋白质饮料推荐", "高蛋白饮品 好喝", "蛋白奶昔 口味", "蛋白质饮料 测评",
+        "蛋白饮品 哪个好", "乳清蛋白饮料 推荐",
+        "蛋白质饮料 口味推荐", "抹茶 蛋白饮料", "椰子 蛋白饮料", "芒果 蛋白饮料",
+        "草莓 蛋白饮料", "蛋白饮品 水果味", "荔枝 蛋白饮品", "桃子 蛋白饮品",
+        "红豆 蛋白饮品", "芋头 蛋白饮品", "巧克力 蛋白饮品", "香草 蛋白饮品",
+        "燕麦 蛋白饮品", "蛋白质饮料 好喝的味道",
+    ],
+    "yogurt": [
+        "酸奶饮料 口味推荐", "喝的酸奶 什么味道好", "高蛋白酸奶饮品 好喝",
+        "乳酸菌饮料 口味", "酸奶饮品 测评", "蛋白酸奶饮料 哪个好",
+        "酸奶饮料 早餐", "喝的酸奶 蛋白", "安慕希 口味 推荐", "简醇 酸奶 口味",
+        "益力多 评测", "喝的酸奶 新口味", "抹茶酸奶 好喝吗", "椰子酸奶饮品", "芒果酸奶饮品",
+    ],
+    "pain": [
+        "蛋白质饮料 难喝", "蛋白奶昔 腥味", "蛋白饮品 甜腻", "蛋白质饮料 口感差",
+        "代餐饮料 缺点", "蛋白质饮料 后味", "蛋白饮料 不好喝", "蛋白粉 腥味怎么办",
+        "蛋白质饮料 太甜", "蛋白饮品 粉感",
+    ],
+    "morning": [
+        "早餐 蛋白饮品", "上班路上 代餐", "早上喝什么好", "健康早餐 饮料",
+        "忙碌早晨 营养", "便携早餐 饮品", "没时间吃早饭", "早晨代替早餐 饮料",
+        "上班前 喝什么", "早餐饮品推荐",
+    ],
+    "competitor": [
+        "安慕希 高蛋白 测评", "简醇 蛋白 口味", "Fairlife 体验", "肌肉牛奶 测评",
+        "雅培 营养素 口感", "佳倍有方 蛋白", "Ensure 蛋白奶昔", "蛋白饮料 哪个牌子好",
+        "康师傅 蛋白饮料", "中国 高蛋白饮料 推荐",
+    ],
+    "occasion": [
+        "健身后 蛋白饮料", "运动后 蛋白补充", "代餐 蛋白质 减脂", "蛋白质 加餐",
+        "蛋白饮品 下午茶", "训练后 蛋白饮料",
+    ]
+}
+
 # Filtering Keywords
 PRODUCT_KEYWORDS = [
     r'rtd', r'ready-to-drink', r'ready to drink', r'instant', r'beverage', r'protein', r'energy drink', r'sports drink',
@@ -53,7 +90,6 @@ def extract_matched_keywords(text, regex_list):
     for regex in regex_list:
         found = regex.findall(text)
         if found:
-            # Clean up tuple results from regex groups if any
             for f in found:
                 if isinstance(f, tuple):
                     matches.extend([x for x in f if x])
@@ -61,9 +97,23 @@ def extract_matched_keywords(text, regex_list):
                     matches.append(f)
     return list(set(matches))
 
+def get_keyword_group(keyword):
+    if not keyword:
+        return "general"
+    keyword = keyword.strip()
+    for gname, kw_list in XHS_GROUPS.items():
+        if keyword in kw_list:
+            return gname
+    # Fallback mappings for old keywords from previous run
+    if keyword in ["即饮饮料", "蛋白饮", "芒果茉莉", "生椰奶茶", "桂花 饮料"]:
+        return "flavor"
+    if keyword in ["饮料 苦味", "掩盖苦味", "去苦"]:
+        return "pain"
+    return "general"
+
 def main():
     print("="*60)
-    print("MoBai Consumer Intelligence Filtering & Extraction Tool")
+    print("MoBai Consumer Intelligence Filtering & Extraction Tool (Grouped)")
     print(f"Source Directory: {MEDIA_CRAWLER_DATA_DIR}")
     print("="*60)
 
@@ -94,12 +144,14 @@ def main():
                     note_id = data.get("note_id")
                     title = data.get("title", "")
                     desc = data.get("desc", "")
+                    source_keyword = data.get("source_keyword", "")
                     
                     posts[note_id] = {
                         "title": title,
                         "desc": desc,
                         "nickname": data.get("nickname", ""),
-                        "note_url": data.get("note_url", "")
+                        "note_url": data.get("note_url", ""),
+                        "source_keyword": source_keyword
                     }
 
                     # Check for matches
@@ -112,6 +164,8 @@ def main():
                         matched_prod_kws = extract_matched_keywords(match_text, PRODUCT_REGEX)
                         matched_flav_kws = extract_matched_keywords(match_text, FLAVOR_REGEX)
                         matched_sens_kws = extract_matched_keywords(match_text, SENSORY_REGEX)
+                        
+                        group_name = get_keyword_group(source_keyword)
                         
                         matched_posts.append({
                             "type": "post",
@@ -126,6 +180,8 @@ def main():
                             "comment_count": data.get("comment_count", "0"),
                             "share_count": data.get("share_count", "0"),
                             "source_file": filename,
+                            "source_keyword": source_keyword,
+                            "group": group_name,
                             "match_categories": {
                                 "product": has_prod,
                                 "flavor": has_flav,
@@ -164,6 +220,8 @@ def main():
                         matched_sens_kws = extract_matched_keywords(content, SENSORY_REGEX)
 
                         parent_post = posts.get(note_id, {})
+                        source_keyword = parent_post.get("source_keyword", "")
+                        group_name = get_keyword_group(source_keyword)
                         
                         matched_comments.append({
                             "type": "comment",
@@ -177,6 +235,8 @@ def main():
                             "parent_post_title": parent_post.get("title", ""),
                             "parent_post_desc": parent_post.get("desc", ""),
                             "source_file": filename,
+                            "source_keyword": source_keyword,
+                            "group": group_name,
                             "match_categories": {
                                 "product": has_prod,
                                 "flavor": has_flav,
@@ -203,6 +263,7 @@ def main():
     }
 
     # Write JSON Output
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
         json.dump(all_insights, f, ensure_ascii=False, indent=2)
     print(f"Successfully wrote JSON insights to: {OUTPUT_JSON}")
@@ -212,7 +273,7 @@ def main():
         writer = csv.writer(f)
         # Header
         writer.writerow([
-            "Type", "ID", "Note/Parent ID", "Title/Content", "Nickname", 
+            "Type", "Group", "Source Keyword", "ID", "Note/Parent ID", "Title/Content", "Nickname", 
             "IP Location", "Likes", "Sub-comments/Comments Count", 
             "Matched Products", "Matched Flavors", "Matched Sensory", "Source File"
         ])
@@ -220,6 +281,8 @@ def main():
         for item in matched_posts:
             writer.writerow([
                 "Post", 
+                item.get("group", "general"),
+                item.get("source_keyword", ""),
                 item["note_id"], 
                 "", 
                 f"{item['title']}\n\n{item['desc']}", 
@@ -236,6 +299,8 @@ def main():
         for item in matched_comments:
             writer.writerow([
                 "Comment", 
+                item.get("group", "general"),
+                item.get("source_keyword", ""),
                 item["comment_id"], 
                 item["note_id"], 
                 item["content"], 

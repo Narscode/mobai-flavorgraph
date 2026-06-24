@@ -24,7 +24,7 @@ PLATFORM = "xhs"  # Platform, xhs | dy | ks | bili | wb | tieba | zhihu
 # 开启后 API 走 webapi.rednote.com，cookie 域使用 .rednote.com
 XHS_INTERNATIONAL = True
 
-KEYWORDS = "即饮饮料,蛋白饮,芒果茉莉,生椰奶茶,桂花 饮料,饮料 苦味,掩盖苦味,去苦"  # Keyword search configuration, separated by English commas
+KEYWORDS = "蛋白质饮料推荐,高蛋白饮品 好喝,蛋白奶昔 口味,蛋白质饮料 测评,蛋白饮品 哪个好,乳清蛋白饮料 推荐,蛋白质饮料 口味推荐,抹茶 蛋白饮料,椰子 蛋白饮料,芒果 蛋白饮料,草莓 蛋白饮料,蛋白饮品 水果味,荔枝 蛋白饮品,桃子 蛋白饮品,红豆 蛋白饮品,芋头 蛋白饮品,巧克力 蛋白饮品,香草 蛋白饮品,燕麦 蛋白饮品,蛋白质饮料 好喝的味道,酸奶饮料 口味推荐,喝的酸奶 什么味道好,高蛋白酸奶饮品 好喝,乳酸菌饮料 口味,酸奶饮品 测评,蛋白酸奶饮料 哪个好,酸奶饮料 早餐,喝的酸奶 蛋白,安慕希 口味 推荐,简醇 酸奶 口味,益力多 评测,喝的酸奶 新口味,抹茶酸奶 好喝吗,椰子酸奶饮品,芒果酸奶饮品,蛋白质饮料 难喝,蛋白奶昔 腥味,蛋白饮品 甜腻,蛋白质饮料 口感差,代餐饮料 缺点,蛋白质饮料 后味,蛋白饮料 不好喝,蛋白粉 腥味怎么办,蛋白质饮料 太甜,蛋白饮品 粉感,早餐 蛋白饮品,上班路上 代餐,早上喝什么好,健康早餐 饮料,忙碌早晨 营养,便携早餐 饮品,没时间吃早饭,早晨代替早餐 饮料,上班前 喝什么,早餐饮品推荐,健身后 蛋白饮料,运动后 蛋白补充,代餐 蛋白质 减脂,蛋白质 加餐,蛋白饮品 下午茶,训练后 蛋白饮料,安慕希 高蛋白 测评,简醇 蛋白 口味,Fairlife 体验,肌肉牛奶 测评,雅培 营养素 口感,佳倍有方 蛋白,Ensure 蛋白奶昔,蛋白饮料 哪个牌子好,康师傅 蛋白饮料,中国 高蛋白饮料 推荐"  # Keyword search configuration, separated by English commas
 LOGIN_TYPE = "qrcode"  # qrcode or phone or cookie
 LOGIN_PHONE = "6281388869584"
 COOKIES = ""
@@ -100,7 +100,7 @@ USER_DATA_DIR = "%s_user_data_dir"  # %s will be replaced by platform name
 START_PAGE = 1
 
 # Control the number of crawled videos/posts
-CRAWLER_MAX_NOTES_COUNT = 100
+CRAWLER_MAX_NOTES_COUNT = 15
 
 # Controlling the number of concurrent crawlers
 MAX_CONCURRENCY_NUM = 1

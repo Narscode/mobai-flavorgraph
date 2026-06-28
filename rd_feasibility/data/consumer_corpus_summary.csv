@@ -1,0 +1,5 @@
+platform,language,posts_analysed,positive_pct,negative_pct,role
+Twitter,English,5021,n/a,n/a,Broad global flavor and pain-point signal
+Xiaohongshu,Chinese,877,84.5,7.5,Flavor discovery and demand territory
+Weibo,Chinese,601,80.4,10.6,Open opinion; complaints; competitor talk
+Douyin,Chinese,171,79.5,12.3,Candid sensory reactions and pain points

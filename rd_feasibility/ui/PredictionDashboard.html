@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MoBai Formulation & COGS Predictor</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%);
+      min-height: 100vh;
+      color: #e0e0e0;
+      padding: 24px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+
+    .title {
+      font-size: 32px;
+      font-weight: 700;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      color: #9ca3af;
+      font-size: 16px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      gap: 24px;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.03);
+      backdrop-filter: blur(20px);
+      border-radius: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 24px;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    }
+
+    .card-title {
+      font-size: 18px;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .input-group {
+      margin-bottom: 16px;
+    }
+
+    .label {
+      display: block;
+      font-size: 13px;
+      color: #9ca3af;
+      margin-bottom: 6px;
+      font-weight: 500;
+    }
+
+    .slider {
+      width: 100%;
+      height: 6px;
+      border-radius: 3px;
+      background: rgba(255,255,255,0.1);
+      cursor: pointer;
+      -webkit-appearance: none;
+    }
+
+    .slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      cursor: pointer;
+    }
+
+    .checkbox-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .checkbox-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+    }
+
+    .checkbox-item input {
+      accent-color: #667eea;
+      width: 16px;
+      height: 16px;
+    }
+
+    .checkbox-item span {
+      font-size: 14px;
+    }
+
+    .button {
+      width: 100%;
+      padding: 14px 24px;
+      border-radius: 12px;
+      border: none;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: #fff;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      margin-top: 16px;
+      transition: all 0.3s ease;
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+    }
+
+    .button:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 14px;
+      font-weight: 600;
+      margin-left: 12px;
+    }
+
+    .badge-green { background: #22c55e; color: #fff; }
+    .badge-yellow { background: #eab308; color: #fff; }
+    .badge-red { background: #ef4444; color: #fff; }
+    .badge-purple { background: #667eea; color: #fff; }
+
+    .nutrition-grid {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .nutrition-item {
+      text-align: center;
+      flex: 1;
+    }
+
+    .nutrition-value {
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .nutrition-label {
+      font-size: 11px;
+      color: #6b7280;
+    }
+
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+    }
+
+    .table th {
+      text-align: left;
+      padding: 10px 8px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      font-size: 12px;
+      color: #9ca3af;
+      font-weight: 500;
+    }
+
+    .table td {
+      padding: 10px 8px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+      font-size: 13px;
+    }
+
+    .table .text-right {
+      text-align: right;
+    }
+
+    .cost-section {
+      margin-bottom: 20px;
+    }
+
+    .cost-row {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .cost-row.total {
+      padding-top: 8px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      font-weight: 600;
+    }
+
+    .margin-card {
+      background: linear-gradient(135deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%);
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 16px;
+    }
+
+    .progress-bar {
+      height: 8px;
+      border-radius: 4px;
+      background: rgba(255,255,255,0.1);
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+
+    .progress-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.5s ease;
+    }
+
+    .margin-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 12px;
+    }
+
+    .margin-item {
+      text-align: center;
+    }
+
+    .margin-value {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .rationale {
+      margin-bottom: 12px;
+    }
+
+    .rationale h4 {
+      font-size: 12px;
+      font-weight: 600;
+      color: #22c55e;
+      margin-bottom: 8px;
+    }
+
+    .rationale p {
+      font-size: 12px;
+      color: #d1d5db;
+      margin-bottom: 4px;
+    }
+
+    .warning {
+      background: rgba(245,158,11,0.1);
+      border: 1px solid rgba(245,158,11,0.3);
+      border-radius: 8px;
+      padding: 12px;
+    }
+
+    .warning h4 {
+      font-size: 12px;
+      font-weight: 600;
+      color: #f59e0b;
+      margin-bottom: 8px;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 10px;
+      margin-left: 6px;
+    }
+
+    .tag-allergen {
+      background: rgba(239,68,68,0.2);
+      color: #ef4444;
+    }
+
+    .ingredient-ref {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .ingredient-card {
+      padding: 12px;
+      background: rgba(255,255,255,0.02);
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.05);
+    }
+
+    .ingredient-name {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .ingredient-cost {
+      font-size: 11px;
+      color: #6b7280;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid rgba(255,255,255,0.05);
+      color: #6b7280;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">Formulation & COGS Predictor</h1>
+      <p class="subtitle">AI-powered formulation builder with instant cost analysis</p>
+    </div>
+
+    <div class="grid">
+      <!-- Left Panel: Targets -->
+      <div class="card">
+        <div class="card-title">🎯 Define Your Targets</div>
+
+        <div class="input-group">
+          <label class="label">Target Protein: <span id="proteinValue">3.0</span>g per serving</label>
+          <input type="range" class="slider" id="proteinSlider" min="0" max="10" step="0.5" value="3">
+          <div style="display:flex;justify-content:space-between;font-size:11px;color:#6b7280;margin-top:4px">
+            <span>0g</span><span>10g</span>
+          </div>
+        </div>
+
+        <div class="input-group">
+          <label class="label">Target Sugar: <span id="sugarValue">2.0</span>g per serving</label>
+          <input type="range" class="slider" id="sugarSlider" min="0" max="20" step="0.5" value="2">
+          <div style="display:flex;justify-content:space-between;font-size:11px;color:#6b7280;margin-top:4px">
+            <span>0g</span><span>20g</span>
+          </div>
+        </div>
+
+        <div class="input-group">
+          <label class="label">Dietary Options</label>
+          <div class="checkbox-group">
+            <label class="checkbox-item">
+              <input type="checkbox" id="veganCheck">
+              <span>🌱 Vegan</span>
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" id="sugarFreeCheck" checked>
+              <span>🍬 Sugar-Free</span>
+            </label>
+            <label class="checkbox-item">
+              <input type="checkbox" id="ketoCheck">
+              <span>🥑 Keto-Friendly</span>
+            </label>
+          </div>
+        </div>
+
+        <button class="button" id="predictBtn">✨ Generate Formulation</button>
+      </div>
+
+      <!-- Right Panel: Results -->
+      <div class="card">
+        <div class="card-title">
+          <span>📋 Predicted Formulation</span>
+          <span class="badge badge-green" id="scoreBadge" style="display:none">85% Score</span>
+        </div>
+
+        <div id="resultsContainer">
+          <div style="text-align:center;padding:60px 20px;color:#6b7280">
+            <div style="font-size:48px;margin-bottom:16px">🥤</div>
+            <p>Click "Generate Formulation" to start</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Ingredient Reference -->
+    <div class="card" style="margin-top:24px">
+      <div class="card-title">📚 Available Ingredients Reference</div>
+      <div class="ingredient-ref" id="ingredientRef"></div>
+    </div>
+
+    <div class="footer">
+      MoBai Formulation & COGS Predictor v1.0 | Simple & Focused
+    </div>
+  </div>
+
+  <script>
+    // ===== INGREDIENT DATABASE =====
+    const INGREDIENTS = [
+      { id: 'water', name: 'Purified Water', category: 'base', costPerKg: 0.15, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'coconut_water', name: 'Coconut Water', category: 'base', costPerKg: 4.80, caloriesPer100g: 18, proteinPer100g: 0.5, sugarPer100g: 4, allergens: [] },
+      { id: 'whey_isolate', name: 'Whey Protein Isolate', category: 'protein', costPerKg: 18.50, caloriesPer100g: 375, proteinPer100g: 90, sugarPer100g: 1, allergens: ['Milk'] },
+      { id: 'soy_isolate', name: 'Soy Protein Isolate', category: 'protein', costPerKg: 8.50, caloriesPer100g: 338, proteinPer100g: 88, sugarPer100g: 0, allergens: ['Soy'] },
+      { id: 'pea_isolate', name: 'Pea Protein Isolate', category: 'protein', costPerKg: 12.50, caloriesPer100g: 360, proteinPer100g: 85, sugarPer100g: 0, allergens: [] },
+      { id: 'erythritol', name: 'Erythritol', category: 'sweetener', costPerKg: 4.20, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'stevia', name: 'Stevia Reb-M', category: 'sweetener', costPerKg: 850, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'allulose', name: 'Allulose', category: 'sweetener', costPerKg: 12.50, caloriesPer100g: 4, proteinPer100g: 0, sugarPer100g: 90, allergens: [] },
+      { id: 'caffeine', name: 'Caffeine', category: 'functional', costPerKg: 45, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'l_theanine', name: 'L-Theanine', category: 'functional', costPerKg: 280, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'taurine', name: 'Taurine', category: 'functional', costPerKg: 8.50, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'b_complex', name: 'Vitamin B Complex', category: 'functional', costPerKg: 85, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'xanthan', name: 'Xanthan Gum', category: 'stabilizer', costPerKg: 12.80, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'citric_acid', name: 'Citric Acid', category: 'acidulant', costPerKg: 0.95, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'green_tea_flavor', name: 'Green Tea Flavor', category: 'flavor', costPerKg: 85, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+      { id: 'yuzu_flavor', name: 'Yuzu Flavor', category: 'flavor', costPerKg: 150, caloriesPer100g: 0, proteinPer100g: 0, sugarPer100g: 0, allergens: [] },
+    ];
+
+    // ===== HELPER FUNCTIONS =====
+    function formatCurrency(value) {
+      return '$' + value.toFixed(4);
+    }
+
+    function getScoreColor(score) {
+      if (score >= 80) return '#22c55e';
+      if (score >= 60) return '#84cc16';
+      if (score >= 40) return '#eab308';
+      return '#ef4444';
+    }
+
+    function getIngredientById(id) {
+      return INGREDIENTS.find(i => i.id === id);
+    }
+
+    // ===== PREDICTION ENGINE =====
+    function predictFormulation(targetProtein, targetSugar, dietaryVegan, sugarFree, ketoFriendly) {
+      const ingredients = [];
+      const rationale = [];
+      const warnings = [];
+
+      // 1. Add base
+      if (targetProtein > 0 || targetSugar > 5) {
+        ingredients.push({ id: 'coconut_water', percentage: 20 });
+        rationale.push('Added Coconut Water for natural sweetness');
+      } else {
+        ingredients.push({ id: 'water', percentage: 75 });
+        rationale.push('Using purified water as base');
+      }
+
+      // 2. Add protein
+      if (targetProtein > 0) {
+        if (dietaryVegan) {
+          ingredients.push({ id: 'pea_isolate', percentage: Math.min(targetProtein + 1, 8) });
+          rationale.push('Selected Pea Protein for vegan-friendly high protein');
+        } else {
+          ingredients.push({ id: 'whey_isolate', percentage: Math.min(targetProtein + 0.5, 6) });
+          rationale.push('Selected Whey Protein Isolate for superior amino acid profile');
+        }
+        ingredients.push({ id: 'xanthan', percentage: 0.05 });
+        rationale.push('Added Xanthan Gum for protein stabilization');
+      }
+
+      // 3. Add sweetener
+      if (sugarFree || ketoFriendly) {
+        ingredients.push({ id: 'erythritol', percentage: 4 });
+        rationale.push('Added Erythritol for sugar-free sweetness');
+      } else if (targetSugar > 0) {
+        if (targetSugar < 3) {
+          ingredients.push({ id: 'stevia', percentage: 0.03 });
+          rationale.push('Added Stevia for low-sugar sweetness');
+        } else {
+          ingredients.push({ id: 'allulose', percentage: targetSugar / 2 });
+          rationale.push('Added Allulose for reduced sugar');
+        }
+      }
+
+      // 4. Add functional
+      if (targetProtein > 3) {
+        ingredients.push({ id: 'b_complex', percentage: 0.1 });
+        rationale.push('Added Vitamin B Complex for protein metabolism');
+      }
+      if (targetProtein > 2) {
+        ingredients.push({ id: 'taurine', percentage: 0.3 });
+        rationale.push('Added Taurine for energy support');
+      }
+
+      // 5. Add acid & flavor
+      ingredients.push({ id: 'citric_acid', percentage: 0.2 });
+      ingredients.push({ id: 'green_tea_flavor', percentage: 0.1 });
+
+      // Calculate nutrition
+      let calories = 0, protein = 0, sugar = 0;
+      for (const ing of ingredients) {
+        const def = getIngredientById(ing.id);
+        if (def) {
+          calories += (def.caloriesPer100g * ing.percentage) / 100 * 33;
+          protein += (def.proteinPer100g * ing.percentage) / 100 * 33;
+          sugar += (def.sugarPer100g * ing.percentage) / 100 * 33;
+        }
+      }
+
+      // Calculate costs
+      let ingredientCost = 0;
+      for (const ing of ingredients) {
+        const def = getIngredientById(ing.id);
+        if (def) {
+          ingredientCost += (def.costPerKg * ing.percentage) / 100 * 0.33;
+        }
+      }
+      const packaging = 0.10;
+      const processing = ingredientCost * 0.15;
+      const totalCost = ingredientCost + packaging + processing;
+
+      // Margin
+      const suggestedMSRP = Math.max(2.99, totalCost * 4);
+      const wholesale = totalCost * 2.5;
+      const margin = ((suggestedMSRP - totalCost) / suggestedMSRP) * 100;
+
+      // Score
+      let score = 70;
+      if (dietaryVegan) score += 5;
+      if (sugarFree) score += 5;
+      if (targetProtein >= 2 && targetProtein <= 5) score += 10;
+      if (margin >= 60) score += 10;
+      if (ingredientCost < 0.3) score += 5;
+      score = Math.min(100, score);
+
+      if (sugarFree && targetSugar > 0) {
+        warnings.push('Sugar-free formulation may have different taste profile');
+      }
+
+      return {
+        ingredients,
+        nutrition: { calories: Math.round(calories), protein: Math.round(protein * 10) / 10, sugar: Math.round(sugar * 10) / 10 },
+        costs: { ingredient: ingredientCost, packaging, processing, total: totalCost },
+        margins: { msrp: suggestedMSRP, wholesale, margin: Math.round(margin) },
+        score,
+        rationale,
+        warnings
+      };
+    }
+
+    // ===== UI FUNCTIONS =====
+    function renderResults(prediction) {
+      const resultsContainer = document.getElementById('resultsContainer');
+      const scoreBadge = document.getElementById('scoreBadge');
+
+      scoreBadge.style.display = 'inline-block';
+      scoreBadge.textContent = prediction.score + '% Score';
+      scoreBadge.style.background = getScoreColor(prediction.score);
+
+      let html = `
+        <div class="nutrition-grid">
+          <div class="nutrition-item">
+            <div class="nutrition-value">${prediction.nutrition.calories}</div>
+            <div class="nutrition-label">Calories</div>
+          </div>
+          <div class="nutrition-item">
+            <div class="nutrition-value" style="color:#667eea">${prediction.nutrition.protein}g</div>
+            <div class="nutrition-label">Protein</div>
+          </div>
+          <div class="nutrition-item">
+            <div class="nutrition-value" style="color:#f472b6">${prediction.nutrition.sugar}g</div>
+            <div class="nutrition-label">Sugar</div>
+          </div>
+        </div>
+
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Ingredient</th>
+              <th class="text-right">%</th>
+              <th class="text-right">Cost</th>
+            </tr>
+          </thead>
+          <tbody>
+      `;
+
+      for (const ing of prediction.ingredients) {
+        const def = getIngredientById(ing.id);
+        const cost = def ? (def.costPerKg * ing.percentage) / 100 * 0.33 : 0;
+        html += `
+          <tr>
+            <td>
+              ${def ? def.name : ing.id}
+              ${def && def.allergens.length > 0 ? '<span class="tag tag-allergen">' + def.allergens[0] + '</span>' : ''}
+            </td>
+            <td class="text-right" style="font-weight:500">${ing.percentage.toFixed(2)}%</td>
+            <td class="text-right" style="color:#9ca3af">${formatCurrency(cost)}</td>
+          </tr>
+        `;
+      }
+
+      html += `
+          </tbody>
+        </table>
+
+        <div class="cost-section" style="margin-top:20px">
+          <div class="cost-row">
+            <span style="color:#9ca3af">Ingredients</span>
+            <span style="font-weight:500">${formatCurrency(prediction.costs.ingredient)}</span>
+          </div>
+          <div class="cost-row">
+            <span style="color:#9ca3af">Packaging</span>
+            <span style="font-weight:500">${formatCurrency(prediction.costs.packaging)}</span>
+          </div>
+          <div class="cost-row">
+            <span style="color:#9ca3af">Processing (15%)</span>
+            <span style="font-weight:500">${formatCurrency(prediction.costs.processing)}</span>
+          </div>
+          <div class="cost-row total">
+            <span>Total COGS</span>
+            <span style="color:#667eea">${formatCurrency(prediction.costs.total)}</span>
+          </div>
+        </div>
+
+        <div class="margin-card">
+          <h4 style="font-size:13px;font-weight:600;color:#9ca3af;margin-bottom:12px">Margin Analysis</h4>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width:${prediction.margins.margin}%;background:${getScoreColor(prediction.margins.margin)}"></div>
+          </div>
+          <div style="display:flex;justify-content:space-between;font-size:12px;margin-bottom:8px">
+            <span>Gross Margin</span>
+            <span style="font-weight:600">${prediction.margins.margin}%</span>
+          </div>
+          <div class="margin-grid">
+            <div class="margin-item">
+              <div class="margin-value">$${prediction.margins.msrp.toFixed(2)}</div>
+              <div class="nutrition-label">Retail Price</div>
+            </div>
+            <div class="margin-item">
+              <div class="margin-value" style="color:#84cc16">$${prediction.margins.wholesale.toFixed(2)}</div>
+              <div class="nutrition-label">Wholesale</div>
+            </div>
+          </div>
+        </div>
+      `;
+
+      if (prediction.rationale.length > 0) {
+        html += `<div class="rationale"><h4>✨ AI Rationale</h4>`;
+        for (const r of prediction.rationale) {
+          html += `<p>• ${r}</p>`;
+        }
+        html += `</div>`;
+      }
+
+      if (prediction.warnings.length > 0) {
+        html += `<div class="warning"><h4>⚠️ Warnings</h4>`;
+        for (const w of prediction.warnings) {
+          html += `<p>• ${w}</p>`;
+        }
+        html += `</div>`;
+      }
+
+      resultsContainer.innerHTML = html;
+    }
+
+    function renderIngredientRef() {
+      const container = document.getElementById('ingredientRef');
+      let html = '';
+      for (const ing of INGREDIENTS) {
+        html += `
+          <div class="ingredient-card">
+            <div class="ingredient-name">${ing.name}</div>
+            <div class="ingredient-cost">$${ing.costPerKg}/kg</div>
+            ${ing.allergens.length > 0 ? '<span class="tag tag-allergen">' + ing.allergens[0] + '</span>' : ''}
+          </div>
+        `;
+      }
+      container.innerHTML = html;
+    }
+
+    // ===== EVENT LISTENERS =====
+    document.getElementById('proteinSlider').addEventListener('input', function() {
+      document.getElementById('proteinValue').textContent = parseFloat(this.value).toFixed(1);
+    });
+
+    document.getElementById('sugarSlider').addEventListener('input', function() {
+      document.getElementById('sugarValue').textContent = parseFloat(this.value).toFixed(1);
+    });
+
+    document.getElementById('predictBtn').addEventListener('click', function() {
+      this.disabled = true;
+      this.textContent = '🔮 Generating...';
+
+      setTimeout(() => {
+        const targetProtein = parseFloat(document.getElementById('proteinSlider').value);
+        const targetSugar = parseFloat(document.getElementById('sugarSlider').value);
+        const vegan = document.getElementById('veganCheck').checked;
+        const sugarFree = document.getElementById('sugarFreeCheck').checked;
+        const keto = document.getElementById('ketoCheck').checked;
+
+        const prediction = predictFormulation(targetProtein, targetSugar, vegan, sugarFree, keto);
+        renderResults(prediction);
+
+        this.disabled = false;
+        this.textContent = '✨ Generate Formulation';
+      }, 500);
+    });
+
+    // Initialize
+    renderIngredientRef();
+  </script>
+</body>
+</html>

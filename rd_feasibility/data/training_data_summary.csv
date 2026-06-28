@@ -1,0 +1,14 @@
+flavor_name,flavorgraph_node,net_sentiment,mention_count,vector_norm
+mango,fresh_mango,53,73,2.9529895782470703
+vanilla,vanilla,48,300,3.4451980590820312
+caramel,caramel,44,27,1.9690254926681519
+coconut,coconut,42,179,3.4192094802856445
+chocolate,chocolate,41,361,3.5553956031799316
+milk_tea,black_tea+milk,41,37,2.6058497428894043
+oat,oat,35,386,3.280564308166504
+coffee,coffee,34,542,3.2052197456359863
+banana,banana,28,281,3.3013689517974854
+matcha,matcha_green_tea_powder,28,207,1.7446389198303223
+peach,canned_peach,27,26,2.2792506217956543
+honey,honey,22,81,3.477022409439087
+strawberry,strawberry,6,240,3.200387716293335

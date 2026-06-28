@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2026-06-26",
+    "description": "Comprehensive Mock Food-Science Database for Asian RTD Beverages",
+    "coverage": "MoBai R&D Platform - Core Ingredient Library"
+  },
+  "nutrients": [
+    {"id": "VIT_C", "name": "Vitamin C (Ascorbic Acid)", "nameChinese": "维生素C", "molecularWeight": 176.12, "heatSensitivity": "high", "dValue121": 0.8, "zValue": 7.5, "solubility": "water-soluble", "stabilityPHMin": 2.0, "stabilityPHMax": 6.0, "degradationRateConst": 0.045},
+    {"id": "VIT_B12", "name": "Vitamin B12 (Cyanocobalamin)", "nameChinese": "维生素B12", "molecularWeight": 1355.37, "heatSensitivity": "high", "dValue121": 0.5, "zValue": 25.0, "solubility": "water-soluble", "stabilityPHMin": 4.0, "stabilityPHMax": 7.0, "degradationRateConst": 0.038},
+    {"id": "VIT_B6", "name": "Vitamin B6 (Pyridoxine)", "nameChinese": "维生素B6", "molecularWeight": 169.18, "heatSensitivity": "medium", "dValue121": 2.5, "zValue": 21.0, "solubility": "water-soluble", "stabilityPHMin": 3.0, "stabilityPHMax": 7.0, "degradationRateConst": 0.015},
+    {"id": "THIAMIN", "name": "Thiamine (Vitamin B1)", "nameChinese": "硫胺素", "molecularWeight": 265.35, "heatSensitivity": "very-high", "dValue121": 0.15, "zValue": 25.0, "solubility": "water-soluble", "stabilityPHMin": 3.5, "stabilityPHMax": 5.5, "degradationRateConst": 0.085},
+    {"id": "FOLIC", "name": "Folic Acid", "nameChinese": "叶酸", "molecularWeight": 441.40, "heatSensitivity": "high", "dValue121": 1.2, "zValue": 22.0, "solubility": "water-soluble", "stabilityPHMin": 4.0, "stabilityPHMax": 7.0, "degradationRateConst": 0.032},
+    {"id": "NIACIN", "name": "Niacin (Vitamin B3)", "nameChinese": "烟酸", "molecularWeight": 123.11, "heatSensitivity": "low", "dValue121": 45.0, "zValue": 28.0, "solubility": "water-soluble", "stabilityPHMin": 2.0, "stabilityPHMax": 8.0, "degradationRateConst": 0.002},
+    {"id": "BIOTIN", "name": "Biotin (Vitamin B7)", "nameChinese": "生物素", "molecularWeight": 244.31, "heatSensitivity": "medium", "dValue121": 8.0, "zValue": 22.0, "solubility": "water-soluble", "stabilityPHMin": 4.0, "stabilityPHMax": 8.0, "degradationRateConst": 0.012},
+    {"id": "PANTOTHENIC", "name": "Pantothenic Acid (Vitamin B5)", "nameChinese": "泛酸", "molecularWeight": 219.24, "heatSensitivity": "medium", "dValue121": 5.0, "zValue": 24.0, "solubility": "water-soluble", "stabilityPHMin": 4.0, "stabilityPHMax": 7.0, "degradationRateConst": 0.018},
+    {"id": "CAFFEINE", "name": "Caffeine", "nameChinese": "咖啡因", "molecularWeight": 194.19, "heatSensitivity": "low", "dValue121": 120.0, "zValue": 30.0, "solubility": "water-soluble", "stabilityPHMin": 2.0, "stabilityPHMax": 8.0, "degradationRateConst": 0.0001},
+    {"id": "TAURINE", "name": "Taurine", "nameChinese": "牛磺酸", "molecularWeight": 125.14, "heatSensitivity": "low", "dValue121": 85.0, "zValue": 28.0, "solubility": "water-soluble", "stabilityPHMin": 3.0, "stabilityPHMax": 8.0, "degradationRateConst": 0.001}
+  ],
+  "stabilizers": [
+    {"id": "CMC_001", "name": "Sodium Carboxymethyl Cellulose (CMC)", "nameChinese": "羧甲基纤维素钠", "type": "thickener", "maxUseLevel": 0.5, "synergyWith": ["Pectin", "Xanthan"], "phRange": [4.0, 10.0], "thermalReversibility": true, "costPerKg": 8.50},
+    {"id": "XGUM_001", "name": "Xanthan Gum", "nameChinese": "黄原胶", "type": "thickener", "maxUseLevel": 0.3, "synergyWith": ["CMC", "Locust Bean Gum"], "phRange": [3.0, 9.0], "thermalReversibility": false, "costPerKg": 12.80},
+    {"id": "PECTIN_001", "name": "Low Methoxyl Pectin", "nameChinese": "低甲氧基果胶", "type": "pectin", "maxUseLevel": 0.4, "synergyWith": ["Calcium", "CMC"], "phRange": [2.5, 5.5], "thermalReversibility": false, "costPerKg": 18.20},
+    {"id": "LBG_001", "name": "Locust Bean Gum", "nameChinese": "刺槐豆胶", "type": "thickener", "maxUseLevel": 0.25, "synergyWith": ["Xanthan", "Carrageenan"], "phRange": [4.5, 9.0], "thermalReversibility": true, "costPerKg": 22.50},
+    {"id": "CARRAGEENAN_001", "name": "Kappa Carrageenan", "nameChinese": "卡拉胶", "type": "gelling-agent", "maxUseLevel": 0.15, "synergyWith": ["Locust Bean Gum", "Potassium"], "phRange": [4.0, 9.0], "thermalReversibility": false, "costPerKg": 15.60},
+    {"id": "GELLAN_001", "name": "Gellan Gum (Low Acyl)", "nameChinese": "结冷胶", "type": "gelling-agent", "maxUseLevel": 0.1, "synergyWith": ["Calcium"], "phRange": [3.5, 8.0], "thermalReversibility": true, "costPerKg": 45.00}
+  ],
+  "processingMethods": [
+    {"id": "UHT", "name": "Ultra-High Temperature", "tempRange": [135, 150], "timeRange": [2, 8], "f0Range": [4, 8], "nutrientRetentionAvg": 0.85, "sterilityLevel": "commercially-sterile"},
+    {"id": "RETORT", "name": "Retort Sterilization", "tempRange": [115, 125], "timeRange": [20, 45], "f0Range": [8, 15], "nutrientRetentionAvg": 0.72, "sterilityLevel": "commercially-sterile"},
+    {"id": "HTST", "name": "High-Temperature Short Time", "tempRange": [72, 85], "timeRange": [15, 30], "f0Range": [0.1, 0.5], "nutrientRetentionAvg": 0.95, "sterilityLevel": "pasteurized"},
+    {"id": "COLD_FILL", "name": "Cold Fill Aseptic", "tempRange": [4, 25], "timeRange": [0, 0], "f0Range": [0], "nutrientRetentionAvg": 0.98, "sterilityLevel": "microbial-stable"},
+    {"id": "ASEPTIC", "name": "Aseptic Processing", "tempRange": [137, 145], "timeRange": [3, 6], "f0Range": [5, 12], "nutrientRetentionAvg": 0.88, "sterilityLevel": "commercially-sterile"}
+  ]
+}

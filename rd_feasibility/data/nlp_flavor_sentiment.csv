@@ -1,0 +1,14 @@
+flavor_name,mention_count,net_sentiment_pct,pos_pct,neg_pct,notes
+mango,73,53,75,22,Q1 top - high positive
+vanilla,300,48,72,24,High volume + positive
+caramel,27,44,70,26,Small n but positive
+coconut,179,42,65,23,Mid volume positive
+chocolate,361,41,65,24,Largest mid-tier
+milk_tea,37,41,65,24,Format-related
+oat,386,35,60,25,Highest mention healthy
+coffee,542,34,60,26,Highest mention overall
+banana,281,28,57,29,Mid sentiment
+matcha,207,28,55,27,Asian-leaning
+peach,26,27,55,28,Small n
+honey,81,22,55,33,Lower sentiment
+strawberry,240,6,49,43,Lowest net - polarising

@@ -1,344 +1,1212 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="MoBai (茉白) — AI-Assisted Functional RTD Beverage Formulation Platform. Molecular flavor compatibility, bitter risk prediction, and off-note masking analysis." />
+    <title>茉白 MoBai — AI Flavor Intelligence Platform</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Noto+Sans+SC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+    
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js" crossorigin></script>
+    
+    <style>
+:root{color:#f7f1e6;font-synthesis:none;text-rendering:optimizelegibility;-webkit-font-smoothing:antialiased;--green-950:#071a15;--green-900:#09231c;--green-800:#10372d;--green-700:#1b4b3e;--cream:#f7f1e6;--cream-2:#eadfca;--gold:#c5a35a;--gold-2:#d9bd79;--tea:#8bb391;--mint:#b7d7be;--terracotta:#c97055;--ink:#16251f;--line:#f7f1e624;--glass:#f7f1e613;--shadow:0 24px 70px #00000042;background:#09231c;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif}*{box-sizing:border-box}html{scroll-behavior:smooth}body{background:linear-gradient(180deg, #071a1524, #071a15e0), radial-gradient(circle at 50% 0%, #c5a35a38, transparent 36%), var(--green-900);min-width:320px;min-height:100vh;margin:0}button,input,select,textarea{font:inherit}button{cursor:pointer}a{color:inherit}main{overflow:hidden}.nav{z-index:20;-webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);background:#071a15c2;border-bottom:1px solid #f7f1e61a;justify-content:space-between;align-items:center;padding:18px clamp(18px,4vw,56px);display:flex;position:fixed;inset:0 0 auto}.brand,.nav div{align-items:center;gap:12px;display:flex}.brand{letter-spacing:0;font-weight:800;text-decoration:none}.brand-mark{width:34px;height:34px;color:var(--gold-2);background:#d9bd7929;border:1px solid #d9bd798a;border-radius:8px;place-items:center;display:grid}.nav a:not(.brand){color:#f7f1e6bd;border-radius:999px;padding:8px 12px;font-size:.86rem;text-decoration:none}.nav a:not(.brand):hover{color:var(--cream);background:#f7f1e617}.hero-section{grid-template-columns:minmax(0,1.02fr) minmax(360px,.98fr);align-items:center;gap:clamp(28px,6vw,80px);min-height:92vh;padding:132px clamp(18px,5vw,72px) 64px;display:grid}.hero-copy{max-width:760px}.eyebrow{color:var(--gold-2);letter-spacing:.14em;text-transform:uppercase;margin:0 0 14px;font-size:.74rem;font-weight:800}h1,h2,h3,p{margin-top:0}h1{color:#fffaf0;letter-spacing:0;margin-bottom:22px;font-size:clamp(2.7rem,6vw,6.2rem);line-height:.96}h2{color:#fff9ed;margin-bottom:10px;font-size:clamp(1.55rem,2.6vw,2.45rem);line-height:1.05}h3{color:#fff9ed;margin-bottom:10px;font-size:clamp(1.25rem,2vw,1.85rem);line-height:1.1}.hero-copy>p:not(.eyebrow),.section-header>p,.panel-title p,.panel p{color:#f7f1e6b8}.hero-copy>p:not(.eyebrow){max-width:640px;font-size:clamp(1rem,1.45vw,1.2rem)}.hero-actions{flex-wrap:wrap;gap:12px;margin-top:34px;display:flex}.primary-button,.secondary-button,.product-card button{border:1px solid #d9bd7973;border-radius:8px;min-height:44px;padding:12px 18px;font-weight:800;text-decoration:none}.primary-button,.product-card button{background:var(--gold-2);color:#13251d}.secondary-button{color:var(--cream);background:#f7f1e614}.hero-visual{border:1px solid var(--line);min-height:520px;box-shadow:var(--shadow);background:linear-gradient(135deg,#f7f1e61f,#f7f1e609),linear-gradient(#10372de0,#071a15f0);border-radius:8px;position:relative;overflow:hidden}.hero-visual:before{content:"";background-image:linear-gradient(#f7f1e612 1px,#0000 1px),linear-gradient(90deg,#f7f1e612 1px,#0000 1px);background-size:42px 42px;position:absolute;inset:24px;-webkit-mask-image:linear-gradient(#000,#0000);mask-image:linear-gradient(#000,#0000)}.hero-panel{z-index:2;background:#071a15cc;border:1px solid #d9bd7952;border-radius:8px;width:210px;padding:18px;position:absolute;top:28px;right:28px}.hero-panel span,.hero-panel small{color:#f7f1e6a8;display:block}.hero-panel strong{color:var(--gold-2);margin:6px 0;font-size:3rem;line-height:1;display:block}.mini-network{position:absolute;inset:0}.mini-network:before,.mini-network:after{content:"";background:#d9bd7947;height:1px;position:absolute;top:50%;left:18%;right:16%;transform:rotate(-16deg)}.mini-network:after{transform:rotate(24deg)}.network-node{color:#fff9ed;text-align:center;background:#f7f1e61a;border:1px solid #f7f1e62e;border-radius:50%;place-items:center;width:112px;height:112px;font-weight:800;display:grid;position:absolute}.network-node.n0{background:#d8a64557;top:18%;left:13%}.network-node.n1{background:#b7d7be47;top:14%;left:42%}.network-node.n2{background:#80a8794d;top:54%;left:24%}.network-node.n3{background:#c9705540;top:52%;left:58%}.network-node.n4{background:#d9bd7947;top:28%;left:68%}.section,.studio-grid{width:min(1440px,100% - 36px);margin:0 auto;padding:50px 0}.studio-grid,.two-column,.graph-layout{grid-template-columns:minmax(0,1.08fr) minmax(340px,.92fr);align-items:start;gap:18px;display:grid}.section-header{max-width:780px;margin-bottom:24px}.panel{border:1px solid var(--line);background:#f7f1e611;border-radius:8px;padding:clamp(18px,2.4vw,30px);box-shadow:0 18px 48px #00000029}.panel-title{align-items:flex-start;gap:14px;margin-bottom:22px;display:flex}.panel-title.compact{margin-bottom:18px}.panel-title>span{height:38px;color:var(--gold-2);border:1px solid #d9bd796b;border-radius:8px;flex:0 0 38px;place-items:center;font-size:.78rem;font-weight:900;display:grid}.panel-title h2{margin-bottom:4px;font-size:clamp(1.25rem,2vw,1.7rem)}label,.segmented-wrap>span{color:#f7f1e6c7;gap:8px;margin-bottom:16px;font-size:.88rem;font-weight:750;display:grid}textarea,select,input[type=range]{width:100%}textarea,select{color:var(--cream);background:#071a159e;border:1px solid #f7f1e629;border-radius:8px}textarea{resize:vertical;min-height:128px;padding:14px}select{min-height:44px;padding:0 12px}input[type=range]{accent-color:var(--gold-2)}.form-row{grid-template-columns:1fr 1fr;gap:14px;display:grid}.segmented{background:#071a156b;border:1px solid #f7f1e621;border-radius:8px;grid-template-columns:repeat(3,1fr);gap:6px;padding:5px;display:grid}.segmented button{color:#f7f1e6ad;background:0 0;border:0;border-radius:6px;min-height:38px;font-weight:800}.segmented button.active{color:var(--gold-2);background:#d9bd7933}.metric-grid,.product-specs,.compound-grid{grid-template-columns:repeat(2,1fr);gap:12px;display:grid}.metric-card,.product-specs span,.compound-grid span,.variant-card{background:#071a1561;border:1px solid #f7f1e61f;border-radius:8px;padding:14px}.metric-card span,.product-specs span,.compound-grid span,.variant-card span,.masking-row span,.mechanism-box>span,.explain-grid span,.recommendation-hero span{color:#f7f1e6a3;letter-spacing:.04em;text-transform:uppercase;font-size:.78rem;font-weight:850}.metric-card strong,.product-specs strong,.compound-grid strong,.variant-card strong{color:var(--cream);margin-top:6px;font-size:1.5rem;display:block}.bar,.mini-bar i{background:#f7f1e61f;border-radius:999px;height:8px;display:block;overflow:hidden}.bar{margin-top:12px}.bar i,.mini-bar b{border-radius:inherit;background:linear-gradient(90deg, var(--tea), var(--gold-2));height:100%;display:block}.ai-summary,.mechanism-box{border-left:3px solid var(--gold-2);background:#d9bd7914;margin-top:18px;padding:16px 18px}.ai-summary span{color:var(--gold-2);font-weight:900}.ai-summary p,.mechanism-box p{margin:8px 0 0}.cluster-map{background-color:#071a1561;background-image:linear-gradient(#f7f1e60e 1px,#0000 1px),linear-gradient(90deg,#f7f1e60e 1px,#0000 1px),none;background-position:0 0,0 0,0 0;background-repeat:repeat,repeat,repeat;background-size:40px 40px;background-attachment:scroll,scroll,scroll;background-origin:padding-box,padding-box,padding-box;background-clip:border-box,border-box,border-box;border:1px solid #f7f1e61f;border-radius:8px;height:320px;position:relative}.cluster-bubble{color:#fffaf0;border:1px solid #fffaf033;border-radius:50%;place-items:center;display:grid;position:absolute;transform:translate(-50%,-50%)}.cluster-bubble span{text-align:center;width:86%;font-size:.72rem;font-weight:850;line-height:1.12}.radar-wrap{place-items:center;margin-top:18px;display:grid}.radar-wrap svg{width:min(100%,340px)}.radar-ring{fill:#0000;stroke:#f7f1e629}.radar-fill{fill:#d9bd7942;stroke:var(--gold-2);stroke-width:2px}.radar-wrap text{fill:#f7f1e6b3;font-size:8px;font-weight:700}.recommendation-card{min-height:100%;scroll-margin-top:92px}.recommendation-hero{background:linear-gradient(135deg,#d9bd7947,#80a8792e),#071a155c;border-radius:8px;padding:24px}.recommendation-hero h3{margin:8px 0;font-size:clamp(2rem,4vw,3.5rem)}.recommendation-hero strong{color:var(--gold-2)}.recommendation-rationale{margin:18px 0}.simulation-status{background:#8bb3911f;border:1px solid #8bb39152;border-radius:8px;gap:5px;margin:14px 0 18px;padding:13px 15px;animation:.52s statusPulse;display:grid}.simulation-status span{color:var(--tea);letter-spacing:.08em;text-transform:uppercase;font-size:.76rem;font-weight:900}.simulation-status strong{color:var(--cream);font-size:.94rem}.explain-grid{grid-template-columns:1fr 1fr;gap:12px;display:grid}.explain-grid div{border-top:1px solid #f7f1e61f;padding-top:14px}.graph-layout{grid-template-columns:minmax(0,1fr) 360px}.graph-panel{min-height:640px;padding:0;overflow:hidden}.graph-panel svg{background:radial-gradient(circle,#d9bd791f,#0000 42%),#071a1566;width:100%;height:640px}.edge{stroke:#d9bd795c;stroke-width:1.8px}.edge.co{stroke:#8bb39159;stroke-dasharray:6 7}.graph-node{cursor:pointer}.graph-node circle{stroke:#fffaf08c;stroke-width:1.2px;transform-box:fill-box;transform-origin:50%;transition:transform .16s,filter .16s}.graph-node:hover circle,.graph-node.active circle{filter:drop-shadow(0 0 16px #d9bd79b3);transform:scale(1.12)}.graph-node text{fill:#f7f1e6d1;pointer-events:none;font-size:12px;font-weight:800;transition:opacity .16s}.graph-node .ingredient-label{opacity:1}.graph-node .molecule-label{opacity:0}.graph-node:hover text,.graph-node.active text{opacity:1}.inspector{position:sticky;top:92px}.tag-row{flex-wrap:wrap;gap:8px;margin:16px 0;display:flex}.tag-row span,.note-list em{color:#f7f1e6c7;background:#f7f1e612;border:1px solid #f7f1e621;border-radius:999px;padding:7px 10px;font-size:.78rem;font-style:normal;font-weight:760}.relationship-list{gap:10px;margin-top:18px;display:grid}.relationship-list div,.masking-row,.iteration-list div{background:#071a155c;border:1px solid #f7f1e61f;border-radius:8px;justify-content:space-between;align-items:center;gap:12px;padding:12px;display:flex}.relationship-list strong,.masking-row strong,.iteration-list strong{color:var(--gold-2)}.masking-stack,.iteration-list,.sensory-list{gap:10px;display:grid}.masking-row p,.iteration-list p{margin:4px 0 0;font-size:.86rem}.iteration-list div{grid-template-columns:1fr auto;display:grid}.iteration-list p{grid-column:1/-1}.mini-bar{grid-template-columns:minmax(110px,1fr) minmax(100px,1.4fr) 46px;align-items:center;gap:10px;margin-top:12px;display:grid}.mini-bar em{color:#f7f1e6b8;font-size:.82rem;font-style:normal}.mini-bar strong{color:var(--cream);font-size:.86rem}.product-grid{grid-template-columns:repeat(2,1fr);gap:18px;display:grid}.product-card{border:1px solid var(--line);background:#f7f1e612;border-radius:8px;grid-template-columns:190px 1fr;gap:22px;padding:22px;display:grid}.product-card.active{border-color:#d9bd799e;box-shadow:0 20px 55px #d9bd791f}.can-visual{border:2px solid var(--gold-2);background:linear-gradient(180deg, #fffaf0e6, #eadfcab8), var(--cream);min-height:310px;color:var(--ink);text-align:center;border-radius:30px 30px 12px 12px;flex-direction:column;justify-content:center;align-items:center;display:flex}.can-visual span{letter-spacing:.18em;text-transform:uppercase;font-size:.78rem;font-weight:900}.can-visual strong{width:min-content;margin:24px 0;font-size:2rem;line-height:.96}.can-visual small{color:#16251fb3;font-weight:800}.product-content p{margin-bottom:14px}.note-list{flex-wrap:wrap;gap:8px;margin-bottom:16px;display:flex}.product-card button{margin-top:16px}.simulation-output{background:linear-gradient(135deg,#d9bd7929,#8bb39114),#f7f1e60f;border:1px solid #d9bd7952;border-radius:8px;grid-template-columns:minmax(0,.92fr) minmax(360px,1.08fr);gap:18px;margin-top:18px;padding:clamp(18px,2.4vw,28px);scroll-margin-top:92px;display:grid}.simulation-output.complete{animation:.56s statusPulse}.simulation-output h3{margin-bottom:12px}.pipeline-steps{grid-template-columns:repeat(2,1fr);gap:10px;display:grid}.pipeline-steps div{background:#071a155c;border:1px solid #f7f1e61f;border-radius:8px;gap:5px;padding:13px;display:grid}.pipeline-steps div.done{border-color:#8bb39157}.pipeline-steps span,.simulation-kpis span{color:var(--gold-2);font-size:.76rem;font-weight:900}.pipeline-steps strong{color:var(--cream)}.pipeline-steps em{color:#f7f1e6ad;font-size:.82rem;font-style:normal}.simulation-kpis{grid-column:1/-1;grid-template-columns:repeat(4,1fr);gap:10px;display:grid}.simulation-kpis span{text-transform:uppercase;background:#071a1552;border:1px solid #f7f1e61f;border-radius:8px;padding:12px}.simulation-kpis strong{color:var(--cream);text-transform:none;margin-top:5px;font-size:1rem;display:block}.variant-grid{grid-template-columns:repeat(5,1fr);gap:12px;display:grid}.variant-card p{margin:10px 0 0;font-size:.84rem}@keyframes statusPulse{0%{border-color:#d9bd79cc;transform:translateY(-3px)}to{border-color:#8bb39152;transform:translateY(0)}}@media (width<=1120px){.hero-section,.studio-grid,.two-column,.graph-layout,.product-grid,.simulation-output{grid-template-columns:1fr}.hero-visual{min-height:430px}.inspector{position:static}.variant-grid{grid-template-columns:repeat(3,1fr)}}@media (width<=720px){.nav{padding:14px 18px;position:sticky}.nav div{display:none}.hero-section{min-height:auto;padding-top:54px}.hero-visual,.graph-panel,.graph-panel svg{height:360px;min-height:360px}.form-row,.metric-grid,.explain-grid,.product-specs,.compound-grid,.product-card,.variant-grid,.pipeline-steps,.simulation-kpis,.segmented,.mini-bar{grid-template-columns:1fr}}
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>MoBai (茉白) FlavorGraph Dashboard</title>
-        <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-        <style>
-            body {
-                font-family: 'Inter', sans-serif;
-                background-color: #0b0f19;
-                color: #e2e8f0;
-                margin: 0;
-                padding: 0;
+
+
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+      // --- DATA STRUCTURES ---
+      const compoundDatabase = {
+        "ethyl butanoate": {
+          cid: 7762, formula: "C6H12O2", weight: 116.16, smiles: "CCCC(=O)OCC", xlogp: 1.8, tpsa: 26.3, categories: ["fruit", "ester", "sweet", "volatile", "mango"]
+        }, "3-carene": {
+          cid: 24247, formula: "C10H16", weight: 136.24, smiles: "CC1=CCC2C(C1)C2(C)C", xlogp: 4.1, tpsa: 0, categories: ["terpene", "piney", "volatile", "mango"]
+        }, "alpha-terpinolene": {
+          cid: 11463, formula: "C10H16", weight: 136.24, smiles: "CC1=CCC(=C(C)C)CC1", xlogp: 4.3, tpsa: 0, categories: ["terpene", "herbal", "volatile", "mango"]
+        }, "beta-myrcene": {
+          cid: 31253, formula: "C10H16", weight: 136.24, smiles: "CC(=CCCC(=C)C=C)C", xlogp: 4.3, tpsa: 0, categories: ["terpene", "musty", "volatile", "mango", "masking"]
+        }, limonene: {
+          cid: 22311, formula: "C10H16", weight: 136.24, smiles: "CC1=CCC(CC1)C(=C)C", xlogp: 4.6, tpsa: 0, categories: ["terpene", "citrus", "volatile", "mango", "masking"]
+        }, "gamma-terpinene": {
+          cid: 17100, formula: "C10H16", weight: 136.24, smiles: "CC1=CCC(C=C1)C(C)C", xlogp: 4.3, tpsa: 0, categories: ["terpene", "lemon", "volatile", "mango"]
+        }, "isoamyl acetate": {
+          cid: 31276, formula: "C7H14O2", weight: 130.18, smiles: "CC(C)CCOC(=O)C", xlogp: 2.3, tpsa: 26.3, categories: ["ester", "banana", "volatile", "mango", "sweet"]
+        }, "4-hydroxy-2,5-dimethyl-3(2H)-furanone": {
+          cid: 19309, formula: "C6H8O3", weight: 128.13, smiles: "CC1C(=O)C(=C(O1)C)O", xlogp: -0.4, tpsa: 46.5, categories: ["furanone", "sweet", "caramel", "mango"]
+        }, "benzyl acetate": {
+          cid: 8789, formula: "C9H10O2", weight: 150.17, smiles: "CC(=O)OCC1=CC=CC=C1", xlogp: 2, tpsa: 26.3, categories: ["ester", "floral", "volatile", "jasmine", "masking"]
+        }, linalool: {
+          cid: 6549, formula: "C10H18O", weight: 154.25, smiles: "CC(=CCCC(C)(C=C)O)C", xlogp: 3, tpsa: 20.2, categories: ["alcohol", "floral", "volatile", "jasmine", "tea", "masking"]
+        }, "benzyl benzoate": {
+          cid: 2345, formula: "C14H12O2", weight: 212.24, smiles: "C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2", xlogp: 4, tpsa: 26.3, categories: ["ester", "balsamic", "volatile", "jasmine"]
+        }, "methyl jasmonate": {
+          cid: 5281907, formula: "C13H20O3", weight: 224.3, smiles: "COC(=O)CC1C(CC=CCC)C(=O)CC1", xlogp: 2.3, tpsa: 43.4, categories: ["ester", "floral", "volatile", "jasmine"]
+        }, indole: {
+          cid: 798, formula: "C8H7N", weight: 117.15, smiles: "C1=CC=C2C(=C1)C=CN2", xlogp: 2.1, tpsa: 15.8, categories: ["nitrogen", "floral", "volatile", "jasmine"]
+        }, "cis-jasmone": {
+          cid: 1549018, formula: "C11H16O", weight: 164.24, smiles: "CC=CCC1=C(C(=O)CC1)C", xlogp: 2.6, tpsa: 17.1, categories: ["ketone", "floral", "volatile", "jasmine"]
+        }, "alpha-farnesene": {
+          cid: 5281517, formula: "C15H24", weight: 204.35, smiles: "CC(=CCCC(=C)CCC=C(C)C)C", xlogp: 6.4, tpsa: 0, categories: ["terpene", "woody", "volatile", "jasmine"]
+        }, "delta-decalactone": {
+          cid: 21458, formula: "C10H18O2", weight: 170.25, smiles: "CCCCCC1CCC(=O)O1", xlogp: 2.2, tpsa: 26.3, categories: ["lactone", "creamy", "coconut", "sweet", "masking"]
+        }, "gamma-nonalactone": {
+          cid: 11508, formula: "C9H16O2", weight: 156.22, smiles: "CCCCC1CCC(=O)O1", xlogp: 1.8, tpsa: 26.3, categories: ["lactone", "coconut", "sweet", "volatile"]
+        }, "caprylic acid": {
+          cid: 379, formula: "C8H16O2", weight: 144.21, smiles: "CCCCCCCC(=O)O", xlogp: 3, tpsa: 37.3, categories: ["acid", "fatty", "coconut", "off_note", "soapy"]
+        }, "capric acid": {
+          cid: 2967, formula: "C10H20O2", weight: 172.26, smiles: "CCCCCCCCCC(=O)O", xlogp: 4.1, tpsa: 37.3, categories: ["acid", "fatty", "coconut", "off_note", "soapy"]
+        }, "lauric acid": {
+          cid: 3893, formula: "C12H24O2", weight: 200.32, smiles: "CCCCCCCCCCCC(=O)O", xlogp: 5, tpsa: 37.3, categories: ["acid", "fatty", "coconut", "off_note", "soapy"]
+        }, "delta-octalactone": {
+          cid: 28143, formula: "C8H14O2", weight: 142.2, smiles: "CCCC1CCC(=O)O1", xlogp: 1.2, tpsa: 26.3, categories: ["lactone", "creamy", "coconut", "sweet"]
+        }, methylheptanone: {
+          cid: 11559, formula: "C7H14O", weight: 114.19, smiles: "CC(C)CCC(=O)C", xlogp: 1.9, tpsa: 17.1, categories: ["ketone", "nutty", "coconut", "volatile"]
+        }, geraniol: {
+          cid: 637566, formula: "C10H18O", weight: 154.25, smiles: "CC(=CCCC(=CCO)C)C", xlogp: 3.6, tpsa: 20.2, categories: ["alcohol", "floral", "tea", "rose", "volatile"]
+        }, pyrazine: {
+          cid: 9261, formula: "C4H4N2", weight: 80.09, smiles: "C1=CN=CC=N1", xlogp: -0.2, tpsa: 25.8, categories: ["nitrogen", "roasted", "tea", "nutty"]
+        }, "2-methylpyrazine": {
+          cid: 13589, formula: "C5H6N2", weight: 94.11, smiles: "CC1=CN=CC=N1", xlogp: 0.2, tpsa: 25.8, categories: ["nitrogen", "roasted", "tea", "nutty"]
+        }, benzaldehyde: {
+          cid: 240, formula: "C7H6O", weight: 106.12, smiles: "C1=CC=C(C=C1)C=O", xlogp: 1.5, tpsa: 17.1, categories: ["aldehyde", "almond", "tea", "volatile", "masking"]
+        }, phenylacetaldehyde: {
+          cid: 998, formula: "C8H8O", weight: 120.15, smiles: "C1=CC=C(C=C1)CC=O", xlogp: 1.8, tpsa: 17.1, categories: ["aldehyde", "honey", "tea", "volatile", "masking"]
+        }, theaflavin: {
+          cid: 114777, formula: "C29H24O12", weight: 564.5, smiles: "complex", xlogp: 1.2, tpsa: 221, categories: ["phenol", "astringent", "tea", "bitter"]
+        }, catechin: {
+          cid: 9064, formula: "C15H14O6", weight: 290.27, smiles: "complex", xlogp: 0.4, tpsa: 110, categories: ["phenol", "astringent", "tea", "bitter", "masking"]
+        }, caffeine: {
+          cid: 2519, formula: "C8H10N4O2", weight: 194.19, smiles: "CN1C=NC2=C1C(=O)N(C(=O)N2C)C", xlogp: -0.1, tpsa: 58.4, categories: ["alkaloid", "bitter", "tea", "stimulant"]
+        }, acetaldehyde: {
+          cid: 177, formula: "C2H4O", weight: 44.05, smiles: "CC=O", xlogp: -0.2, tpsa: 17.1, categories: ["aldehyde", "pungent", "yogurt", "volatile", "masking"]
+        }, diacetyl: {
+          cid: 10430, formula: "C4H6O2", weight: 86.09, smiles: "CC(=O)C(=O)C", xlogp: -1.3, tpsa: 34.1, categories: ["ketone", "buttery", "yogurt", "volatile", "masking"]
+        }, acetoin: {
+          cid: 179, formula: "C4H8O2", weight: 88.11, smiles: "CC(C(=O)C)O", xlogp: -0.9, tpsa: 37.3, categories: ["ketone", "buttery", "yogurt", "volatile", "masking"]
+        }, "lactic acid": {
+          cid: 612, formula: "C3H6O3", weight: 90.08, smiles: "CC(C(=O)O)O", xlogp: -0.7, tpsa: 57.5, categories: ["acid", "sour", "yogurt", "masking"]
+        }, "acetic acid": {
+          cid: 176, formula: "C2H4O2", weight: 60.05, smiles: "CC(=O)O", xlogp: -0.2, tpsa: 37.3, categories: ["acid", "vinegar", "yogurt", "volatile"]
+        }, "butyric acid": {
+          cid: 264, formula: "C4H8O2", weight: 88.11, smiles: "CCCC(=O)O", xlogp: 0.8, tpsa: 37.3, categories: ["acid", "cheesy", "yogurt", "volatile"]
+        }, "ethyl acetate": {
+          cid: 8857, formula: "C4H8O2", weight: 88.11, smiles: "CCOC(=O)C", xlogp: 0.7, tpsa: 26.3, categories: ["ester", "fruity", "yogurt", "volatile"]
+        }, leucine: {
+          cid: 6106, formula: "C6H13NO2", weight: 131.17, smiles: "CC(C)CC(C(=O)O)N", xlogp: -1.5, tpsa: 63.3, categories: ["amino_acid", "bitter", "off_note"]
+        }, isoleucine: {
+          cid: 6306, formula: "C6H13NO2", weight: 131.17, smiles: "CCC(C)C(C(=O)O)N", xlogp: -1.5, tpsa: 63.3, categories: ["amino_acid", "bitter", "off_note"]
+        }, valine: {
+          cid: 6287, formula: "C5H11NO2", weight: 117.15, smiles: "CC(C)C(C(=O)O)N", xlogp: -1.6, tpsa: 63.3, categories: ["amino_acid", "bitter", "off_note"]
+        }, phenylalanine: {
+          cid: 6140, formula: "C9H11NO2", weight: 165.19, smiles: "C1=CC=C(C=C1)CC(C(=O)O)N", xlogp: -1.4, tpsa: 63.3, categories: ["amino_acid", "bitter", "off_note"]
+        }, tryptophan: {
+          cid: 6305, formula: "C11H12N2O2", weight: 204.23, smiles: "complex", xlogp: -1.1, tpsa: 79.1, categories: ["amino_acid", "bitter", "off_note"]
+        }, quinine: {
+          cid: 3034034, formula: "C20H24N2O2", weight: 324.4, smiles: "complex", xlogp: 3.4, tpsa: 45.9, categories: ["alkaloid", "bitter"]
+        }, naringenin: {
+          cid: 932, formula: "C15H12O5", weight: 272.25, smiles: "complex", xlogp: 2.4, tpsa: 86.9, categories: ["phenol", "bitter"]
+        }, limonin: {
+          cid: 176151, formula: "C26H30O8", weight: 470.5, smiles: "complex", xlogp: 0.8, tpsa: 105, categories: ["terpene", "bitter"]
+        }, vanillin: {
+          cid: 1183, formula: "C8H8O3", weight: 152.15, smiles: "COC1=C(C=CC(=C1)C=O)O", xlogp: 1.2, tpsa: 46.5, categories: ["phenol", "sweet", "vanilla", "masking"]
+        }, maltol: {
+          cid: 8369, formula: "C6H6O3", weight: 126.11, smiles: "CC1=C(C(=O)C=CO1)O", xlogp: -0.1, tpsa: 46.5, categories: ["ketone", "sweet", "caramel", "masking"]
+        }, glucose: {
+          cid: 5793, formula: "C6H12O6", weight: 180.16, smiles: "complex", xlogp: -3.2, tpsa: 110, categories: ["sugar", "sweet"]
+        }, sucrose: {
+          cid: 5988, formula: "C12H22O11", weight: 342.3, smiles: "complex", xlogp: -3.7, tpsa: 190, categories: ["sugar", "sweet"]
+        }, "2-acetyl-1-pyrroline": {
+          cid: 139178, formula: "C6H9NO", weight: 111.14, smiles: "CC(=O)C1=NCCC1", xlogp: 0.4, tpsa: 29.9, categories: ["nitrogen", "roasted", "pandan", "taro"]
+        }, "beta-ionone": {
+          cid: 638014, formula: "C13H20O", weight: 192.3, smiles: "complex", xlogp: 3.8, tpsa: 17.1, categories: ["ketone", "violet", "osmanthus"]
+        }, "gamma-decalactone": {
+          cid: 12810, formula: "C10H18O2", weight: 170.25, smiles: "CCCCCC1CCC(=O)O1", xlogp: 2.2, tpsa: 26.3, categories: ["lactone", "creamy", "osmanthus", "peach"]
+        }, borneol: {
+          cid: 6552, formula: "C10H18O", weight: 154.25, smiles: "complex", xlogp: 2.7, tpsa: 20.2, categories: ["alcohol", "piney", "chrysanthemum"]
+        }, camphor: {
+          cid: 2537, formula: "C10H16O", weight: 152.23, smiles: "complex", xlogp: 2.4, tpsa: 17.1, categories: ["ketone", "pungent", "chrysanthemum"]
+        }, "alpha-terpineol": {
+          cid: 17103, formula: "C10H18O", weight: 154.25, smiles: "complex", xlogp: 2.6, tpsa: 20.2, categories: ["alcohol", "lilac", "chrysanthemum"]
+        }, "ethyl hexanoate": {
+          cid: 31265, formula: "C8H16O2", weight: 144.21, smiles: "CCCCCC(=O)OCC", xlogp: 2.8, tpsa: 26.3, categories: ["ester", "fruity", "passionfruit"]
+        }, gingerol: {
+          cid: 442435, formula: "C17H26O4", weight: 294.39, smiles: "complex", xlogp: 2.7, tpsa: 66.8, categories: ["phenol", "ketone", "ginger", "pungent"]
+        }, "alpha-pinene": {
+          cid: 6654, formula: "C10H16", weight: 136.24, smiles: "complex", xlogp: 4.1, tpsa: 0, categories: ["terpene", "piney", "yuzu"]
+        }, citronellol: {
+          cid: 8842, formula: "C10H20O", weight: 156.27, smiles: "complex", xlogp: 3.4, tpsa: 20.2, categories: ["alcohol", "rose", "floral"]
+        }, citral: {
+          cid: 638011, formula: "C10H16O", weight: 152.23, smiles: "complex", xlogp: 2.8, tpsa: 17.1, categories: ["aldehyde", "lemon", "lemongrass"]
+        }, "phenylethyl alcohol": {
+          cid: 6054, formula: "C8H10O", weight: 122.16, smiles: "complex", xlogp: 1.4, tpsa: 20.2, categories: ["alcohol", "rose", "floral"]
+        }, "dimethyl sulfide": {
+          cid: 1068, formula: "C2H6S", weight: 62.13, smiles: "CSC", xlogp: 0.9, tpsa: 0, categories: ["sulfur", "cabbage", "off_note"]
+        }, "dimethyl disulfide": {
+          cid: 12232, formula: "C2H6S2", weight: 94.2, smiles: "CSSC", xlogp: 1.8, tpsa: 0, categories: ["sulfur", "garlic", "off_note"]
+        }, hexanal: {
+          cid: 6184, formula: "C6H12O", weight: 100.16, smiles: "CCCCCC=O", xlogp: 1.8, tpsa: 17.1, categories: ["aldehyde", "grassy", "off_note"]
+        }, nonanal: {
+          cid: 31289, formula: "C9H18O", weight: 142.24, smiles: "CCCCCCCCC=O", xlogp: 3.4, tpsa: 17.1, categories: ["aldehyde", "fatty", "off_note"]
+        }, heptanal: {
+          cid: 8130, formula: "C7H14O", weight: 114.19, smiles: "CCCCCCC=O", xlogp: 2.3, tpsa: 17.1, categories: ["aldehyde", "harsh", "off_note"]
+        }, "2-heptanone": {
+          cid: 8051, formula: "C7H14O", weight: 114.19, smiles: "CCCCCC(=O)C", xlogp: 2, tpsa: 17.1, categories: ["ketone", "blue_cheese", "off_note"]
+        }
+      };
+
+      const f = {
+        mango: ["ethyl butanoate", "3-carene", "alpha-terpinolene", "beta-myrcene", "limonene", "gamma-terpinene", "isoamyl acetate", "4-hydroxy-2,5-dimethyl-3(2H)-furanone"],
+        jasmine: ["benzyl acetate", "linalool", "benzyl benzoate", "methyl jasmonate", "indole", "cis-jasmone", "alpha-farnesene"],
+        coconut: ["delta-decalactone", "gamma-nonalactone", "caprylic acid", "capric acid", "lauric acid", "delta-octalactone", "methylheptanone"],
+        milk_tea: ["geraniol", "linalool", "pyrazine", "2-methylpyrazine", "benzaldehyde", "phenylacetaldehyde", "theaflavin", "catechin", "caffeine"],
+        yogurt_base: ["acetaldehyde", "diacetyl", "acetoin", "lactic acid", "acetic acid", "butyric acid", "ethyl acetate"]
+      };
+
+      const p = {
+        lychee: ["linalool", "isoamyl acetate", "ethyl acetate", "geraniol", "rose", "benzaldehyde"],
+        pandan: ["2-acetyl-1-pyrroline", "linalool", "pyrazine", "badge", "ethyl acetate"],
+        osmanthus: ["linalool", "beta-ionone", "gamma-decalactone", "geraniol"],
+        chrysanthemum: ["linalool", "borneol", "camphor", "alpha-terpineol"],
+        longan: ["ethyl acetate", "linalool", "limonene", "geraniol"],
+        passionfruit: ["ethyl butanoate", "linalool", "limonene", "ethyl hexanoate"],
+        taro: ["2-acetyl-1-pyrroline", "maltol", "vanillin"],
+        matcha: ["caffeine", "linalool", "geraniol", "pyrazine"],
+        hojicha: ["pyrazine", "2-methylpyrazine", "benzaldehyde", "phenylacetaldehyde"],
+        ginger: ["gingerol", "limonene", "beta-myrcene", "geraniol"]
+      };
+
+      const m = { ...f, ...p };
+
+      const h = {
+        "Sulphury Volatiles": ["dimethyl sulfide", "dimethyl disulfide"],
+        "Carbonyl/Aldehydes": ["hexanal", "nonanal", "heptanal", "2-heptanone"],
+        "Soapy Fatty Acids": ["caprylic acid", "capric acid", "lauric acid"],
+        "Bitter Peptides": ["leucine", "isoleucine", "valine", "phenylalanine", "tryptophan"]
+      };
+
+      const g = {
+        "Sulphury Volatiles": { "Lactic Base": 100, "Mango Terpenes": 100, "Jasmine Esters": 99.9, "Coconut & Tea Tannins": 100, "KGM Viscosity": 75 },
+        "Carbonyl/Aldehydes": { "Lactic Base": 99.9, "Mango Terpenes": 99.7, "Jasmine Esters": 99.7, "Coconut & Tea Tannins": 100, "KGM Viscosity": 65 },
+        "Soapy Fatty Acids": { "Lactic Base": 99.8, "Mango Terpenes": 99.6, "Jasmine Esters": 99.7, "Coconut & Tea Tannins": 100, "KGM Viscosity": 55 },
+        "Bitter Peptides": { "Lactic Base": 100, "Mango Terpenes": 99.9, "Jasmine Esters": 100, "Coconut & Tea Tannins": 99.9, "KGM Viscosity": 45 }
+      };
+
+      const bitterCompounds = [
+        { compound: "tryptophan", probability: 0.91, status: "bitter risk", weight: 204.23 },
+        { compound: "leucine", probability: 0.906, status: "bitter risk", weight: 131.17 },
+        { compound: "valine", probability: 0.902, status: "bitter risk", weight: 117.15 },
+        { compound: "isoleucine", probability: 0.902, status: "bitter risk", weight: 131.17 },
+        { compound: "phenylalanine", probability: 0.874, status: "bitter risk", weight: 165.19 },
+        { compound: "limonin", probability: 0.866, status: "bitter risk", weight: 470.5 },
+        { compound: "quinine", probability: 0.762, status: "bitter risk", weight: 324.4 },
+        { compound: "caffeine", probability: 0.698, status: "bitter risk", weight: 194.19 },
+        { compound: "theaflavin", probability: 0.696, status: "bitter risk", weight: 564.5 },
+        { compound: "cyclodextrin", probability: 0.694, status: "bitter risk", weight: 1135 },
+        { compound: "lactic acid", probability: 0.598, status: "bitter risk", weight: 90.08 },
+        { compound: "malic acid", probability: 0.518, status: "bitter risk", weight: 134.09 },
+        { compound: "naringenin", probability: 0.694, status: "bitter risk", weight: 272.25 },
+        { compound: "catechin", probability: 0.414, status: "safe", weight: 290.27 },
+        { compound: "linalool", probability: 0.056, status: "safe", weight: 154.25 },
+        { compound: "vanillin", probability: 0.102, status: "safe", weight: 152.15 },
+        { compound: "sucrose", probability: 0.072, status: "safe", weight: 342.3 },
+        { compound: "glucose", probability: 0.106, status: "safe", weight: 180.16 },
+        { compound: "benzyl acetate", probability: 0.152, status: "safe", weight: 150.17 },
+        { compound: "geraniol", probability: 0.1, status: "safe", weight: 154.25 },
+        { compound: "ethyl acetate", probability: 0.064, status: "safe", weight: 88.11 },
+        { compound: "limonene", probability: 0.244, status: "safe", weight: 136.24 },
+        { compound: "delta-decalactone", probability: 0.13, status: "safe", weight: 170.25 },
+        { compound: "maltol", probability: 0.154, status: "safe", weight: 126.11 },
+        { compound: "acetaldehyde", probability: 0.088, status: "safe", weight: 44.05 }
+      ];
+
+      const adjacentVariantsList = [
+        { ingredient: "passionfruit", simToCentroid: 0.9999, maskingScore: 0.9988, noveltyScore: 108e-6, compositeScore: 0.7995, relevance: "high", compounds: ["ethyl butyrate", "linalool", "limonene", "ethyl hexanoate"] },
+        { ingredient: "taro", simToCentroid: 0.9999, maskingScore: 0.9986, noveltyScore: 55e-6, compositeScore: 0.7994, relevance: "high", compounds: ["2-acetyl-1-pyrroline", "maltol", "vanillin"] },
+        { ingredient: "osmanthus", simToCentroid: 0.9998, maskingScore: 0.9983, noveltyScore: 226e-6, compositeScore: 0.7993, relevance: "high", compounds: ["linalool", "beta-ionone", "gamma-decalactone", "geraniol"] },
+        { ingredient: "ginger", simToCentroid: 0.9998, maskingScore: 0.9983, noveltyScore: 168e-6, compositeScore: 0.7993, relevance: "medium", compounds: ["gingerol", "limonene", "beta-myrcene", "geraniol"] },
+        { ingredient: "pandan", simToCentroid: 0.9999, maskingScore: 0.9982, noveltyScore: 137e-6, compositeScore: 0.7992, relevance: "high", compounds: ["2-acetyl-1-pyrroline", "linalool", "pyrazine", "ethyl acetate"] },
+        { ingredient: "lychee", simToCentroid: 0.9998, maskingScore: 0.9981, noveltyScore: 186e-6, compositeScore: 0.7992, relevance: "high", compounds: ["linalool", "isoamyl acetate", "ethyl acetate", "geraniol", "benzaldehyde"] },
+        { ingredient: "hojicha", simToCentroid: 0.9996, maskingScore: 0.998, noveltyScore: 365e-6, compositeScore: 0.7991, relevance: "high", compounds: ["pyrazine", "2-methylpyrazine", "benzaldehyde", "phenylacetaldehyde"] },
+        { ingredient: "longan", simToCentroid: 0.9996, maskingScore: 0.9977, noveltyScore: 354e-6, compositeScore: 0.799, relevance: "high", compounds: ["ethyl acetate", "linalool", "limonene", "geraniol"] },
+        { ingredient: "chrysanthemum", simToCentroid: 0.9996, maskingScore: 0.9977, noveltyScore: 413e-6, compositeScore: 0.799, relevance: "medium", compounds: ["linalool", "borneol", "camphor", "alpha-terpineol"] },
+        { ingredient: "matcha", simToCentroid: 0.9996, maskingScore: 0.9977, noveltyScore: 376e-6, compositeScore: 0.799, relevance: "high", compounds: ["caffeine", "linalool", "geraniol", "pyrazine"] }
+      ];
+
+      const precomputedPairings = {
+        mango_jasmine: { score: 0.9999, label: "STRONG PAIRING" },
+        coconut_milk_tea: { score: 0.9982, label: "STRONG PAIRING" },
+        mango_yogurt_base: { score: 0.9998, label: "STRONG PAIRING" },
+        jasmine_yogurt_base: { score: 0.9998, label: "STRONG PAIRING" }
+      };
+
+      const ingredientColors = {
+        mango: { emoji: "🥭", color: "#FFB347", description: "Tropical fruity terpenes & esters" },
+        jasmine: { emoji: "🌸", color: "#E8B4E0", description: "Floral linalool & benzyl acetate" },
+        coconut: { emoji: "🥥", color: "#F5E6D3", description: "Creamy lactones & fatty acids" },
+        milk_tea: { emoji: "🧋", color: "#D4A574", description: "Roasted pyrazines & tea tannins" },
+        yogurt_base: { emoji: "🥛", color: "#FAFAFA", description: "Lactic acid, diacetyl, acetoin" },
+        lychee: { emoji: "🍈", color: "#FFB6C1", description: "Sweet floral esters" },
+        pandan: { emoji: "🌿", color: "#90EE90", description: "Roasted pyrroline notes" },
+        osmanthus: { emoji: "🌼", color: "#FFD700", description: "Rich ionone & lactone" },
+        chrysanthemum: { emoji: "🏵️", color: "#DAA520", description: "Borneol & camphor herbal" },
+        longan: { emoji: "🫐", color: "#DEB887", description: "Light fruity esters" },
+        passionfruit: { emoji: "💛", color: "#FFD93D", description: "Ethyl esters & linalool" },
+        taro: { emoji: "🟣", color: "#9B59B6", description: "Pyrroline, maltol, vanillin" },
+        matcha: { emoji: "🍵", color: "#68A67D", description: "Caffeine & green tea terpenes" },
+        hojicha: { emoji: "☕", color: "#8B4513", description: "Deep roasted pyrazines" },
+        ginger: { emoji: "🫚", color: "#FFA07A", description: "Gingerol pungent phenols" }
+      };
+
+      const categories = "fruit.ester.sweet.volatile.terpene.alcohol.floral.lactone.acid.fatty.nitrogen.ketone.aldehyde.phenol.sugar.masking.bitter.off_note.soapy.sulfur.mango.jasmine.coconut.tea.yogurt.roasted.creamy.pungent.herbal.citrus.piney.rose.caramel".split(".");
+
+      const initialInputs = {
+        complaint: "Consumers dislike chalky whey drinks and want lighter tea-inspired morning beverages with less artificial aftertaste.",
+        chalkiness: 72,
+        sweetness: "balanced",
+        texture: "light",
+        teaProfile: "jasmine tea",
+        region: "Shanghai",
+        occasion: "weekday morning",
+        targetMarket: "modern time-pressed Asian consumers",
+        proteinBase: "whey isolate",
+        flavorDirection: "mango-jasmine"
+      };
+
+      const regionalPriors = {
+        Shanghai: { tea: 92, sweet: 48, cream: 42, novelty: 78 },
+        Jakarta: { tea: 72, sweet: 72, cream: 68, novelty: 74 },
+        Singapore: { tea: 84, sweet: 58, cream: 55, novelty: 82 },
+        Bangkok: { tea: 68, sweet: 76, cream: 52, novelty: 80 },
+        Tokyo: { tea: 88, sweet: 42, cream: 50, novelty: 64 }
+      };
+
+      const concepts = {
+        "mango-jasmine": {
+          name: "Mango Jasmine",
+          ingredients: ["mango", "jasmine", "yogurt_base"],
+          badge: "Tea-bright tropical lift",
+          notes: ["golden mango ester top note", "jasmine linalool bridge", "clean lactic finish"],
+          positioning: "Light, floral, refreshing RTD protein for morning and commute occasions.",
+          sweetness: "4.8 / 10",
+          texture: "light satin",
+          protein: "12 g",
+          color: "#d8a645"
+        },
+        "coconut-milk-tea": {
+          name: "Coconut Milk Tea",
+          ingredients: ["coconut", "milk_tea", "yogurt_base"],
+          badge: "Creamy tea familiarity",
+          notes: ["coconut lactone body", "roasted milk tea pyrazines", "soft tannin structure"],
+          positioning: "Comforting but lighter milk-tea RTD protein for afternoon recharge.",
+          sweetness: "5.6 / 10",
+          texture: "silky medium",
+          protein: "12 g",
+          color: "#b98f5a"
+        }
+      };
+
+      const sentimentClusters = [
+        { name: "Chalky whey avoiders", x: 16, y: 64, size: 68, color: "#c97055" },
+        { name: "Tea-first refreshment seekers", x: 48, y: 32, size: 92, color: "#80a879" },
+        { name: "Milk tea loyalists", x: 73, y: 57, size: 76, color: "#c2a46a" },
+        { name: "Low-sugar optimizers", x: 84, y: 24, size: 50, color: "#8ebfb2" }
+      ];
+
+      // --- UTILITY FUNCTIONS ---
+      function clamp(e, t = 0, n = 100) {
+        return Math.max(t, Math.min(n, e));
+      }
+
+      function formatName(e) {
+        return e.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+      }
+
+      function getIngredientsList(direction) {
+        return [...concepts[direction].ingredients];
+      }
+
+      // --- VECTOR MATHEMATICS & COMPATIBILITY ---
+      function getCompoundVector(compound) {
+        return [
+          Math.min(compound.weight / 600, 1),
+          (compound.xlogp + 4) / 12,
+          Math.min(compound.tpsa / 250, 1),
+          ...categories.map(cat => +!!compound.categories.includes(cat))
+        ];
+      }
+
+      function getIngredientVector(ingredient) {
+        let compounds = m[ingredient];
+        if (!compounds || compounds.length === 0) return Array(categories.length + 3).fill(0);
+        let vectors = compounds.map(c => compoundDatabase[c]).filter(Boolean).map(getCompoundVector);
+        if (vectors.length === 0) return Array(categories.length + 3).fill(0);
+        let len = vectors[0].length, mean = Array(len).fill(0);
+        for (let vec of vectors) {
+          for (let i = 0; i < len; i++) mean[i] += vec[i];
+        }
+        for (let i = 0; i < len; i++) mean[i] /= vectors.length;
+        return mean;
+      }
+
+      function cosineSimilarity(vecA, vecB) {
+        let dotProduct = 0, normA = 0, normB = 0;
+        for (let i = 0; i < vecA.length; i++) {
+          dotProduct += vecA[i] * vecB[i];
+          normA += vecA[i] * vecA[i];
+          normB += vecB[i] * vecB[i];
+        }
+        normA = Math.sqrt(normA);
+        normB = Math.sqrt(normB);
+        return normA === 0 || normB === 0 ? 0 : dotProduct / (normA * normB);
+      }
+
+      function calculatePairing(ingA, ingB) {
+        let key = `${ingA}_${ingB}`, altKey = `${ingB}_${ingA}`;
+        let precomputed = precomputedPairings[key] || precomputedPairings[altKey];
+        let score = precomputed ? precomputed.score : cosineSimilarity(getIngredientVector(ingA), getIngredientVector(ingB));
+        let validation = "", mechanism = "";
+        if (score > 0.85) {
+          validation = "STRONG PAIRING";
+          mechanism = "Shared molecular pathways and overlapping receptor binding profiles create seamless flavor transitions.";
+        } else if (score > 0.6) {
+          validation = "MODERATE PAIRING";
+          mechanism = "Complementary molecular profiles with partial overlap — good for creating layered sensory experiences.";
+        } else if (score > 0.3) {
+          validation = "WEAK PAIRING";
+          mechanism = "Contrasting molecular profiles — may create interesting contrast but requires careful balance.";
+        } else {
+          validation = "INCOMPATIBLE";
+          mechanism = "Very different molecular signatures — high risk of clashing flavors and poor consumer acceptance.";
+        }
+        let catA = (m[ingA] || []).flatMap(c => compoundDatabase[c]?.categories || []);
+        let catB = (m[ingB] || []).flatMap(c => compoundDatabase[c]?.categories || []);
+        let setA = new Set(catA);
+        let shared = [...new Set(catB.filter(c => setA.has(c)))].filter(c => !["volatile", "masking", "off_note"].includes(c));
+        return {
+          ingredient1: ingA, ingredient2: ingB, score, validation, sharedCategories: shared, mechanism
+        };
+      }
+
+      function calculateOffNoteCoverage() {
+        let results = [];
+        for (let [offNoteClass, mechanisms] of Object.entries(g)) {
+          let scores = Object.values(mechanisms);
+          let avg = scores.reduce((sum, s) => sum + s, 0) / scores.length;
+          let minScore = Math.min(...scores);
+          let gap = minScore < 60;
+          let recommendation = minScore < 50 
+            ? "Critical gap — consider adding competitive receptor blockers like vanillin or sodium chloride." 
+            : minScore < 70 
+              ? "Minor gap in physical entrapment — increase KGM concentration to 0.3-0.5%." 
+              : "Excellent coverage across all masking mechanisms.";
+          results.push({
+            offNoteClass, mechanisms, overallCoverage: Number(avg.toFixed(1)), gapIdentified: gap, recommendation
+          });
+        }
+        return results;
+      }
+
+      function calculateMaskingScores(ingredients) {
+        let scores = {};
+        for (let offNoteClass of Object.keys(h)) {
+          let targets = h[offNoteClass], activeCompounds = ingredients.flatMap(ing => m[ing] || []), sumSim = 0, count = 0;
+          for (let target of targets) {
+            let tComp = compoundDatabase[target];
+            if (!tComp) continue;
+            let tVec = getCompoundVector(tComp);
+            for (let active of activeCompounds) {
+              let aComp = compoundDatabase[active];
+              if (!aComp) continue;
+              let aVec = getCompoundVector(aComp);
+              sumSim += cosineSimilarity(tVec, aVec);
+              count++;
             }
-            .container {
-                max-width: 1200px;
-                margin: 0 auto;
-                padding: 20px;
+          }
+          scores[offNoteClass] = count > 0 ? Number((sumSim / count * 100).toFixed(1)) : 0;
+        }
+        return scores;
+      }
+
+      function calculateAdjacentTerritory(ingredient) {
+        let compounds = m[ingredient];
+        if (!compounds) return null;
+        let centroids = ["mango", "jasmine", "coconut", "milk_tea"].map(getIngredientVector), len = centroids[0].length, avgCentroid = Array(len).fill(0);
+        for (let c of centroids) {
+          for (let i = 0; i < len; i++) avgCentroid[i] += c[i];
+        }
+        for (let i = 0; i < len; i++) avgCentroid[i] /= centroids.length;
+        let pairingScore = cosineSimilarity(getIngredientVector(ingredient), avgCentroid);
+        let maskingScores = calculateMaskingScores([ingredient]);
+        let avgMasking = Object.values(maskingScores).reduce((sum, s) => sum + s, 0) / Object.values(maskingScores).length;
+        let distance = 1 - pairingScore, compositeScore = 0.4 * pairingScore + (avgMasking / 100) * 0.4 + 0.2 * distance;
+        return {
+          ingredient, pairingScore: Number(pairingScore.toFixed(4)), maskingCoverage: maskingScores, avgMaskingScore: Number(avgMasking.toFixed(1)), compositeScore: Number(compositeScore.toFixed(4)), compounds
+        };
+      }
+
+      function buildGraph(ingredients) {
+        let nodes = [], edges = [], addedMolecules = new Set(), count = ingredients.length;
+        ingredients.forEach((ing, index) => {
+          let angle = 2 * Math.PI * index / count - Math.PI / 2;
+          nodes.push({
+            id: ing, type: "ingredient", x: 400 + 220 * Math.cos(angle), y: 300 + 220 * Math.sin(angle), connections: []
+          });
+          let compounds = m[ing] || [];
+          compounds.forEach((comp, idx) => {
+            if (!addedMolecules.has(comp)) {
+              let mAngle = angle + (idx - compounds.length / 2) * 0.15, distance = 100 + Math.random() * 80;
+              nodes.push({
+                id: comp, type: "molecule", x: 400 + distance * Math.cos(mAngle), y: 300 + distance * Math.sin(mAngle), connections: []
+              }), addedMolecules.add(comp);
             }
-            header {
-                text-align: center;
-                margin-bottom: 40px;
-                padding: 30px;
-                background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
-                border-radius: 12px;
-                box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-                border: 1px solid #334155;
+            edges.push({
+              source: ing, target: comp, type: "contains"
+            });
+          });
+        });
+        let molecules = [...addedMolecules];
+        for (let i = 0; i < molecules.length; i++) {
+          for (let j = i + 1; j < molecules.length; j++) {
+            let compA = compoundDatabase[molecules[i]], compB = compoundDatabase[molecules[j]];
+            if (compA && compB) {
+              let shared = compA.categories.filter(c => compB.categories.includes(c));
+              if (shared.length >= 3) {
+                edges.push({
+                  source: molecules[i], target: molecules[j], type: "co_occurs"
+                });
+              }
             }
-            h1 {
-                margin: 0;
-                font-size: 2.2em;
-                background: linear-gradient(to right, #38bdf8, #818cf8);
-                -webkit-background-clip: text;
-                -webkit-text-fill-color: transparent;
-            }
-            p.tagline {
-                color: #94a3b8;
-                margin-top: 10px;
-                font-size: 1.1em;
-            }
-            .tabs {
-                display: flex;
-                justify-content: center;
-                margin-bottom: 20px;
-                border-bottom: 2px solid #334155;
-            }
-            .tab-btn {
-                background: none;
-                border: none;
-                color: #94a3b8;
-                padding: 15px 25px;
-                font-size: 1.1em;
-                font-weight: 600;
-                cursor: pointer;
-                transition: 0.3s;
-            }
-            .tab-btn:hover {
-                color: #e2e8f0;
-            }
-            .tab-btn.active {
-                color: #38bdf8;
-                border-bottom: 3px solid #38bdf8;
-            }
-            .tab-content {
-                display: none;
-                background: #1e293b;
-                padding: 25px;
-                border-radius: 12px;
-                box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-                border: 1px solid #334155;
-            }
-            .tab-content.active {
-                display: block;
-            }
-            .grid {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
-                gap: 25px;
-            }
-            @media(max-width: 768px) {
-                .grid {
-                    grid-template-columns: 1fr;
-                }
-            }
-            .card {
-                background: #0f172a;
-                padding: 20px;
-                border-radius: 8px;
-                border: 1px solid #334155;
-            }
-            h3 {
-                color: #38bdf8;
-                margin-top: 0;
-            }
-            .metric {
-                font-size: 2.5em;
-                font-weight: bold;
-                color: #818cf8;
-                margin: 15px 0;
-            }
-            .matrix-table {
-                width: 100%;
-                border-collapse: collapse;
-                margin-top: 15px;
-            }
-            .matrix-table th, .matrix-table td {
-                border: 1px solid #334155;
-                padding: 10px;
-                text-align: center;
-            }
-            .matrix-table th {
-                background: #1e293b;
-                color: #38bdf8;
-            }
-            .matrix-table tr:nth-child(even) {
-                background: #111827;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <header>
-                <h1>MoBai (茉白) FlavorGraph Dashboard</h1>
-                <p class="tagline">Molecular Flavor Analytics & WPI Off-Note Masking Stack System</p>
-            </header>
-            
-            <div class="tabs">
-                <button class="tab-btn active" onclick="openTab(event, 'tab1')">Flavor Validation</button>
-                <button class="tab-btn" onclick="openTab(event, 'tab2')">Masking Stack</button>
-                <button class="tab-btn" onclick="openTab(event, 'tab3')">Variant C Explorer</button>
-                <button class="tab-btn" onclick="openTab(event, 'tab4')">Bitter Classifier</button>
+          }
+        }
+        return { nodes, edges };
+      }
+
+      // --- SIMULATION PIPELINE LOGIC ---
+      function simulateConsumerSignals(inputs) {
+        let complaintLower = inputs.complaint.toLowerCase(), regionMetrics = regionalPriors[inputs.region];
+        let bitterness = clamp(48 + (complaintLower.includes("bitter") ? 24 : 0) + (complaintLower.includes("aftertaste") ? 12 : 0) + (inputs.proteinBase === "plant blend" ? 8 : 0));
+        let chalkiness = clamp(inputs.chalkiness);
+        let sweetness = inputs.sweetness === "low" ? 38 : inputs.sweetness === "creamy" ? 68 : regionMetrics.sweet;
+        let texture = inputs.texture === "light" ? 82 : inputs.texture === "silky" ? 66 : 48;
+        let teaFamiliarity = clamp(regionMetrics.tea + (inputs.teaProfile.includes("tea") ? 6 : 0) + (inputs.flavorDirection === "coconut-milk-tea" ? 4 : 0));
+        let repeatIntent = clamp(100 - bitterness * 0.28 - chalkiness * 0.22 + teaFamiliarity * 0.35 + texture * 0.2);
+        return {
+          bitterness, chalkiness, sweetness, texture, teaFamiliarity, repeatIntent, novelty: regionMetrics.novelty
+        };
+      }
+
+      function generateRecommendation(inputs) {
+        let concept = concepts[inputs.flavorDirection];
+        let pairing = inputs.flavorDirection === "mango-jasmine" ? calculatePairing("mango", "jasmine") : calculatePairing("coconut", "milk_tea");
+        let masking = calculateMaskingScores([...concept.ingredients]);
+        let avgMasking = Object.values(masking).reduce((sum, s) => sum + s, 0) / Object.values(masking).length;
+        let signals = simulateConsumerSignals(inputs);
+        let rawScore = pairing.score * 42 + avgMasking * 0.28 + signals.teaFamiliarity * 0.17 + signals.repeatIntent * 0.13 - inputs.chalkiness * 0.08;
+        let confidence = clamp(rawScore + 7);
+        let strategy = inputs.flavorDirection === "mango-jasmine" 
+          ? "Use floral linalool and benzyl acetate to bridge mango esters with tea aromatics, then apply light acidity to reduce whey heaviness." 
+          : "Use coconut lactones to round protein edges while roasted tea pyrazines create a familiar milk-tea anchor and suppress sulfur perception.";
+        let rationale = `${concept.name} is recommended for ${inputs.region} because it balances ${inputs.teaProfile} familiarity with ${inputs.texture} texture expectations and addresses ${Math.round(signals.chalkiness)}% chalkiness pressure.`;
+        return {
+          concept, pairing, masking, avgMasking, confidence: clamp(confidence), strategy, rationale
+        };
+      }
+
+      // --- REACT COMPONENTS ---
+      function NavBar() {
+        return (
+          <nav className="nav">
+            <a href="#" className="brand">
+              <span className="brand-mark">M</span>
+              <span>MoBai</span>
+            </a>
+            <div>
+              <a href="#studio">Studio</a>
+              <a href="#graph">FlavorGraph</a>
+              <a href="#concepts">Concepts</a>
             </div>
-            
-            <div id="tab1" class="tab-content active">
-                <div class="grid">
-                    <div class="card">
-                        <h3>Variant A: Mango × Jasmine</h3>
-                        <p>Pooled Molecular Cosine Similarity</p>
-                        <div class="metric">0.9998</div>
-                        <p style="color: #34d399; font-weight: bold;">STRONG PAIRING (Shared molecular pathways)</p>
-                        <p style="color: #94a3b8; font-size: 0.95em;">driven by high terpene and ester sharing between floral and exotic fruit volatile receptors.</p>
-                    </div>
-                    <div class="card">
-                        <h3>Variant B: Coconut × Milk Tea</h3>
-                        <p>Pooled Molecular Cosine Similarity</p>
-                        <div class="metric">0.9967</div>
-                        <p style="color: #34d399; font-weight: bold;">STRONG PAIRING (Shared molecular pathways)</p>
-                        <p style="color: #94a3b8; font-size: 0.95em;">driven by strong lactone lipophilic vectors associating with roasted pyrazines and catechins.</p>
-                    </div>
+          </nav>
+        );
+      }
+
+      function SectionHeader({ label, title, description }) {
+        return (
+          <div className="section-header">
+            <p className="eyebrow">{label}</p>
+            <h2>{title}</h2>
+            <p>{description}</p>
+          </div>
+        );
+      }
+
+      function SegmentedControl({ label, value, options, onChange }) {
+        return (
+          <div className="segmented-wrap">
+            <span>{label}</span>
+            <div className="segmented">
+              {options.map(([optVal, optLabel]) => (
+                <button 
+                  key={optVal} 
+                  type="button" 
+                  className={value === optVal ? "active" : ""} 
+                  onClick={() => onChange(optVal)}
+                >
+                  {optLabel}
+                </button>
+              ))}
+            </div>
+          </div>
+        );
+      }
+
+      function InputPanel({ inputs, setInputs }) {
+        const updateInput = (key, val) => {
+          setInputs(prev => ({ ...prev, [key]: val }));
+        };
+        return (
+          <section className="panel input-panel">
+            <div className="panel-title">
+              <span>01</span>
+              <div>
+                <h2>AI consumer insight input</h2>
+                <p>Brief the formulation engine with market, sensory, and protein constraints.</p>
+              </div>
+            </div>
+            <label>
+              Consumer complaint
+              <textarea 
+                value={inputs.complaint} 
+                onChange={e => updateInput("complaint", e.target.value)} 
+              />
+            </label>
+            <div className="form-row">
+              <label>
+                Target region
+                <select 
+                  value={inputs.region} 
+                  onChange={e => updateInput("region", e.target.value)}
+                >
+                  {Object.keys(regionalPriors).map(r => (
+                    <option key={r} value={r}>{r}</option>
+                  ))}
+                </select>
+              </label>
+              <label>
+                Protein source
+                <select 
+                  value={inputs.proteinBase} 
+                  onChange={e => updateInput("proteinBase", e.target.value)}
+                >
+                  <option value="whey isolate">whey isolate</option>
+                  <option value="milk protein">milk protein</option>
+                  <option value="plant blend">plant blend</option>
+                </select>
+              </label>
+            </div>
+            <div className="form-row">
+              <label>
+                Tea profile
+                <select 
+                  value={inputs.teaProfile} 
+                  onChange={e => updateInput("teaProfile", e.target.value)}
+                >
+                  <option value="jasmine tea">jasmine tea</option>
+                  <option value="milk tea">milk tea</option>
+                  <option value="oolong tea">oolong tea</option>
+                  <option value="hojicha tea">hojicha tea</option>
+                  <option value="green tea">green tea</option>
+                </select>
+              </label>
+              <label>
+                Occasion
+                <select 
+                  value={inputs.occasion} 
+                  onChange={e => updateInput("occasion", e.target.value)}
+                >
+                  <option value="weekday morning">weekday morning</option>
+                  <option value="afternoon recharge">afternoon recharge</option>
+                  <option value="post-gym commute">post-gym commute</option>
+                  <option value="late-night study">late-night study</option>
+                </select>
+              </label>
+            </div>
+            <SegmentedControl 
+              label="Flavor direction" 
+              value={inputs.flavorDirection} 
+              options={[["mango-jasmine", "Mango Jasmine"], ["coconut-milk-tea", "Coconut Milk Tea"]]} 
+              onChange={val => updateInput("flavorDirection", val)} 
+            />
+            <SegmentedControl 
+              label="Sweetness" 
+              value={inputs.sweetness} 
+              options={[["low", "Low"], ["balanced", "Balanced"], ["creamy", "Creamy"]]} 
+              onChange={val => updateInput("sweetness", val)} 
+            />
+            <SegmentedControl 
+              label="Texture" 
+              value={inputs.texture} 
+              options={[["light", "Light"], ["silky", "Silky"], ["creamy", "Creamy"]]} 
+              onChange={val => updateInput("texture", val)} 
+            />
+            <label>
+              Chalkiness pressure: {inputs.chalkiness}%
+              <input 
+                type="range" 
+                min="0" 
+                max="100" 
+                value={inputs.chalkiness} 
+                onChange={e => updateInput("chalkiness", Number(e.target.value))} 
+              />
+            </label>
+          </section>
+        );
+      }
+
+      function IntelligencePanel({ signals, inputs }) {
+        const items = [
+          ["Bitterness complaints", signals.bitterness],
+          ["Chalkiness risk", signals.chalkiness],
+          ["Tea familiarity", signals.teaFamiliarity],
+          ["Repeat intent lift", signals.repeatIntent]
+        ];
+        return (
+          <section className="panel">
+            <div className="panel-title">
+              <span>02</span>
+              <div>
+                <h2>Consumer intelligence simulation</h2>
+                <p>Live market signals extracted from complaint text and regional priors.</p>
+              </div>
+            </div>
+            <div className="metric-grid">
+              {items.map(([label, val]) => (
+                <div key={label} className="metric-card">
+                  <span>{label}</span>
+                  <strong>{Math.round(val)}%</strong>
+                  <div className="bar">
+                    <i style={{ width: `${val}%` }}></i>
+                  </div>
                 </div>
+              ))}
             </div>
-            
-            <div id="tab2" class="tab-content">
-                <div class="grid">
-                    <div class="card">
-                        <h3>Off-Note Radar Profile</h3>
-                        <div id="radarChart" style="height: 400px;"></div>
-                    </div>
-                    <div class="card">
-                        <h3>Masking Stack Coverage Score Matrix</h3>
-                        <table class="matrix-table">
-                            <thead>
-                                <tr>
-                                    <th>Off-Note Class</th>
-                                    <th>Lactic</th>
-                                    <th>Terpenes</th>
-                                    <th>Esters</th>
-                                    <th>Tannins</th>
-                                    <th>KGM</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Sulphury</td>
-                                    <td>100.0%</td>
-                                    <td>100.0%</td>
-                                    <td>99.9%</td>
-                                    <td>100.0%</td>
-                                    <td>75.0%</td>
-                                </tr>
-                                <tr>
-                                    <td>Cardboard</td>
-                                    <td>99.7%</td>
-                                    <td>99.6%</td>
-                                    <td>99.6%</td>
-                                    <td>100.0%</td>
-                                    <td>65.0%</td>
-                                </tr>
-                                <tr>
-                                    <td>Soapy</td>
-                                    <td>99.6%</td>
-                                    <td>99.5%</td>
-                                    <td>99.6%</td>
-                                    <td>100.0%</td>
-                                    <td>55.0%</td>
-                                </tr>
-                                <tr>
-                                    <td>Bitter Peptides</td>
-                                    <td>100.0%</td>
-                                    <td>99.9%</td>
-                                    <td>100.0%</td>
-                                    <td>99.9%</td>
-                                    <td>45.0%</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
+            <div className="ai-summary">
+              <span>Generated insight</span>
+              <p>{inputs.region} consumers show high tea-route acceptance. The engine flags chalkiness and protein aftertaste as the main barriers, so it prioritizes aroma-taste masking over heavy sweetness.</p>
+            </div>
+          </section>
+        );
+      }
+
+      function RadarChart({ signals }) {
+        const values = [signals.bitterness, signals.teaFamiliarity, signals.texture, signals.sweetness, signals.novelty];
+        const labels = ["Bitter pain", "Tea fit", "Light texture", "Sweetness fit", "Novelty"];
+        const points = values.map((val, idx) => {
+          const angle = Math.PI * 2 * idx / values.length - Math.PI / 2;
+          const r = val / 100 * 74;
+          return `${95 + Math.cos(angle) * r},${95 + Math.sin(angle) * r}`;
+        }).join(" ");
+
+        return (
+          <div className="radar-wrap">
+            <svg viewBox="0 0 190 190" role="img" aria-label="Sensory radar chart">
+              {[0.35, 0.7, 1.0].map(scale => (
+                <polygon 
+                  key={scale}
+                  points={labels.map((_, idx) => {
+                    const angle = Math.PI * 2 * idx / labels.length - Math.PI / 2;
+                    return `${95 + Math.cos(angle) * 74 * scale},${95 + Math.sin(angle) * 74 * scale}`;
+                  }).join(" ")}
+                  className="radar-ring"
+                />
+              ))}
+              <polygon points={points} className="radar-fill" />
+              {labels.map((label, idx) => {
+                const angle = Math.PI * 2 * idx / labels.length - Math.PI / 2;
+                return (
+                  <text 
+                    key={label}
+                    x={95 + Math.cos(angle) * 88} 
+                    y={95 + Math.sin(angle) * 88} 
+                    textAnchor="middle"
+                  >
+                    {label}
+                  </text>
+                );
+              })}
+            </svg>
+          </div>
+        );
+      }
+
+      function SentimentPanel({ signals }) {
+        return (
+          <section className="panel">
+            <div className="panel-title compact">
+              <span>03</span>
+              <div>
+                <h2>Sentiment clusters</h2>
+                <p>Simulated cluster extraction from consumer complaint and preference data.</p>
+              </div>
+            </div>
+            <div className="cluster-map">
+              {sentimentClusters.map(c => (
+                <div 
+                  key={c.name} 
+                  className="cluster-bubble" 
+                  style={{
+                    left: `${c.x}%`,
+                    top: `${c.y}%`,
+                    width: c.size,
+                    height: c.size,
+                    background: c.color
+                  }}
+                >
+                  <span>{c.name}</span>
                 </div>
+              ))}
             </div>
-            
-            <div id="tab3" class="tab-content">
-                <div class="grid">
-                    <div class="card">
-                        <h3>Variant C Screening Candidates (Top 5)</h3>
-                        <div id="barChart" style="height: 400px;"></div>
-                    </div>
-                    <div class="card">
-                        <h3>Best Pick: Osmanthus (桂花)</h3>
-                        <p>Centroid Similarity: <strong>100.0%</strong></p>
-                        <p>WPI Off-Note Masking: <strong>99.8%</strong></p>
-                        <p>Molecular Novelty: <strong>0.0%</strong></p>
-                        <hr style="border: 0; border-top: 1px solid #334155; margin: 15px 0;">
-                        <p><strong>Rationale:</strong> Osmanthus shares rich volatile ketones (beta-ionone) and lactones (gamma-decalactone) that construct a perfect aromatic bridge between mango's tropical top notes, jasmine's floral body, and oolong's roasted pyrazines, while competing heavily against soapy off-note lipid receptor binding channels.</p>
-                    </div>
+            <RadarChart signals={signals} />
+          </section>
+        );
+      }
+
+      function RecommendationPanel({ recommendation, inputs, simulationRun }) {
+        return (
+          <section className="panel recommendation-card" id="recommendation">
+            <div className="panel-title compact">
+              <span>04</span>
+              <div>
+                <h2>AI-generated recommendation</h2>
+                <p>Concept selection, mechanism explanation, and beverage brief.</p>
+              </div>
+            </div>
+            <div className="recommendation-hero">
+              <span>{recommendation.concept.badge}</span>
+              <h3>{recommendation.concept.name}</h3>
+              <strong>{Math.round(recommendation.confidence)}% AI confidence</strong>
+            </div>
+            <div className="simulation-status" key={simulationRun}>
+              <span>Simulation run #{simulationRun}</span>
+              <strong>{recommendation.concept.name} formulation pipeline completed</strong>
+            </div>
+            <p className="recommendation-rationale">{recommendation.rationale}</p>
+            <div className="explain-grid">
+              <div>
+                <span>Masking strategy</span>
+                <p>{recommendation.strategy}</p>
+              </div>
+              <div>
+                <span>Sensory direction</span>
+                <p>{inputs.sweetness} sweetness, {inputs.texture} body, {inputs.teaProfile} familiarity.</p>
+              </div>
+            </div>
+          </section>
+        );
+      }
+
+      function FlavorGraph({ graph, activeNode, setActiveNode }) {
+        return (
+          <section className="panel graph-panel">
+            <svg viewBox="0 0 800 600" role="img" aria-label="Interactive molecular flavor graph">
+              {graph.edges.map((edge, idx) => {
+                const src = graph.nodes.find(n => n.id === edge.source);
+                const tgt = graph.nodes.find(n => n.id === edge.target);
+                if (!src || !tgt) return null;
+                return (
+                  <line 
+                    key={`${edge.source}-${edge.target}-${idx}`}
+                    x1={src.x} 
+                    y1={src.y} 
+                    x2={tgt.x} 
+                    y2={tgt.y} 
+                    className={edge.type === "co_occurs" ? "edge co" : "edge"}
+                  />
+                );
+              })}
+              {graph.nodes.map(node => {
+                const isIng = node.type === "ingredient";
+                const fill = ingredientColors[node.id]?.color || 
+                  (compoundDatabase[node.id]?.categories.includes("masking") ? "#88bfa1" : "#d5c5a1");
+                return (
+                  <g 
+                    key={node.id} 
+                    className={`graph-node ${activeNode === node.id ? "active" : ""}`}
+                    onClick={() => setActiveNode(node.id)}
+                    tabIndex={0}
+                    role="button"
+                    aria-label={`Inspect ${node.id}`}
+                  >
+                    <circle cx={node.x} cy={node.y} r={isIng ? 34 : 16} fill={fill} />
+                    <text 
+                      className={isIng ? "ingredient-label" : "molecule-label"} 
+                      x={node.x} 
+                      y={node.y + (isIng ? 54 : 32)} 
+                      textAnchor="middle"
+                    >
+                      {isIng ? formatName(node.id) : node.id.split(" ")[0]}
+                    </text>
+                  </g>
+                );
+              })}
+            </svg>
+          </section>
+        );
+      }
+
+      function NodeInspector({ nodeId, inputs }) {
+        const comp = compoundDatabase[nodeId];
+        const ingCompounds = m[nodeId];
+        const activeIngredients = getIngredientsList(inputs.flavorDirection);
+        const pairings = comp 
+          ? [calculatePairing(activeIngredients[0], activeIngredients[1])] 
+          : activeIngredients.filter(t => t !== nodeId).map(t => {
+              const baseIng = (nodeId in f) ? nodeId : activeIngredients[0];
+              return calculatePairing(baseIng, t);
+            }).slice(0, 2);
+
+        return (
+          <aside className="panel inspector">
+            <p className="eyebrow">Node inspector</p>
+            <h3>{formatName(nodeId)}</h3>
+            {comp ? (
+              <React.Fragment>
+                <div className="compound-grid">
+                  <span>Formula<strong>{comp.formula}</strong></span>
+                  <span>MW<strong>{comp.weight} Da</strong></span>
+                  <span>XLogP<strong>{comp.xlogp}</strong></span>
+                  <span>TPSA<strong>{comp.tpsa}</strong></span>
                 </div>
-            </div>
-            
-            <div id="tab4" class="tab-content">
-                <div class="grid">
-                    <div class="card">
-                        <h3>Bitter Taste Risk Scatter Map</h3>
-                        <div id="scatterChart" style="height: 400px;"></div>
-                    </div>
-                    <div class="card">
-                        <h3>High-Risk Tastants Flagged</h3>
-                        <p>The following compounds require masking coverage by sweet vanilloid modifiers or salt modifiers:</p>
-                        <ul style="line-height: 1.8; color: #f87171;">
-                            <li><strong>Theaflavin</strong> (Milk tea phenolic tannin)</li>
-                            <li><strong>Caffeine</strong> (Purine alkaloid)</li>
-                            <li><strong>Leucine & Phenylalanine</strong> (Hydrophobic amino acids)</li>
-                        </ul>
-                    </div>
+                <div className="tag-row">
+                  {comp.categories.slice(0, 7).map(cat => (
+                    <span key={cat}>{cat}</span>
+                  ))}
                 </div>
+                <p>Simulated ECFP4 fingerprint checks classify this node as a {comp.categories.includes("masking") ? "masking-active" : "sensory-active"} volatile with receptor-level contribution to the beverage profile.</p>
+              </React.Fragment>
+            ) : (
+              <React.Fragment>
+                <p>{ingredientColors[nodeId]?.description || "Ingredient territory connected to MoBai formulation graph."}</p>
+                <div className="tag-row">
+                  {(ingCompounds || []).slice(0, 6).map(c => (
+                    <span key={c}>{c}</span>
+                  ))}
+                </div>
+              </React.Fragment>
+            )}
+            <div className="relationship-list">
+              {pairings.map(p => (
+                <div key={`${p.ingredient1}-${p.ingredient2}`}>
+                  <span>{formatName(p.ingredient1)} to {formatName(p.ingredient2)}</span>
+                  <strong>{Math.round(p.score * 100)}%</strong>
+                </div>
+              ))}
             </div>
-        </div>
+          </aside>
+        );
+      }
+
+      function MaskingPanel({ maskingResults, recommendation }) {
+        return (
+          <section className="panel">
+            <div className="panel-title compact">
+              <span>05</span>
+              <div>
+                <h2>Flavor masking recommendation</h2>
+                <p>Mechanism stack for bitterness, whey notes, sulfur, and chalkiness.</p>
+              </div>
+            </div>
+            <div className="masking-stack">
+              {maskingResults.map(res => (
+                <div key={res.offNoteClass} className="masking-row">
+                  <div>
+                    <span>{res.offNoteClass}</span>
+                    <p>{res.recommendation}</p>
+                  </div>
+                  <strong>{Math.round(res.overallCoverage)}%</strong>
+                </div>
+              ))}
+            </div>
+            <div className="mechanism-box">
+              <span>Selected concept coverage</span>
+              {Object.entries(recommendation.masking).map(([key, val]) => (
+                <div key={key} className="mini-bar">
+                  <em>{key}</em>
+                  <i>
+                    <b style={{ width: `${val}%` }}></b>
+                  </i>
+                  <strong>{Math.round(val)}%</strong>
+                </div>
+              ))}
+            </div>
+          </section>
+        );
+      }
+
+      function ValidationPanel({ confidence, signals }) {
+        const iterations = [
+          ["Prototype A", 64, "Too chalky; aroma top-note weak"],
+          ["Prototype B", 76, "Improved tea bridge; aftertaste remains"],
+          ["Prototype C", Math.round(confidence), "Panel-ready sensory balance"]
+        ];
+        const sensoryKPIs = [
+          ["Aroma acceptance", confidence],
+          ["Texture acceptance", clamp(100 - signals.chalkiness * 0.24 + signals.texture * 0.42)],
+          ["Aftertaste control", clamp(confidence - signals.bitterness * 0.12)],
+          ["Repeat purchase fit", signals.repeatIntent]
+        ];
+
+        return (
+          <section className="panel">
+            <div className="panel-title compact">
+              <span>06</span>
+              <div>
+                <h2>Human-in-the-loop validation</h2>
+                <p>Sensory panel simulation with iterative reformulation scoring.</p>
+              </div>
+            </div>
+            <div className="iteration-list">
+              {iterations.map(([proto, score, comment]) => (
+                <div key={proto}>
+                  <span>{proto}</span>
+                  <strong>{score}</strong>
+                  <p>{comment}</p>
+                </div>
+              ))}
+            </div>
+            <div className="sensory-list">
+              {sensoryKPIs.map(([label, val]) => (
+                <div key={label} className="mini-bar">
+                  <em>{label}</em>
+                  <i>
+                    <b style={{ width: `${val}%` }}></b>
+                  </i>
+                  <strong>{Math.round(val)}%</strong>
+                </div>
+              ))}
+            </div>
+          </section>
+        );
+      }
+
+      function ProductCard({ productKey, active, onSimulate }) {
+        const prod = concepts[productKey];
+        const pairing = productKey === "mango-jasmine" ? calculatePairing("mango", "jasmine") : calculatePairing("coconut", "milk_tea");
+        const avgBitter = bitterCompounds.slice(0, 4).reduce((sum, c) => sum + c.probability, 0) / 4;
+        return (
+          <article className={`product-card ${active ? "active" : ""}`}>
+            <div className="can-visual" style={{ borderColor: prod.color }}>
+              <span>MoBai</span>
+              <strong>{prod.name}</strong>
+              <small>{prod.protein} protein</small>
+            </div>
+            <div className="product-content">
+              <span>{prod.badge}</span>
+              <h3>{prod.name}</h3>
+              <p>{prod.positioning}</p>
+              <div className="note-list">
+                {prod.notes.map(note => (
+                  <em key={note}>{note}</em>
+                ))}
+              </div>
+              <div className="product-specs">
+                <span>Sweetness<strong>{prod.sweetness}</strong></span>
+                <span>Texture<strong>{prod.texture}</strong></span>
+                <span>Compatibility<strong>{Math.round(pairing.score * 100)}%</strong></span>
+                <span>Bitter risk suppressed<strong>{Math.round((1 - avgBitter * 0.42) * 100)}%</strong></span>
+              </div>
+              <button type="button" onClick={() => onSimulate(productKey)}>
+                {active ? "Re-simulate concept" : "Simulate this concept"}
+              </button>
+            </div>
+          </article>
+        );
+      }
+
+      function SimulationOutput({ inputs, recommendation, simulationRun }) {
+        const currentIngredients = getIngredientsList(inputs.flavorDirection);
+        const steps = [
+          ["Consumer signal parsed", `${Math.round(simulateConsumerSignals(inputs).chalkiness)}% chalkiness pressure`],
+          ["Molecular graph rebuilt", currentIngredients.map(formatName).join(" + ")],
+          ["Masking model scored", `${Math.round(recommendation.avgMasking)}% off-note coverage`],
+          ["Concept recommendation generated", `${Math.round(recommendation.confidence)}% AI confidence`]
+        ];
+
+        return (
+          <aside className={`simulation-output ${simulationRun > 0 ? "complete" : ""}`} id="simulation-output">
+            <div>
+              <p className="eyebrow">Latest simulation output</p>
+              <h3>
+                {simulationRun > 0 
+                  ? `${recommendation.concept.name} simulation completed` 
+                  : "Choose a concept to run the formulation simulation"}
+              </h3>
+              <p>
+                {simulationRun > 0 
+                  ? recommendation.rationale 
+                  : "Click a product concept above to run the MoBai mock AI pipeline and generate a refreshed formulation readout."}
+              </p>
+            </div>
+            <div className="pipeline-steps">
+              {steps.map(([label, detail], idx) => (
+                <div key={label} className={simulationRun > 0 ? "done" : ""}>
+                  <span>{String(idx + 1).padStart(2, "0")}</span>
+                  <strong>{label}</strong>
+                  <em>{detail}</em>
+                </div>
+              ))}
+            </div>
+            <div className="simulation-kpis">
+              <span>Run<strong>{simulationRun > 0 ? `#${simulationRun}` : "-"}</strong></span>
+              <span>Concept<strong>{recommendation.concept.name}</strong></span>
+              <span>Texture<strong>{inputs.texture}</strong></span>
+              <span>Tea route<strong>{inputs.teaProfile}</strong></span>
+            </div>
+          </aside>
+        );
+      }
+
+      // --- MAIN APPLICATION COMPONENT ---
+      function App() {
+        const [inputs, setInputs] = React.useState(initialInputs);
+        const [activeNode, setActiveNode] = React.useState("linalool");
+        const [simulationRun, setSimulationRun] = React.useState(0);
+
+        const signals = React.useMemo(() => simulateConsumerSignals(inputs), [inputs]);
+        const recommendation = React.useMemo(() => generateRecommendation(inputs), [inputs]);
+        const graph = React.useMemo(() => buildGraph(getIngredientsList(inputs.flavorDirection)), [inputs.flavorDirection]);
+        const maskingResults = React.useMemo(() => calculateOffNoteCoverage(), []);
         
-        <script>
-            function openTab(evt, tabId) {
-                var i, tabcontent, tablinks;
-                tabcontent = document.getElementsByClassName("tab-content");
-                for (i = 0; i < tabcontent.length; i++) {
-                    tabcontent[i].classList.remove("active");
-                }
-                tablinks = document.getElementsByClassName("tab-btn");
-                for (i = 0; i < tablinks.length; i++) {
-                    tablinks[i].classList.remove("active");
-                }
-                document.getElementById(tabId).classList.add("active");
-                evt.currentTarget.classList.add("active");
-                
-                // Trigger chart resizing for newly displayed tabs
-                window.dispatchEvent(new Event('resize'));
-            }
-            
-            // RADAR CHART
-            var radarData = [
-                {
-                    type: 'scatterpolar',
-                    r: [93.71259585022926, 90.97681105136871, 88.40077638626099, 86.19921535253525],
-                    theta: ['Sulphury Volatiles', 'Carbonyl/Aldehydes', 'Soapy Fatty Acids', 'Bitter Peptides'],
-                    fill: 'toself',
-                    name: 'Variant A: Mango × Jasmine',
-                    line: { color: '#1F77B4' }
-                },
-                {
-                    type: 'scatterpolar',
-                    r: [91.64452155431111, 88.21370681126912, 84.84191523657906, 81.61978483200073],
-                    theta: ['Sulphury Volatiles', 'Carbonyl/Aldehydes', 'Soapy Fatty Acids', 'Bitter Peptides'],
-                    fill: 'toself',
-                    name: 'Variant B: Coconut × Milk Tea',
-                    line: { color: '#FF7F0E' }
-                }
-            ];
-            
-            var radarLayout = {
-                polar: {
-                    radialaxis: { visible: true, range: [0, 100] },
-                    bgcolor: '#0f172a'
-                },
-                paper_bgcolor: 'rgba(0,0,0,0)',
-                plot_bgcolor: 'rgba(0,0,0,0)',
-                font: { color: '#e2e8f0' },
-                showlegend: true,
-                margin: { t: 30, b: 30, l: 30, r: 30 }
-            };
-            Plotly.newPlot('radarChart', radarData, radarLayout);
-            
-            // BAR CHART
-            var barData = [{
-                y: ['Passionfruit', 'Osmanthus', 'Ginger', 'Taro', 'Lychee'],
-                x: [0.7993110524283515, 0.7990086595217387, 0.7989648832215204, 0.7988881985346475, 0.7986714363098146],
-                type: 'bar',
-                orientation: 'h',
-                marker: {
-                    color: ['#2E7D32', '#2E7D32', '#FBC02D', '#FBC02D', '#FBC02D']
-                }
-            }];
-            var barLayout = {
-                paper_bgcolor: 'rgba(0,0,0,0)',
-                plot_bgcolor: '#0f172a',
-                font: { color: '#e2e8f0' },
-                xaxis: { title: 'Composite Score', gridcolor: '#334155' },
-                yaxis: { autorange: 'reversed' },
-                margin: { t: 30, b: 40, l: 120, r: 30 }
-            };
-            Plotly.newPlot('barChart', barData, barLayout);
-            
-            // SCATTER CHART
-            var scatterData = [{
-                x: [204.23, 154.25, 154.25, 170.25, 272.25, 131.17, 142.24, 164.24, 165.19, 136.24, 144.21, 150.17, 136.24, 117.15, 200.32, 62.13, 126.11, 218.33, 94.2, 156.22, 172.26, 90.08, 342.3, 180.16, 130.18, 192.12, 324.4, 94.11, 114.19, 111.14, 212.24, 106.12, 144.21, 80.09, 120.15, 136.24, 86.09, 131.17, 116.16, 88.11, 192.3, 136.24, 294.39, 136.24, 564.5, 114.19, 134.09, 224.3, 88.11, 116.16, 1135.0, 128.13, 100.16, 172.26, 152.15, 156.27, 144.21, 114.19, 60.05, 136.24, 290.27, 455.7, 200.32, 142.2, 44.05, 152.23, 194.19, 470.5, 117.15, 170.25, 154.25, 152.23, 122.16, 88.11, 204.35, 166.17, 136.24, 154.25, 58.44],
-                y: [0.918, 0.216, 0.124, 0.13, 0.694, 0.894, 0.152, 0.284, 0.894, 0.408, 0.286, 0.14, 0.242, 0.88, 0.286, 0.176, 0.156, 0.358, 0.178, 0.166, 0.286, 0.576, 0.056, 0.09, 0.314, 0.32, 0.774, 0.256, 0.152, 0.29, 0.262, 0.272, 0.286, 0.26, 0.296, 0.198, 0.216, 0.912, 0.166, 0.43, 0.202, 0.174, 0.328, 0.248, 0.662, 0.208, 0.5, 0.2, 0.066, 0.166, 0.612, 0.21, 0.152, 0.286, 0.116, 0.34, 0.132, 0.456, 0.288, 0.212, 0.402, 0.36, 0.286, 0.166, 0.106, 0.112, 0.7, 0.848, 0.324, 0.13, 0.07, 0.262, 0.322, 0.318, 0.17, 0.204, 0.408, 0.204, 0.192],
-                mode: 'markers',
-                text: ['Tryptophan (MW: 204.2, Bitter Prob: 0.92)', 'Borneol (MW: 154.2, Bitter Prob: 0.22)', 'Geraniol (MW: 154.2, Bitter Prob: 0.12)', 'Gamma-Decalactone (MW: 170.2, Bitter Prob: 0.13)', 'Naringenin (MW: 272.2, Bitter Prob: 0.69)', 'Isoleucine (MW: 131.2, Bitter Prob: 0.89)', 'Nonanal (MW: 142.2, Bitter Prob: 0.15)', 'Cis-Jasmone (MW: 164.2, Bitter Prob: 0.28)', 'Phenylalanine (MW: 165.2, Bitter Prob: 0.89)', 'Alpha-Phellandrene (MW: 136.2, Bitter Prob: 0.41)', 'Caprylic Acid (MW: 144.2, Bitter Prob: 0.29)', 'Benzyl Acetate (MW: 150.2, Bitter Prob: 0.14)', 'Limonene (MW: 136.2, Bitter Prob: 0.24)', 'Valine (MW: 117.2, Bitter Prob: 0.88)', 'Dodecanoic Acid (MW: 200.3, Bitter Prob: 0.29)', 'Dimethyl Sulfide (MW: 62.1, Bitter Prob: 0.18)', 'Maltol (MW: 126.1, Bitter Prob: 0.16)', 'Turmerone (MW: 218.3, Bitter Prob: 0.36)', 'Dimethyl Disulfide (MW: 94.2, Bitter Prob: 0.18)', 'Gamma-Nonalactone (MW: 156.2, Bitter Prob: 0.17)', 'Capric Acid (MW: 172.3, Bitter Prob: 0.29)', 'Lactic Acid (MW: 90.1, Bitter Prob: 0.58)', 'Sucrose (MW: 342.3, Bitter Prob: 0.06)', 'Glucose (MW: 180.2, Bitter Prob: 0.09)', 'Isoamyl Acetate (MW: 130.2, Bitter Prob: 0.31)', 'Citric Acid (MW: 192.1, Bitter Prob: 0.32)', 'Quinine (MW: 324.4, Bitter Prob: 0.77)', '2-Methylpyrazine (MW: 94.1, Bitter Prob: 0.26)', 'Heptanal (MW: 114.2, Bitter Prob: 0.15)', '2-Acetyl-1-Pyrroline (MW: 111.1, Bitter Prob: 0.29)', 'Benzyl Benzoate (MW: 212.2, Bitter Prob: 0.26)', 'Benzaldehyde (MW: 106.1, Bitter Prob: 0.27)', 'Octanoic Acid (MW: 144.2, Bitter Prob: 0.29)', 'Pyrazine (MW: 80.1, Bitter Prob: 0.26)', 'Phenylacetaldehyde (MW: 120.2, Bitter Prob: 0.30)', 'Alpha-Terpinolene (MW: 136.2, Bitter Prob: 0.20)', 'Diacetyl (MW: 86.1, Bitter Prob: 0.22)', 'Leucine (MW: 131.2, Bitter Prob: 0.91)', 'Ethyl Butanoate (MW: 116.2, Bitter Prob: 0.17)', 'Acetoin (MW: 88.1, Bitter Prob: 0.43)', 'Beta-Ionone (MW: 192.3, Bitter Prob: 0.20)', 'Beta-Myrcene (MW: 136.2, Bitter Prob: 0.17)', 'Gingerol (MW: 294.4, Bitter Prob: 0.33)', '3-Carene (MW: 136.2, Bitter Prob: 0.25)', 'Theaflavin (MW: 564.5, Bitter Prob: 0.66)', '2-Heptanone (MW: 114.2, Bitter Prob: 0.21)', 'Malic Acid (MW: 134.1, Bitter Prob: 0.50)', 'Methyl Jasmonate (MW: 224.3, Bitter Prob: 0.20)', 'Ethyl Acetate (MW: 88.1, Bitter Prob: 0.07)', 'Ethyl Butyrate (MW: 116.2, Bitter Prob: 0.17)', 'Cyclodextrin (MW: 1135.0, Bitter Prob: 0.61)', '4-Hydroxy-2,5-Dimethyl-3(2H)-Furanone (MW: 128.1, Bitter Prob: 0.21)', 'Hexanal (MW: 100.2, Bitter Prob: 0.15)', 'Decanoic Acid (MW: 172.3, Bitter Prob: 0.29)', 'Vanillin (MW: 152.2, Bitter Prob: 0.12)', 'Citronellol (MW: 156.3, Bitter Prob: 0.34)', 'Ethyl Hexanoate (MW: 144.2, Bitter Prob: 0.13)', 'Methylheptanone (MW: 114.2, Bitter Prob: 0.46)', 'Acetic Acid (MW: 60.0, Bitter Prob: 0.29)', 'Alpha-Pinene (MW: 136.2, Bitter Prob: 0.21)', 'Catechin (MW: 290.3, Bitter Prob: 0.40)', 'Zinc Gluconate (MW: 455.7, Bitter Prob: 0.36)', 'Lauric Acid (MW: 200.3, Bitter Prob: 0.29)', 'Delta-Octalactone (MW: 142.2, Bitter Prob: 0.17)', 'Acetaldehyde (MW: 44.0, Bitter Prob: 0.11)', 'Citral (MW: 152.2, Bitter Prob: 0.11)', 'Caffeine (MW: 194.2, Bitter Prob: 0.70)', 'Limonin (MW: 470.5, Bitter Prob: 0.85)', 'Indole (MW: 117.2, Bitter Prob: 0.32)', 'Delta-Decalactone (MW: 170.2, Bitter Prob: 0.13)', 'Linalool (MW: 154.2, Bitter Prob: 0.07)', 'Camphor (MW: 152.2, Bitter Prob: 0.26)', 'Phenylethyl Alcohol (MW: 122.2, Bitter Prob: 0.32)', 'Butyric Acid (MW: 88.1, Bitter Prob: 0.32)', 'Alpha-Farnesene (MW: 204.3, Bitter Prob: 0.17)', 'Ethyl Vanillin (MW: 166.2, Bitter Prob: 0.20)', 'Gamma-Terpinene (MW: 136.2, Bitter Prob: 0.41)', 'Alpha-Terpineol (MW: 154.2, Bitter Prob: 0.20)', 'Sodium Chloride (MW: 58.4, Bitter Prob: 0.19)'],
-                marker: {
-                    size: 10,
-                    color: ['#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#D32F2F', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#D32F2F', '#D32F2F', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32', '#2E7D32']
-                }
-            }];
-            var scatterLayout = {
-                paper_bgcolor: 'rgba(0,0,0,0)',
-                plot_bgcolor: '#0f172a',
-                font: { color: '#e2e8f0' },
-                xaxis: { title: 'Molecular Weight (g/mol)', gridcolor: '#334155' },
-                yaxis: { title: 'Bitter Taste Probability', gridcolor: '#334155', range: [0, 1] },
-                margin: { t: 30, b: 40, l: 60, r: 30 }
-            };
-            Plotly.newPlot('scatterChart', scatterData, scatterLayout);
-        </script>
-    </body>
-    </html>
+        const adjacentVariants = React.useMemo(() => {
+          return adjacentVariantsList.slice(0, 5).map(v => calculateAdjacentTerritory(v.ingredient)).filter(Boolean);
+        }, []);
+
+        const onSimulate = (direction) => {
+          setInputs(prev => ({
+            ...prev,
+            flavorDirection: direction,
+            teaProfile: direction === "mango-jasmine" ? "jasmine tea" : "milk tea",
+            sweetness: direction === "mango-jasmine" ? "balanced" : "creamy",
+            texture: direction === "mango-jasmine" ? "light" : "silky",
+            occasion: direction === "mango-jasmine" ? "weekday morning" : "afternoon recharge"
+          }));
+          setActiveNode(direction === "mango-jasmine" ? "linalool" : "delta-decalactone");
+          setSimulationRun(prev => prev + 1);
+          window.setTimeout(() => {
+            const el = document.getElementById("simulation-output");
+            if (el) el.scrollIntoView({ behavior: "smooth" });
+          }, 80);
+        };
+
+        return (
+          <React.Fragment>
+            <NavBar />
+            <section className="hero-section">
+              <div className="hero-copy">
+                <p className="eyebrow">MoBai AI Formulation Studio</p>
+                <h1>High-protein RTD beverages, formulated with flavor intelligence.</h1>
+                <p>A proof-of-concept R&D dashboard that turns consumer complaints, regional preferences, volatile compound logic, and masking rules into believable beverage recommendations.</p>
+                <div className="hero-actions">
+                  <a href="#studio" className="primary-button">Run AI pipeline</a>
+                  <a href="#graph" className="secondary-button">Inspect flavor graph</a>
+                </div>
+              </div>
+              <div className="hero-visual" aria-label="MoBai AI dashboard preview">
+                <div className="hero-panel">
+                  <span>Compatibility</span>
+                  <strong>{Math.round(recommendation.pairing.score * 100)}%</strong>
+                  <small>{recommendation.pairing.validation}</small>
+                </div>
+                <div className="mini-network">
+                  {["Mango", "Jasmine", "Tea", "Whey", "Masking"].map((name, i) => (
+                    <div key={name} className={`network-node n${i}`}>{name}</div>
+                  ))}
+                </div>
+              </div>
+            </section>
+
+            <section className="studio-grid" id="studio">
+              <InputPanel inputs={inputs} setInputs={setInputs} />
+              <IntelligencePanel signals={signals} inputs={inputs} />
+            </section>
+
+            <section className="section two-column">
+              <SentimentPanel signals={signals} />
+              <RecommendationPanel recommendation={recommendation} inputs={inputs} simulationRun={simulationRun} />
+            </section>
+
+            <section className="section" id="graph">
+              <SectionHeader 
+                label="Molecular compatibility engine" 
+                title="Interactive FlavorGraph" 
+                description="A simplified Morgan fingerprint and Tanimoto-style similarity simulation using volatile compounds, shared categories, and masking relationships." 
+              />
+              <div className="graph-layout">
+                <FlavorGraph graph={graph} activeNode={activeNode} setActiveNode={setActiveNode} />
+                <NodeInspector nodeId={activeNode} inputs={inputs} />
+              </div>
+            </section>
+
+            <section className="section two-column">
+              <MaskingPanel maskingResults={maskingResults} recommendation={recommendation} />
+              <ValidationPanel confidence={recommendation.confidence} signals={signals} />
+            </section>
+
+            <section className="section" id="concepts">
+              <SectionHeader 
+                label="Concept showcase" 
+                title="Final FMCG product concepts" 
+                description="Two hero RTD concepts designed for lighter, tea-inspired, high-protein nutrition in Asia." 
+              />
+              <div className="product-grid">
+                {Object.keys(concepts).map(key => (
+                  <ProductCard 
+                    key={key} 
+                    productKey={key} 
+                    active={inputs.flavorDirection === key} 
+                    onSimulate={onSimulate} 
+                  />
+                ))}
+              </div>
+              <SimulationOutput inputs={inputs} recommendation={recommendation} simulationRun={simulationRun} />
+            </section>
+
+            <section className="section">
+              <SectionHeader 
+                label="White-space extensions" 
+                title="AI-suggested adjacent flavor territories" 
+                description="Candidate concepts scored against the MoBai molecular centroid and protein off-note masking model." 
+              />
+              <div className="variant-grid">
+                {adjacentVariants.map(v => v && (
+                  <div key={v.ingredient} className="variant-card">
+                    <span>{formatName(v.ingredient)}</span>
+                    <strong>{Math.round(v.compositeScore * 100)}%</strong>
+                    <p>{v.compounds.slice(0, 3).join(", ")}</p>
+                  </div>
+                ))}
+              </div>
+            </section>
+          </React.Fragment>
+        );
+      }
+
+      const root = ReactDOM.createRoot(document.getElementById("root"));
+      root.render(
+        <React.StrictMode>
+          <App />
+        </React.StrictMode>
+      );
+    </script>
+  </body>
+</html>
+
     
